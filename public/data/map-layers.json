@@ -1,0 +1,112 @@
+[
+  {
+    "id": "pin-1",
+    "name": "Bhadla Solar Park",
+    "type": "Solar",
+    "capacity": "2,245 MW",
+    "region": "India",
+    "lat": 27.5383,
+    "lng": 71.9168,
+    "status": "Operational",
+    "description": "World's largest solar park located in Jodhpur district, Rajasthan."
+  },
+  {
+    "id": "pin-2",
+    "name": "Pavagada Solar Park",
+    "type": "Solar",
+    "capacity": "2,050 MW",
+    "region": "India",
+    "lat": 14.2691,
+    "lng": 77.4475,
+    "status": "Operational",
+    "description": "Massive solar field in Karnataka, spread across 13,000 acres."
+  },
+  {
+    "id": "pin-3",
+    "name": "Koodankulam Nuclear Plant",
+    "type": "Nuclear",
+    "capacity": "2,000 MW",
+    "region": "India",
+    "lat": 8.1672,
+    "lng": 77.7122,
+    "status": "Active",
+    "description": "Highest capacity nuclear plant in India, built in collaboration with Russia."
+  },
+  {
+    "id": "pin-4",
+    "name": "Tehri Hydro Dam",
+    "type": "Hydro",
+    "capacity": "2,400 MW",
+    "region": "India",
+    "lat": 30.3789,
+    "lng": 78.4803,
+    "status": "Operational",
+    "description": "Tallest dam in India, supplying power to Uttar Pradesh and Uttarakhand."
+  },
+  {
+    "id": "pin-5",
+    "name": "Koppal Wind Project",
+    "type": "Wind",
+    "capacity": "275 MW",
+    "region": "India",
+    "lat": 15.3475,
+    "lng": 76.1558,
+    "status": "Active",
+    "description": "Major green power expansion project in Karnataka grid corridor."
+  },
+  {
+    "id": "pin-6",
+    "name": "Ivanpah Solar Facility",
+    "type": "Solar",
+    "capacity": "392 MW",
+    "region": "US",
+    "lat": 35.5567,
+    "lng": -115.4667,
+    "status": "Operational",
+    "description": "Concentrated solar thermal plant in California's Mojave Desert."
+  },
+  {
+    "id": "pin-7",
+    "name": "Vogtle Nuclear Plant",
+    "type": "Nuclear",
+    "capacity": "4,536 MW",
+    "region": "US",
+    "lat": 33.1425,
+    "lng": -81.7611,
+    "status": "Active",
+    "description": "Largest nuclear power facility in the US, recently expanded (Georgia)."
+  },
+  {
+    "id": "pin-8",
+    "name": "Grand Coulee Dam",
+    "type": "Hydro",
+    "capacity": "6,809 MW",
+    "region": "US",
+    "lat": 47.9572,
+    "lng": -118.9817,
+    "status": "Operational",
+    "description": "Largest electric generation facility in the US, located in Washington State."
+  },
+  {
+    "id": "pin-9",
+    "name": "Three Gorges Dam",
+    "type": "Hydro",
+    "capacity": "22,500 MW",
+    "region": "Globe",
+    "lat": 30.8272,
+    "lng": 111.0014,
+    "status": "Active",
+    "description": "World's largest power station by installed capacity (China)."
+  },
+  {
+    "id": "pin-10",
+    "name": "Hornsdale Power Reserve",
+    "type": "Battery",
+    "capacity": "150 MW",
+    "region": "Globe",
+    "lat": -33.0847,
+    "lng": 138.6017,
+    "status": "Active",
+    "description": "Grid-scale battery storage system built by Tesla in South Australia."
+  }
+]

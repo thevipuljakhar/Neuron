@@ -1,0 +1,42 @@
+name: Scrape Energy Data
+
+on:
+  schedule:
+    # Run every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Needed to push commits back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Run Scrapers and Compile Data
+        run: node scripts/compile.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/data/
+          # Check if there are changes to commit
+          if git diff --cached --quiet; then
+            echo "No changes in compiled telemetry to commit."
+          else
+            git commit -m "Auto-update energy intelligence telemetry [skip ci]"
+            git push origin main
+          fi
