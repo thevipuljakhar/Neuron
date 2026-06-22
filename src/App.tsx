@@ -1,13 +1,14 @@
 import { useState, useEffect } from 'react';
-import { Sun, Moon, Globe, Zap } from 'lucide-react';
+import { Sun, Moon, Globe, Zap, Brain } from 'lucide-react';
 import { EnergyMap } from './components/EnergyMap';
 import { LiveNews } from './components/LiveNews';
 import { GridStatus } from './components/GridStatus';
 import { EnergyMix } from './components/EnergyMix';
 import { RenewablesTracker } from './components/RenewablesTracker';
+import { MetacognitiveSpace } from './components/MetacognitiveSpace';
 
 function App() {
-  const [selectedRegion, setSelectedRegion] = useState<'India' | 'US' | 'Globe'>('India');
+  const [selectedRegion, setSelectedRegion] = useState<'India' | 'US' | 'Globe' | 'Metacognitive'>('India');
   const [isDarkMode, setIsDarkMode] = useState(true);
   
   // Data States
@@ -69,7 +70,7 @@ function App() {
 
         {/* Region Selector Tabs */}
         <div style={{ display: 'flex', gap: '8px', background: 'var(--bg-primary)', padding: '4px', borderRadius: '8px', border: '1px solid var(--border-color)' }}>
-          {(['India', 'US', 'Globe'] as const).map((region) => (
+          {(['India', 'US', 'Globe', 'Metacognitive'] as const).map((region) => (
             <button
               key={region}
               onClick={() => setSelectedRegion(region)}
@@ -88,8 +89,8 @@ function App() {
                 gap: '6px'
               }}
             >
-              {region === 'Globe' ? <Globe size={14} /> : <Zap size={14} />}
-              {region === 'Globe' ? 'Global' : region}
+              {region === 'Globe' ? <Globe size={14} /> : region === 'Metacognitive' ? <Brain size={14} /> : <Zap size={14} />}
+              {region === 'Globe' ? 'Global' : region === 'Metacognitive' ? 'Metacognitive Space' : region}
             </button>
           ))}
         </div>
@@ -136,37 +137,41 @@ function App() {
           </div>
         </div>
       ) : (
-        <main className="dashboard-grid">
-          {/* Center Map Panel */}
-          <div className="panel-card map-panel">
-            <div className="panel-header">
-              <h3 className="panel-title">
-                <Globe size={16} style={{ color: 'var(--accent-energy)' }} />
-                Energy & Power Infrastructure Map ({selectedRegion})
-              </h3>
-              <span style={{ fontSize: '10px', color: 'var(--text-muted)', fontWeight: 'bold' }}>TACTICAL MAP</span>
+        selectedRegion === 'Metacognitive' ? (
+          <MetacognitiveSpace />
+        ) : (
+          <main className="dashboard-grid">
+            {/* Center Map Panel */}
+            <div className="panel-card map-panel">
+              <div className="panel-header">
+                <h3 className="panel-title">
+                  <Globe size={16} style={{ color: 'var(--accent-energy)' }} />
+                  Energy & Power Infrastructure Map ({selectedRegion})
+                </h3>
+                <span style={{ fontSize: '10px', color: 'var(--text-muted)', fontWeight: 'bold' }}>TACTICAL MAP</span>
+              </div>
+              <div style={{ flex: 1, minHeight: '400px' }}>
+                <EnergyMap
+                  pins={pins.filter(pin => selectedRegion === 'Globe' ? true : pin.region === selectedRegion)}
+                  isDarkMode={isDarkMode}
+                  selectedRegion={selectedRegion}
+                />
+              </div>
             </div>
-            <div style={{ flex: 1, minHeight: '400px' }}>
-              <EnergyMap
-                pins={pins.filter(pin => selectedRegion === 'Globe' ? true : pin.region === selectedRegion)}
-                isDarkMode={isDarkMode}
-                selectedRegion={selectedRegion}
-              />
-            </div>
-          </div>
 
-          {/* Right Live News Stream Panel */}
-          <LiveNews news={news} />
+            {/* Right Live News Stream Panel */}
+            <LiveNews news={news} />
 
-          {/* Grid Telemetry */}
-          <GridStatus data={gridData} selectedRegion={selectedRegion} />
+            {/* Grid Telemetry */}
+            <GridStatus data={gridData} selectedRegion={selectedRegion} />
 
-          {/* Fuel Mix Chart */}
-          <EnergyMix data={mixData} selectedRegion={selectedRegion} />
+            {/* Fuel Mix Chart */}
+            <EnergyMix data={mixData} selectedRegion={selectedRegion} />
 
-          {/* Renewable Targets progress bar tracker */}
-          <RenewablesTracker selectedRegion={selectedRegion} />
-        </main>
+            {/* Renewable Targets progress bar tracker */}
+            <RenewablesTracker selectedRegion={selectedRegion} />
+          </main>
+        )
       )}
     </>
   );

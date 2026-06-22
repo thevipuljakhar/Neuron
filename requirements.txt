@@ -1,0 +1,27 @@
+# NEURON — pinned dependency list (P15 A1: supply-chain lock)
+# Exact pins for every directly-imported package, taken from the known-good
+# environment Neuron currently runs on. Pinning closes the unpinned-PyPI
+# supply-chain hole (audit P10 noted the list was incomplete; P15 makes it exact).
+# Bump a pin deliberately, never let an upstream release land silently.
+flask==3.1.3
+yfinance==1.4.1
+feedparser==6.0.12
+numpy==2.4.6
+pandas==3.0.3
+requests==2.34.2
+beautifulsoup4==4.14.3
+openpyxl==3.1.5
+pdfplumber==0.11.9
+playwright==1.60.0
+urllib3==2.7.0
+# Optional production WSGI server. Not installed in the dev environment; install
+# explicitly to serve via waitress instead of the Flask dev server.
+waitress>=3.0
+# Optional (P16.2) — local ONNX semantic embeddings for MemoryOS (bge-small,
+# 384-dim, via the already-present onnxruntime). Absent ⇒ memory falls back to
+# the zero-dependency numpy floor embedder; recall still works.
+fastembed==0.8.0
+# Optional (P16.3) — Model Context Protocol SDK for the portable memory server
+# (neuron_mcp.py). Only needed to run `python neuron_mcp.py`; the Neuron
+# dashboard itself does not import it.
+mcp==1.28.0

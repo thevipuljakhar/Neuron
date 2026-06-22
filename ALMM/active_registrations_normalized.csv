@@ -1,0 +1,169 @@
+page_num,revision,table_sno,manufacturer_raw,manufacturer_clean,location_raw,location_clean,bis_registration_raw,bis_registration_clean,enlisted_capacity_raw,enlisted_capacity_clean,note,rev_rank,manufacturer_normalized
+14,Revision-XLVIII,20,"Vikram Solar Limited S p e c i a l E c onomic Zone (SEZ),",Vikram Solar Limited S p,e c i a l E c onomic Zone (SEZ),e c i a l E c onomic Zone (SEZ),R-51000566,R-51000566,2893.0,2893.0,,48,VIKRAM SOLAR LIMITED
+51,Revision-XLIV,5,"Sova Solar Limited Layout Plot No: 25, E.P.I.P,",Sova Solar Limited,"Layout Plot No: 25, E.P.I.P","Layout Plot No: 25, E.P.I.P",R-51000590,R-51000590,1368.0,1368.0,,44,SOVA SOLAR LIMITED
+25,Revision-XLVII,12,"Websol Energy System SECTOR-II, FALTA SPECIAL",Websol Energy System,"SECTOR-II, FALTA SPECIAL","SECTOR-II, FALTA SPECIAL",R-51000698,R-51000698,579.0,579.0,,47,WEBSOL ENERGY SYSTEM
+106,Revision-XLI,20,"H R Solar Raghudebpur, NH-6,",H R Solar Raghudebpur,NH-6,NH-6,R-51001686,R-51001686,187.0,187.0,,41,H R SOLAR RAGHUDEBPUR
+46,Revision- XLV,12,"GREEN VALLEY 10, LILUAH, BELUR ROAD,","GREEN VALLEY 10, LILUAH, BELUR",ROAD,ROAD,R-51003239,R-51003239,34.0,34.0,,45,GREENBRILLIANCE RENEWABLE ENERGY LLP
+33,Revision-XLVI,10,"Surya International Plot No. S4-E1-21, EMC Park,",Surya International,"Plot No. S4-E1-21, EMC Park","Plot No. S4-E1-21, EMC Park",R-52000175,R-52000175,397.0,397.0,,46,SURYA INTERNATIONAL
+254,Revision - XXXVI,61,"AG Solar Urja Udyog Plot No. 428 & 443, Khata No.",AG Solar Urja Udyog,"Plot No. 428 & 443, Khata No","Plot No. 428 & 443, Khata No",R-52000205,R-52000205,53.0,53.0,,36,AG SOLAR URJA UDYOG
+131,Revision-XXXVIII,10,"SAN Energy Plot No. 356, San Energy",SAN Energy,"Plot No. 356, San Energy","Plot No. 356, San Energy",R-53000221,R-53000221,27.0,27.0,,38,SAN ENERGY
+108,Revision-XLI,23,Abhishek Solar Khata No. 67 Plot No.,Abhishek Solar,Khata No. 67 Plot No,Khata No. 67 Plot No,R-58000140,R-58000140,142.0,142.0,,41,ABHISHEK SOLAR
+161,Revision-XXXVII,4,"Icon Solar En PH No. 09, Gram Dighari",Icon Solar En PH,"No. 09, Gram Dighari","No. 09, Gram Dighari",R-59000140,R-59000140,574.0,574.0,,37,ICON SOLAR ENERCON PRIVATE LIMITED
+268,Revision - XXXVI,74,"Laxmi Solar Power Khasra No. 192, Harsun Tildahdih",Laxmi Solar Power,"Khasra No. 192, Harsun Tildahdih","Khasra No. 192, Harsun Tildahdih",R-59000442,R-59000442,121.0,121.0,,36,LAXMI SOLAR POWER
+115,Revision-XL,7,Rajasthan Co-ALMM with M/s.,Rajasthan,Co-ALMM with M/s,Co-ALMM with M/s,R-59000558,R-59000558,10.0,10.0,,40,RAJASTHAN ELECTRONICS AND INSTRUMENTS LIMITED
+203,Revision - XXXVI,13,"Vikram Solar Ltd. B1000A, B1100C, Indospace Industrial","Vikram Solar Ltd. B1000A, B1100C, Indospace",Industrial,Industrial,R-61002070,R-61002070,1408.0,1408.0,,36,VIKRAM SOLAR LIMITED
+17,Revision-XLVII,4,"Swelect HHV Solar No. 169,166, Sembagoundan",Swelect HHV Solar,"No. 169,166, Sembagoundan","No. 169,166, Sembagoundan",R-61003433,R-61003433,853.0,853.0,,47,SWELECT HHV SOLAR PHOTOVOLTAICS PRIVATE LIMITED
+14,Revision-XLVIII,18,"TP Solar Limited PLOT NO. A109, NEAR ELCOT",TP Solar Limited,"PLOT NO. A109, NEAR ELCOT","PLOT NO. A109, NEAR ELCOT",R-61004146,R-61004146,5072.0,5072.0,,48,TP SOLAR LIMITED
+91,Revision-XLI,6,"FS India Solar Plot No. A-1/1, Sipcot",FS India Solar,"Plot No. A-1/1, Sipcot","Plot No. A-1/1, Sipcot",R-61004316,R-61004316,3433.0,3433.0,,41,FS INDIA SOLAR VENTURES PRIVATE LIMITED
+279,Revision - XXXVI,93,"Axitec Energy India Survey No.: 257/5, 257/6, Thandalam-",Axitec Energy India,"Survey No.: 257/5, 257/6, Thandalam","Survey No.: 257/5, 257/6, Thandalam",R-61005258,R-61005258,18.0,18.0,,36,AXITEC ENERGY INDIA PRIVATE LIMITED
+28,Revision-XLVI,1,"KRG POWER SOLAR 128/1, K.AYYAMPALAYAM POST,",KRG POWER SOLAR 128/1,K.AYYAMPALAYAM POST,K.AYYAMPALAYAM POST,R-61006203,R-61006203,1094.0,1094.0,,46,KRG POWER SOLAR PRIVATE LIMITED
+9,Revision-XLVIII,11,"Vikram Solar Limited PLOT NO: B400, B300B,",Vikram Solar Limited,"PLOT NO: B400, B300B","PLOT NO: B400, B300B",R-61006980,R-61006980,3358.0,3358.0,,48,VIKRAM SOLAR LIMITED
+178,Revision - XXXVI,1,"Emmvee Photovoltaic #13/1, International Airport Road","Emmvee Photovoltaic #13/1, International Airport",Road,Road,R-62001074,R-62001074,512.0,512.0,,36,EMMVEE PHOTOVOLTAIC POWER PRIVATE LIMITED
+9,Revision-XLVIII,9,"Tata Power Renewable Sy No. 43P and 44(P),",Tata Power Renewable,Sy No. 43P and 44(P),Sy No. 43P and 44(P),R-62001090,R-62001090,577.0,577.0,,48,RENEW PHOTOVOLTAICS PRIVATE LIMITED
+10,Revision-XLVIII,12,"ORB Energy Private No. 95, Digital Park Road, 2nd",ORB Energy Private,"No. 95, Digital Park Road, 2nd","No. 95, Digital Park Road, 2nd",R-62001708,R-62001708,59.0,59.0,,48,ORB ENERGY PRIVATE
+263,Revision - XXXVI,69,"Tata Power Plot No. 24-B, Industrial Shed, SY No",Tata Power,"Plot No. 24-B, Industrial Shed, SY No","Plot No. 24-B, Industrial Shed, SY No",R-62002585,R-62002585,94.0,94.0,,36,TATA POWER RENEWABLE ENERGY LIMITED
+171,Revision-XXXVII,14,"Emmvee Sy. No. 66-70/3,",Emmvee,Sy. No. 66-70/3,Sy. No. 66-70/3,R-62002976,R-62002976,678.0,678.0,,37,EMMVEE PHOTOVOLTAIC POWER PRIVATE LIMITED
+67,Revision-XLIII,5,"Emmvee Energy Sy. No. 66-70/3, Sompura",Emmvee Energy,"Sy. No. 66-70/3, Sompura","Sy. No. 66-70/3, Sompura",R-62004626,R-62004626,3276.0,3276.0,,43,EMMVEE ENERGY PRIVATE LIMITED
+19,Revision-XLVII,6,"NITHIN SAI PLOT NO 75-A, 2ND PHASE,",NITHIN SAI,"PLOT NO 75-A, 2ND PHASE","PLOT NO 75-A, 2ND PHASE",R-62005509,R-62005509,691.0,691.0,,47,NITHIN SAI RENEWABLES PRIVATE LIMITED
+33,Revision-XLVI,12,"Emmvee Energy Private Ground , 13/1 13/2 14 15/1 15/2","Emmvee Energy Private Ground , 13/1 13/2 14 15/1 15/2",,,R-62006050,R-62006050,4308.0,4308.0,,46,EMMVEE ENERGY PRIVATE LIMITED
+135,Revision-XXXVIII,16,"Renewsys India Sy .No. 114/P, Srinagar",Renewsys India,"Sy .No. 114/P, Srinagar","Sy .No. 114/P, Srinagar",R-63000760,R-63000760,1773.0,1773.0,,38,RENEWSYS INDIA PRIVATE LIMITED
+275,Revision - XXXVI,83,"Visaka Industries Survey No. 95&96, Adjacent to",Visaka Industries,"Survey No. 95&96, Adjacent to","Survey No. 95&96, Adjacent to",R-63000795,R-63000795,16.0,16.0,,36,VISAKA INDUSTRIES LIMITED
+276,Revision - XXXVI,88,"Akshaya Solar Power Plot No G 1/A, TSIIC General Park,",Akshaya Solar Power,"Plot No G 1/A, TSIIC General Park","Plot No G 1/A, TSIIC General Park",R-63000825,R-63000825,33.0,33.0,,36,AKSHAYA SOLAR POWER
+211,Revision - XXXVI,21,"Sri Savitr Solar Pvt. Plot No. 34/1, Sy No. 374, C.I.E. Phase",Sri Savitr Solar Pvt,"Plot No. 34/1, Sy No. 374, C.I.E. Phase","Plot No. 34/1, Sy No. 374, C.I.E. Phase",R-63000922,R-63000922,40.0,40.0,,36,SRI SAVITR SOLAR PRIVATE
+50,Revision-XLIV,4,"Sirius Solar Energy PLOT NO: 30 & 46, ALEAP",Sirius Solar Energy,"PLOT NO: 30 & 46, ALEAP","PLOT NO: 30 & 46, ALEAP",R-63002038,R-63002038,67.0,67.0,,44,SIRIUS SOLAR ENERGY PRIVATE LIMITED
+210,Revision - XXXVI,20,"Premier Energies Plot No-8/B/1 & 8/B/2, SY No. 62 P 63",Premier Energies,"Plot No-8/B/1 & 8/B/2, SY No. 62 P 63","Plot No-8/B/1 & 8/B/2, SY No. 62 P 63",R-63002356,R-63002356,1241.0,1241.0,,36,PREMIER ENERGIES LIMITED
+251,Revision - XXXVI,56,"Premier Energies Plot No. S-95, S-96, S-100, S-101, S-",Premier Energies,"Plot No. S-95, S-96, S-100, S-101, S","Plot No. S-95, S-96, S-100, S-101, S",R-63003719,R-63003719,1320.0,1320.0,,36,PREMIER ENERGIES LIMITED
+271,Revision - XXXVI,78,"Junna Solar Systems Unit – II Plot Number 21,",Junna Solar Systems,Unit – II Plot Number 21,Unit – II Plot Number 21,R-63004146,R-63004146,94.0,94.0,,36,JUNNA SOLAR SYSTEMS
+135,Revision-XXXVIII,17,"Premier Plot No S-95,S-96,S-100,S-",Premier,"Plot No S-95,S-96,S-100,S","Plot No S-95,S-96,S-100,S",R-63004740,R-63004740,1085.0,1085.0,,38,PREMIER ENERGIES GLOBAL ENVIRONMENT LIMITED
+64,Revision-XLIII,1,"Surana Solar Limited Sy No. 49, 51, 52 to 55,",Surana Solar Limited,"Sy No. 49, 51, 52 to 55","Sy No. 49, 51, 52 to 55",R-63004979,R-63004979,174.0,174.0,,43,SURANA SOLAR LIMITED
+43,Revision- XLV,7,"Frontier Energy B2 Kothur Logistic Park,",Frontier Energy B2 Kothur Logistic Park,,,R-63005045,R-63005045,548.0,548.0,,45,FRONTIER ENERGY PRIVATE LIMITED
+33,Revision-XLVI,11,"Premier Energies 303, 304, 305 AND 306/2, IALA-","Premier Energies 303, 304, 305 AND 306/2, IALA",,,R-63005460,R-63005460,1507.0,1507.0,,46,PREMIER ENERGIES LIMITED
+92,Revision-XLI,8,"Indosol Solar Sy. Nos. 584/9,",Indosol Solar,Sy. Nos. 584/9,Sy. Nos. 584/9,R-66003000,R-66003000,632.0,632.0,,41,INDOSOL SOLAR PRIVATE LIMITED
+263,Revision - XXXVI,70,"PV Power Plot No.60, Tarapur Textile Park",PV Power,"Plot No.60, Tarapur Textile Park","Plot No.60, Tarapur Textile Park",R-71007650,R-71007650,86.0,86.0,,36,PV POWER
+100,Revision-XLI,15,"Novasys Khasra No. 185,",Novasys,Khasra No. 185,Khasra No. 185,R-71010499,R-71010499,504.0,504.0,,41,NOVASYS GREENERGY PRIVATE LIMITED
+96,Revision-XLI,13,"ECE (India) F-27, Express",ECE,"F-27, Express","F-27, Express",R-71012220,R-71012220,39.0,39.0,India,41,ECE
+204,Revision - XXXVI,14,"Contendre Unit No: I/6, Rajlakshmi HiTech",Contendre,"Unit No: I/6, Rajlakshmi HiTech","Unit No: I/6, Rajlakshmi HiTech",R-71013196,R-71013196,49.0,49.0,,36,CONTENDRE
+126,Revision-XXXVIII,1,"Agrawal Plot No. 66/0, Dhoop",Agrawal,"Plot No. 66/0, Dhoop","Plot No. 66/0, Dhoop",R-71013536,R-71013536,125.0,125.0,,38,AGRAWAL
+160,Revision-XXXVII,3,"Renewsys Plot No. E141, Additional",Renewsys,"Plot No. E141, Additional","Plot No. E141, Additional",R-71018970,R-71018970,1176.0,1176.0,,37,RENEWSYS INDIA PRIVATE LIMITED
+228,Revision - XXXVI,35,"Spark Solar N-4, Rajlaxmi Hitech Textile Park,","Spark Solar N-4, Rajlaxmi Hitech Textile Park",,,R-71023310,R-71023310,124.0,124.0,,36,"SPARK SOLAR N-4, RAJLAXMI HITECH TEXTILE PARK"
+71,Revision-XLIII,10,"Suryanand Solar Opp Prince Steel, Plot No",Suryanand Solar Opp Prince Steel,Plot No,Plot No,R-71028959,R-71028959,33.0,33.0,,43,SURYANAND SOLAR OPP PRINCE STEEL
+175,Revision-XXXVII,18,"Rayon Plot No. 42, Sector 5,",Rayon,"Plot No. 42, Sector 5","Plot No. 42, Sector 5",R-71036293,R-71036293,62.0,62.0,,37,RAYON POWER PRIVATE LIMITED
+112,Revision-XL,4,"Worldone D 18, Umred, MIDC","Worldone D 18, Umred, MIDC",,,R-71039837,R-71039837,164.0,164.0,,40,"WORLDONE D 18, UMRED, MIDC"
+53,Revision-XLIV,7,"Avaada Electro Private A-67, MIDC Road, Additional","Avaada Electro Private A-67, MIDC","Road, Additional","Road, Additional",R-71040312,R-71040312,6909.0,6909.0,,44,AVAADA ELECTRO PRIVATE LIMITED
+4,Revision-XLVIII,5,"NOVASYS GREENERGY PLOT NO. 59, KH. NO. 178, 179,",NOVASYS GREENERGY,"PLOT NO. 59, KH. NO. 178, 179","PLOT NO. 59, KH. NO. 178, 179",R-71042080,R-71042080,865.0,865.0,,48,NOVASYS GREENERGY PRIVATE LIMITED
+28,Revision-XLVI,2,"RenewSys India Pvt. B-300, SURVEY NO: 54/1 (PT);",RenewSys India Pvt,"B-300, SURVEY NO: 54/1 (PT);","B-300, SURVEY NO: 54/1 (PT);",R-71045160,R-71045160,2268.0,2268.0,,46,RENEWSYS INDIA PRIVATE LIMITED
+3,Revision-XLVIII,1,"Sudarshan Saur Shakti GUT NO. 37, ITAWA,",Sudarshan Saur Shakti,"GUT NO. 37, ITAWA","GUT NO. 37, ITAWA",R-71046108,R-71046108,360.0,360.0,,48,SUDARSHAN SAUR SHAKTI PRIVATE LIMITED
+11,Revision-XLVIII,15,"REDREN ENERGY PVT. SURVEY NO. 154/1, NATIONAL",REDREN ENERGY PVT,"SURVEY NO. 154/1, NATIONAL","SURVEY NO. 154/1, NATIONAL",R-72001775,R-72001775,1684.0,1684.0,,48,REDREN ENERGY PRIVATE LIMITED
+47,Revision- XLV,14,"Australian Premium Tajpur, NH-08, TA:Prantij,",Australian Premium,"Tajpur, NH-08, TA:Prantij","Tajpur, NH-08, TA:Prantij",R-72001791,R-72001791,622.0,622.0,,45,AUSTRALIAN PREMIUM SOLAR LIMITED
+239,Revision - XXXVI,43,"Goldi Solar Pvt Block No:149, Plot No: J&K1, Beside",Goldi Solar Pvt,"Block No:149, Plot No: J&K1, Beside","Block No:149, Plot No: J&K1, Beside",R-72001805,R-72001805,396.0,396.0,,36,GOLDI SOLAR PRIVATE LIMITED
+112,Revision-XL,5,"Pahal Solar Ground Floor, Block No.",Pahal Solar Ground Floor,Block No,Block No,R-72001848,R-72001848,264.0,264.0,,40,PAHAL SOLAR PRIVATE LIMITED
+101,Revision-XLI,17,"Citizen Solar New Survey No-966,",Citizen Solar New,Survey No-966,Survey No-966,R-72001929,R-72001929,198.0,198.0,,41,CITIZEN SOLAR NEW
+46,Revision- XLV,11,"Waaree Energies SURVEY NO. 38/1,TUMB",Waaree Energies,"SURVEY NO. 38/1,TUMB","SURVEY NO. 38/1,TUMB",R-72002038,R-72002038,1095.0,1095.0,,45,WAAREE ENERGIES LIMITED
+136,Revision-XXXVIII,19,Green Plot No 1408 G.I.D.C.,Green,Plot No 1408 G.I.D.C,Plot No 1408 G.I.D.C,R-72002119,R-72002119,32.0,32.0,,38,GREENBRILLIANCE RENEWABLE ENERGY LLP
+66,Revision-XLIII,3,"Rayzon Solar Block No. 94/1/1F, 94/1/3,",Rayzon Solar,"Block No. 94/1/1F, 94/1/3","Block No. 94/1/1F, 94/1/3",R-72002305,R-72002305,3406.0,3406.0,,43,RAYZON SOLAR LIMITED
+266,Revision - XXXVI,72,"Lubi Electronics Survey No. 75, Opposite Essar Petrol",Lubi Electronics,"Survey No. 75, Opposite Essar Petrol","Survey No. 75, Opposite Essar Petrol",R-72002380,R-72002380,40.0,40.0,,36,LUBI ELECTRONICS
+178,Revision - XXXVI,3,"Solex Energy Ltd Plot No. 131/A Phase-1, G.I.D.C,",Solex Energy Ltd,"Plot No. 131/A Phase-1, G.I.D.C","Plot No. 131/A Phase-1, G.I.D.C",R-72002577,R-72002577,21.0,21.0,,36,SOLEX ENERGY LIMITED
+153,Revision-XXXVIII,27,"Waaree Unit 2B, Survey No. 267,",Waaree,"Unit 2B, Survey No. 267","Unit 2B, Survey No. 267",R-72003085,R-72003085,1106.0,1106.0,,38,WAAREE ENERGIES LIMITED
+131,Revision-XXXVIII,7,"Navitas Green Plot No. B-20/3, Road No.",Navitas Green,"Plot No. B-20/3, Road No","Plot No. B-20/3, Road No",R-72003140,R-72003140,250.0,250.0,,38,NAVITAS GREEN SOLUTIONS PRIVATE LIMITED
+160,Revision-XXXVII,2,"Raajratna Survey No. 69/2,",Raajratna,Survey No. 69/2,Survey No. 69/2,R-72003379,R-72003379,86.0,86.0,,37,RAAJRATNA
+79,Revision-XLII,2,"Kosol Survey No: 415/B,",Kosol,Survey No: 415/B,Survey No: 415/B,R-72003417,R-72003417,1526.0,1526.0,,42,KOSOL ENERGIE PRIVATE LIMITED
+7,Revision-XLVIII,7,"PIXON GREEN ENERGY R.S NO. 1571/1, 158/1, 158/2,",PIXON GREEN ENERGY R.S,"NO. 1571/1, 158/1, 158/2","NO. 1571/1, 158/1, 158/2",R-72004570,R-72004570,1646.0,1646.0,,48,PIXON GREEN ENERGY PRIVATE LIMITED
+215,Revision - XXXVI,26,"Mundra Solar Energy Taluka Mundra, Survey No.180/P,",Mundra Solar Energy,"Taluka Mundra, Survey No.180/P","Taluka Mundra, Survey No.180/P",R-72005460,R-72005460,1977.0,1977.0,,36,MUNDRA SOLAR ENERGY PRIVATE LIMITED
+14,Revision-XLVIII,19,"WAAREE ENERGIES Sr. No. 1934,1939,1941,1942, NH-",WAAREE ENERGIES Sr,"No. 1934,1939,1941,1942, NH","No. 1934,1939,1941,1942, NH",R-72005533,R-72005533,16444.0,16444.0,,48,WAAREE ENERGIES LIMITED
+3,Revision-XLVIII,2,"UNIQUE SUN POWER BL NO. 2281/2/1/1, SUB PLOT. 1-",UNIQUE SUN POWER BL,"NO. 2281/2/1/1, SUB PLOT. 1","NO. 2281/2/1/1, SUB PLOT. 1",R-72005550,R-72005550,609.0,609.0,,48,UNIQUE SUN POWER PRIVATE LIMITED
+214,Revision - XXXVI,24,"Sahaj Solar Private Plot No. D4, Survey No. 742,745,",Sahaj Solar Private,"Plot No. D4, Survey No. 742,745","Plot No. D4, Survey No. 742,745",R-72005630,R-72005630,54.0,54.0,,36,SAHAJ SOLAR PRIVATE
+120,Revision-XXXIX,2,"SASA Energy S.No. 193, Opposite",SASA Energy,"S.No. 193, Opposite","S.No. 193, Opposite",R-72005681,R-72005681,98.0,98.0,,39,SASA ENERGY
+220,Revision - XXXVI,31,"SUNBOND Energy S.No. 181/P2 Opp. 66 kV substation,",SUNBOND Energy,S.No. 181/P2 Opp. 66 kV substation,S.No. 181/P2 Opp. 66 kV substation,R-72005762,R-72005762,271.0,271.0,,36,SUNBOND ENERGY
+3,Revision-XLVIII,3,"SUNIFY SOLAR LLP Survey no. 624P1, Near",SUNIFY SOLAR LLP,"Survey no. 624P1, Near","Survey no. 624P1, Near",R-72005800,R-72005800,1533.0,1533.0,,48,SUNIFY SOLAR LLP
+95,Revision-XLI,11,Ganesh Green Survey No.,Ganesh Green,Survey No,Survey No,R - 72005886,R-72005886,557.0,557.0,,41,GANESH GREEN BHARAT LIMITED
+72,Revision-XLIII,12,Axitec Energy India Co-ALMM with M/s. Rayzon,Axitec Energy India,Co-ALMM with M/s. Rayzon,Co-ALMM with M/s. Rayzon,R-72005924,R-72005924,150.0,150.0,,43,AXITEC ENERGY INDIA PRIVATE LIMITED
+169,Revision-XXXVII,12,"Aatmanirbhar Survey no 192,",Aatmanirbhar,Survey no 192,Survey no 192,R-72005940,R-72005940,158.0,158.0,,37,AATMANIRBHAR
+67,Revision-XLIII,4,"Goldi Sun Private City Survey No. 920,",Goldi Sun Private City,Survey No. 920,Survey No. 920,R-72006149,R-72006149,4522.0,4522.0,,43,GOLDI SUN PRIVATE LIMITED
+91,Revision-XLI,5,"Credence Solar Plot no 18 and 19,",Credence Solar,Plot no 18 and 19,Plot no 18 and 19,R-72006165,R-72006165,495.0,495.0,,41,CREDENCE SOLAR PANELS PRIVATE LIMITED
+152,Revision-XXXVIII,25,"Amrut Energy Survey No. 69, Opp.",Amrut Energy,"Survey No. 69, Opp","Survey No. 69, Opp",R-72006793,R-72006793,48.0,48.0,,38,AMRUT ENERGY
+269,Revision - XXXVI,76,"Powertrac Solar LS No. - 248/2, Opp. Rai Bus stand,",Powertrac Solar,"LS No. - 248/2, Opp. Rai Bus stand","LS No. - 248/2, Opp. Rai Bus stand",R-72007269,R-72007269,47.0,47.0,,36,POWERTRAC SOLAR
+21,Revision-XLVII,8,"Solex Energy Limited Plot No 1A, Block 938,",Solex Energy Limited,"Plot No 1A, Block 938","Plot No 1A, Block 938",R-72008125,R-72008125,3782.0,3782.0,,47,SOLEX ENERGY LIMITED
+11,Revision-XLVIII,14,"Mundra Solar PV Survey no 180 P, Co Mundra",Mundra Solar PV,"Survey no 180 P, Co Mundra","Survey no 180 P, Co Mundra",R-72008532,R-72008532,2449.0,2449.0,,48,MUNDRA SOLAR PV LIMITED
+252,Revision - XXXVI,57,"Total Solar Block No. 84 Paiki, Opposite",Total Solar,"Block No. 84 Paiki, Opposite","Block No. 84 Paiki, Opposite",R-72009466,R-72009466,52.0,52.0,,36,TOTAL SOLAR
+249,Revision - XXXVI,55,"Solberry Energy Survey No.-164/002 & 165, Near",Solberry Energy,"Survey No.-164/002 & 165, Near","Survey No.-164/002 & 165, Near",R-72009490,R-72009490,56.0,56.0,,36,SOLBERRY ENERGY
+80,Revision-XLII,5,"Cosmic PV Survey No. 1605/1,",Cosmic PV,Survey No. 1605/1,Survey No. 1605/1,R-72009539,R-72009539,1302.0,1302.0,,42,COSMIC PV POWER PRIVATE LIMITED
+92,Revision-XLI,7,"ReNew Plot No. 232, TP-2/A,",ReNew,"Plot No. 232, TP-2/A","Plot No. 232, TP-2/A",R-72009903,R-72009903,1884.0,1884.0,,41,RENEW PHOTOVOLTAICS PRIVATE LIMITED
+268,Revision - XXXVI,75,"Uratom Solar (India) Survey No. 752 P1, National Highway",Uratom Solar,"Survey No. 752 P1, National Highway","Survey No. 752 P1, National Highway",R-72010081,R-72010081,46.0,46.0,India,36,URATOM SOLAR (INDIA) PRIVATE LIMITED
+273,Revision - XXXVI,81,"Hexatron Industries Survey No. 575, 576, 577 & 578 Village",Hexatron Industries,"Survey No. 575, 576, 577 & 578 Village","Survey No. 575, 576, 577 & 578 Village",R-72010715,R-72010715,203.0,203.0,,36,HEXATRON INDUSTRIES
+56,Revision-XLIV,9,"FS Green Energies Block No. 160 - 164, 168",FS Green Energies,"Block No. 160 - 164, 168","Block No. 160 - 164, 168",R-72011258,R-72011258,5001.0,5001.0,,44,FS GREEN ENERGIES PRIVATE LIMITED
+85,Revision-XLII,9,Lubi Co-ALMM with 40,Lubi,Co-ALMM with 40,Co-ALMM with 40,R-72011304,R-72011304,19.0,19.0,,42,LUBI
+93,Revision-XLI,10,Northgreen Shed No.1 Manvi,Northgreen,Shed No.1 Manvi,Shed No.1 Manvi,R-72011339,R-72011339,29.0,29.0,,41,GREENBRILLIANCE RENEWABLE ENERGY LLP
+14,Revision-XLVIII,21,Reliance Industries Ltd. At Navagam via Khodiyar,Reliance Industries Ltd. At Navagam via Khodiyar,,,R-72011452,R-72011452,5201.0,5201.0,,48,RELIANCE INDUSTRIES LIMITED
+51,Revision-XLIV,6,"Navitas Solar Private 371,371/B,372, 373/A/B,","Navitas Solar Private 371,371/B,372, 373/A/B",,,R-72011657,R-72011657,1142.0,1142.0,,44,NAVITAS GREEN SOLUTIONS PRIVATE LIMITED
+277,Revision - XXXVI,89,"Asote Solutions 346, Asot Solar, Anita, 346, Kim-Vadoli","Asote Solutions 346, Asot Solar, Anita, 346, Kim-Vadoli",,,R-72011754,R-72011754,152.0,152.0,,36,"ASOTE SOLUTIONS 346, ASOT SOLAR, ANITA, 346, KIM-VADOLI"
+10,Revision-XLVIII,13,"Nav-Yug Solar LLP C-23/22,23/23,23/24 HOJIWALA",Nav-Yug Solar LLP,"C-23/22,23/23,23/24 HOJIWALA","C-23/22,23/23,23/24 HOJIWALA",R-72011967,R-72011967,146.0,146.0,,48,NAV-YUG SOLAR LLP
+35,Revision-XLVI,17,Mundra Solar PV Co-ALMM with M/s. Goldi Sun,Mundra Solar PV,Co-ALMM with M/s. Goldi Sun,Co-ALMM with M/s. Goldi Sun,R-72012025,R-72012025,210.0,210.0,,46,MUNDRA SOLAR PV LIMITED
+97,Revision-XLI,14,ECE (India) Co-ALMM with M/s.,ECE,Co-ALMM with M/s,Co-ALMM with M/s,R-72012203,R-72012203,100.0,100.0,India,41,ECE
+17,Revision-XLVII,3,"Rajdeep Solar Energy Survey no. 432, Moti Chirai,",Rajdeep Solar Energy,"Survey no. 432, Moti Chirai","Survey no. 432, Moti Chirai",R-72012270,R-72012270,194.0,194.0,,47,RAJDEEP SOLAR ENERGY
+172,Revision-XXXVII,16,"Knack Energy Survey No. 291 & 292,",Knack Energy,Survey No. 291 & 292,Survey No. 291 & 292,R-72012319,R-72012319,598.0,598.0,,37,KNACK ENERGY PRIVATE LIMITED
+24,Revision-XLVII,10,"Macwin Solar Energy Block No.- 462, Near Kanhya",Macwin Solar Energy,"Block No.- 462, Near Kanhya","Block No.- 462, Near Kanhya",R-72012343,R-72012343,408.0,408.0,,47,MACWIN SOLAR ENERGY PRIVATE LIMITED
+90,Revision-XLI,3,"Onix-Tech Plot No. P212 B,",Onix-Tech,Plot No. P212 B,Plot No. P212 B,R-72012360,R-72012360,56.0,56.0,,41,ONIX-TECH RENEWABLES PRIVATE LIMITED
+23,Revision-XLVII,9,"SAHJANAND GREEN BLOCK NO.645, NR.",SAHJANAND GREEN,"BLOCK NO.645, NR","BLOCK NO.645, NR",R-72012416,R-72012416,193.0,193.0,,47,GREENBRILLIANCE RENEWABLE ENERGY LLP
+93,Revision-XLI,9,Avco Power New survey No.-,Avco Power New,survey No,survey No,R-72012432,R-72012432,185.0,185.0,,41,AVCO POWER PRIVATE LIMITED
+108,Revision-XLI,24,"Goldi Sun Unit no 6 (Type F) ,",Goldi Sun,Unit no 6 (Type F),Unit no 6 (Type F),R-72012467,R-72012467,7263.0,7263.0,,41,GOLDI SUN PRIVATE LIMITED
+89,Revision-XLI,1,"Arkalight Solar Block No. 344,",Arkalight Solar,Block No. 344,Block No. 344,R-72012661,R-72012661,506.0,506.0,,41,ARKALIGHT SOLAR PRIVATE LIMITED
+148,Revision-XXXVIII,22,"Contendre Final Plot No: 369, Pandit",Contendre Final,"Plot No: 369, Pandit","Plot No: 369, Pandit",R-72012700,R-72012700,45.0,45.0,,38,CONTENDRE FINAL
+82,Revision-XLII,6,Raajratna Co-ALMM with M/s.,Raajratna,Co-ALMM with M/s,Co-ALMM with M/s,R-72013099,R-72013099,50.0,50.0,,42,RAAJRATNA
+73,Revision-XLIII,14,Luminous Power Co-ALMM with M/s. Knack,Luminous Power,Co-ALMM with M/s. Knack,Co-ALMM with M/s. Knack,R-72013200,R-72013200,19.0,19.0,,43,LUMINOUS POWER TECHNOLOGIES PRIVATE LIMITED
+68,Revision-XLIII,7,"Solitech Green Block No 210 B,",Solitech Green,Block No 210 B,Block No 210 B,R-72013358,R-72013358,1321.0,1321.0,,43,SOLITECH GREEN ENERGY PRIVATE LIMITED
+83,Revision-XLII,7,Rajasthan Co-ALMM with M/s.,Rajasthan,Co-ALMM with M/s,Co-ALMM with M/s,R-72013498,R-72013498,10.0,10.0,,42,RAJASTHAN ELECTRONICS AND INSTRUMENTS LIMITED
+72,Revision-XLIII,13,Rajasthan Co-ALMM with M/s. Sahaj,Rajasthan,Co-ALMM with M/s. Sahaj,Co-ALMM with M/s. Sahaj,R-72013528,R-72013528,10.0,10.0,,43,RAJASTHAN ELECTRONICS AND INSTRUMENTS LIMITED
+12,Revision-XLVIII,16,"Jeem Energy Private Plot no 1 to 4, Sur No. 211,",Jeem Energy Private,"Plot no 1 to 4, Sur No. 211","Plot no 1 to 4, Sur No. 211",R-72013773,R-72013773,165.0,165.0,,48,JEEM ENERGY PRIVATE
+19,Revision-XLVII,7,"ARMY SOLAR ENERGY NEW BLOCK NO.119,",ARMY SOLAR ENERGY NEW,BLOCK NO.119,BLOCK NO.119,R-72013790,R-72013790,622.0,622.0,,47,ARMY SOLAR ENERGY PRIVATE LIMITED
+71,Revision-XLIII,11,Axitec Energy India Co-ALMM with M/s. Knack,Axitec Energy India,Co-ALMM with M/s. Knack,Co-ALMM with M/s. Knack,R-72013854,R-72013854,150.0,150.0,,43,AXITEC ENERGY INDIA PRIVATE LIMITED
+32,Revision-XLVI,8,"Sun 2 Earth Solar Block No. 331, Ena Gam, Palsana,",Sun 2 Earth Solar,"Block No. 331, Ena Gam, Palsana","Block No. 331, Ena Gam, Palsana",R-72014001,R-72014001,30.0,30.0,,46,SUN 2 EARTH SOLAR
+4,Revision-XLVIII,4,"RAYZON SOLAR BLOCK NO.:172/1, SUB PLOT",RAYZON SOLAR,"BLOCK NO.:172/1, SUB PLOT","BLOCK NO.:172/1, SUB PLOT",R-72014702,R-72014702,7913.0,7913.0,,48,RAYZON SOLAR LIMITED
+25,Revision-XLVII,13,"Goldi Sun Private BLOCK/SURVEY NO 252/P2,",Goldi Sun Private,BLOCK/SURVEY NO 252/P2,BLOCK/SURVEY NO 252/P2,R-72014966,R-72014966,3384.0,3384.0,,47,GOLDI SUN PRIVATE LIMITED
+32,Revision-XLVI,9,"Pahal Solar Private Block No. 267/B, 271/B,272, B/H",Pahal Solar Private,"Block No. 267/B, 271/B,272, B/H","Block No. 267/B, 271/B,272, B/H",R-72015008,R-72015008,2076.0,2076.0,,46,PAHAL SOLAR PRIVATE LIMITED
+34,Revision-XLVI,15,"INOX SOLAR LIMITED B500, BHAYALA, BAVLA","INOX SOLAR LIMITED B500, BHAYALA, BAVLA",,,R-72015016,R-72015016,1274.0,1274.0,,46,INOX SOLAR LIMITED
+28,Revision-XLVI,4,"SUNBOND ENERGY SURVEY NO 270/ P1-P2, NR.",SUNBOND ENERGY,"SURVEY NO 270/ P1-P2, NR","SURVEY NO 270/ P1-P2, NR",R-72015164,R-72015164,844.0,844.0,,46,SUNBOND ENERGY
+13,Revision-XLVIII,17,"SILVER CONSUMER PLOT NO 1,3,5,6, R.S.NO-",SILVER CONSUMER,"PLOT NO 1,3,5,6, R.S.NO","PLOT NO 1,3,5,6, R.S.NO",R-72015253,R-72015253,774.0,774.0,,48,SILVER CONSUMER ELECTRICALS PRIVATE LIMITED
+7,Revision-XLVIII,6,"SANGAM SOLAR ONE SURVEY NO. 644, ORPAT",SANGAM SOLAR ONE,"SURVEY NO. 644, ORPAT","SURVEY NO. 644, ORPAT",R-72015415,R-72015415,9234.0,9234.0,,48,SANGAM SOLAR ONE PRIVATE LIMITED
+185,Revision - XXXVI,8,"Gautam Solar Pvt. Ltd. Plot No-67-70, Sector-8A IIE, Sidcul",Gautam Solar Pvt. Ltd,"Plot No-67-70, Sector-8A IIE, Sidcul","Plot No-67-70, Sector-8A IIE, Sidcul",R-83006041,R-83006041,710.0,710.0,,36,GAUTAM SOLAR PRIVATE LIMITED
+8,Revision-XLVIII,8,"LUMINOUS POWER PLOT NO-CP-17 TO CP-22,",LUMINOUS POWER,PLOT NO-CP-17 TO CP-22,PLOT NO-CP-17 TO CP-22,R-83011410,R-83011410,1659.0,1659.0,,48,LUMINOUS POWER TECHNOLOGIES PRIVATE LIMITED
+134,Revision-XXXVIII,15,"Pravanya Solar C-2, Industrial Area,",Pravanya Solar,"C-2, Industrial Area","C-2, Industrial Area",R-83011754,R-83011754,79.0,79.0,,38,PRAVANYA SOLAR PRIVATE LIMITED
+44,Revision- XLV,8,"ZNSHINE KH. NO. 132, 137, 138,",ZNSHINE,"KH. NO. 132, 137, 138","KH. NO. 132, 137, 138",R-83012947,R-83012947,1552.0,1552.0,,45,ZNSHINE PV-TECH INDIA PRIVATE LIMITED
+185,Revision - XXXVI,7,"Insolation Energy Pvt. Ltd Khasra No 766/2, Vill-Bagwara, Teh-",Insolation Energy Pvt. Ltd,"Khasra No 766/2, Vill-Bagwara, Teh","Khasra No 766/2, Vill-Bagwara, Teh",R-84002330,R-84002330,174.0,174.0,,36,INSOLATION ENERGY PRIVATE LIMITED
+213,Revision - XXXVI,23,"Rajasthan 2, Kanakpura Industrial Area, Sirsi","Rajasthan 2, Kanakpura","Industrial Area, Sirsi","Industrial Area, Sirsi",R-84003077,R-84003077,23.0,23.0,,36,RAJASTHAN ELECTRONICS AND INSTRUMENTS LIMITED
+129,Revision-XXXVIII,5,"Insolation Khasra No 11/1, 1136/9,",Insolation,"Khasra No 11/1, 1136/9","Khasra No 11/1, 1136/9",R-84003549,R-84003549,637.0,637.0,,38,INSOLATION GREEN ENERGY PRIVATE LIMITED
+34,Revision-XLVI,13,"ReNew Photovoltaics PLOT NO-DTA-02-40 TO 45,",ReNew Photovoltaics,PLOT NO-DTA-02-40 TO 45,PLOT NO-DTA-02-40 TO 45,R-84003778,R-84003778,3550.0,3550.0,,46,RENEW PHOTOVOLTAICS PRIVATE LIMITED
+253,Revision - XXXVI,60,"Grew Energy Private Khasra No. 2215, 2216, 1654, 1655,",Grew Energy Private,"Khasra No. 2215, 2216, 1654, 1655","Khasra No. 2215, 2216, 1654, 1655",R-84004332,R-84004332,2803.0,2803.0,,36,GREW ENERGY PRIVATE LIMITED
+50,Revision-XLIV,1,"SAEL Solar P6 Private Land Kh. No. 354/2, New Kh.",SAEL Solar P6 Private Land,"Kh. No. 354/2, New Kh","Kh. No. 354/2, New Kh",R-84004898,R-84004898,2374.0,2374.0,,44,SAEL SOLAR P6 PRIVATE LIMITED
+38,Revision- XLV,2,"MKU Holdings DTA-02, PLOT-16-17-20-21,",MKU Holdings DTA-02,PLOT-16-17-20-21,PLOT-16-17-20-21,R-84005282,R-84005282,1247.0,1247.0,,45,MKU HOLDINGS PRIVATE LIMITED
+17,Revision-XLVII,2,"Insolation Green Energy KHASRA NO. 4205/3454,",Insolation Green Energy,KHASRA NO. 4205/3454,KHASRA NO. 4205/3454,R-84005622,R-84005622,4282.0,4282.0,,47,INSOLATION GREEN ENERGY PRIVATE LIMITED
+16,Revision-XLVII,1,"Startup Energy Private SP1-1, STARTUP ENERGY","Startup Energy Private SP1-1, STARTUP ENERGY",,,R-84005800,R-84005800,1034.0,1034.0,,47,STARTUP ENERGY PRIVATE LIMITED
+34,Revision-XLVI,14,Grew Energy Private Khasra Number 851 to,Grew Energy Private,Khasra Number 851 to,Khasra Number 851 to,R-84006289,R-84006289,3015.0,3015.0,,46,GREW ENERGY PRIVATE LIMITED
+30,Revision-XLVI,6,"SAEL SOLAR P6 KH NO. 154, 743/738 AT VILLAGE",SAEL SOLAR P6,"KH NO. 154, 743/738 AT VILLAGE","KH NO. 154, 743/738 AT VILLAGE",R-84006297,R-84006297,1535.0,1535.0,,46,SAEL SOLAR P6 PRIVATE LIMITED
+24,Revision-XLVII,11,"Best Apartment Private 174 175 200 201 202, BAD KE",Best Apartment Private 174 175 200 201 202,BAD KE,BAD KE,R-84006300,R-84006300,1105.0,1105.0,,47,BEST APARTMENT PRIVATE LIMITED
+178,Revision - XXXVI,4,"Saatvik Green Energy Pvt. Village Dubli, Tehshil- Barara, Dist-",Saatvik Green Energy Pvt,"Village Dubli, Tehshil- Barara, Dist","Village Dubli, Tehshil- Barara, Dist",R-91003670,R-91003670,1740.0,1740.0,,36,SAATVIK GREEN ENERGY PRIVATE LIMITED
+269,Revision - XXXVI,77,"Sun N Sand Exim Plot No- 106, Sector 16, HSIIDC",Sun N Sand Exim,"Plot No- 106, Sector 16, HSIIDC","Plot No- 106, Sector 16, HSIIDC",R-91004529,R-91004529,69.0,69.0,,36,SUN N SAND EXIM PRIVATE LIMITED
+229,Revision - XXXVI,36,"Rhine Solar Limited Killa No. 80/6, Janti Kalan Rd, Sersa,",Rhine Solar Limited,"Killa No. 80/6, Janti Kalan Rd, Sersa","Killa No. 80/6, Janti Kalan Rd, Sersa",R-91008249,R-91008249,71.0,71.0,,36,RHINE SOLAR LIMITED
+35,Revision-XLVI,16,OSWAL SOLAR OPPOSITE DD INTERNATIONAL,OSWAL SOLAR OPPOSITE DD INTERNATIONAL,,,R-91013935,R-91013935,513.0,513.0,,46,OSWAL SOLAR PRIVATE LIMITED
+257,Revision - XXXVI,65,"HQ Lamps Plot No. 459-B, Sector - 53, Phase III,",HQ Lamps,"Plot No. 459-B, Sector - 53, Phase III","Plot No. 459-B, Sector - 53, Phase III",R-91014206,R-91014206,46.0,46.0,,36,HQ LAMPS
+68,Revision-XLIII,6,"Gautam Solar Pvt. 7 KM Milestone, Tosham","Gautam Solar Pvt. 7 KM Milestone, Tosham",,,R-91017574,R-91017574,3224.0,3224.0,,43,GAUTAM SOLAR PRIVATE LIMITED
+90,Revision-XLI,2,"MKTEK 6-16, 6/1/1 1-2,","MKTEK 6-16, 6/1/1 1-2",,,R-91017639,R-91017639,46.0,46.0,,41,"MKTEK 6-16, 6/1/1 1-2"
+80,Revision-XLII,4,"Loom Solar Block Ala, Palwal",Loom Solar,"Block Ala, Palwal","Block Ala, Palwal",R-91017728,R-91017728,30.0,30.0,,42,LOOM SOLAR PRIVATE LIMITED
+38,Revision- XLV,1,"Saatvik Solar Village Mohari, Tehisl-",Saatvik Solar,"Village Mohari, Tehisl","Village Mohari, Tehisl",R-91017981,R-91017981,3122.0,3122.0,,45,SAATVIK SOLAR INDUSTRIES PRIVATE LIMITED
+40,Revision- XLV,5,EASTMAN GREEN KHASRA,EASTMAN GREEN,KHASRA,KHASRA,R-91019879,R-91019879,374.0,374.0,,45,GREENBRILLIANCE RENEWABLE ENERGY LLP
+71,Revision-XLIII,9,"Jakson Engineers Plot No-25, Ecotech-III,",Jakson Engineers,"Plot No-25, Ecotech-III","Plot No-25, Ecotech-III",R-93005959,R-93005959,1209.0,1209.0,,43,JAKSON ENGINEERS LIMITED
+50,Revision-XLIV,2,Matri Shree Techno Dhauha Mirpur Chunar,Matri Shree Techno Dhauha Mirpur Chunar,,,R-93006483,R-93006483,49.0,49.0,,44,MATRI SHREE TECHNO INDUSTRIES
+201,Revision - XXXVI,12,"Alpex Solar Pvt. Ltd. Plot No. I-25 &I-26, UPSIDC, Site-5,",Alpex Solar Pvt. Ltd,"Plot No. I-25 &I-26, UPSIDC, Site-5","Plot No. I-25 &I-26, UPSIDC, Site-5",R-93007480,R-93007480,423.0,423.0,,36,ALPEX SOLAR PRIVATE LIMITED
+167,Revision-XXXVII,10,"Ankur Traders D-130, B.S. Road,",Ankur Traders,"D-130, B.S. Road","D-130, B.S. Road",R-93009695,R-93009695,54.0,54.0,,37,ANKUR TRADERS
+136,Revision-XXXVIII,18,"ADM Solar Plot No: 22/1, The Printer",ADM Solar,"Plot No: 22/1, The Printer","Plot No: 22/1, The Printer",R-93011576,R-93011576,514.0,514.0,,38,ADM SOLAR PRIVATE LIMITED
+66,Revision-XLIII,2,"Bluebird Solar Plot No: 5, Ecotech-II,",Bluebird Solar,"Plot No: 5, Ecotech-II","Plot No: 5, Ecotech-II",R-93014680,R-93014680,819.0,819.0,,43,BLUEBIRD SOLAR PRIVATE LIMITED
+95,Revision-XLI,12,"Integrated Plot No. 40, Sector -",Integrated,"Plot No. 40, Sector","Plot No. 40, Sector",R-93017612,R-93017612,284.0,284.0,,41,INTEGRATED BATTERIES INDIA PRIVATE LIMITED
+167,Revision-XXXVII,11,"Fujiyama Plot No. 51,52 Sector-",Fujiyama,"Plot No. 51,52 Sector","Plot No. 51,52 Sector",R-93022209,R-93022209,355.0,355.0,,37,FUJIYAMA POWER SYSTEMS LIMITED
+275,Revision - XXXVI,87,Easy Photo Voltech Khasra no 98 Sikhera road industraial,Easy Photo Voltech,Khasra no 98 Sikhera road industraial,Khasra no 98 Sikhera road industraial,R-93023272,R-93023272,81.0,81.0,,36,EASY PHOTO VOLTECH PRIVATE LIMITED
+275,Revision - XXXVI,85,"KLK Ventures Pvt. Ltd.A52, Sector 58, Gautam Budha Nagar,",KLK Ventures Pvt. Ltd.A52,"Sector 58, Gautam Budha Nagar","Sector 58, Gautam Budha Nagar",R-93024279,R-93024279,33.0,33.0,,36,KLK VENTURES PRIVATE LIMITEDA52
+100,Revision-XLI,16,"Avaada Electro Khasra No. 1145,",Avaada Electro,Khasra No. 1145,Khasra No. 1145,R-93030724,R-93030724,1311.0,1311.0,,41,AVAADA ELECTRO PRIVATE LIMITED
+274,Revision - XXXVI,82,"Indosolar Limited 3c/1, Ecotech-II, Udyog Vihar, Greater","Indosolar Limited 3c/1, Ecotech-II, Udyog Vihar, Greater",,,R-93032344,R-93032344,1525.0,1525.0,,36,INDOSOLAR LIMITED
+275,Revision - XXXVI,84,"BVG India Limited Plot No. 6, Sector Ecotech 8, Gautam",BVG India Limited,"Plot No. 6, Sector Ecotech 8, Gautam","Plot No. 6, Sector Ecotech 8, Gautam",R-93032417,R-93032417,367.0,367.0,,36,BVG INDIA LIMITED
+148,Revision-XXXVIII,23,"Nextbrio Khajoor Gaon,",Nextbrio Khajoor Gaon,,,R-93035440,R-93035440,21.0,21.0,,38,NEXTBRIO KHAJOOR GAON
+45,Revision- XLV,10,"Fujiyama Power 51,52,SECTOR-ECOTECH-","Fujiyama Power 51,52",SECTOR-ECOTECH,SECTOR-ECOTECH,R-93037940,R-93037940,355.0,355.0,,45,FUJIYAMA POWER SYSTEMS LIMITED
+47,Revision- XLV,15,SAEL SOLAR MFG. VILLAGE HUKUMAT SINGH,SAEL SOLAR MFG,VILLAGE HUKUMAT SINGH,VILLAGE HUKUMAT SINGH,R-97001058,R-97001058,220.0,220.0,,45,SAEL SOLAR MFG PRIVATE LIMITED
+242,Revision - XXXVI,46,"Inter Solar Systems Village Sundran, Derabassi, P.O –",Inter Solar Systems,"Village Sundran, Derabassi, P.O –","Village Sundran, Derabassi, P.O –",R-97001139,R-97001139,49.0,49.0,,36,INTER SOLAR SYSTEMS

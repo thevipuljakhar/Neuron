@@ -1,4 +1,18 @@
-# Logs
+# === SECRETS — NEVER commit ===
+.env
+*.env
+secrets.json
+neuron.db
+
+# === Runtime artifacts ===
+backups/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.pytest_cache/
+
+# === Logs ===
 logs
 *.log
 npm-debug.log*
@@ -12,6 +26,17 @@ dist
 dist-ssr
 *.local
 
+# === Large static assets (serve locally, not via git) ===
+static/bg-dark.mp4
+static/bg-light.mp4
+templates/Dark\ BG.mp4
+templates/Light\ BG.mp4
+
+# === Generated / temp ===
+_tmp_*.py
+_tmp_*.js
+graphify-out/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -22,3 +47,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Claude session files
+.claude/

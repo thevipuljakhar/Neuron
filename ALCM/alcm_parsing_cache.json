@@ -1,0 +1,310 @@
+{
+  "8280d3798fd32d8b3388ddcebac67c85fbc710cc727786ccbc3ce7d453e16a9f": [
+    {
+      "page_num": 3,
+      "revision": "Revision- 7",
+      "table_sno": "1",
+      "manufacturer_clean": "RENEWSYS INDIA PRIVATE LIMITED",
+      "location_clean": "Srinagar (V), Fabcity, Maheswaram (M), Ranga Reddy, Telangana",
+      "enlisted_capacity_clean": "452.0",
+      "technology": "TOPCon",
+      "validity_from": "30.04.2026",
+      "validity_to": "29.04.2030",
+      "block_text_sample": "1 M/s. Renewsys Sy. No. 114/P, Srinagar (V), 452 Bifacial N-Type RESERV 71P 24.60% 24.00 % to 25.60 % 30.04.2026 29.04.2"
+    }
+  ],
+  "933c960316b60931df2f5859811d4d2721d56380ade4c69386e3be81c919fb9b": [
+    {
+      "page_num": 5,
+      "revision": "Revision- 6",
+      "table_sno": "1",
+      "manufacturer_clean": "RELIANCE INDUSTRIES LIMITED",
+      "location_clean": "Jamnagar, Gujarat",
+      "enlisted_capacity_clean": "1238.0",
+      "technology": "HJT",
+      "validity_from": "13.04.2026",
+      "validity_to": "12.04.2030",
+      "block_text_sample": "1 M/s. Reliance New Energy Complex AT 1238 HJT Solar Cell, HJNxx 25.40% 23.80 % to 25.60 % 13.04.2026 12.04.2030 Industr"
+    },
+    {
+      "page_num": 5,
+      "revision": "Revision- 6",
+      "table_sno": "2",
+      "manufacturer_clean": "JUPITER SOLARTECH PRIVATE LIMITED",
+      "location_clean": "Baddi, Solan, Himachal Pradesh",
+      "enlisted_capacity_clean": "991.0",
+      "technology": "Mono PERC",
+      "validity_from": "13.04.2026",
+      "validity_to": "12.04.2030",
+      "block_text_sample": "2 M/s. Jupiter Solartech Floor No. Unit III, Village 991 Mono PERC Bifacial Solar 182.2x183.75 23.70% 20.00 % to23.80 % "
+    },
+    {
+      "page_num": 5,
+      "revision": "Revision- 6",
+      "table_sno": "3",
+      "manufacturer_clean": "WEBSOL ENERGY SYSTEM LIMITED",
+      "location_clean": "Falta, West Bengal",
+      "enlisted_capacity_clean": "1202.0",
+      "technology": "Mono PERC",
+      "validity_from": "24.11.2025",
+      "validity_to": "23.11.2029",
+      "block_text_sample": "3 M/s Websol Energy Sector - II, Falta Special 1202 Mono Crystalline PERC WS182MP10 2 3 . 5 5 % 1 9 . 0 0 % t o23.60 % 2"
+    }
+  ],
+  "34fb780a68d4342b4d1978ac75356a9285f3dd02b2d5ef491071211646bdc82a": [
+    {
+      "page_num": 7,
+      "revision": "Revision - 5",
+      "table_sno": "1",
+      "manufacturer_clean": "FUJIYAMA POWER SYSTEMS LIMITED",
+      "location_clean": "Gautam Buddha Nagar, Uttar Pradesh",
+      "enlisted_capacity_clean": "437.0",
+      "technology": "Mono PERC",
+      "validity_from": "13.02.2026",
+      "validity_to": "12.02.2030",
+      "block_text_sample": "1 M/s Fujiyama KH-345/1, 345/2, 437 Bifacial Mono-c-Si UT-182M 23.41% 22.60% to 23.60% 13.02.2026 12.02.2030 Power Syste"
+    }
+  ],
+  "7f2e87ef782aa4be32a823d22e82bfbf558aee7d3f7d40829d062e2d9a8df33c": [
+    {
+      "page_num": 9,
+      "revision": "Revision-4",
+      "table_sno": "1",
+      "manufacturer_clean": "EVERVOLT SOLAR TECHNOLOGY INDIA PRIVATE LIMITED",
+      "location_clean": "Sricity, Tirupati, Andhra Pradesh",
+      "enlisted_capacity_clean": "1074.0",
+      "technology": "Mono PERC",
+      "validity_from": "05.02.2026",
+      "validity_to": "04.02.2030",
+      "block_text_sample": "1 M/s Evervolt No. 250, Thespia Drive, 1074 Bifacial Mono-c-Si EVT-M10-BR-PERC 23.10% 22% to 23.50 % 05.02.2026 04.02.20"
+    },
+    {
+      "page_num": 9,
+      "revision": "Revision-4",
+      "table_sno": "2",
+      "manufacturer_clean": "MUNDRA SOLAR PV LIMITED",
+      "location_clean": "Mundra, Kutch, Gujarat",
+      "enlisted_capacity_clean": "2298.0",
+      "technology": "TOPCon",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "2 M/s Mundra Solar Survey No 180 P, Co Mundra 2298* Bifacial N Type TPRB16 25.35% 24.5 % to 25.7 % 31.07.2025 30.07.2029"
+    },
+    {
+      "page_num": 9,
+      "revision": "Revision-4",
+      "table_sno": "3",
+      "manufacturer_clean": "PREMIER ENERGIES PHOTOVOLTAIC PRIVATE LIMITED",
+      "location_clean": "Maheshwaram (M), Ranga Reddy, Telangana",
+      "enlisted_capacity_clean": "1358.0",
+      "technology": "TOPCon",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "3 M/s Premier Plot No. 8/B/1 & 2, Survey 1358** Bifacial N-Type PE_BLUE SHARK_N 25.37% 24 % to 26 % 31.07.2025 30.07.202"
+    },
+    {
+      "page_num": 9,
+      "revision": "Revision-4",
+      "table_sno": "4",
+      "manufacturer_clean": "FS INDIA SOLAR VENTURES PRIVATE LIMITED",
+      "location_clean": "Pillaipakkam, Tamil Nadu",
+      "enlisted_capacity_clean": "3433.0",
+      "technology": "Deemed Eligible (First Solar Thin-Film)",
+      "validity_from": "31.07.2025",
+      "validity_to": "28.04.2028",
+      "block_text_sample": "4 M/s. FS India Plot No. A-1/1, Sipcot 3433* Is enlisted in ALMM List-I for solar PV modules and is deemed to be eligibl"
+    }
+  ],
+  "cb97b65795bb3b95f4da50ff7631e1c46e0ba932d52821391cb2311e46acc3a1": [
+    {
+      "page_num": 11,
+      "revision": "Revision-3",
+      "table_sno": "1",
+      "manufacturer_clean": "WAAREE ENERGIES LIMITED",
+      "location_clean": "Degam, Chikhli, Navsari, Gujarat",
+      "enlisted_capacity_clean": "1328.0",
+      "technology": "Mono PERC",
+      "validity_from": "15.12.2025",
+      "validity_to": "14.12.2029",
+      "block_text_sample": "1 M/s Waaree Sr. No. 1328 Mono Crystalline PERC(P- WSC-P-M10-10BB 23.55% 22.20 % to 23.50 % 15.12.2025 14.12.2029 Energi"
+    },
+    {
+      "page_num": 11,
+      "revision": "Revision-3",
+      "table_sno": "Secondary",
+      "manufacturer_clean": "WAAREE ENERGIES LIMITED",
+      "location_clean": "Degam, Chikhli, Navsari, Gujarat",
+      "enlisted_capacity_clean": "3923.0",
+      "technology": "TOPCon",
+      "validity_from": "",
+      "validity_to": "",
+      "block_text_sample": "3923 Mono Crystalline TOPCon WSC-N-M10R-16BB 25.54% 24.40% to 25.50 % (N- Type) Bifacial Solar Cell Mono TOPCon Solar Ce"
+    }
+  ],
+  "468166daa22b8affc3c69a9a8a7da6a82f4211ffa284f8526de0f653b41a8e70": [
+    {
+      "page_num": 13,
+      "revision": "Revision-2",
+      "table_sno": "1",
+      "manufacturer_clean": "WEBSOL ENERGY SYSTEM LIMITED",
+      "location_clean": "Falta, West Bengal",
+      "enlisted_capacity_clean": "602.0",
+      "technology": "Mono PERC",
+      "validity_from": "24.11.2025",
+      "validity_to": "23.11.2029",
+      "block_text_sample": "1 M/s Websol Energy Sector - II, Falta Special 602 Mono Crystalline PERC WS182MP10 2 3 . 1 6 % 1 9 . 0 0 % to 23.60 % 24"
+    }
+  ],
+  "92491313a1e4ab02e1ecde0dc4a1985040fda81cce3f9c1f5f23e24a4e7dc4fd": [
+    {
+      "page_num": 15,
+      "revision": "Revision-1",
+      "table_sno": "1",
+      "manufacturer_clean": "TP SOLAR LIMITED",
+      "location_clean": "Gangaikondan, Tirunelveli, Tamil Nadu",
+      "enlisted_capacity_clean": "4480.0",
+      "technology": "Mono PERC",
+      "validity_from": "23.09.2025",
+      "validity_to": "22.09.2029",
+      "block_text_sample": "1 M/s. TP Solar Ltd. Plot No. A109, Near Elcot 4480 Mono Crystalline PERC TPSLM10PM10B 23.25% 22.00 % to 23.70 % 23.09.2"
+    },
+    {
+      "page_num": 15,
+      "revision": "Revision-1",
+      "table_sno": "Secondary",
+      "manufacturer_clean": "TP SOLAR LIMITED",
+      "location_clean": "Gangaikondan, Tirunelveli, Tamil Nadu",
+      "enlisted_capacity_clean": "53.0",
+      "technology": "TOPCon",
+      "validity_from": "",
+      "validity_to": "",
+      "block_text_sample": "53 Mono Crystalline 182.2-247-10BB-160F- 23.30% 22.50 % to 25.50 % TOPCon Bifacial Solar TOPCon cell, (182.2 mm × 182.2 "
+    },
+    {
+      "page_num": 15,
+      "revision": "Revision-1",
+      "table_sno": "2",
+      "manufacturer_clean": "TATA POWER RENEWABLE ENERGY LIMITED",
+      "location_clean": "Electronic City, Bangalore, Karnataka",
+      "enlisted_capacity_clean": "280.0",
+      "technology": "Mono PERC",
+      "validity_from": "23.09.2025",
+      "validity_to": "22.09.2029",
+      "block_text_sample": "2 M/s Tata Power Sy No. 43P and 44(P), 280 Bifacial Mono c-Si PERC TPSM10MPE10B 22.89% [20% to 23.5 %] 23.09.2025 22.09."
+    }
+  ],
+  "68530f3e93b9579c43ae157b22c02f67d154b61c5d9dc73c781a3e758fcb721e": [
+    {
+      "page_num": 17,
+      "revision": "Original List",
+      "table_sno": "1",
+      "manufacturer_clean": "EMMVEE ENERGY PRIVATE LIMITED",
+      "location_clean": "Nelamangala, Bangalore, Karnataka",
+      "enlisted_capacity_clean": "1553.0",
+      "technology": "TOPCon",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "1 M/s Emmvee Sy No. 66-70/3, 1553 Bifacial N-Type EM16D1-TCM10 24.62% [20.0% - 26.0%] 31.07.2025 30.07.2029 Energy Pvt. "
+    },
+    {
+      "page_num": 17,
+      "revision": "Original List",
+      "table_sno": "2",
+      "manufacturer_clean": "PREMIER ENERGIES PHOTOVOLTAIC PRIVATE LIMITED",
+      "location_clean": "Maheshwaram (M), Ranga Reddy, Telangana",
+      "enlisted_capacity_clean": "751.0",
+      "technology": "Mono PERC",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "2 M/s Premier Plot No. 8/B/1 & 2, 751 Bifacial Mono c-Si PEPPL_PIRANHA_PT 23.24% [20.97% to 25.63 %] 31.07.2025 30.07.20"
+    },
+    {
+      "page_num": 17,
+      "revision": "Original List",
+      "table_sno": "3",
+      "manufacturer_clean": "PREMIER ENERGIES INTERNATIONAL PRIVATE LIMITED",
+      "location_clean": "Maheshwaram (M), Ranga Reddy, Telangana",
+      "enlisted_capacity_clean": "1174.0",
+      "technology": "Mono PERC",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "3 M/s Premier Plot No. 8/B/1 & 2, 1174 Bifacial Mono c-Si 23.24% [20.97% to 25.63 %] 31.07.2025 30.07.2029 Energies Surv"
+    }
+  ],
+  "f88eeb52403cf6db4b3839a203939ab18f178f21f1f5d67eea0afef3c3bc223d": [
+    {
+      "page_num": 18,
+      "revision": "Original List",
+      "table_sno": "4",
+      "manufacturer_clean": "MUNDRA SOLAR ENERGY LIMITED",
+      "location_clean": "Mundra, Kutch, Gujarat",
+      "enlisted_capacity_clean": "1939.0",
+      "technology": "Mono PERC",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "4 M/s. Mundra Survey No. 180 P, 1939 Bifacial Mono c-Si 23.43% [22.6% to 23.5 %] 3 1 . 0 7 . 2 0 2 5 3 0 . 0 7 . 2 0 2 9"
+    },
+    {
+      "page_num": 18,
+      "revision": "Original List",
+      "table_sno": "5",
+      "manufacturer_clean": "MUNDRA SOLAR PV LIMITED",
+      "location_clean": "Mundra, Kutch, Gujarat",
+      "enlisted_capacity_clean": "1893.0",
+      "technology": "TOPCon",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "5 M/s. Mundra Survey No. 180 P, 1893 Bifacial N Type 25.27% [ 24.6% to 25.5 % ] 31.07.2025 30.07.2029 Solar PV CO Mundra"
+    },
+    {
+      "page_num": 18,
+      "revision": "Original List",
+      "table_sno": "6",
+      "manufacturer_clean": "RENEW PHOTOVOLTAICS PRIVATE LIMITED",
+      "location_clean": "Dholera SIR, Ahmedabad, Gujarat",
+      "enlisted_capacity_clean": "1766.0",
+      "technology": "Mono PERC",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "6 M/s ReNew FP. No. 232(Part), 1766 Bifacial Mono c-Si 23.35% [22.4% to 23.8%] 31.07.2025 30.07.2029 Photovoltaics Surve"
+    }
+  ],
+  "d80d5c540941c467cf94b093cc57ec25f910940a6dcecbe96450da1f8d9ef563": [
+    {
+      "page_num": 19,
+      "revision": "Original List",
+      "table_sno": "7",
+      "manufacturer_clean": "JUPITER INTERNATIONAL LIMITED (UNIT 1)",
+      "location_clean": "Baddi, Solan, Himachal Pradesh",
+      "enlisted_capacity_clean": "339.0",
+      "technology": "Mono PERC",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "7 M/s. Jupiter Village Katha , PO & 339 Mono PERC 23.10% [20.0 % to 23.80 %] 31.07.2025 30.07.2029 International Tehsil "
+    },
+    {
+      "page_num": 19,
+      "revision": "Original List",
+      "table_sno": "8",
+      "manufacturer_clean": "JUPITER INTERNATIONAL LIMITED (UNIT 2)",
+      "location_clean": "Baddi, Solan, Himachal Pradesh",
+      "enlisted_capacity_clean": "440.0",
+      "technology": "Mono PERC",
+      "validity_from": "31.07.2025",
+      "validity_to": "30.07.2029",
+      "block_text_sample": "8 M/s. Jupiter Village Katha , PO & 440 Mono PERC 23.10% [20.0 % to 23.80 %] 31.07.2025 30.07.2029 International Tehsil "
+    },
+    {
+      "page_num": 19,
+      "revision": "Original List",
+      "table_sno": "9",
+      "manufacturer_clean": "FS INDIA SOLAR VENTURES PRIVATE LIMITED",
+      "location_clean": "Pillaipakkam, Tamil Nadu",
+      "enlisted_capacity_clean": "3212.0",
+      "technology": "Deemed Eligible (First Solar Thin-Film)",
+      "validity_from": "31.07.2025",
+      "validity_to": "28.04.2028",
+      "block_text_sample": "9 M/s. FS India Plot No. A-1/1, 3212 Is enlisted in ALMM List-I for solar PV modules and is deemed to be eligible for In"
+    }
+  ]
+}
