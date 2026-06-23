@@ -7,12 +7,12 @@
     },
     {
       "name": "Solar",
-      "value": 17.8,
+      "value": 17.4,
       "color": "#eab308"
     },
     {
       "name": "Wind",
-      "value": 9.9,
+      "value": 10.4,
       "color": "#22c55e"
     },
     {
@@ -34,7 +34,7 @@
   "us": [
     {
       "name": "Gas",
-      "value": 42.4,
+      "value": 42.5,
       "color": "#ea580c"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Solar",
-      "value": 6.9,
+      "value": 6.6,
       "color": "#eab308"
     },
     {
