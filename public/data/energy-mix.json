@@ -2,7 +2,7 @@
   "india": [
     {
       "name": "Coal",
-      "value": 58,
+      "value": 57.9,
       "color": "#7f1d1d"
     },
     {
@@ -34,7 +34,7 @@
   "us": [
     {
       "name": "Gas",
-      "value": 42.5,
+      "value": 42.4,
       "color": "#ea580c"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "name": "Wind",
-      "value": 10.1,
+      "value": 10.3,
       "color": "#22c55e"
     },
     {
