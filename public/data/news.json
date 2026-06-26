@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-qbkg6",
+    "id": "in-bjwqr",
     "title": "Govt may wind up Digital Communications Commission to end work overlaps, policy delays",
     "summary": "The government is considering disbanding the 37-year-old DCC due to delayed policy decisions and the finance ministry having taken over its budget approvals.&nbsp;",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/telecom/govt-digital-communications-commission-work-overlaps-policy-delays-dot-telecom-policies-dot-budget-telecom-secretary-11782379748815.html"
   },
   {
-    "id": "in-mz6wx",
+    "id": "in-jr30t",
     "title": "Indian airlines race to restore lucrative West Asia flights. But caution lingers",
     "summary": "IndiGo and Air India Express lead recovery in one of carriers’ key overseas markets, but overall capacity remains below last year as disruptions linger.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/indian-airlines-west-asia-flights-capacity-recovery-2026-11782355005689.html"
   },
   {
-    "id": "in-4n09r",
+    "id": "in-v7ci8",
     "title": "Mint Explainer | What the US sanctions waiver on Iranian oil sales means for India and the global energy market",
     "summary": "The US has waived sanctions on Iranian oil sales for 60 days, potentially boosting global oil supplies and lowering prices amidst increased demand. Indian refiners are expected to cautiously resume im...",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/us-sanctions-waiver-iran-oil-sales-india-global-energy-market-us-treasury-department-west-asia-war-oil-prices-refiners-11782198150350.html"
   },
   {
-    "id": "in-2onfl",
+    "id": "in-ozggj",
     "title": "ONGC shifts strategy towards natural gas as production outpaces crude",
     "summary": "ONGC chairman Arun Kumar Singh says gas has become the primary growth engine for the state-owned explorer, propelled by surging domestic consumption, favorable pricing overhauls, and fresh field disco...",
     "source": "LiveMint",
@@ -40,17 +40,7 @@
     "link": "https://www.livemint.com/industry/ongc-shifts-strategy-towards-natural-gas-as-production-outpaces-crude-11782049162781.html"
   },
   {
-    "id": "in-oyu85",
-    "title": "In a first, ONGC tapped to fund  ₹15,000 crore strategic oil reserve in Mangaluru amid Iran war woes",
-    "summary": "The proposed reserve will be built as an underground cavern in Mangaluru with a storage capacity of 1.75 million metric tonnes.",
-    "source": "LiveMint",
-    "timestamp": "2026-06-19T11:16:22.000Z",
-    "region": "India",
-    "category": "Fossil",
-    "link": "https://www.livemint.com/industry/energy/in-a-first-ongc-tapped-to-fund-15-000-crore-strategic-oil-reserve-in-mangaluru-amid-iran-war-woes-11781862431741.html"
-  },
-  {
-    "id": "us-0t1jz",
+    "id": "us-iafk8",
     "title": "Rapid US Grid Growth Could Rival Nation’s Largest System, Report Says - EnergyNow.com",
     "summary": "Rapid US Grid Growth Could Rival Nation’s Largest System, Report Says  EnergyNow.com",
     "source": "Google News US",
@@ -60,7 +50,7 @@
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVRqMFU1dE4wUG04eXI5OEJiNFhxR01oY0RndlM4VFJrRzNCU21xTTNjTlZEWWExT2FQUTNid0JkQlhiY2pQT2FqbmJSMzVSN1hPeFFka2UxWVBCbmRPdVZkT25TRGpJdWtZOTBYNmh4SDdiYWI4SmtjR1ozRDBFSnROcy1COC01ZWNsQl9XV1dKOVhrTk1tZi1zU0luT0E?oc=5"
   },
   {
-    "id": "us-759c8",
+    "id": "us-koxwf",
     "title": "Texas Power Demand Growth Nearly Five Times the Broader US, Report Says - EnergyNow.com",
     "summary": "Texas Power Demand Growth Nearly Five Times the Broader US, Report Says  EnergyNow.com",
     "source": "Google News US",
@@ -70,7 +60,7 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDE1YzlZWm92MURxMWo0YTdwLVRSRUxpLVBWTGs3NldRY000UEpnM3Fud0RsYXpRZlM0VHhZUm1hNTVrQzFUeUcwb3VvejBYS085R0FzN2E1bm94VVQ3WWFsTXRoT05NNWpydmRnbkNPZzZoM0l4clhiUFFJNWg4YzRRYVVRRDV3UkNDaWo1ZTJad3RncFZfbEtRcEplNGNYam95bE9n?oc=5"
   },
   {
-    "id": "us-afo2i",
+    "id": "us-15kpt",
     "title": "Trump's Nuclear Gamble Aims to Reshape the U.S. Power Grid - Crude Oil Prices Today | OilPrice.com",
     "summary": "Trump's Nuclear Gamble Aims to Reshape the U.S. Power Grid  Crude Oil Prices Today | OilPrice.com",
     "source": "Google News US",
@@ -80,7 +70,17 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVRDenFtNHUwVWZSSkhob2JmeWxtOG5PTmVLYWhPd1ROdFdiRFIxRzgtSDhYbGh3dTkyVzFyQTF3Nkd0UURpM29iUUxpS28yUWJHVkNhSmkwWnRsR1hVSVZxNnJwQ3A4bTVmcnptdTRvY3V4eXVwQmtjakRVZnFuQ0RwNGtJQnBkRVJ1eWZidUNqdFNaUWNjYkRUNlNaaDhjN3hGenFsOVQ5TGV5MHlxbG8xLXbSAboBQVVfeXFMTzJ5M1JhQXVNb2ZTTnJIRUYtNDBBNzNCeUotOGNZblFUWkJXSjltYldkdjRSU3hIa1lIUzRJRkMzLU44RjFoV2wzakN4d3lzMnZhUnFNNFk5RnUyZDZ1aXdqM3h0S1pzZ2NWT21JSzZ4bW5sQXNoa1FiWWMyVTNXSmh6N0NfeWVURzdVQkRVVmVEOHpYb0VuTlVwb3E3bVU5YkdTd3Y0WTlsRGZvdnhvM3pHeHdab1dtTUdR?oc=5"
   },
   {
-    "id": "gl-92kkx",
+    "id": "gl-nwiyx",
+    "title": "BRICS Energy Security: Strategies, Tensions & 2040 Outlook - Discovery Alert",
+    "summary": "BRICS Energy Security: Strategies, Tensions & 2040 Outlook  Discovery Alert",
+    "source": "Google News Global",
+    "timestamp": "2026-06-26T05:36:41.000Z",
+    "region": "Globe",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFZUTXVaSGRSRS1mLWNVLTlyV0taMXNkOTRxcUp3bmxSU3JoMk5IdWlheWp1NkJnUTNLU25LTF9qNWpxRFVGMUw3WU5fcjlSd2VrM3BFZTRfcEUtSmh2anVJN1VlenM0dkRWc25rTkNOZnBENjItVmlpc2FlSWtla2tVREItN1pYR25aSk9rdw?oc=5"
+  },
+  {
+    "id": "gl-f6m9t",
     "title": "Australia, Canada, UK Unite on Energy, Climate合作 - Mirage News",
     "summary": "Australia, Canada, UK Unite on Energy, Climate合作  Mirage News",
     "source": "Google News Global",
@@ -90,17 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWVvZFUxS1FmV0s3RV9kTWREa05ocGxDT3c3MV9QUVRXMmg2ZGRZYUgxY05LM3M4eDVpeWsxcF9acUlIRU44dndRV1M5YXh0emZZWWhGMkxqVk9GODFBbjJoTkI4bTh6RDUtNzhETnV4cWFsYkNkZkhBOFJYU0VSU18tdUtrdw?oc=5"
   },
   {
-    "id": "gl-kitsl",
-    "title": "Kernel upbeat on global clean energy fund’s outlook - BusinessDesk | NZ",
-    "summary": "Kernel upbeat on global clean energy fund’s outlook  BusinessDesk | NZ",
-    "source": "Google News Global",
-    "timestamp": "2026-06-25T17:00:00.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkE4dENOVi1kVXRzREUyckh0N3lNUTRVcTFJcVBEZTFuTFFVOURjYlpNcVVTLTY5UzVpRy1vTld2WWhnMTE2NHN0eC1sY3pKS0tYcVU0NVhuVWtPVTB2ZVJGcHJwMkV1WFo4ejZOcFVCYzJnam41ODRPclE3RkhvQ0s5U3p6VFk3LVUxNXMzakxKeUpYZlBOTw?oc=5"
-  },
-  {
-    "id": "gl-k5v8b",
+    "id": "gl-ci3wj",
     "title": "UK clean energy investment surpasses £100bn - Public Sector Executive",
     "summary": "UK clean energy investment surpasses £100bn  Public Sector Executive",
     "source": "Google News Global",
