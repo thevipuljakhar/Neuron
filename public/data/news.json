@@ -1,6 +1,26 @@
 [
   {
-    "id": "in-lr728",
+    "id": "in-zse17",
+    "title": "Solar module recycling policy in the works to curb harmful impact of waste, help recover reusable materials",
+    "summary": "With a projected 4.5 million tonnes of solar PV waste by 2050, stakeholder consultations are ongoing to establish norms for safe disposal and recycling by 2029-30.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-01T07:12:56.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/energy/india-solar-panel-recycling-policy-solar-waste-2030-11782878645356.html"
+  },
+  {
+    "id": "in-sisyw",
+    "title": "Nayara Energy cuts petrol prices by  ₹5/litre, diesel by  ₹3 as crude eases",
+    "summary": "Nayara Energy has become the first Indian oil marketer cut petrol and diesel prices after global crude eased following the Iran-US MoU and Strait of Hormuz reopening.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-01T05:01:23.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/news/nayara-energy-cuts-petrol-prices-by-5-litre-diesel-by-3-11782880887656.html"
+  },
+  {
+    "id": "in-7s7ts",
     "title": "Indian refiners brace for oil volatility after fresh Iran-US strikes",
     "summary": "The latest US-Iran conflicts threaten stability in West Asia and global oil markets. Indian refiners are cautious as tanker traffic resumes. Analysts predict renewed volatility and potential price ris...",
     "source": "LiveMint",
@@ -10,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/indian-refiners-brace-for-oil-volatility-after-fresh-iran-us-strikes-strait-of-hormuz-11782649172437.html"
   },
   {
-    "id": "in-hu5e2",
+    "id": "in-szgho",
     "title": "How a British import turned Kashmir into India’s trout capital",
     "summary": "A trout species introduced by the British over a century ago is powering an unlikely boom in Kashmir. Production has surged tenfold, fuelled by entrepreneurs and government support. But a warming clim...",
     "source": "LiveMint",
@@ -20,7 +40,7 @@
     "link": "https://www.livemint.com/industry/how-kashmir-became-indias-trout-farming-capital-11782624960816.html"
   },
   {
-    "id": "in-3wdpl",
+    "id": "in-m2ee9",
     "title": "Indian IT stays ashore as Accenture surfs the cybersecurity wave",
     "summary": "High costs and talent shortages leave domestic firms leaning on slower organic growth while global rivals deploy massive capital to rapidly scale security platforms.",
     "source": "LiveMint",
@@ -30,7 +50,7 @@
     "link": "https://www.livemint.com/industry/infotech/indian-it-cybersecurity-spending-accenture-cybersecurity-acquisitions-11782466836750.html"
   },
   {
-    "id": "in-0aqkz",
+    "id": "in-5xpja",
     "title": "Govt may wind up Digital Communications Commission to end work overlaps, policy delays",
     "summary": "The government is considering disbanding the 37-year-old DCC due to delayed policy decisions and the finance ministry having taken over its budget approvals.&nbsp;",
     "source": "LiveMint",
@@ -40,7 +60,7 @@
     "link": "https://www.livemint.com/industry/telecom/govt-digital-communications-commission-work-overlaps-policy-delays-dot-telecom-policies-dot-budget-telecom-secretary-11782379748815.html"
   },
   {
-    "id": "us-35gt7",
+    "id": "us-hx31p",
     "title": "U.S. issues emergency order for largest power grid as record heat nears (XLU:NYSEARCA) - Seeking Alpha",
     "summary": "U.S. issues emergency order for largest power grid as record heat nears (XLU:NYSEARCA)  Seeking Alpha",
     "source": "Google News US",
@@ -50,7 +70,7 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1A0d2xKcXZja1Qxbm9mU3lycHpVSTZJdGZPSTB5RlRPSFdfcWZyTmdyR0pRdlp3dnNBT3EwTllPQ2RucjlCS3A2T1d5NGJFTFhBY2xpN0ZKQTN4TUNuMzdvRWM2ZUFEazJlVnFBOEF5SndEeVR2SnZxTHdVZzVwQ1A5YlBuMVJFLVhmeXFVdzdWeGhjSHhXd08yZ2ZVeGRjZWVEcnJlVUpWYVox?oc=5"
   },
   {
-    "id": "us-nywhz",
+    "id": "us-nkglf",
     "title": "Biggest US power grid PJM moves towards managing data center demand - Reuters",
     "summary": "Biggest US power grid PJM moves towards managing data center demand  Reuters",
     "source": "Google News US",
@@ -60,7 +80,7 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDVRb0tuZ3ZMZVltVTdQTTBESmpOY3pZRERqbFprWTVGNEdtUERiOGFMd0UycFZOSUpyN1dIVjA3UmthRVNqSXhudnNyM1R6WlZ6ckh2YVNGdTRhdTA2a2NxblZVODJUMEdxV3pwUERyR2RwNDhZOVBqeF9PQjBvTEZZLTdEZS1HMzNJLVh5UDdiVkJ1NUhvV0tlTy1LZU5tU0haWjRXR3hSS1RnYUFUdA?oc=5"
   },
   {
-    "id": "us-77hb9",
+    "id": "us-ye9mw",
     "title": "Emergency Ordered for Largest US Power Grid as Record Heat Nears - Hart Energy",
     "summary": "Emergency Ordered for Largest US Power Grid as Record Heat Nears  Hart Energy",
     "source": "Google News US",
@@ -70,33 +90,33 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0w5OGJ5YUNKa2hzSFRiX2FGUURTYzZQT2g1UHpfZ3R2a3UySDFRdVdFQk5wZGs1d3ViTzhUbkdWVm93RVpuZUx2bHRROHlrQ1cxMTBfVFc5czc1VW1hb2NGV09PVnR3MTgwWkZiaGlFNDNmX3FINkJ6eUl1VzZ0TkU4cUFVVlF0c2owcw?oc=5"
   },
   {
-    "id": "gl-dmi0q",
-    "title": "Global energy investment hits record as ASEAN power grids face strain - Nation Thailand",
-    "summary": "Global energy investment hits record as ASEAN power grids face strain  Nation Thailand",
+    "id": "gl-krdsc",
+    "title": "The iShares Global Clean Energy ETF. BlackRock pushes a diversified renewables basket - AD HOC NEWS",
+    "summary": "The iShares Global Clean Energy ETF. BlackRock pushes a diversified renewables basket  AD HOC NEWS",
     "source": "Google News Global",
-    "timestamp": "2026-07-01T01:39:00.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZVnZScURDS0JaUGt0NXM0M0RwT0JVR3ZpSjllNzNCaW5ieS12N3lXTHNib3lYZ1h1ZmJ3MU0tTkZXdnpEMlhqUjMzSVNDVW84eTZtOWhxbEl3SXdXMXd5Vi1vR3dzVjRjWkRBREs4RFA?oc=5"
-  },
-  {
-    "id": "gl-oppx6",
-    "title": "US Drives a Third of Global CO2 Emissions Rise in 2025 - energynews.pro",
-    "summary": "US Drives a Third of Global CO2 Emissions Rise in 2025  energynews.pro",
-    "source": "Google News Global",
-    "timestamp": "2026-06-30T13:47:13.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWdyLURpSlVJalRhQ3pUUXZSZlhFanZYVU5XUTR6YU9ZNFY4d2R0OGF1bzdDTkRLZUl6MW1MLUJwZnZUM2l3a2RWajVBNEU0WTBMSEF0dWx5Nl9ZUkY1cXdKNXo2SlFMeGdvUmNGelJtTkxZNFY1blVPX1Z0Sk44aFlPazBLUnM?oc=5"
-  },
-  {
-    "id": "gl-bf17q",
-    "title": "Industry Leaders Explore Green Hydrogen Demand and Decarbonisation Pathways at Global Summit - Elets eGov",
-    "summary": "Industry Leaders Explore Green Hydrogen Demand and Decarbonisation Pathways at Global Summit  Elets eGov",
-    "source": "Google News Global",
-    "timestamp": "2026-06-30T11:36:40.000Z",
+    "timestamp": "2026-07-01T06:31:45.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0xRNHpVSVpYTktDOVlqMnVoY2x1RFFhbndBVFNWYkttNmJ4akRDb0tXWno3U2c5MXZOaG5OSXFJM19oS3Y5c1NsUW1VX2ZmcWpBU2I5SG02VVE0dWc0ZHI2Q1pHU3FZRWVIMHdZcFVrSi1RbFp3ZHJpeDQ4VWx5QlphTlZodHNIeWc1ZWJxYldwcHg2dmY3TC04SUxoNVZpMXREbGthRG9QSGhLZTRWX1diZWYwaTNYdU5DU19mWnMyTnhDal91d2J3?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzcwbEFzcmVXTFgta2UxUHJmdDdib3loYnBDdGNraUF6bVZManhTcWpPLVBPTllZV2kxWEhBVTZfU3dDVjhyREQ0dnNqeENETllUYVRZTXcwa1FDV1NmWlNUbUwtakhua3RMM3RwWFhHRkhqeERvRl9Pb2J1bzJ0aW1SMXlqcjEyYXFLTHBPVk9zVFQ1QjlidDBGQlhuUFQ0WjNZczdjVVVZcU5TNmZ2bGc3Z2poZ1NrQTU1ZlFLOGEteHM?oc=5"
+  },
+  {
+    "id": "gl-2pvyc",
+    "title": "Hydrogen Generation Market Expected to Reach $262 Billion by 2031 as Green Hydrogen Investments Accelerate Worldwide - EIN Presswire",
+    "summary": "Hydrogen Generation Market Expected to Reach $262 Billion by 2031 as Green Hydrogen Investments Accelerate Worldwide  EIN Presswire",
+    "source": "Google News Global",
+    "timestamp": "2026-07-01T06:14:00.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcmRFVXZFTGxpUUVqQUI4MWJGNFZ1REZtc3BvOWdvbjczZGhkR1NZZm9Qb20wUmxnQ3FSTm02WWNlWG1kYUM2c2RDakR4VGRJM29qZGU0OUlDcmVORVdxbkZ5WDJsMVZOOU9mSXZyMmlGQUJ6eU5CWjlUOVN0N3dWMS1jVExwWk1MYS1yR0ZxY0tEdTk1c2IxZVJCX3ZQSl96MS05ODNvMXk5ZmRiTDZmbXdTajgyRlh3VmpLR2s2OTc5N3JEdEpiZWZqVnRxdXNyVDlqMFVUYkwxc2JVRVlxYXdDeS1nZThYRHFNYWEwc3Y0LVNO?oc=5"
+  },
+  {
+    "id": "gl-xr8q7",
+    "title": "Alfanar and Senvion Reaffirm Commitment to Localisation in India's Wind Energy Sector at Powering the Next Era - Energetica India Magazine",
+    "summary": "Alfanar and Senvion Reaffirm Commitment to Localisation in India's Wind Energy Sector at Powering the Next Era  Energetica India Magazine",
+    "source": "Google News Global",
+    "timestamp": "2026-07-01T05:30:14.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQkNUZ2NQUFVDMVlNenhudWx6Q2hsQS1zc0RpMFRGZlQ4WU45QkppaS04emo4NEZveXpyVnR0UWkwMllYVmduQzlBaDhsaFJlaWNVa01UWU5GTXhtTHVjTHJzZlhPSTBLeWhXblVGazVMX21uVHJCYlY1TjIta1pSN2NNYW9yWlFrcDlnSndreXlDX3RnUjd4TnlkdmZCWk5pbVVuTVFocWdPcnNFQlJ5dUVQSzZmbVpIdWJIdjkwTmVTS2lxRXVRYW9qdlVESXNZVTZuR0RhMWdaS29JV0ZzMVJR?oc=5"
   }
 ]
