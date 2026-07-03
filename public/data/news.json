@@ -1,76 +1,36 @@
 [
   {
-    "id": "in-ted4i",
-    "title": "Horror films don't need stars or big budgets to drive footfalls in Indian theatres",
-    "summary": "The success of Haunted 3D highlights horror's theatrical appeal in India, proving that low-budget films can thrive without star power. Experts note audiences prefer compelling narratives over familiar...",
-    "source": "LiveMint",
-    "timestamp": "2026-07-02T05:34:47.000Z",
-    "region": "India",
-    "category": "Grid",
-    "link": "https://www.livemint.com/industry/media/horror-movies-india-box-office-success-low-budget-films-11782892117327.html"
-  },
-  {
-    "id": "in-8wj12",
-    "title": "Red Bull, Campa, Monster among beverage brands issued notices over ‘energy drink’ labels",
-    "summary": "The action signals tighter regulatory scrutiny in the fast-moving consumer goods industry, with authorities stepping up enforcement against branding and product claims that are not backed by India's f...",
-    "source": "LiveMint",
-    "timestamp": "2026-07-01T16:50:41.000Z",
-    "region": "India",
-    "category": "Grid",
-    "link": "https://www.livemint.com/industry/red-bull-campa-monster-beverage-brands-issued-fssai-notices-energy-drink-labels-11782917724627.html"
-  },
-  {
-    "id": "in-c4mrd",
-    "title": "Solar module recycling policy in the works to curb harmful impact of waste, help recover reusable materials",
-    "summary": "With a projected 4.5 million tonnes of solar PV waste by 2050, stakeholder consultations are ongoing to establish norms for safe disposal and recycling by 2029-30.",
-    "source": "LiveMint",
-    "timestamp": "2026-07-01T07:12:56.000Z",
-    "region": "India",
-    "category": "Renewable",
-    "link": "https://www.livemint.com/industry/energy/india-solar-panel-recycling-policy-solar-waste-2030-11782878645356.html"
-  },
-  {
-    "id": "in-6h1gh",
-    "title": "Nayara Energy cuts petrol prices by  ₹5/litre, diesel by  ₹3 as crude eases",
-    "summary": "Nayara Energy has become the first Indian oil marketer cut petrol and diesel prices after global crude eased following the Iran-US MoU and Strait of Hormuz reopening.",
-    "source": "LiveMint",
-    "timestamp": "2026-07-01T05:01:23.000Z",
-    "region": "India",
-    "category": "Fossil",
-    "link": "https://www.livemint.com/news/nayara-energy-cuts-petrol-prices-by-5-litre-diesel-by-3-11782880887656.html"
-  },
-  {
-    "id": "us-m5iac",
-    "title": "Electric school buses tapped to shore up fragile US power grids during summer heat - Reuters",
-    "summary": "Electric school buses tapped to shore up fragile US power grids during summer heat  Reuters",
+    "id": "us-c9glh",
+    "title": "US heatwave raises alarms over AI data centre energy demands - Al Jazeera",
+    "summary": "US heatwave raises alarms over AI data centre energy demands  Al Jazeera",
     "source": "Google News US",
-    "timestamp": "2026-07-03T10:37:51.000Z",
+    "timestamp": "2026-07-03T19:51:55.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdm84QkFrYzRkX2xNMEdMX09pWk5qa1JRWDNLa0hidWlmM1htejBDaUFPWExDZlJLS015WmhtZE96b2RDSzBYRFBHbTNRNDg2b1BFbV9xTm5UTVZmVHg3RGt3VnYySzFDLUZ4N1Fwd29nSTZxRVV3YjBUMkxoSk9FeXNtM25HWjRLejVCZlp4SGUwM01wcTV6YjZ1UXdCcDVibk1qRENTODNBNWstaF9YNnIxRWFUSDUtbzg4UWN4Z19YTnFUSEN0cnd6OA?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWnBJZC1YOTZBS3FmUTNOLU9iRzlrSTg0NEsxMktZdl9YZExtNzNUQXd6LU5POTB1RGdVTjRLdGFSU3NVeW41b0o4a3EtNVJJRklBYjhNbFFXdGpFZEpkMTl3a1dmMXZvclBFdEMtc0lIZWcyeElFZ0VOYlVpRVJ0ZmFySVhYNXJsRVR0Zk15WEpBUFFCdG53d2oxM2pDUXZLRzBydU1R0gGrAUFVX3lxTE5BemtSRXlIbzRJR2hMZm5JMTNtRTRfZC1aYTJYZzRvZ21mRC1wV3FtVEFkb2ctSFpKWWlFam95S1Z5UjFLbHRrUEN4NTFEWDRzekotVW5Bd2hsTG5lcEN1ZXRwREIyOTBMbTIzNk1KUXF4alNDM21rV0hUck1uVkIwZTlYM0dqSm5PLTlRQXEwQndicXgzMWVPazRITWwzMzNQYml1cnB2RmxVNA?oc=5"
   },
   {
-    "id": "us-tbwmy",
-    "title": "Extreme heat wave threatens U.S. power grids and July 4 travel - CNBC",
-    "summary": "Extreme heat wave threatens U.S. power grids and July 4 travel  CNBC",
+    "id": "us-t65u6",
+    "title": "Largest US power grid PJM escalates emergency actions to avoid blackouts - Reuters",
+    "summary": "Largest US power grid PJM escalates emergency actions to avoid blackouts  Reuters",
     "source": "Google News US",
-    "timestamp": "2026-07-03T08:06:40.000Z",
+    "timestamp": "2026-07-03T19:08:33.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSE1wM29tRWxxempQM2Y4ckc5ck1MR0ladlE5OS1hLVZybnlHdFJZamZqLW9ydXZfMEhlNFhRNDRxSDBnRUJWdGZuQkdIam9NYzJlUlNfS18xbUMwMmZBcFpxdUo3Tmt0WHItel9nMGd1MEtkN1hpVzR3ZEJKY19aWFFxaHXSAYoBQVVfeXFMUERyUHBvbjkyVVBRN3Zla19iOHQ0X2Q1eUhNT2dqaGJuTVRNM0d2eVZ1UWxhUjg0ZHFrTHlJYnNFRHdEQlBENHFLRXI3X3dSMXJvZWxEV3RXTkkwZ2pzaWtkaUZvMGV4TkdGZWlwZWJPQmpkR3RHN1dKQ3ZlNk1QZWVYcmE0RGpWbGh3?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1AxOV83VXpuZGNyLTd1Q2hFVHVXR29GQ3VRZy1BaDhUSkFkVVM2SEtJenlGTkhDRUdjOHY1cVNCOFF3dWZOVFgzSWtqR3NDSHlOekpzazEwOGNvakxfb3cxYWtJX1lyc0VKeGZRTVpfeENhMjMxZkhUTUhOMGNiSVc5Rk43OWt4MmlfM29wY2Nha0J6bmh6SWRNVHBVYzFfMjhVd1hPZFB2eGVHY2dGRkFaTjFYa3J2OWRvV2oteE5KN3czelE?oc=5"
   },
   {
-    "id": "us-90b1g",
-    "title": "Feds: Data centers must use generators to preserve power, prevent blackouts during heat wave demand - WRAL",
-    "summary": "Feds: Data centers must use generators to preserve power, prevent blackouts during heat wave demand  WRAL",
+    "id": "us-xgik4",
+    "title": "PJM Power Grid: Cutting Down on Energy Demand - Devdiscourse",
+    "summary": "PJM Power Grid: Cutting Down on Energy Demand  Devdiscourse",
     "source": "Google News US",
-    "timestamp": "2026-07-03T02:33:32.000Z",
+    "timestamp": "2026-07-03T18:36:46.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OZ25zMnUtY3U3c1RPcnd3SUo0XzQxM0lHRTNpa3JJU2NLSDVWVVVEQzFGV0lheEtRcVY1cHU3aFE4RWg3Uk4wbGxORWhvX2lEZTZNNDRBMzRMY0pNeDJvOGVYek9hZi0xNjhVNW91bWJoVUk?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0hOZzJIYUZlZ3VEcG5SQ2thUTIwWWp6MU04Wkl5SF8tbVBWbk1lZnBLOUlkVDdmVk9MRjhzN0d5eFdQR3hVdmdkdTJpeFUtSkI3RjJFa3lJOGZXWUdDVGp4T1Z1Y3VBZ1dFcE4zZFN3S1l6d3RXTTJ6bmozNDBJckhaNHZySG00RkdBLUlLb2ttQUlhclR5ZWJSOHFaUzhfREVjMFQyTXI4NmdWYVHSAbMBQVVfeXFMTm9FRFBHV2VTb3RlZzk5MVhaUjRsbHJyNWNZazVJakg0QjUwdk5jOTN5QkU4MG1vbFFia3ZTQW5fTjdoZVdQUm1XS0hoWmNJbnUwNlkzYkg1X29Pd0pFTXczLWVOZ0Qtanp5ZWt2UzY3OUM1aVdFME9rUDZEcFVnZUdUb2k4QkFZTmJhaGdvR0lpVzJScGgteEtzaU52dWVfSzBGZjlQOVNLLTR5ZEhYRjlKeG8?oc=5"
   },
   {
-    "id": "gl-7jpyy",
+    "id": "gl-a9xvb",
     "title": "TotalEnergies updates strategy for low-carbon transition while maintaining global oil and gas presen - Ad-hoc-news.de",
     "summary": "TotalEnergies updates strategy for low-carbon transition while maintaining global oil and gas presen  Ad-hoc-news.de",
     "source": "Google News Global",
@@ -80,7 +40,7 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0hmbjROVXBEeEhsekxkRllVYzlnWFJMcHZQZGNWWmxNdFlCbDhZVWhWUWlsV2pVZ2FUOXZkelVVTGZXTjUzYno2NVp1UUhRdkxHUnJ6TXljOEh6M1VqSHl3czdXUW10MnVqamdaZGNTdG5PUUpabjlQUzlFalQxUkp4WHBsTUhOWjRSbzVCNVVpbEN1Wm12OHk3WTJ2Q3d1WnB6QThhYzVFM2UxVXdzdjZEZFVmbV9yODBPUklydXVGcjVhQkdkMDFjOW95QQ?oc=5"
   },
   {
-    "id": "gl-862ca",
+    "id": "gl-k2y9z",
     "title": "Octopus Energy generation reaches £8.5 billion in renewable assets - Energy Live News",
     "summary": "Octopus Energy generation reaches £8.5 billion in renewable assets  Energy Live News",
     "source": "Google News Global",
@@ -90,13 +50,13 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlN4SGN1alAxcFFwdW9lLWc2Nm1OUU8tczFNR2JQek43ZG5BSU11YlFRTWdwdlE3anJSbkUyUUwwcTFudnJjSjQ4WU9VamRWTlRxb2ZIMlJzNU82T3N3T3lZOWZabTY3aFN0OEFBbzdVTkJVQXRNSUFYelRVQTRSN3hZOGR6UnZoM19TMG9oZTdQNkZ5UnhhVEFNeV93UENpVnZjbUsxM0pQX0p6?oc=5"
   },
   {
-    "id": "gl-t5qso",
+    "id": "gl-ut8mf",
     "title": "India can lead the global clean energy transition through green growth: Erik Solheim - ETGovernment.com",
     "summary": "India can lead the global clean energy transition through green growth: Erik Solheim  ETGovernment.com",
     "source": "Google News Global",
     "timestamp": "2026-07-03T01:24:19.000Z",
     "region": "Globe",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd0N6dTZ3cDZhd0F6aklNRFFETjlyeHlqZTBUNjVZNU4ybGhuOVROLXBVYUlMMUhZd0RWVHNDTnRiLU1vUG41cVc2Mm5wY0tKdWZRVzN3LUJQaUhPeFN2UWFHU2JPbHhod0FBNllUbzdTZ1NlSE84ZzM1cHFqc0g2Qldxbmt0NlVlcURjMXJLSWtBYWlQU0NkUnItWWsyMnFubkFGTGhfaDlxcy1nZ3dieFAwenJJZV9teVRGVGVtaGoySmVZdUdPc2RDUGRhcjdOdG5YMThMU1FRU2prTEk5MnlLdzQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd0N6dTZ3cDZhd0F6aklNRFFETjlyeHlqZTBUNjVZNU4ybGhuOVROLXBVYUlMMUhZd0RWVHNDTnRiLU1vUG41cVc2Mm5wY0tKdWZRVzN3LUJQaUhPeFN2UWFHU2JPbHhod0FBNllUbzdTZ1NlSE84ZzM1cHFqc0g2Qldxbmt0NlVlcURjMXJLSWtBYWlQU0NkUnItWWsyMnFubkFGTGhfaDlxcy1nZ3dieFAwenJJZV9teVRGVGVtaGoySmVZdUdPc2RDUGRhcjdOdG5YMThMU1FRU2prTEk5MnlLdzTSAeoBQVVfeXFMTUkwSk51dFMzc1pLR1V5SXRDbE84X0dtQTg2ZWZxSklPdkduREIwN1JJQ3BxOGd1bmhxSlNmQ1hpNVVwM0JWcXAyb21MR0NxVEhfQ005cFROeGliSFU0MXdYOHJkSG9PblVlcnA4S2RGWUd0bkpwRmM4Vjk0RGM2bmJ5TmpZdTJ2aTFqSGNwaWYwc2ZEdXBURkNGMktOUHU2dUlIdFRvcThVZjhVWUNOb0JiLVA3VFlFMHBWWk05Tmc2NWlNWXpmWWVydEdkSjZfYjI5ZVdnLXhYLW0zQkxlWVJtT0hnOEVvanB3?oc=5"
   }
 ]
