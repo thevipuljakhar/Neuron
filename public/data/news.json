@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-ydvs1",
+    "id": "in-kuw24",
     "title": "Peak power demand may hit 300 GW next year, says power minister",
     "summary": "Rising electricity consumption from data centres, AI and electric vehicles is expected to push peak demand to 300 GW next year, underscoring the need to rapidly expand energy storage capacity.",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/energy/peak-power-demand-may-hit-300-gw-next-year-says-power-minister-11783525296868.html"
   },
   {
-    "id": "in-f19a9",
+    "id": "in-2xisl",
     "title": "DoT weighs Isro's concerns as telcos push for faster WiFi",
     "summary": "India's next WiFi upgrade faces a regulatory test. The telecom department is weighing operators' demand for high-power use of the 6 GHz band against Isro's concerns over satellite interference, a deci...",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/telecom/dot-faster-wifi-broadband-isro-satellite-rjio-bharti-airtel-11783415755862.html"
   },
   {
-    "id": "in-dilnv",
+    "id": "in-2eiyz",
     "title": "Airlines take off on summer tailwinds as May traffic rebounds",
     "summary": "Monthly passenger volumes surged 12% over April to 15.39 million, driven by holiday travel and a low base after geopolitical tensions dampened performance last year.",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/airlines-take-off-on-summer-tailwinds-as-may-traffic-rebounds-11783431337793.html"
   },
   {
-    "id": "in-6a8nx",
+    "id": "in-yyza3",
     "title": "Asia's hydro power slump puts pressure on coal as El Niño weakens rainfall, says S&amp;P",
     "summary": "Hydropower generation across seven Asian markets fell sharply in June, with India and Vietnam accounting for more than 80% of the decline, according to S&amp;P Global Energy.",
     "source": "LiveMint",
@@ -40,7 +40,7 @@
     "link": "https://www.livemint.com/industry/energy/asias-hydro-power-slump-puts-pressure-on-coal-as-el-ni-o-weakens-rainfall-says-sp-11783422926210.html"
   },
   {
-    "id": "in-i5nzu",
+    "id": "in-6g9tv",
     "title": "EV surge, tariff impact turns India into net auto parts importer in FY26",
     "summary": "Exports at $24 billion grew 5% in FY26, slower than the 8% growth seen in FY25, amid tariff headwinds and the West Asia war.",
     "source": "LiveMint",
@@ -50,7 +50,7 @@
     "link": "https://www.livemint.com/industry/manufacturing/ev-sales-us-tariff-india-auto-component-import-export-11783420579177.html"
   },
   {
-    "id": "in-o9g4j",
+    "id": "in-xypqw",
     "title": "Govt plans star-ratings for batteries in solar projects and energy storages",
     "summary": "The government’s expansion of the star-rating system, which was designed for energy conservation, follows energy security concerns triggered by the West Asia war when crude oil prices skyrocketed to a...",
     "source": "LiveMint",
@@ -60,7 +60,7 @@
     "link": "https://www.livemint.com/industry/energy/govt-plans-star-ratings-for-batteries-in-solar-projects-and-energy-storages-11783245775433.html"
   },
   {
-    "id": "in-yh2po",
+    "id": "in-84s1c",
     "title": "OPEC+ set to raise oil output by 188,000 Bpd as Hormuz trade resumes",
     "summary": "Seven major nations led by Saudi Arabia and Russia will add 188,000 barrels a day to their output target. It would be in keeping with the group’s plan to finish reversing output curbs made a few years...",
     "source": "LiveMint",
@@ -70,7 +70,17 @@
     "link": "https://www.livemint.com/industry/energy/opec-agrees-in-principle-on-188k-barrels-a-day-hike-delegates-say-11783251822194.html"
   },
   {
-    "id": "us-3s6fb",
+    "id": "us-nmu8r",
+    "title": "Center for Gas Turbine Research, Education, and Outreach - PSU Sites",
+    "summary": "Center for Gas Turbine Research, Education, and Outreach  PSU Sites",
+    "source": "Google News US",
+    "timestamp": "2026-07-08T17:12:44.000Z",
+    "region": "US",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEs0Y3ZJTXVackhzUkRON3VxVkdkZDlfVjVFa0FaZW5PdGZzQVdVNTNVeGJZZ1dEeGlkS24wM3JtTjNZNE5nY0RfbTN0dTBVNU14TFBiNVA0Q0NUZWgzNWhzcVFKbWRLSUpneVZmcnpkRF9mN1NqN0piMm1weE1fYXFkTmxSWW9UQ251YU9RRkh2Wjk1NlczLTk0SlRMSVRo?oc=5"
+  },
+  {
+    "id": "us-okl8c",
     "title": "Why the AI Boom Is About to Break the U.S. Power Grid - Crude Oil Prices Today | OilPrice.com",
     "summary": "Why the AI Boom Is About to Break the U.S. Power Grid  Crude Oil Prices Today | OilPrice.com",
     "source": "Google News US",
@@ -80,7 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcV9aQndVa1d6bUFqU1NibHdSeXdQckM0S3Q1VGhoUmNXRjBjdjhkdmZaQ3RBdktTdGNRak1rSC1VckZYeEpOYkxkMHM4bnhjVzFoSkRzbnZ6d2hDV3dPLXZJd09fSS04dXlJLUxZYTVIWllaeWVqMk45XzY1SmhXUEY2eWFKNU04Y0dET05uTmNGbjJKVTNqbklvNDBFWHFw0gGmAUFVX3lxTE5yRUxLSWYwTldQVjVsamxsOVAyMjEtSGJrX0lEVEhQckktTnNsN0VxeUdOUy1pT19uSXVYMnpvUEpJT0Y1MFpCMFlzN2xBUTNWTnRkQkNWaEp1ZlU4S0hFTGV3LVRHZFNabnJkaGpVbTk1OVVxTUJlWlhBWllBRFFsQklESmg0YnYtN0V0dGRnaG9SRGVaTmVnT0htMGZaSm1oTDBzb2c?oc=5"
   },
   {
-    "id": "us-y6fcm",
+    "id": "us-2lqij",
     "title": "Cuba sees nationwide power blackout for third time in six months - Al Jazeera",
     "summary": "Cuba sees nationwide power blackout for third time in six months  Al Jazeera",
     "source": "Google News US",
@@ -90,17 +100,17 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlY4b0hWcjlaa2NZdjR5QVUtcU9jQ3owUmZSOWNBZEw1anBfLXFVelFLemx3WllINlIzWU96NkdFUHR1SGI4MGtndi1ET0I2NXBIdlB3OU1kY1Q3aEhfb2ljS0xycXdYUW01MUVfblpFTkhoSFVzNVRYWWY0N29yZHJsR3c5REVYUlVUeXhpZWR1RE5kd2YtaWFGZW9BaTh3cEpxdDZWWdIBrAFBVV95cUxNZGJxaU56cC1kYXZWblpnZ3F6ZnVDQm5sV0pTb1ZpOVB1anVzbVJxN2V0X1h3dWJMbU1FeWsyT0ZYVG52em1ZcVBXckozaTJtcXh5dDh2Ym0yQ2dlazRSYk12Z3U4enl6d1hVbFdjc3dyZS1MSEtfZFpNV2M0TGVVOTVBRzVwVlNxUTJ6M28zVG1TVmIxUVY0RVVBOXpKazJGWjZXWmFUZi03UjFM?oc=5"
   },
   {
-    "id": "us-8xfkd",
-    "title": "Stressed US Grid Forcing Data Centers to Get More Flexible - EnergyNow.com",
-    "summary": "Stressed US Grid Forcing Data Centers to Get More Flexible  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-07-06T17:55:12.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlhYa3dma1ZGMWgzVzFvaG5EX0pxcXlISERNZThFTk82SHc3Sm15SzJwTmp2dktqejZIaGlYMjl1cWhMbWh1SG54bGRlZ29LcDR3MGUwdkZhLVNNOE1ZU2xyNm5GblZJYnBMeE9jeW1QU1Z2NTMtdktOOVpKTFhiQ1pZTlF3YVRpempOUDBTUnNkVXM?oc=5"
+    "id": "gl-nqbys",
+    "title": "ReNew Energy Global focuses on clean power growth as investor interest builds - AD HOC NEWS",
+    "summary": "ReNew Energy Global focuses on clean power growth as investor interest builds  AD HOC NEWS",
+    "source": "Google News Global",
+    "timestamp": "2026-07-08T19:29:39.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckVsUlVUZmdSWkNiS2JRQ0c1ZnJmNzhtd0cyRDRObXkxZDFOVVRkQUF5TEtXSGFaeVRJVmVMbTRnVGhXQUM1blJ0SEdHZUtMaGt5VEZHUXh1MFhBYnNoMUt4NENGejVEaWs1cjFWcVd1czdIXzRVeFQxQXZCbWhXYUNZN1NIVUU2WlR2WnBxVjZzTW5UbGRQODhHbEozYXRseXJ6bTNqT05vcm1wWi1qRlMxYWd5Y29tY3dXSHJwSGN5RVIwSVhaUQ?oc=5"
   },
   {
-    "id": "gl-xlfkq",
+    "id": "gl-mnfqv",
     "title": "IFC sees United Solar as diversification catalyst - Oman Observer",
     "summary": "IFC sees United Solar as diversification catalyst  Oman Observer",
     "source": "Google News Global",
@@ -110,7 +120,7 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX29vZ2FoX2JTQmpwQklHSjRzU25lZTI4ZjF3U0JsZzNrdnVyZUxrUnhmYzRFbEEzV255MElMVXA2THQzaDA3X3o2aW5lVGJmUFFFV3Y2T2tCMURDNmROMzlsMFdaeHVEWmU4ZzNIUjJIaEZXdW9hT2N5dXBsRV95N2s2Nkd4aHhzMWxCelJfYXNFRHJNRGVYUFNGNjJrb19jLVpFY1E0SjJsWE8yZ05V0gFaQVVfeXFMUEtwNjkwejRxNU45RGltYWsydFBzTW1KOU8ySjBZZmVuc3JhMlc3VWpmR3lSdzQyOFFOVzJnZ2hRQVhkUkQ1RHk4SnM3Uk1aNGc1NTY2TVZ6c1Fn?oc=5"
   },
   {
-    "id": "gl-d99md",
+    "id": "gl-2uucr",
     "title": "EDP Renovaveis builds scale in global renewables. Growth story targets wind and solar - AD HOC NEWS",
     "summary": "EDP Renovaveis builds scale in global renewables. Growth story targets wind and solar  AD HOC NEWS",
     "source": "Google News Global",
@@ -118,15 +128,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXlZVURCZlc4aVR5NDQycWdOVEtLZkxiRHZUVXMyS2NrRlRHMkZmdlA4SXpqX0tkckNoVFdaTWo5MlZSeEhDWmp0RmdWVklOMGJLWWM1WmpMU3Fzel96aG5TTG1JSW1qVDRKWjF6bHVLdTNGRFJjMzVJZWNlY21udDVIMk5OUnpsWDlYUEJnNHphVTJvNEdMVGc0WTh1dk5JQXd0UVJqZmJoS1RBcUZJN0RLczFvM3YxSDhfaTdERlFWNTFZVWlJ?oc=5"
-  },
-  {
-    "id": "gl-6iz5b",
-    "title": "EDP Renovaveis highlights its renewable growth strategy as global clean energy demand expands - AD HOC NEWS",
-    "summary": "EDP Renovaveis highlights its renewable growth strategy as global clean energy demand expands  AD HOC NEWS",
-    "source": "Google News Global",
-    "timestamp": "2026-07-08T11:45:40.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0RtakxER1FaS3hvMS0xRkxpbzFBdmNJcTRqT0JvR0xzLWxNdnNRTlJYTEVZWWFGMWdwMXlBckxKTUZnd29sTmxkYzQ3NkV4dkV2YnRvZTA1VjI4UldLMUFibDZMZmY2bnZPYzhjclB2ek8wRWdNTGdEdFZvTGNSLTNtLUJCMm9TMTlabUMtb0ZZdTh2T01tX18wMjZRQ09OWW1kZnNDclAyYkhRQlFub1gzd3VJLTRoVWlsbHZxNzFnX2ozQTNQRkdB?oc=5"
   }
 ]
