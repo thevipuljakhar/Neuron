@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-2u64r",
+    "id": "in-o09c7",
+    "title": "India’s MSMEs brace for impact as US-Iran ceasefire crumbles",
+    "summary": "Curbs on essential commodities and energy supplies may hurt MSME operations.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-10T00:28:13.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/manufacturing/us-iran-ceasefire-collapse-impact-on-india-msmes-11783599089985.html"
+  },
+  {
+    "id": "in-x1jy0",
     "title": "CEA advises against continuous use of air conditioners amid El Niño-driven heat",
     "summary": "The power authority warned of fire risks from prolonged use of cooling appliances, asking discoms to prepare for higher summer loads.",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/energy/cea-advises-against-continuous-use-of-air-conditioners-amid-el-nino-driven-heat-11783610263705.html"
   },
   {
-    "id": "in-c0juk",
+    "id": "in-3l23p",
     "title": "Mint Explainer | Why does high-power Wi-Fi in India need a debate?",
     "summary": "Jio and Airtel want to use high-power Wi-Fi for faster broadband at a lower cost. However, Isro's concerns related to satellite interference could play a dampener.",
     "source": "LiveMint",
@@ -20,7 +30,7 @@
     "link": "https://www.livemint.com/industry/telecom/telecom-india-high-power-wi-fi-reliance-jio-airtel-home-broadband-6ghz-spectrum-broadband-wi-fi-devices-11783578799326.html"
   },
   {
-    "id": "in-2sg7p",
+    "id": "in-jismz",
     "title": "Peak power demand may hit 300 GW next year, says power minister",
     "summary": "Rising electricity consumption from data centres, AI and electric vehicles is expected to push peak demand to 300 GW next year, underscoring the need to rapidly expand energy storage capacity.",
     "source": "LiveMint",
@@ -30,7 +40,7 @@
     "link": "https://www.livemint.com/industry/energy/peak-power-demand-may-hit-300-gw-next-year-says-power-minister-11783525296868.html"
   },
   {
-    "id": "in-wzhdw",
+    "id": "in-lnlik",
     "title": "DoT weighs Isro's concerns as telcos push for faster WiFi",
     "summary": "India's next WiFi upgrade faces a regulatory test. The telecom department is weighing operators' demand for high-power use of the 6 GHz band against Isro's concerns over satellite interference, a deci...",
     "source": "LiveMint",
@@ -40,7 +50,7 @@
     "link": "https://www.livemint.com/industry/telecom/dot-faster-wifi-broadband-isro-satellite-rjio-bharti-airtel-11783415755862.html"
   },
   {
-    "id": "in-vryxe",
+    "id": "in-jjpcx",
     "title": "Airlines take off on summer tailwinds as May traffic rebounds",
     "summary": "Monthly passenger volumes surged 12% over April to 15.39 million, driven by holiday travel and a low base after geopolitical tensions dampened performance last year.",
     "source": "LiveMint",
@@ -50,7 +60,7 @@
     "link": "https://www.livemint.com/industry/airlines-take-off-on-summer-tailwinds-as-may-traffic-rebounds-11783431337793.html"
   },
   {
-    "id": "in-dq7oh",
+    "id": "in-d4pim",
     "title": "Asia's hydro power slump puts pressure on coal as El Niño weakens rainfall, says S&amp;P",
     "summary": "Hydropower generation across seven Asian markets fell sharply in June, with India and Vietnam accounting for more than 80% of the decline, according to S&amp;P Global Energy.",
     "source": "LiveMint",
@@ -60,7 +70,7 @@
     "link": "https://www.livemint.com/industry/energy/asias-hydro-power-slump-puts-pressure-on-coal-as-el-ni-o-weakens-rainfall-says-sp-11783422926210.html"
   },
   {
-    "id": "in-yhdru",
+    "id": "in-ep8my",
     "title": "EV surge, tariff impact turns India into net auto parts importer in FY26",
     "summary": "Exports at $24 billion grew 5% in FY26, slower than the 8% growth seen in FY25, amid tariff headwinds and the West Asia war.",
     "source": "LiveMint",
@@ -70,7 +80,7 @@
     "link": "https://www.livemint.com/industry/manufacturing/ev-sales-us-tariff-india-auto-component-import-export-11783420579177.html"
   },
   {
-    "id": "in-o6fgd",
+    "id": "in-myjxp",
     "title": "Govt plans star-ratings for batteries in solar projects and energy storages",
     "summary": "The government’s expansion of the star-rating system, which was designed for energy conservation, follows energy security concerns triggered by the West Asia war when crude oil prices skyrocketed to a...",
     "source": "LiveMint",
@@ -80,7 +90,7 @@
     "link": "https://www.livemint.com/industry/energy/govt-plans-star-ratings-for-batteries-in-solar-projects-and-energy-storages-11783245775433.html"
   },
   {
-    "id": "in-gb8ct",
+    "id": "in-erj7a",
     "title": "OPEC+ set to raise oil output by 188,000 Bpd as Hormuz trade resumes",
     "summary": "Seven major nations led by Saudi Arabia and Russia will add 188,000 barrels a day to their output target. It would be in keeping with the group’s plan to finish reversing output curbs made a few years...",
     "source": "LiveMint",
@@ -88,65 +98,5 @@
     "region": "India",
     "category": "Fossil",
     "link": "https://www.livemint.com/industry/energy/opec-agrees-in-principle-on-188k-barrels-a-day-hike-delegates-say-11783251822194.html"
-  },
-  {
-    "id": "us-ll4fe",
-    "title": "New software detects 300 GW of hidden power on the US electric grid - Interesting Engineering",
-    "summary": "New software detects 300 GW of hidden power on the US electric grid  Interesting Engineering",
-    "source": "Google News US",
-    "timestamp": "2026-07-09T19:25:00.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzhZeHdUYnBCZmlBa0ZWTGFRVU81dDJsTlJsbV9SRkdqanNaVmFQU2R3TEFOZEFWelVOQzJYZ2RVZkF3S3Zjd1duX0Raa2ozRm5LdWJvT0h3Z3hkaG1RQkt4UWdDU0lFWEY3aERVQXZXWWY1LVIwdTl0WXMwbkRPUmp2Rl84eE1k?oc=5"
-  },
-  {
-    "id": "us-szs6q",
-    "title": "Towards a data centre-proof US power grid - Environment Analyst",
-    "summary": "Towards a data centre-proof US power grid  Environment Analyst",
-    "source": "Google News US",
-    "timestamp": "2026-07-09T13:44:00.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN1AxTE5YbEZiRlEyeks2eUQxRjAwbV84bXlmaExfOUZucmxpaHRhdFVfZmkybGJJUV9wU2lQUnNjMm5XYVlHckVCVVd6VEt1elVHRlc0Rk9XVFdrR2VCMlFGSWZDUU5vbVcxNFZYYkJ3RTVWN0hzaHhqbUtPSVJmVko0RENZSlM3UEtCcGZfdGw?oc=5"
-  },
-  {
-    "id": "us-bkpy8",
-    "title": "First US sodium-ion plant to produce 4 GWh of grid storage to power 4 million homes - Interesting Engineering",
-    "summary": "First US sodium-ion plant to produce 4 GWh of grid storage to power 4 million homes  Interesting Engineering",
-    "source": "Google News US",
-    "timestamp": "2026-07-09T13:42:00.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0JFQTJmQVNVRzBUN0Y2Nl9fNjF6VDExZURpSThzS0lBajdhWmg5LXNuNkFRLWFld3BlVTFEaWJCVU5QTmFhMGtHZmJUWnlvNkFMUmxmNUF1ZHBmMXdYT21fVFA1V2lmamlpVWlnaWNTY1plUzZkZnY3YTJuWkczX09zdEtkVHc?oc=5"
-  },
-  {
-    "id": "gl-4etnq",
-    "title": "Can Green Hydrogen Become India’s Next Export Industry? - BW Businessworld",
-    "summary": "Can Green Hydrogen Become India’s Next Export Industry?  BW Businessworld",
-    "source": "Google News Global",
-    "timestamp": "2026-07-09T20:01:09.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0V2S0dmZTFKVUR0Ul9FT3ZUR2NSZkhld2dUMmZaMUhUaGFydURXMEhhaVdVQXRDcHhPOHp3WE5WUzlnNkI4UmN6Q1VuTldaVW5jenluM0dHS2dtYi1iZzUxZVpiS1ZXNHFtelI2SHZIRjlYbTNlMkc1YUdRX1BPeG9qNmRqVUNJa3huUVpnT2U5elc1SENCUWJIYWJfR0ZTOE9vQkhfSHY?oc=5"
-  },
-  {
-    "id": "gl-fy4xn",
-    "title": "BEP stock reflects Brookfield Renewable Partners' role in global clean energy - Ad-hoc-news.de",
-    "summary": "BEP stock reflects Brookfield Renewable Partners' role in global clean energy  Ad-hoc-news.de",
-    "source": "Google News Global",
-    "timestamp": "2026-07-09T16:22:35.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbnhQOTdnN0ljXzh0UVdIMHZaZFhEWGZwWkVYRWZKZWFraTlUUkJrQXFxVTRscVZ5Q2tMYWFUZnJUd2plaDlhOVlCbF8xS2w5OUU2OUczYXF6Xzk3OWhwcURWa3pRQ0VuVjZhZWdLUWFRM0JiMzZ0OXh0d09YdVFhNFV5REl4YjhaRTVpQlZTaGI2ZFJWX0pvZ1phN0RlaEpBblA3a0pPV0MyaVZtbi1uRG1IWHFaLWFrZkZ4U1dyY2FGaTd3aVNz?oc=5"
-  },
-  {
-    "id": "gl-5npzj",
-    "title": "Waste-to-Energy Market to Reach USD 58.8 Billion by 2036, Driven by Rising Demand for Sustainable Energy and Waste Management Solutions - industrytoday.co.uk",
-    "summary": "Waste-to-Energy Market to Reach USD 58.8 Billion by 2036, Driven by Rising Demand for Sustainable Energy and Waste Management Solutions  industrytoday.co.uk",
-    "source": "Google News Global",
-    "timestamp": "2026-07-09T16:02:13.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPaWtQUVZ1TXZXMHo1cHc2eDN3Vi0xRWJWeVJaNlJ5OExOTVpuSG1vWFdsZzNmbVVXVDNBa0Fhc240eThiQjc2VW1OXzNQczFUWjF4QXg2ME5UQjhQY3ZqdjNwVHZESFplLWFXbldyYlpnME54SXFzY2FLd1FKVjgzS1NpZ29yTjY3czRjNm9aWkdkQlVOQzJaY0V1Zll4alFpTG92OEhPcWxMbk5kQ2NkZWwwRVlUUEpjRTZMeG5Ra2JkODR2VVc3R20tc3pnODZDUDJLTThQZlUwSFFnWU1ieUpjZGMyQU9DMWJoU2NfNTRtSENWX01IYkFnNUd4R3pwR3FZR1RGbUwzdw?oc=5"
   }
 ]
