@@ -1,6 +1,66 @@
 [
   {
-    "id": "us-j21m9",
+    "id": "in-qftqp",
+    "title": "Bangladesh's first nuclear power plant is drawing crowds. Here's why the world is watching",
+    "summary": "Once fully operational in 2028, the two Russian-designed reactors at the Rooppur Nuclear Power Plant are expected to generate enough electricity to meet nearly 15% of Bangladesh’s power demand",
+    "source": "LiveMint",
+    "timestamp": "2026-07-12T13:49:15.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/energy/bangladeshs-first-nuclear-power-plant-is-drawing-crowds-heres-why-the-world-is-watching-11783861336507.html"
+  },
+  {
+    "id": "in-horyc",
+    "title": "Indian Bank targets $2 billion mobilization through FCNR(B) deposits: MD &amp; CEO Binod Kumar",
+    "summary": "Indian Bank plans to raise $2 billion through RBI's FCNR(B) swap window by September. So far, it has mobilized $140 million, with MD Binod Kumar stating that pricing, not the availability of dollars,...",
+    "source": "LiveMint",
+    "timestamp": "2026-07-12T12:49:00.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/banking/indian-bank-targets-2-billion-mobilization-through-fcnr-b-deposits-md-ceo-binod-kumar-rbi-psu-banks-11783852535710.html"
+  },
+  {
+    "id": "in-c8m8z",
+    "title": "India’s MSMEs brace for impact as US-Iran ceasefire crumbles",
+    "summary": "Curbs on essential commodities and energy supplies may hurt MSME operations.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-10T00:28:13.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/manufacturing/us-iran-ceasefire-collapse-impact-on-india-msmes-11783599089985.html"
+  },
+  {
+    "id": "in-85cvt",
+    "title": "CEA advises against continuous use of air conditioners amid El Niño-driven heat",
+    "summary": "The power authority warned of fire risks from prolonged use of cooling appliances, asking discoms to prepare for higher summer loads.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-09T16:45:44.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/energy/cea-advises-against-continuous-use-of-air-conditioners-amid-el-nino-driven-heat-11783610263705.html"
+  },
+  {
+    "id": "in-lm6h2",
+    "title": "Mint Explainer | Why does high-power Wi-Fi in India need a debate?",
+    "summary": "Jio and Airtel want to use high-power Wi-Fi for faster broadband at a lower cost. However, Isro's concerns related to satellite interference could play a dampener.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-09T08:46:26.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/telecom/telecom-india-high-power-wi-fi-reliance-jio-airtel-home-broadband-6ghz-spectrum-broadband-wi-fi-devices-11783578799326.html"
+  },
+  {
+    "id": "in-95css",
+    "title": "Peak power demand may hit 300 GW next year, says power minister",
+    "summary": "Rising electricity consumption from data centres, AI and electric vehicles is expected to push peak demand to 300 GW next year, underscoring the need to rapidly expand energy storage capacity.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-08T16:50:26.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/energy/peak-power-demand-may-hit-300-gw-next-year-says-power-minister-11783525296868.html"
+  },
+  {
+    "id": "us-qfzrn",
     "title": "U.S. Power Grid Cracking: 4 Dark Energy Stocks Set to Profit as Grid Prices Soar 1,000% - MarketWise",
     "summary": "U.S. Power Grid Cracking: 4 Dark Energy Stocks Set to Profit as Grid Prices Soar 1,000%  MarketWise",
     "source": "Google News US",
@@ -10,17 +70,7 @@
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkROSll0RWJuNm1sOHViZTNzS0p4VDFJcVE4ZU5mLVdEaHB0bkNqTHd3czE5VGRuU2g0YVRlTTJBVGpHSVo4ak02SkpKT3BFZGdvazhVZXpzMjNnVEdodFdMME9aY0hNMUZyNDlCRlRMdnpxSkRVMVRjdllUOFRkczQ4SW0taFpkeHc?oc=5"
   },
   {
-    "id": "us-y47ix",
-    "title": "Software runs quadrillions of simulations to uncover 300 GW on the US power grid - Interesting Engineering",
-    "summary": "Software runs quadrillions of simulations to uncover 300 GW on the US power grid  Interesting Engineering",
-    "source": "Google News US",
-    "timestamp": "2026-07-09T19:25:00.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzhZeHdUYnBCZmlBa0ZWTGFRVU81dDJsTlJsbV9SRkdqanNaVmFQU2R3TEFOZEFWelVOQzJYZ2RVZkF3S3Zjd1duX0Raa2ozRm5LdWJvT0h3Z3hkaG1RQkt4UWdDU0lFWEY3aERVQXZXWWY1LVIwdTl0WXMwbkRPUmp2Rl84eE1k?oc=5"
-  },
-  {
-    "id": "us-huw2k",
+    "id": "us-7cg2x",
     "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects - EnergyNow.com",
     "summary": "Biggest US Grid Operator to Begin Processing New Power Plant Projects  EnergyNow.com",
     "source": "Google News US",
@@ -30,7 +80,37 @@
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5"
   },
   {
-    "id": "gl-sdf3s",
+    "id": "us-7i680",
+    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
+    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-07-06T21:42:07.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
+  },
+  {
+    "id": "gl-ogns2",
+    "title": "Global Emissions Hit Another Record High Despite Clean Energy Boom - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Global Emissions Hit Another Record High Despite Clean Energy Boom  Crude Oil Prices Today | OilPrice.com",
+    "source": "Google News Global",
+    "timestamp": "2026-07-13T14:00:00.000Z",
+    "region": "Globe",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNldWaUlCWWwyR1QxNUx6VnducmtoNG03S2Z0WlB2LUQ2OHcyMUJqS3psYlF5OFJXVm5JXzhBYjNKQmNZSU1JckJ1anBleWtYeG0wU0x3THRsLVU0TWY1bUdHVncwQXQ4ZjBWYS0wWEI3d2F0TlZJY0lvTVVsRzZfeGZ5M0JNQ0JhQ3NWNzB0ZEd0SGlpdUNrZ0xhYmdhUC15U2lJMUJOY3hYMUt2T3k4eDRsTHLSAboBQVVfeXFMTmlaZjJZWWNILVVWU2VzajJfRnZJMTF4ZzlyWEVTcGdvOGVXaWk0YWQyemMyMUpzand3dkd5S3NQU1dEcGJjVWp5QWdUR1Q1SDhneUwxbEZXejVCcGUxSkYtcmhvSXFDZnBLQTA2OXFtOXB4aW5tSHFxS19CQXNBUDk1YkVabDZhNWJUVG5JYXdNQVNUVURPTm9WSjZYUXAyZ1pPaU44dTVJdXVMQmFmTWU1c3N1OGNDMVJ3?oc=5"
+  },
+  {
+    "id": "gl-zl58s",
+    "title": "EIF 2026 to Bring the Global Energy Industry Together in Antalya Ahead of COP31 - Renewables Now",
+    "summary": "EIF 2026 to Bring the Global Energy Industry Together in Antalya Ahead of COP31  Renewables Now",
+    "source": "Google News Global",
+    "timestamp": "2026-07-13T13:42:39.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3VXSTNvNWs5SUNrVlF0UkFObHNROGpkR1hwR0syMVpidmtuUmVwUjVxU1JhSWZBYVJ4el9KbTJENzBNMTE2RGczUXZhUUtndHNjR1RFbUNWcm9Od203UmJwUEJQR25ITHVicU5NUTVQRFh1MjZmdG9qSXA1bTR2MjRkU2xvbWUxOFFXR2ZocVRGX0J5OXV2d2dsS2RiMVZLcTc4cS1hU1FDTVBxd20xVFZnWXBlTENsVmZr?oc=5"
+  },
+  {
+    "id": "gl-9s0ao",
     "title": "Africa’s renewable energy future depends on stronger institutions as global clean power overtakes coal - Africa Sustainability Matters",
     "summary": "Africa’s renewable energy future depends on stronger institutions as global clean power overtakes coal  Africa Sustainability Matters",
     "source": "Google News Global",
@@ -38,25 +118,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLV9zdU1ic0FrZ2plbTNFcFI5Vzh4Mlg1TTFwaGVXRXVneU1lTHFoU3FGZEo1MWlKam1wV2NaczJsazAwUmp0WmVMWDhteTRNWHB0Wi1RMVFoMUJZQWFqei1XNEpTVmtBaTlubmVkZjJId1RpaVZJN05TR2NNOEJPekUzb2ZVV3VOMXBId004QzVEemJUX2pPZnAxcWgwd3pzbWdYSmw2YXNfQWtWMEdkUWhVX0VFajRnOWY2aFFTM1J3anBiU2dMOUQtaVhyZDNrNnQ3cE5BS2o1Zw?oc=5"
-  },
-  {
-    "id": "gl-njn89",
-    "title": "Energy transition market reaches $3.17 trillion in 2026 as grid connection backlogs stall 1,650 GW of capacity - MarketScale",
-    "summary": "Energy transition market reaches $3.17 trillion in 2026 as grid connection backlogs stall 1,650 GW of capacity  MarketScale",
-    "source": "Google News Global",
-    "timestamp": "2026-07-12T23:19:38.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWEU3d3JSd2o3TWo0aExIY25MaVFma2FMbVVORUZ1VTZqVnNpdVFTRTRMdVQyaVhYbHhjclBKWWdWSU13cU1JcU54UW5Wa1hBeFM4VkNwRzZTMzBaZ3Awa0VIZmF3UGxTQmFFclRFUXZCREpUMlBSOURvMGZuM0NQajd0UVN6V2QzUjNBTkt0RTQ4MjRDVFNHOVZMR3JsbEZfRHdmVFQzLXNabFpZaE8yOGxaNUpWVVhXZ3hWQmloaDVwZ2ZVMC12d0lXRUpGZ2RKV0J0Qk5oaDFHQkROUEJSM2U5NERNYWR0?oc=5"
-  },
-  {
-    "id": "gl-h3sbb",
-    "title": "Energy transition market approaches $3.2 trillion in 2026 as grid bottlenecks emerge as the critical constraint - MarketScale",
-    "summary": "Energy transition market approaches $3.2 trillion in 2026 as grid bottlenecks emerge as the critical constraint  MarketScale",
-    "source": "Google News Global",
-    "timestamp": "2026-07-12T17:53:25.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU284bEE2T1NJUWkyM1c5aHo0aDhwSHREWTZ1Y0NoY1M4UDd2ZS1GNlZ2RE5YUzZYQkxaaUZSeFFQQ1BZSmpvN1lUMDlMZHV5ZjRPclRISGUwRjBxazk5WXI3eEIyREIyOVBXd0hCazBvT1RGdm1temhHU1ZtcFIxTHVuSXUtTXQ0dHRmVUZQM2ZXQWxaYU5KV040MkZBYy1JcEVEM2VuMlBteHhUNlBNeDNidHdxdGdhU3h2WjNrSXlCbGlpWEx2X0JZSDZvNTFfQV9lYnpZeHN2UVUzakFBbWEzcmZuemlQVmZJ?oc=5"
   }
 ]
