@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-2u8lu",
+    "id": "in-143ey",
     "title": "Solar, wind generation crosses 100GW for first time",
     "summary": "India is adding green capacity at a rapid clip, but the power system is not keeping pace with the renewable build-out.",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/solar-wind-generation-crosses-100gw-for-first-time-11784286675997.html"
   },
   {
-    "id": "in-q21j5",
+    "id": "in-ct0bm",
     "title": "SAIC-JSW India JV's new platform adds to deepening of Auto Inc tech ties with China",
     "summary": "JSW MG Motor India has launched MG Adapt, a new SAIC-based vehicle platform meant to cut car development costs by over a third and support four powertrain types. The launch reflects warming India-Chin...",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/saicjsw-india-jvs-new-platform-adds-to-deepening-of-auto-inc-tech-ties-with-china-11784204254374.html"
   },
   {
-    "id": "in-neage",
+    "id": "in-u0ock",
     "title": "Govt invites bids for 10 GWh grid-scale storage under PLI ACC",
     "summary": "The tender will close on 13 October, and bids will be opened on 14 October.",
     "source": "LiveMint",
@@ -30,7 +30,27 @@
     "link": "https://www.livemint.com/industry/energy/govt-invites-bids-for-10-gwh-grid-scale-storage-under-pli-acc-11784119850031.html"
   },
   {
-    "id": "us-wmf9w",
+    "id": "us-fci3l",
+    "title": "Iran tells citizens to turn off AC to preserve power grid, blames US strikes for strain - New York Post",
+    "summary": "Iran tells citizens to turn off AC to preserve power grid, blames US strikes for strain  New York Post",
+    "source": "Google News US",
+    "timestamp": "2026-07-17T12:53:00.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdlIzZnphZzFYWERCbndCT0NmZklQX1RhNnFSdzhKZ3g0VFc0XzV1cXZzRkZVbENEUWo0cjgyYjlQdlZYNnE1Q1dCM1VYSERZenhnUHhDM2VJRHl0YmxmWVdGRmdPdFk3WlNlUDZqZ25QYW5qZG5fdUdwNHZxd2JaN2tCN0dWdHpMOUx2LXRhS1NvejNmWWE0WjU4bkFCSU1IaEZPQ1BMbjNVOVNoUlYwYzVfajZodW8?oc=5"
+  },
+  {
+    "id": "us-0nael",
+    "title": "NKT on EIFO's power grid ambitions: A contribution to the sector, not \"direct backing\" for us - EnergyWatch",
+    "summary": "NKT on EIFO's power grid ambitions: A contribution to the sector, not \"direct backing\" for us  EnergyWatch",
+    "source": "Google News US",
+    "timestamp": "2026-07-17T09:06:15.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IUzNLVlNjSGIyLXU5elJZVFNJWDRBUXV0OVF4cEx1SDYyTFRVelB2Z0QtYUxnVE9SYzVPUWlfYnlrRFdmblp5dE5pRDZid2w2WG5JN19keFlFWGFkanNKRGNZdkk2NjRPWm9KQzM5TlByQQ?oc=5"
+  },
+  {
+    "id": "us-9z8b5",
     "title": "Axle Energy Secures US$25m for Smarter UK Energy Power Grids - Sustainability Magazine",
     "summary": "Axle Energy Secures US$25m for Smarter UK Energy Power Grids  Sustainability Magazine",
     "source": "Google News US",
@@ -40,27 +60,17 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1Nzek8xWlZlX2tFaDlLSVhuNFFrWTU4OW1HZTRnYk8zUTdpZEZIcDNVQVJqUlJGc2FPUXlVUHpmd3JLM2MyclNBZkJIRGxSQlcyOHBwVHNxYnh2bkl5VVZBLTZiZWNiSmN5N2oyQWNNaVhZRjBRTjY3eUw0Wk41QVZLSVN3bWg4dS1QOE5LYllHcFZ6X0Vv?oc=5"
   },
   {
-    "id": "us-sgbyt",
-    "title": "US Power Grid Faces Defining Test for AI Boom - Bloomberg.com",
-    "summary": "US Power Grid Faces Defining Test for AI Boom  Bloomberg.com",
-    "source": "Google News US",
-    "timestamp": "2026-07-16T11:34:43.000Z",
-    "region": "US",
+    "id": "gl-6frzg",
+    "title": "Barrel Energy Inc. Announces Expansion of Happy Traps Division with New Corporate Offices and Operations Facility - Yahoo Finance Singapore",
+    "summary": "Barrel Energy Inc. Announces Expansion of Happy Traps Division with New Corporate Offices and Operations Facility  Yahoo Finance Singapore",
+    "source": "Google News Global",
+    "timestamp": "2026-07-17T13:15:00.000Z",
+    "region": "Globe",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3N3SmdYMXJKMXRtWDZBYzJkbFV5RW9CR21MRkc5RE9naEQ4WWdhc1BfN3FxbmV5enNYdWtyVUVTV0ZfWUJtdGkxUzFEWVE2SFdWWEFueFg0X2lsTmw4dGVPX1JxMGFvVlFBYk55ampzWVFDNlBJdXdMc1dzU0NXb2pZRE45MExIenFXSGlhNE5zZlN2cWNEQkJWZ2F6b19r?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaG4yUEp0YjZwamJFWGhqemRjQjNtb2tKdFNRcXBnS1FuN3JRMTRpRG5FMGZOQWtpckVxNGdsRGRrQjhZdVFGdzI2dHlBNlUtdkE4NE1FcG1aLXpSRVh3Vy1HYVpFT2RVSThnejRvdUNjXzVPLTU4ZXdST3p5emo1ZDJzVGlhd290Q08xblhqNA?oc=5"
   },
   {
-    "id": "us-y9jv5",
-    "title": "PJM Interconnection Surpasses All-Time Demand Record During Summer Heat Wave - energynews.pro",
-    "summary": "PJM Interconnection Surpasses All-Time Demand Record During Summer Heat Wave  energynews.pro",
-    "source": "Google News US",
-    "timestamp": "2026-07-16T05:43:18.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVVJN0xsUW9JNzExaGw5aS1jaVdIeVhlUVlYS1BOMTdiVmFWUXFuR3FncWxLWDNSQXY5TzNVY3ZFMDNhSmM4TEszM3NuQkZGQy1jYlRSZnJCR2NablU3RVZMazJhdEFORjEzRVpTOXBZWVM4c19fbnFLVkFqZmVmelFhNmxBOEI4WldhSnZuNG9qX3hyWjNNV2VRNTI4NHh3S09waA?oc=5"
-  },
-  {
-    "id": "gl-2e7zf",
+    "id": "gl-mlej0",
     "title": "Vietnams energy reforms attract global supply chains as green power access opens for manufacturers - Indiatimes",
     "summary": "Vietnams energy reforms attract global supply chains as green power access opens for manufacturers  Indiatimes",
     "source": "Google News Global",
@@ -70,23 +80,13 @@
     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcjlYX3c4X053RjkzV0FvQVVRZ09oQmN5Smdmc3BTNkQzeXFoSDFYdmJNSzk5M1Z2OGQwallERVB1WkJmM1MwWjVqaENjekstYlNLOEhvUUxGX3ZsQmZtc0VROGRxX0R1aDBFMlB5NEVBT2hhVGxoMll6dnhCMUN3U25MSmxGVDlmZnctbkc4TENaMDB6ZkZrd2ZVOTdqVVJMRlV6WURMZ1NiSncwcDMyUFNmQVZGdjI1SUh6NkJ1ZmhUVWpjdE1tb2p5OTluSE5BVmpncmstTkdZLTduLXZ6ZmFiYWctSVZKenRGTFIzZlZwRXhvc0tjV0lYeHFpZjFJTlZzQndR?oc=5"
   },
   {
-    "id": "gl-3curl",
-    "title": "Modbus Cable Market Growth Projections to 2035 Driven by Automation and Renewable Energy - News and Statistics - IndexBox",
-    "summary": "Modbus Cable Market Growth Projections to 2035 Driven by Automation and Renewable Energy - News and Statistics  IndexBox",
+    "id": "gl-ovdou",
+    "title": "Ethanol market set for robust expansion as global demand for renewable energy accelerates - Indiatimes",
+    "summary": "Ethanol market set for robust expansion as global demand for renewable energy accelerates  Indiatimes",
     "source": "Google News Global",
-    "timestamp": "2026-07-17T09:56:13.000Z",
+    "timestamp": "2026-07-17T10:38:53.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFNWZmF3cXRIX0pOa2FsY2RqTlcwMXpQcXFSV3hfTWE0d2VvZU9NSm5JbzhETksya0lNb2FmbkZ2Z1BEQnJTWlZSWFFPQmwyQ29vdVpkemVpcFlrVDJHYlVqRy05ZTBaaTlPT0dKUlNPcURKamVfZGdOQkFOb0M0aVVLcG1yRnFKdDdVVExLbERuUndoeHd5SnRYd1VfcGRTd3laaUU3WUtlM2ZxaGlPajVqTTZBUnEwdTZB?oc=5"
-  },
-  {
-    "id": "gl-o1on6",
-    "title": "Industry experts flag AI skills gap in clean energy sector - Manufacturing Today India",
-    "summary": "Industry experts flag AI skills gap in clean energy sector  Manufacturing Today India",
-    "source": "Google News Global",
-    "timestamp": "2026-07-17T08:49:27.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWRqXzJUbnJXOW9qSW96RmFMNGl4V3Q4VkFZb203Rjl3bzhuUmxqeDRRbWd0bF9MVldBcjBBUDl5WktmQ0JMZ0hEY2dMQnRoenR0VC1CdkdvdDlNQ0ZIWHVnbzk2TUtmVVozNFpmcTlQcndEU0pTLUhnMGktZnRMaw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUm5zZjFtLUl6VWhTaGJTZmhOd09rWVdRWVIzV1preTZEX3BYV0hDb0JudFFiV2dKNFJtbUlnRi01MWNxRlQxQmQ1TjFTazVsejAzNnNVQUI1Vm9yYzZaeDJZdk56a0JuQnljR1NiWEp3TWhaaHFaWmFRVFA1MU45ZXlWWklvcld6MHdkV2JPWTdBVkpLaVNGY2ZsaVlMVUVNcUF2SGFxY0NpUTNQYU9BaDhHOFBkME53aGk4LVB2UGZobk9Xa3l6M1E3UnVjQ0VPbkhQNnhEaG0tRHU2NnJVMjhkSjdXTldIVkFKbF9TM2t4OVdPQXJ2SGY4bXN5WHpY?oc=5"
   }
 ]
