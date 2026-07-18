@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-fu50s",
+    "id": "in-ibmnd",
     "title": "A hit movie and a cricket festival power profits at JioStar",
     "summary": "JioStar reported a net profit increase of 14.5% to Rs. 665 crore driven by subscriptions and digital ads, supported by IPL engagement. Revenue rose 14% to Rs. 10,946 crore, and monthly users for JioHo...",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/a-hit-movie-and-a-cricket-jamboree-power-profits-at-jiostar-11784301317917.html"
   },
   {
-    "id": "in-blzv9",
+    "id": "in-u3mr4",
     "title": "Solar, wind generation crosses 100GW for first time",
     "summary": "India is adding green capacity at a rapid clip, but the power system is not keeping pace with the renewable build-out.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/solar-wind-generation-crosses-100gw-for-first-time-11784286675997.html"
   },
   {
-    "id": "in-ybuqg",
+    "id": "in-8b0sz",
     "title": "SAIC-JSW India JV's new platform adds to deepening of Auto Inc tech ties with China",
     "summary": "JSW MG Motor India has launched MG Adapt, a new SAIC-based vehicle platform meant to cut car development costs by over a third and support four powertrain types. The launch reflects warming India-Chin...",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/saicjsw-india-jvs-new-platform-adds-to-deepening-of-auto-inc-tech-ties-with-china-11784204254374.html"
   },
   {
-    "id": "in-sqefp",
+    "id": "in-qn30z",
     "title": "Govt invites bids for 10 GWh grid-scale storage under PLI ACC",
     "summary": "The tender will close on 13 October, and bids will be opened on 14 October.",
     "source": "LiveMint",
@@ -40,7 +40,17 @@
     "link": "https://www.livemint.com/industry/energy/govt-invites-bids-for-10-gwh-grid-scale-storage-under-pli-acc-11784119850031.html"
   },
   {
-    "id": "us-fk3b6",
+    "id": "us-3tq48",
+    "title": "Trump has spent billions on energy. An electricity boom has yet to materialize. - The Washington Post",
+    "summary": "Trump has spent billions on energy. An electricity boom has yet to materialize.  The Washington Post",
+    "source": "Google News US",
+    "timestamp": "2026-07-17T16:00:00.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzlaVlJZY1lXajk4QzJxSUdNSWl1MDNuOHM4em9hSktYc3RrSWxYYW92VGdjRGNZaHdYbXJSbEtwc0R0NkRqWElwbGVfOEpOdlVTZHplU3k4Tnk5MXhOZFpEdGdoa0Z3SnBMVnhhRUIzQkp0ZUdCaTFtaTk5TzFkWGFKYU81YXA1S1VXNkJIZGtlaG9oNUN0cnJiMEp4QVpSbjJQeWt0ZUVEV3l6RUVUenBkUF8xRDJFcGIyMTRhajQyd1BwdTNJTTgtMU9sck0?oc=5"
+  },
+  {
+    "id": "us-99ywy",
     "title": "Iran tells citizens to turn off AC to preserve power grid, blames US strikes for strain - New York Post",
     "summary": "Iran tells citizens to turn off AC to preserve power grid, blames US strikes for strain  New York Post",
     "source": "Google News US",
@@ -50,17 +60,7 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdlIzZnphZzFYWERCbndCT0NmZklQX1RhNnFSdzhKZ3g0VFc0XzV1cXZzRkZVbENEUWo0cjgyYjlQdlZYNnE1Q1dCM1VYSERZenhnUHhDM2VJRHl0YmxmWVdGRmdPdFk3WlNlUDZqZ25QYW5qZG5fdUdwNHZxd2JaN2tCN0dWdHpMOUx2LXRhS1NvejNmWWE0WjU4bkFCSU1IaEZPQ1BMbjNVOVNoUlYwYzVfajZodW8?oc=5"
   },
   {
-    "id": "us-dn7in",
-    "title": "NKT on EIFO's power grid ambitions: A contribution to the sector, not \"direct backing\" for us - EnergyWatch",
-    "summary": "NKT on EIFO's power grid ambitions: A contribution to the sector, not \"direct backing\" for us  EnergyWatch",
-    "source": "Google News US",
-    "timestamp": "2026-07-17T09:06:15.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IUzNLVlNjSGIyLXU5elJZVFNJWDRBUXV0OVF4cEx1SDYyTFRVelB2Z0QtYUxnVE9SYzVPUWlfYnlrRFdmblp5dE5pRDZid2w2WG5JN19keFlFWGFkanNKRGNZdkk2NjRPWm9KQzM5TlByQQ?oc=5"
-  },
-  {
-    "id": "us-s6mtz",
+    "id": "us-5z0ts",
     "title": "Axle Energy Secures US$25m for Smarter UK Energy Power Grids - Sustainability Magazine",
     "summary": "Axle Energy Secures US$25m for Smarter UK Energy Power Grids  Sustainability Magazine",
     "source": "Google News US",
@@ -70,7 +70,7 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1Nzek8xWlZlX2tFaDlLSVhuNFFrWTU4OW1HZTRnYk8zUTdpZEZIcDNVQVJqUlJGc2FPUXlVUHpmd3JLM2MyclNBZkJIRGxSQlcyOHBwVHNxYnh2bkl5VVZBLTZiZWNiSmN5N2oyQWNNaVhZRjBRTjY3eUw0Wk41QVZLSVN3bWg4dS1QOE5LYllHcFZ6X0Vv?oc=5"
   },
   {
-    "id": "gl-5sgba",
+    "id": "gl-sbstk",
     "title": "Hydrom joins World Bank-backed green hydrogen partnership - Oman Observer",
     "summary": "Hydrom joins World Bank-backed green hydrogen partnership  Oman Observer",
     "source": "Google News Global",
@@ -80,7 +80,17 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlRQX1pnT2VsOGJxaGhpM2F0ZFBuSVdGYjZFTFhhQ25Ibm1DX3Z0WENIZ09CTnNNaTJlZ2JHNWhTWDZwUDRTZkdjcmhxNk51a2djMVZjQW5HSFZibVZKWUNDZzZUNXF2YTRaVDRSQ09VMkFwQXRHRURfMFhma2lzanZXd3ZtZDJuV250clBOaGZuNEZZMlBfWU02SzlGZ283aFBzRjgxMmViQXBIQmhPbDNDdTZibDZ50gFaQVVfeXFMT3hfOHZQZ3JSeWY4anRYNXA3XzBzaG1ZZU5teTZUYm0teXRZMEgxbW0xY2xwd1BDaWFWUlhrRVhweW9aRXhuRTVlN1hfSnhQaTZtZHk3ZWo1c2RR?oc=5"
   },
   {
-    "id": "gl-25dog",
+    "id": "gl-l3lmz",
+    "title": "ABB's Strategy to Grow Global Geothermal Energy Industry - Business Chief",
+    "summary": "ABB's Strategy to Grow Global Geothermal Energy Industry  Business Chief",
+    "source": "Google News Global",
+    "timestamp": "2026-07-17T17:17:57.000Z",
+    "region": "Globe",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3dDQ3NYYlJKWE5HbTdkWG5FUHNMOGo2TGxJSHVRRXJtM0Nuc0x2dW90NUtDTnZWT1BlYXlpcFhBZVA4ejc0bVR4TFFqS1dqMkc5TWhJT182aENZNmhJODlhYW1CM0tYNXZ2ZFlvSHdwdWlBc2V1U0Fuem1QcVJtX2pQMA?oc=5"
+  },
+  {
+    "id": "gl-rq9yz",
     "title": "Barrel Energy Inc. Announces Expansion of Happy Traps Division with New Corporate Offices and Operations Facility - Yahoo Finance Singapore",
     "summary": "Barrel Energy Inc. Announces Expansion of Happy Traps Division with New Corporate Offices and Operations Facility  Yahoo Finance Singapore",
     "source": "Google News Global",
@@ -88,15 +98,5 @@
     "region": "Globe",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaG4yUEp0YjZwamJFWGhqemRjQjNtb2tKdFNRcXBnS1FuN3JRMTRpRG5FMGZOQWtpckVxNGdsRGRrQjhZdVFGdzI2dHlBNlUtdkE4NE1FcG1aLXpSRVh3Vy1HYVpFT2RVSThnejRvdUNjXzVPLTU4ZXdST3p5emo1ZDJzVGlhd290Q08xblhqNA?oc=5"
-  },
-  {
-    "id": "gl-a6ep9",
-    "title": "Vietnams energy reforms attract global supply chains as green power access opens for manufacturers - Indiatimes",
-    "summary": "Vietnams energy reforms attract global supply chains as green power access opens for manufacturers  Indiatimes",
-    "source": "Google News Global",
-    "timestamp": "2026-07-17T13:10:23.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcjlYX3c4X053RjkzV0FvQVVRZ09oQmN5Smdmc3BTNkQzeXFoSDFYdmJNSzk5M1Z2OGQwallERVB1WkJmM1MwWjVqaENjekstYlNLOEhvUUxGX3ZsQmZtc0VROGRxX0R1aDBFMlB5NEVBT2hhVGxoMll6dnhCMUN3U25MSmxGVDlmZnctbkc4TENaMDB6ZkZrd2ZVOTdqVVJMRlV6WURMZ1NiSncwcDMyUFNmQVZGdjI1SUh6NkJ1ZmhUVWpjdE1tb2p5OTluSE5BVmpncmstTkdZLTduLXZ6ZmFiYWctSVZKenRGTFIzZlZwRXhvc0tjV0lYeHFpZjFJTlZzQndR?oc=5"
   }
 ]
