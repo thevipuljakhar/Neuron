@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-uireb",
+    "id": "in-68vz3",
+    "title": "E20 fuel debate intensifies: Former HPCL chief says ethanol blend won’t cut petrol prices",
+    "summary": "Former HPCL CMD MK Surana says ethanol blending offers an important economic advantage by helping cushion fuel prices when international crude oil markets experience sharp volatility, thereby improvin...",
+    "source": "LiveMint",
+    "timestamp": "2026-07-18T10:10:59.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/energy/e20-fuel-debate-intensifies-former-hpcl-chief-says-ethanol-blend-won-t-cut-petrol-prices-11784367352698.html"
+  },
+  {
+    "id": "in-eihae",
     "title": "A hit movie and a cricket festival power profits at JioStar",
     "summary": "JioStar reported a net profit increase of 14.5% to Rs. 665 crore driven by subscriptions and digital ads, supported by IPL engagement. Revenue rose 14% to Rs. 10,946 crore, and monthly users for JioHo...",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/a-hit-movie-and-a-cricket-jamboree-power-profits-at-jiostar-11784301317917.html"
   },
   {
-    "id": "in-mgrzl",
+    "id": "in-l3vu4",
     "title": "Solar, wind generation crosses 100GW for first time",
     "summary": "India is adding green capacity at a rapid clip, but the power system is not keeping pace with the renewable build-out.",
     "source": "LiveMint",
@@ -20,7 +30,7 @@
     "link": "https://www.livemint.com/industry/solar-wind-generation-crosses-100gw-for-first-time-11784286675997.html"
   },
   {
-    "id": "in-xcs6r",
+    "id": "in-x3lc7",
     "title": "SAIC-JSW India JV's new platform adds to deepening of Auto Inc tech ties with China",
     "summary": "JSW MG Motor India has launched MG Adapt, a new SAIC-based vehicle platform meant to cut car development costs by over a third and support four powertrain types. The launch reflects warming India-Chin...",
     "source": "LiveMint",
@@ -30,7 +40,7 @@
     "link": "https://www.livemint.com/industry/saicjsw-india-jvs-new-platform-adds-to-deepening-of-auto-inc-tech-ties-with-china-11784204254374.html"
   },
   {
-    "id": "in-u7zp2",
+    "id": "in-5ymdd",
     "title": "Govt invites bids for 10 GWh grid-scale storage under PLI ACC",
     "summary": "The tender will close on 13 October, and bids will be opened on 14 October.",
     "source": "LiveMint",
@@ -40,17 +50,27 @@
     "link": "https://www.livemint.com/industry/energy/govt-invites-bids-for-10-gwh-grid-scale-storage-under-pli-acc-11784119850031.html"
   },
   {
-    "id": "us-nmfot",
-    "title": "Trump has spent billions on energy. An electricity boom has yet to materialize. - The Washington Post",
-    "summary": "Trump has spent billions on energy. An electricity boom has yet to materialize.  The Washington Post",
+    "id": "us-yk7xr",
+    "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects - EnergyNow.com",
+    "summary": "Biggest US Grid Operator to Begin Processing New Power Plant Projects  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-07-17T16:00:00.000Z",
+    "timestamp": "2026-07-18T06:47:50.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzlaVlJZY1lXajk4QzJxSUdNSWl1MDNuOHM4em9hSktYc3RrSWxYYW92VGdjRGNZaHdYbXJSbEtwc0R0NkRqWElwbGVfOEpOdlVTZHplU3k4Tnk5MXhOZFpEdGdoa0Z3SnBMVnhhRUIzQkp0ZUdCaTFtaTk5TzFkWGFKYU81YXA1S1VXNkJIZGtlaG9oNUN0cnJiMEp4QVpSbjJQeWt0ZUVEV3l6RUVUenBkUF8xRDJFcGIyMTRhajQyd1BwdTNJTTgtMU9sck0?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5"
   },
   {
-    "id": "us-95t94",
+    "id": "us-v4nhm",
+    "title": "New York State’s Electricity Reserves are Shrinking, Grid Operator Says - EnergyNow.com",
+    "summary": "New York State’s Electricity Reserves are Shrinking, Grid Operator Says  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-07-17T21:46:30.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnd2Mzlud1pXbndtOVNUNU5PQjR2NVpfeHRrNTJWQlhXbmhITWQ2Z0t2WmcwaDVrU296Z0RMa3dEYlh5amlJSE4tTl9ndW5FUHA4YWJOU2pMc2FtLWhROENCWUV0R1JmbTZnSDhWNG9HaG5rbHdjVUVsNmcyb1VtaG9TaWJycElScmVrY0FoTGp2OEFiNTZIakFMWDlKUExRbHc?oc=5"
+  },
+  {
+    "id": "us-lmgxe",
     "title": "Iran tells citizens to turn off AC to preserve power grid, blames US strikes for strain - New York Post",
     "summary": "Iran tells citizens to turn off AC to preserve power grid, blames US strikes for strain  New York Post",
     "source": "Google News US",
@@ -60,17 +80,17 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdlIzZnphZzFYWERCbndCT0NmZklQX1RhNnFSdzhKZ3g0VFc0XzV1cXZzRkZVbENEUWo0cjgyYjlQdlZYNnE1Q1dCM1VYSERZenhnUHhDM2VJRHl0YmxmWVdGRmdPdFk3WlNlUDZqZ25QYW5qZG5fdUdwNHZxd2JaN2tCN0dWdHpMOUx2LXRhS1NvejNmWWE0WjU4bkFCSU1IaEZPQ1BMbjNVOVNoUlYwYzVfajZodW8?oc=5"
   },
   {
-    "id": "us-xuzvw",
-    "title": "Axle Energy Secures US$25m for Smarter UK Energy Power Grids - Sustainability Magazine",
-    "summary": "Axle Energy Secures US$25m for Smarter UK Energy Power Grids  Sustainability Magazine",
-    "source": "Google News US",
-    "timestamp": "2026-07-17T07:02:46.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1Nzek8xWlZlX2tFaDlLSVhuNFFrWTU4OW1HZTRnYk8zUTdpZEZIcDNVQVJqUlJGc2FPUXlVUHpmd3JLM2MyclNBZkJIRGxSQlcyOHBwVHNxYnh2bkl5VVZBLTZiZWNiSmN5N2oyQWNNaVhZRjBRTjY3eUw0Wk41QVZLSVN3bWg4dS1QOE5LYllHcFZ6X0Vv?oc=5"
+    "id": "gl-hi3ye",
+    "title": "Global clean energy firm targets Kenya’s untapped solar market - Citizen Digital",
+    "summary": "Global clean energy firm targets Kenya’s untapped solar market  Citizen Digital",
+    "source": "Google News Global",
+    "timestamp": "2026-07-18T10:40:02.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc01jS213Vi03dzVjWGlkVGdVRUpoaHZzVzk3NFk2b2wtdWRjb2t5SHBvc25IRWtDRWFSOURvQTY0ZXlzU1N6MndZWjc2LUlIemdZajlZVjV6US1WejRZRHBCTURmTVFnRDZQblhpSDNFUUVJekFVbG10cVBpakppM3lkVEhwcVI1TWNYbHBUd29SSWhZaG1qaWk5M2ZBa3VqMUgw?oc=5"
   },
   {
-    "id": "gl-yo1h4",
+    "id": "gl-4879v",
     "title": "From import dependence to global competitiveness: India’s solar manufacturing story - pv magazine Global",
     "summary": "From import dependence to global competitiveness: India’s solar manufacturing story  pv magazine Global",
     "source": "Google News Global",
@@ -80,7 +100,7 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRldPZ3ZSbERvZmNjZmdvVWUxNzNnRFJwemxoeWZzVDNUM3d5aE5GdGlENXlFUUtuckxEYzVnZVc2b0cyRFhOVHdaR3podGNYaElFQ3lrOFZmV0lVOEROR0pWLW1mNTZBOHRuOC0xa3lyRzFWQUZkMDZBMHlLS0V4Q0MxU25tdEw3QzlBaTUzR0xCbklrYnVnN2NTWlhrdHlJMVAwZUxrSkwwcTVRTkdLaVBSSWFjbkRmdHZlQUZn?oc=5"
   },
   {
-    "id": "gl-83kat",
+    "id": "gl-nq7v6",
     "title": "IRENA: Renewable Electricity Hits 9,836 TWh in 2024 as Solar and Wind Drive 9.8% Growth Worldwide - SolarQuarter",
     "summary": "IRENA: Renewable Electricity Hits 9,836 TWh in 2024 as Solar and Wind Drive 9.8% Growth Worldwide  SolarQuarter",
     "source": "Google News Global",
@@ -88,15 +108,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHpmczFQLXNTYklDWlVIYW5acWhEWlB0dXlkb0YyZjlOZVR5WktjSjdYZnE1aHZ2SVhqWG5XSHpELVpCdF8xZXlISXhDU1dTV0Z5NWdEdGlmM01rYzdIaE9razJNQUZreEU4RHVhUWF6OFpoRUJvQlMzVmZSVFBzOXRkNGtHVzZsZ3Y0N2s1dnRQUkhGWGIxMFFUWFhvZ0hQU0o3TXJEZHFyZkVoa2xQUUNNUTVPZkxyMTFzUGdMejhmaWFiZi0ydUt2aw?oc=5"
-  },
-  {
-    "id": "gl-58k83",
-    "title": "Report: Global renewable power growth reaches record level - Daily Nation",
-    "summary": "Report: Global renewable power growth reaches record level  Daily Nation",
-    "source": "Google News Global",
-    "timestamp": "2026-07-18T03:00:00.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaThvNnlGdC1leUFPOW0zOUtrVGk1czdnbE5La0FWTVlpUEdrdjJVSjdNUzdsb0JRSU1QeWpQM0xfQ1kyRjlzenYwR05UWmctNm45bUZoak5JTmR0VnFMREM5eDYyam9DLUdySm00dlVSNVFUbmpCOFRDOTVkejVQOEhRMkVXbWF0OU1teE1UQWxlZEZGS0VEX3IwS1dDUXZMQXNr?oc=5"
   }
 ]
