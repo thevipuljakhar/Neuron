@@ -1,6 +1,56 @@
 [
   {
-    "id": "us-jg8tp",
+    "id": "in-tr4o6",
+    "title": "Mint Explainer | India has its first hydrogen train. Is its green hydrogen mission on track?",
+    "summary": "India has begun building a green hydrogen ecosystem, but high costs, weak demand and infrastructure gaps need to be addressed soon for the National Green Hydrogen Mission to scale beyond pilot project...",
+    "source": "LiveMint",
+    "timestamp": "2026-07-23T09:35:01.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/energy/india-has-its-first-hydrogen-train-is-its-green-hydrogen-mission-on-track-fossil-fuels-renewable-energy-clean-energy-11784790221391.html"
+  },
+  {
+    "id": "in-0ly4r",
+    "title": "Why music alone is no longer enough for audio streaming platforms",
+    "summary": "As audio streaming services raise prices and reshape their offerings, the race is shifting from licensed music catalogues to exclusive content, AI-powered discovery and superior user experience.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-22T07:07:45.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/media/audio-streaming-platforms-music-catalogues-content-discovery-spotify-amazon-music-user-experience-11784616157816.html"
+  },
+  {
+    "id": "in-ydtwl",
+    "title": "Mint Explainer | Why duty-free edible oil imports from Nepal are becoming a concern for Indian producers",
+    "summary": "India's domestic edible oil industry is worried about the surge in edible oil imports from Nepal which, they say, is distorting the market. They also want the government to verify that the duty-free b...",
+    "source": "LiveMint",
+    "timestamp": "2026-07-22T07:00:44.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/agriculture/dutyfree-imports-edible-oil-imports-nepal-indian-producers-rules-of-origin-safta-domestic-refining-capacity-farmers-11784695032745.html"
+  },
+  {
+    "id": "in-vn8k2",
+    "title": "Forty-two days, 17 billion dollars: A glimpse of India's FCNR show",
+    "summary": "Apart from FCNR(B) deposits, the swap window also received $1.97 billion in overseas foreign currency borrowings and $1.34 billion through external commercial borrowings. Commercial banks exchange dol...",
+    "source": "LiveMint",
+    "timestamp": "2026-07-20T14:54:12.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/banking/rbi-fcnr-deposits-nri-investment-dollar-swap-rupee-11784554695843.html"
+  },
+  {
+    "id": "in-0cgzg",
+    "title": "India braces for energy market volatility as US-Iran war escalates",
+    "summary": "Benchmark Brent crude is already at a five-week high, with its September contract on the Intercontinental Exchange ending at $88.10 a barrel on Friday.",
+    "source": "LiveMint",
+    "timestamp": "2026-07-20T00:30:46.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/energy/india-braces-for-energy-market-volatility-supply-chain-woes-as-us-iran-war-escalates-11784458124969.html"
+  },
+  {
+    "id": "us-y65ei",
     "title": "Over 100°F Heat Adding Stress to the AI-laden Grid - Energy News Beat",
     "summary": "Over 100°F Heat Adding Stress to the AI-laden Grid  Energy News Beat",
     "source": "Google News US",
@@ -10,7 +60,17 @@
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjlhcERMWDFGVEdfeEJfbGgyNmpfTVpYc3pfc1A2TnJEbWhIdkJPcVBIdE1FbVk1N2dJNkhMQXZmV2lEbE13aHRFOFZTaHNvSWtnaHpCYnFwNzlDZjM5QTBvWlpPMDYxcmw3MXNPSnBmanFGZWVON2ZjRFdJS1I0YUdlZ2lzUlRsZy1maEZpdGltUW5ZYlhzejRtYWI1OXM?oc=5"
   },
   {
-    "id": "us-1r4ij",
+    "id": "us-si7mx",
+    "title": "Power Grids Reach Tipping Point as 100F Weather, US Data Center Boom Stress Aging Networks - Yahoo Finance",
+    "summary": "Power Grids Reach Tipping Point as 100F Weather, US Data Center Boom Stress Aging Networks  Yahoo Finance",
+    "source": "Google News US",
+    "timestamp": "2026-07-26T13:30:00.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcy0tcWZiV1Q3U0Z1WmtOM0xoekMycVBSMkw4QWRlR2NXcDc1WUI5OFFjTEpyOVVaWGpRc0tGVUNsTndYUWxVRTRkNkNFbTJTUzVTTklZTE1HV0xlUUhlQWNkNTFPZkgydWgyLTltNy1GLW9JbnROSXFEQngwSmhabHlWX0J6M01JZnVVbkQ4NnlYUmpfYndKUFVwOEFOSllFcGduRlVBdFY5bXBiV1g5Vnc0SW9fMmdJVjJscUxxRHQ4am9rVGU5ZlBZQ1VqeFpHM250Y0t3bGhXUm15Z0RB?oc=5"
+  },
+  {
+    "id": "us-hxj1z",
     "title": "US Grid’s $1 Trillion Problem Could Equal a $1 Billion Payout for Power CEOs - EnergyNow.com",
     "summary": "US Grid’s $1 Trillion Problem Could Equal a $1 Billion Payout for Power CEOs  EnergyNow.com",
     "source": "Google News US",
@@ -20,17 +80,7 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWFYRC1zQUR3TWNZREZGazVtOWpIYmtBc0NrVUNTNjJEU3VQUEt4MWRHWjhkTGhleTY2WnJmNGczWEFLdmRwZXNpSlZRX19tSEtDa2tGcTV2bE9vX1NxVmtJUnk3YzF0NmtlSjcxblVfYjFMbGx2dmdybzhjWGhQRm5tNm1RckVJT1VnLWpBVF91dF85TlMxbkpHMnc1Nm5zNkI4em1mZw?oc=5"
   },
   {
-    "id": "us-56g9w",
-    "title": "How Loudoun County data centers are linked to power flickering across half the U.S. - NBC4 Washington",
-    "summary": "How Loudoun County data centers are linked to power flickering across half the U.S.  NBC4 Washington",
-    "source": "Google News US",
-    "timestamp": "2026-07-25T00:28:50.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZkU3d2VLT2FJRnRvUy0yRmJCX1kzNkt4T0tkVEpQQTFCNGVZRVdyT2pjaFhYZEdyZmV2a2xwLVp4dzlobDFwemU2VzBGWkR0RWg3cW9fZzFmWnNrQkJrV0VmdUN1TEFSY3l4RU1rRF9WanRpN0FoZGJuTUxnWnNiczA4bUlYSU83XzZybWtKb2FyRXJZMHA3akhzbVZIRTJ5Wi1IelRCcXlnbElrYnJ4a2l4ZkU0cmliZk9WWlp0QVh4MUpFcFlVT2ZSbGhMNWxKX3R2YWQ4MHYtZXJiTHoyekVmREXSAewBQVVfeXFMTU9OR1RzcWowWjA5ZXJOZTdnRjdfRnJNcEFocjRub0FTa0JGaDYyQWN6VGZISFdDeVhzOExJcFZUTDdHTzBBbS0yMXFQbDBfRTdfM3h1Z0xvRkFxZ0NDM3VDMU85VmdpeXRIalFKb3J6NHZ2N1lxTG1jSGhONXFxeWw0RFEwNjhteWdwc3pQaEFHemFsZzN5NFhCZGNzMkhidXdNMFVGY3U5U1dGSHBsb1VESXdMSHM4SVZrLV9zNEw1MzFIQVJaZk01X0tKQmJkTmlfZE5IQ1VBLVdWa0kxWXNYckwtNDF5clJTZTQ?oc=5"
-  },
-  {
-    "id": "gl-1de7z",
+    "id": "gl-j6yhb",
     "title": "Bclub and the Future of Bioenergy: How Innovation Is Driving a Cleaner Energy Revolution - The Good Men Project",
     "summary": "Bclub and the Future of Bioenergy: How Innovation Is Driving a Cleaner Energy Revolution  The Good Men Project",
     "source": "Google News Global",
@@ -40,7 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3VVZFBrWnVRQ2M2dnRyamJ5cnlZVHhKbHNSRzVOUHIyNVZfTUpuVXlnajlEMjU5czhSMUFtNF9JTDhOUXpBNkpLeVpLOHVlX2hMR3J2NHN3SXZTRzAwcVF1aFphTm1DMlFUeEhBdTJzejlVZ1EtTWpwSndiZE1QSUpjN092bmZsVi15TUo1LWFCZkIybHNLZ0V6VEJaYllzRzJiUnAwblY3ay1TaXROVDgxa2poOV9VaUVXMTJHOVRUMEcy?oc=5"
   },
   {
-    "id": "gl-u8gbu",
+    "id": "gl-090es",
     "title": "BClub and Bioenergy Innovation: How Sustainable Research Is Shaping Tomorrow’s Energy Solutions - The Good Men Project",
     "summary": "BClub and Bioenergy Innovation: How Sustainable Research Is Shaping Tomorrow’s Energy Solutions  The Good Men Project",
     "source": "Google News Global",
@@ -50,7 +100,7 @@
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzgyTDdDcGhrMTBsVTZHemI4UE9zRDY5WDYtVV85MU1fQjM5MW96dllSaXNSSkRTWUtmMUtNcW90TnRzRlkyNTk4UjRyNzJ6cUhFenhmYThvRTdoSWVORnN6bXFCbkV0cGZ5YTVsM0x1eXpBZjRTT19BNlpZR0tOcjVYZldtRXdPb3FQWldLa0RzSzhZN0doUGNvRk15N1lKQ2FkUGFmMTYtMURORUt3aEFrakFVMVBtX1VWQ2xYY0VlMVdJVDlpUVI4cjVxbjBfRjhF?oc=5"
   },
   {
-    "id": "gl-6vwe8",
+    "id": "gl-xr7lu",
     "title": "CHINT and Octopus Energy sign strategic cooperation agreements to accelerate clean energy deployment and digital energy innovation - Latitude Media",
     "summary": "CHINT and Octopus Energy sign strategic cooperation agreements to accelerate clean energy deployment and digital energy innovation  Latitude Media",
     "source": "Google News Global",
