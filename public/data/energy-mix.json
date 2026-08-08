@@ -2,17 +2,17 @@
   "india": [
     {
       "name": "Coal",
-      "value": 58.3,
+      "value": 58,
       "color": "#7f1d1d"
     },
     {
       "name": "Solar",
-      "value": 17.4,
+      "value": 17.5,
       "color": "#eab308"
     },
     {
       "name": "Wind",
-      "value": 10,
+      "value": 10.3,
       "color": "#22c55e"
     },
     {
@@ -34,7 +34,7 @@
   "us": [
     {
       "name": "Gas",
-      "value": 42.1,
+      "value": 42.2,
       "color": "#ea580c"
     },
     {
@@ -49,12 +49,12 @@
     },
     {
       "name": "Wind",
-      "value": 10.7,
+      "value": 10.4,
       "color": "#22c55e"
     },
     {
       "name": "Solar",
-      "value": 6.9,
+      "value": 7,
       "color": "#eab308"
     },
     {
