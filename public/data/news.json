@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-eqrku",
+    "id": "in-t49pl",
     "title": "Cabinet may soon mull  ₹50,000 crore new phase of RE corridor to unclog grids",
     "summary": "India is readying a  ₹50,000-crore push to boost its power grid as renewable capacity outpaces transmission infrastructure. The green energy corridor's phase three plan will soon head for Cabinet nod,...",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/energy/mnre-cabinet-re-green-corridor-rs-50-000-crore-electricity-grid-transmission-11786359863917.html"
   },
   {
-    "id": "in-hukvt",
+    "id": "in-2r3qa",
     "title": "India’s non-fossil power capacity crosses 300 GW",
     "summary": "Renewable capacity has surged, but India’s next energy challenge is integrating it reliably through faster transmission, storage and smarter grids.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/energy/indias-non-fossil-power-capacity-crosses-300-gw-11786276463491.html"
   },
   {
-    "id": "in-axwig",
+    "id": "in-kui2o",
     "title": "How Trump's tariffs are reshaping Indian pharma",
     "summary": "US tariffs may not impact Indian pharma in the short term, but building replacement capacity on US soil remains cost-prohibitive for thin-margin producers. At the same time, a Deloitte survey reveals...",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/indian-pharma-us-tariffs-generic-drugs-trump-nifty-pharma-lupin-dr-reddys-sun-pharma-aurobindo-pharma-11786249255444.html"
   },
   {
-    "id": "in-9f33j",
+    "id": "in-6x0yj",
     "title": "Centre plans global standard to improve gas pipeline efficiency",
     "summary": "Gas pipeline coatings are designed to reduce friction inside pipelines, improve gas flow, lower energy consumption during transportation and provide temporary corrosion protection",
     "source": "LiveMint",
@@ -40,7 +40,7 @@
     "link": "https://www.livemint.com/industry/india-plans-new-quality-standard-for-friction-reduction-coatings-inside-steel-gas-pipelines-for-critical-energy-infra-11786073430279.html"
   },
   {
-    "id": "in-x7ngp",
+    "id": "in-wjkdy",
     "title": "L&amp;T Energy bags major offshore project orders from ONGC",
     "summary": "The awarded projects include the Pipeline Replacement Project and the Well Head Platforms Project",
     "source": "LiveMint",
@@ -50,7 +50,7 @@
     "link": "https://www.livemint.com/industry/energy/lt-energy-bags-major-offshore-project-orders-from-ongc-11786097402976.html"
   },
   {
-    "id": "in-jbfxs",
+    "id": "in-mgobi",
     "title": "Storage, transmission key for next phase of India's energy transition: Experts",
     "summary": "Stakeholders at the Mint Sustainability Summit 2026 say transmission bottlenecks, battery storage and regulatory reforms will determine the next phase of India's renewable energy growth.",
     "source": "LiveMint",
@@ -60,7 +60,27 @@
     "link": "https://www.livemint.com/industry/energy/india-clean-energy-transition-grid-expansion-battery-storage-renewables-11786012731692.html"
   },
   {
-    "id": "us-zit0d",
+    "id": "us-iv9dh",
+    "title": "What Natural Gas Ascendancy Says About the US - EnergyNow.com",
+    "summary": "What Natural Gas Ascendancy Says About the US  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-08-10T23:07:26.000Z",
+    "region": "US",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPem9qSjVRa2hiZno3ZU5jcTVtMFFkeDNIV1NaWlpoQkdhYnA2LVE2NHZsZkl1VW1EYXVkNGVmQ2xqZGZxSHZBSDNYQVlhbEJ3c3hNUWlGNE1FakFNWERzb2p5dXNLY0MxNmRuUlBEWmFiOUY5eWI3TTlpQlh5cGVYWWJrWQ?oc=5"
+  },
+  {
+    "id": "us-jm0ux",
+    "title": "Will AI Data Centers Overwhelm the Power Grid? What US Grid Data Shows - TechRepublic",
+    "summary": "Will AI Data Centers Overwhelm the Power Grid? What US Grid Data Shows  TechRepublic",
+    "source": "Google News US",
+    "timestamp": "2026-08-10T21:50:12.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM09GczBOU1k1ekxTQ2JKWjlwQUFKTTVJZ3dZeEtfbENSbWRmcjM4R09uQjFSMnNjNkZsWFpkaHhuenZEdEkyUDZaMklvZzcwanByNkhWMjNTQ1FBTUx2bUV0a2MyUWdURDBXVlVxdDd6RGx1bW02Y05tMjZhWUlubWVINzFvX3ZP?oc=5"
+  },
+  {
+    "id": "us-0kl43",
     "title": "US Grid’s $1 Trillion Problem Could Equal a $1 Billion Payout for Power CEOs - EnergyNow.com",
     "summary": "US Grid’s $1 Trillion Problem Could Equal a $1 Billion Payout for Power CEOs  EnergyNow.com",
     "source": "Google News US",
@@ -70,29 +90,19 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWFYRC1zQUR3TWNZREZGazVtOWpIYmtBc0NrVUNTNjJEU3VQUEt4MWRHWjhkTGhleTY2WnJmNGczWEFLdmRwZXNpSlZRX19tSEtDa2tGcTV2bE9vX1NxVmtJUnk3YzF0NmtlSjcxblVfYjFMbGx2dmdybzhjWGhQRm5tNm1RckVJT1VnLWpBVF91dF85TlMxbkpHMnc1Nm5zNkI4em1mZw?oc=5"
   },
   {
-    "id": "us-7ytox",
-    "title": "What Natural Gas Ascendancy Says About the US - EnergyNow.com",
-    "summary": "What Natural Gas Ascendancy Says About the US  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-08-08T12:06:33.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPem9qSjVRa2hiZno3ZU5jcTVtMFFkeDNIV1NaWlpoQkdhYnA2LVE2NHZsZkl1VW1EYXVkNGVmQ2xqZGZxSHZBSDNYQVlhbEJ3c3hNUWlGNE1FakFNWERzb2p5dXNLY0MxNmRuUlBEWmFiOUY5eWI3TTlpQlh5cGVYWWJrWQ?oc=5"
+    "id": "gl-r3n9n",
+    "title": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - en.hespress.com",
+    "summary": "UNCTAD: Morocco draws investment in hydrogen, energy and industry  en.hespress.com",
+    "source": "Google News Global",
+    "timestamp": "2026-08-10T22:05:32.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjFUR2JxeDByMGlhRHFEMDF2clBOVFdnRGIxem9BM2FEUDBLV3prY1I4dTI0QU1INE0tVDVNMFhqNGtHTk9nRDM2WFAwY0ZRdDZIS0VSY0M4Y0wtTHRFRGNGUDFIQUtWcVdfVnNnVC0wNjRvcmc4NTd4a09oREIwLXYyenI5b3FfVzVPeG5Wc1BmeXlFNDhFZmNHTGktbVQ1?oc=5"
   },
   {
-    "id": "us-0lu3p",
-    "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects - EnergyNow.com",
-    "summary": "Biggest US Grid Operator to Begin Processing New Power Plant Projects  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-08-07T22:04:47.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5"
-  },
-  {
-    "id": "gl-u3q8m",
-    "title": "Times Dhandho: Gujarat shining locally, powering globally - timesofindia.indiatimes.com",
-    "summary": "Times Dhandho: Gujarat shining locally, powering globally  timesofindia.indiatimes.com",
+    "id": "gl-msw25",
+    "title": "Times Dhandho: Gujarat shining locally, powering globally - The Times of India",
+    "summary": "Times Dhandho: Gujarat shining locally, powering globally  The Times of India",
     "source": "Google News Global",
     "timestamp": "2026-08-10T16:04:00.000Z",
     "region": "Globe",
@@ -100,7 +110,7 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFZQODR5akpSQllHelE3MmF6Qk5faE9zU2tBclgxNFY4UEYyeVA1Mmdma0lpZzdSb0RZUng2eDNXSHpwbGdkY2oxVDh2OTFDSzVOeExxVXcwQXp1REhkWHdwR2ZFREttMy1UbTdPM1o2MzlOa202ZEJRRGtHeWpWeXIyS0FxMU9ra2VwMDRDNWVBSzdHZ1JNN0dzanhqV0NGT1ZNU3N3T2hXZ3Vab3NMN3JxTW1UZEVUT2NvcTY0eUFWME9Yd3c3MnVjVkrSAdIBQVVfeXFMTk5pMXhNUndCZ0dGUWRGQVFDWHVqR0NRbVJuNUF1ak1JVktId21YVkh2RVNUeGlIQ2lNLXZsSXhaRDNaZjR3MDFXdTgyV1JmWVQzLWhPeHVUdU13QkZmOEU3eFhkYXlUcUs2X0pwZlZHMFgtRmJQOXdkUkVNYXFEUHNpUDlmMmF3aHctTWMwbGhrMkVEdzI4THFXZXZRRHRxeDVVSUxqMlg4Ty1wTDJEYlkwWFJoazE4VTIwankzYUNGMU9MMU1JNDRRRnkzNGpCZGNR?oc=5"
   },
   {
-    "id": "gl-9bz7w",
+    "id": "gl-8hz7l",
     "title": "Renewable Energy Certificates Global Market Report 2026: Growth Drivers, Key Trends, and Forecast to 2030 - The National Law Review",
     "summary": "Renewable Energy Certificates Global Market Report 2026: Growth Drivers, Key Trends, and Forecast to 2030  The National Law Review",
     "source": "Google News Global",
@@ -108,15 +118,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZktrOWI1OFhXQmE5VDZGenFXOEFaa2Y0VF82ZFRKNFBIRlVXU2xhd2dqbndkRXJPaDNQVmljaEhEc3ByUW0tdlZZVExheXptNl9rUkJseEpyQW90T1kwM3FiWkNBYm1XQmExM2NMVGozeTJsN2h2RzA0a0VHbS1qYnA1Wkx3a0t1SXBKZnZNZVVEODh4QWFTOVROMm9wbHRkZ1dNaVJRSFNoTDMzc0hoU1lpeU8?oc=5"
-  },
-  {
-    "id": "gl-virnw",
-    "title": "6 Best-Performing Clean Energy ETFs for August 2026 - NerdWallet",
-    "summary": "6 Best-Performing Clean Energy ETFs for August 2026  NerdWallet",
-    "source": "Google News Global",
-    "timestamp": "2026-08-03T07:00:00.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rS21PYW5XTC1PZWZpMHVvaFhUYW5XRVNBX3Vjc0VFWHRtekxmSHViNnRMaFpEZ2xKYVJVN2FHNFMweUVaNUlXUFVfOVFtVk9RckVuUUtCbVFibXJZRGFNbmZkMWpsdkxUUC02bQ?oc=5"
   }
 ]
