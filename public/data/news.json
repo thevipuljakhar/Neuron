@@ -1,6 +1,76 @@
 [
   {
-    "id": "us-hn4zn",
+    "id": "in-u7y3l",
+    "title": "Cabinet may soon mull  ₹50,000 crore new phase of RE corridor to unclog grids",
+    "summary": "India is readying a  ₹50,000-crore push to boost its power grid as renewable capacity outpaces transmission infrastructure. The green energy corridor's phase three plan will soon head for Cabinet nod,...",
+    "source": "LiveMint",
+    "timestamp": "2026-08-11T00:00:51.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/energy/mnre-cabinet-re-green-corridor-rs-50-000-crore-electricity-grid-transmission-11786359863917.html"
+  },
+  {
+    "id": "in-ul282",
+    "title": "India’s non-fossil power capacity crosses 300 GW",
+    "summary": "Renewable capacity has surged, but India’s next energy challenge is integrating it reliably through faster transmission, storage and smarter grids.",
+    "source": "LiveMint",
+    "timestamp": "2026-08-09T13:56:59.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/energy/indias-non-fossil-power-capacity-crosses-300-gw-11786276463491.html"
+  },
+  {
+    "id": "in-no9ob",
+    "title": "How Trump's tariffs are reshaping Indian pharma",
+    "summary": "US tariffs may not impact Indian pharma in the short term, but building replacement capacity on US soil remains cost-prohibitive for thin-margin producers. At the same time, a Deloitte survey reveals...",
+    "source": "LiveMint",
+    "timestamp": "2026-08-09T06:00:37.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/indian-pharma-us-tariffs-generic-drugs-trump-nifty-pharma-lupin-dr-reddys-sun-pharma-aurobindo-pharma-11786249255444.html"
+  },
+  {
+    "id": "in-y57n9",
+    "title": "Centre plans global standard to improve gas pipeline efficiency",
+    "summary": "Gas pipeline coatings are designed to reduce friction inside pipelines, improve gas flow, lower energy consumption during transportation and provide temporary corrosion protection",
+    "source": "LiveMint",
+    "timestamp": "2026-08-08T00:37:12.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/india-plans-new-quality-standard-for-friction-reduction-coatings-inside-steel-gas-pipelines-for-critical-energy-infra-11786073430279.html"
+  },
+  {
+    "id": "in-i7p5m",
+    "title": "L&amp;T Energy bags major offshore project orders from ONGC",
+    "summary": "The awarded projects include the Pipeline Replacement Project and the Well Head Platforms Project",
+    "source": "LiveMint",
+    "timestamp": "2026-08-07T10:20:28.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/energy/lt-energy-bags-major-offshore-project-orders-from-ongc-11786097402976.html"
+  },
+  {
+    "id": "us-oggzd",
+    "title": "US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says - EnergyNow.com",
+    "summary": "US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-08-11T22:52:16.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdE42UDRaMjlaYVZhRXFrR2lteVlNUW5OcTU0NDRmTTRBaklDNk5zNkxLWWhmRTk3ZWphcU4yYm1oVThpdW5YYi0tR2Rucm9VRU1NQ2locUZTZUhfYXRzdlRydTE5TjBwcnMycHoyWlNPem9FM285YlFpWk44SDBCUDIySUJVaUdCZGs5YmUyclI2T0k5bnZGWkFCWjFQN1htSW9MaTBmUXVYTUVuU2c?oc=5"
+  },
+  {
+    "id": "us-9y5qu",
+    "title": "AI Power Boom Revives Natural Gas as Infrastructure Bet - EnergyNow.com",
+    "summary": "AI Power Boom Revives Natural Gas as Infrastructure Bet  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-08-11T22:41:48.000Z",
+    "region": "US",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0tSMm96OW5sMFBibjFHdFdKWTlJRzQtdE5seGFtNmFhaWUtNS1Tc1J2ZHVZVU5NZC1KbGsydk81WEVMUDQyejZwdjVtTEpjdWhQcENqZURlcTFYT09mZjdiMUo0aWJJQmdFRi1nM3JkR2t6VFRIX25OWVVCR210Qjd0YWNER19fNDlERUVEcw?oc=5"
+  },
+  {
+    "id": "us-ga2hq",
     "title": "Building up the US power grid won't be wasted, even if the AI bubble bursts - The Register",
     "summary": "Building up the US power grid won't be wasted, even if the AI bubble bursts  The Register",
     "source": "Google News US",
@@ -10,27 +80,7 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2NnbnB6ZmhLVlJlNWtJMnJXajdrOVplWFdsLUVFUWxkWEp6TDl1cXVQVkdYM3pyMFVTLUhOMkNheWxoS1A3ZmptRnFUTWFfMmZ2bS1RYlZiVWNockRFZHhCRkpyNU9FTDlTOUdBZDg1Y1AtMGtRUEw1OTM1SVdfRmlkWThUa2l6UWZjSWY0dUZYVlJBV2N1bVd3emdRLXZiWUlYbXU0SEtJbmh4aXpZSFlWVU1TOTRicUxsX0o4dG5uUGRqeEhJ?oc=5"
   },
   {
-    "id": "us-wf4vb",
-    "title": "AI Power Boom Revives Natural Gas as Infrastructure Bet - EnergyNow.com",
-    "summary": "AI Power Boom Revives Natural Gas as Infrastructure Bet  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-08-11T00:38:49.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0tSMm96OW5sMFBibjFHdFdKWTlJRzQtdE5seGFtNmFhaWUtNS1Tc1J2ZHVZVU5NZC1KbGsydk81WEVMUDQyejZwdjVtTEpjdWhQcENqZURlcTFYT09mZjdiMUo0aWJJQmdFRi1nM3JkR2t6VFRIX25OWVVCR210Qjd0YWNER19fNDlERUVEcw?oc=5"
-  },
-  {
-    "id": "us-06ogi",
-    "title": "What Natural Gas Ascendancy Says About the US - EnergyNow.com",
-    "summary": "What Natural Gas Ascendancy Says About the US  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-08-10T23:07:26.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPem9qSjVRa2hiZno3ZU5jcTVtMFFkeDNIV1NaWlpoQkdhYnA2LVE2NHZsZkl1VW1EYXVkNGVmQ2xqZGZxSHZBSDNYQVlhbEJ3c3hNUWlGNE1FakFNWERzb2p5dXNLY0MxNmRuUlBEWmFiOUY5eWI3TTlpQlh5cGVYWWJrWQ?oc=5"
-  },
-  {
-    "id": "gl-24mnj",
+    "id": "gl-97qsj",
     "title": "Global Renewable Energy Capacity Hits 5.2 TW Milestone - mvapulse.com",
     "summary": "Global Renewable Energy Capacity Hits 5.2 TW Milestone  mvapulse.com",
     "source": "Google News Global",
@@ -40,7 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDdrWXlxc1JIRlRQUVFPWTdpVlZienp5anA1cS1na0lINjAzZ2gtbmdsaDJxUjRFVHRXRkx6RTVnWjN4RTlzc0ZZU21OVS1ub1dmdE9QWFlta2lCWVZMeUxaa3NoOEVoUnlRWUdBSzhmck9Yc3o2eERUN3d1ajRBUVo5bXdpV3c?oc=5"
   },
   {
-    "id": "gl-cl3rd",
+    "id": "gl-94byd",
     "title": "Renewable Energy Certificates Global Market Report 2026: Growth Drivers, Key Trends, and Forecast to 2030 - The National Law Review",
     "summary": "Renewable Energy Certificates Global Market Report 2026: Growth Drivers, Key Trends, and Forecast to 2030  The National Law Review",
     "source": "Google News Global",
@@ -50,7 +100,7 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZktrOWI1OFhXQmE5VDZGenFXOEFaa2Y0VF82ZFRKNFBIRlVXU2xhd2dqbndkRXJPaDNQVmljaEhEc3ByUW0tdlZZVExheXptNl9rUkJseEpyQW90T1kwM3FiWkNBYm1XQmExM2NMVGozeTJsN2h2RzA0a0VHbS1qYnA1Wkx3a0t1SXBKZnZNZVVEODh4QWFTOVROMm9wbHRkZ1dNaVJRSFNoTDMzc0hoU1lpeU8?oc=5"
   },
   {
-    "id": "gl-f7qld",
+    "id": "gl-63daf",
     "title": "6 Best-Performing Clean Energy ETFs for August 2026 - NerdWallet",
     "summary": "6 Best-Performing Clean Energy ETFs for August 2026  NerdWallet",
     "source": "Google News Global",
