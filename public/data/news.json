@@ -1,76 +1,6 @@
 [
   {
-    "id": "in-frhvy",
-    "title": "Edible oil prices may stay firm until November, adding to inflation risks",
-    "summary": "Higher global prices and import costs are keeping India’s edible oil market under pressure, while the benefits of higher oilseed sowing are unlikely to be felt until the new crop arrives.",
-    "source": "LiveMint",
-    "timestamp": "2026-08-13T14:33:15.000Z",
-    "region": "India",
-    "category": "Fossil",
-    "link": "https://www.livemint.com/industry/edible-oil-prices-firm-november-inflation-risks-festival-new-crop-oilseed-sowing-11786612720079.html"
-  },
-  {
-    "id": "in-dapon",
-    "title": "Retail lending slows at banks in Q1 as corporate loans pick up pace",
-    "summary": "Banks attribute the strong growth momentum in corporate loans to a pick-up in demand from sectors such as renewables, power and data centres.",
-    "source": "LiveMint",
-    "timestamp": "2026-08-13T13:31:58.000Z",
-    "region": "India",
-    "category": "Renewable",
-    "link": "https://www.livemint.com/industry/banking/retail-lending-slows-at-banks-in-q1-as-corporate-loans-pick-up-pace-11786619187597.html"
-  },
-  {
-    "id": "in-6zzrk",
-    "title": "PSU non-banks go slow on offshore borrowing as cost edge shrinks",
-    "summary": "RBI’s concessional hedging window opened a cheaper route to overseas funds for PSU lenders, but higher US yields and a crowded dollar market have eroded the advantage. With offshore and domestic borro...",
-    "source": "LiveMint",
-    "timestamp": "2026-08-13T00:20:20.000Z",
-    "region": "India",
-    "category": "Renewable",
-    "link": "https://www.livemint.com/industry/banking/psu-nbfc-banks-rbi-ecb-overseas-dollar-borrowing-us-yields-11786530534313.html"
-  },
-  {
-    "id": "in-wm7dv",
-    "title": "NaBFID plans up to $4 billion in overseas borrowing under RBI hedging window",
-    "summary": "The infrastructure lender has raised its overseas borrowing target from earlier $1-2 billion plan, with $850 million already raised under the RBI facility",
-    "source": "LiveMint",
-    "timestamp": "2026-08-12T16:37:11.000Z",
-    "region": "India",
-    "category": "Renewable",
-    "link": "https://www.livemint.com/industry/banking/nabfid-plans-up-to-4-billion-in-overseas-borrowing-under-rbi-hedging-window-11786545627703.html"
-  },
-  {
-    "id": "in-xvtj9",
-    "title": "Centre plans strategic petroleum reserves in Rajasthan, Madhya Pradesh",
-    "summary": "Bikaner, Bina projects come as India seeks to shore up crude buffers amid supply risks and a push towards 90 days of oil stocks.",
-    "source": "LiveMint",
-    "timestamp": "2026-08-12T15:15:07.000Z",
-    "region": "India",
-    "category": "Fossil",
-    "link": "https://www.livemint.com/industry/energy/centre-plans-strategic-petroleum-reserves-in-rajasthan-madhya-pradesh-11786543365633.html"
-  },
-  {
-    "id": "in-iupzf",
-    "title": "Centre allows renewable developers to cut tariffs after winning tenders",
-    "summary": "The renewable energy ministry's clarification could help unlock 40 GW of unsigned renewable power contracts without reopening bids.",
-    "source": "LiveMint",
-    "timestamp": "2026-08-12T14:01:44.000Z",
-    "region": "India",
-    "category": "Renewable",
-    "link": "https://www.livemint.com/industry/centre-allows-renewable-developers-to-cut-tariffs-after-winning-tenders-11786534178212.html"
-  },
-  {
-    "id": "in-uidz2",
-    "title": "Cabinet may soon mull  ₹50,000 crore new phase of RE corridor to unclog grids",
-    "summary": "India is readying a  ₹50,000-crore push to boost its power grid as renewable capacity outpaces transmission infrastructure. The green energy corridor's phase three plan will soon head for Cabinet nod,...",
-    "source": "LiveMint",
-    "timestamp": "2026-08-11T00:00:51.000Z",
-    "region": "India",
-    "category": "Renewable",
-    "link": "https://www.livemint.com/industry/energy/mnre-cabinet-re-green-corridor-rs-50-000-crore-electricity-grid-transmission-11786359863917.html"
-  },
-  {
-    "id": "us-j46hz",
+    "id": "us-oy5y6",
     "title": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War - EnergyNow.com",
     "summary": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War  EnergyNow.com",
     "source": "Google News US",
@@ -80,7 +10,7 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVZDSVhKNnF6eUdkZE5oRWtPR0VlR3NnS1VNbUwyOTVEb2ktU0tYZGl3dDlld3dHMWlrZnRIdTc1RV85R3E3NVdmT29BM1hzNFZNT3dIQkFfd3lERm9ZeHM5YUtPUE1jaGM3ZWp0N0lRMGcxbjYyMmFaRURMRG10RnVhRHA5a05HX2QyUGM3T2lwR2lWQlVxTmFxN1Fxd3BySGdIaTdwODNzaVFUbjJCMEpZSzBfbXpMazRFQnhXTWhGZWlJd3c?oc=5"
   },
   {
-    "id": "us-hj3g4",
+    "id": "us-or0cf",
     "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
     "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
     "source": "Google News US",
@@ -90,7 +20,7 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
   },
   {
-    "id": "us-0u0zg",
+    "id": "us-sg2wx",
     "title": "U.S. Power Grid Strains Under Record Electricity Demand - Crude Oil Prices Today | OilPrice.com",
     "summary": "U.S. Power Grid Strains Under Record Electricity Demand  Crude Oil Prices Today | OilPrice.com",
     "source": "Google News US",
@@ -100,7 +30,7 @@
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3JjNDdQNHF4SnpaYllxLXpBSHVPZjJsSUYtLUV4NXZEMGtuVzk1Umd0aXhyYlBDZkw3ZTNnNDBRWG1ZVklrOEZLSm1JZmo3eW91bUpkdTZnWVVmdFpfYnZZSl9TTFVtSEI1ZGFLa0ZDY3AxSnVFT1ZLVUk2VF9lZGxvRUJYTXlKT2lIbV9Kcm1KLWpENG9DanVjalB6d2xlUWtZ0gGoAUFVX3lxTE5mcFdQa0pMQWY1VHluTHpPSmdZQkktcGduZWUta05fUW1PMldEQ2hiWWE2bGNONEdwTmZZUDN0VVV3bWpVbmstUFBQaXdXQWhadDFJckZPbXIzN0NTdmJCZTVMR1JudmpiUWM0S3ItUnJOQ2ZPWXNvRm5IM0FUaXBEZi1aYVlMRkhSZzAxMW8ycVNDeW92WWpodFhZNWtoM0V6bmk2bXAyNA?oc=5"
   },
   {
-    "id": "gl-yaql1",
+    "id": "gl-s9w7l",
     "title": "Chinese solar firms eye bigger role in Bangladesh’s renewable goals - New Age BD",
     "summary": "Chinese solar firms eye bigger role in Bangladesh’s renewable goals  New Age BD",
     "source": "Google News Global",
@@ -110,7 +40,7 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWFMcEFBdFNlWGlMZEE3STV6UnNBeHBialdENzNMaC12RUZnbGNjTm5ldzkxQTRNNVQ5VTV3UzNEODdLVGdBUFhXRVY5bDJPQ1hleTlXRS1hZWM3QnZ2Wmw1QWJveFJrNnNMZjIwcVZjN3ktd0xlSXU4UDVWWmUzUWVEQ05RQ2YzVWdzcE9nZXVidkVZcDNabjhDWWkwT05YbVVJbk1FdXFMTHJDczhvcEJibC1OMkk?oc=5"
   },
   {
-    "id": "gl-n4z60",
+    "id": "gl-mxy3e",
     "title": "3 Key Insights Into The Green Economy: Leading Industries, Energy Insecurity And Electricity Demand - Seeking Alpha",
     "summary": "3 Key Insights Into The Green Economy: Leading Industries, Energy Insecurity And Electricity Demand  Seeking Alpha",
     "source": "Google News Global",
@@ -120,7 +50,7 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRmVKWXAtTGJORDEzTUJnbWRMSFRrTTZpcENZNHlqbW9pMFYzRGJFOEloRlpIeDZEU2NNWGZ1cnZ4NHNvUVhXS3JVN2FyTVZYYkxPVHo4ZVVpZkZDSWxtTlRYQ2RRZDhCX2xpenowVVBwRmlud2JKUjl6ZEptcFJ1TUQ1cXhxSXlrejdxa0l0d2JUOGgzVkN1M2RKM0c3aDU0VTRLWTB6NG9kVU5kTkFfUWhqQ0txdmUzQkt1cy1LU0RCTDZXRUY5QXhB?oc=5"
   },
   {
-    "id": "gl-pocw9",
+    "id": "gl-yvkhw",
     "title": "Global Renewable Energy Finance Roundup: $150M Solar Funding - mvapulse.com",
     "summary": "Global Renewable Energy Finance Roundup: $150M Solar Funding  mvapulse.com",
     "source": "Google News Global",
