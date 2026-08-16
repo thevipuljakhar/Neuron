@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-tvx0a",
+    "id": "in-khha7",
+    "title": "Govt mandates daily LPG target of 63.81 KTPD to strengthen domestic supply",
+    "summary": "The Petroleum Ministry in an order specified production levels for 18 public-sector refineries, three private-sector companies and three upstream companies",
+    "source": "LiveMint",
+    "timestamp": "2026-08-16T13:36:09.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/energy/govt-mandates-daily-lpg-target-of-63-81-ktpd-to-strengthen-domestic-supply-11786886555757.html"
+  },
+  {
+    "id": "in-h9fw9",
     "title": "Edible oil prices may stay firm until November, adding to inflation risks",
     "summary": "Higher global prices and import costs are keeping India’s edible oil market under pressure, while the benefits of higher oilseed sowing are unlikely to be felt until the new crop arrives.",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/edible-oil-prices-firm-november-inflation-risks-festival-new-crop-oilseed-sowing-11786612720079.html"
   },
   {
-    "id": "in-7aet6",
+    "id": "in-qdbdp",
     "title": "Retail lending slows at banks in Q1 as corporate loans pick up pace",
     "summary": "Banks attribute the strong growth momentum in corporate loans to a pick-up in demand from sectors such as renewables, power and data centres.",
     "source": "LiveMint",
@@ -20,7 +30,7 @@
     "link": "https://www.livemint.com/industry/banking/retail-lending-slows-at-banks-in-q1-as-corporate-loans-pick-up-pace-11786619187597.html"
   },
   {
-    "id": "in-0f2i0",
+    "id": "in-dn7xy",
     "title": "PSU non-banks go slow on offshore borrowing as cost edge shrinks",
     "summary": "RBI’s concessional hedging window opened a cheaper route to overseas funds for PSU lenders, but higher US yields and a crowded dollar market have eroded the advantage. With offshore and domestic borro...",
     "source": "LiveMint",
@@ -30,7 +40,7 @@
     "link": "https://www.livemint.com/industry/banking/psu-nbfc-banks-rbi-ecb-overseas-dollar-borrowing-us-yields-11786530534313.html"
   },
   {
-    "id": "in-oo9vc",
+    "id": "in-9pny8",
     "title": "NaBFID plans up to $4 billion in overseas borrowing under RBI hedging window",
     "summary": "The infrastructure lender has raised its overseas borrowing target from earlier $1-2 billion plan, with $850 million already raised under the RBI facility",
     "source": "LiveMint",
@@ -40,7 +50,7 @@
     "link": "https://www.livemint.com/industry/banking/nabfid-plans-up-to-4-billion-in-overseas-borrowing-under-rbi-hedging-window-11786545627703.html"
   },
   {
-    "id": "in-gb6yw",
+    "id": "in-y4ebc",
     "title": "Centre plans strategic petroleum reserves in Rajasthan, Madhya Pradesh",
     "summary": "Bikaner, Bina projects come as India seeks to shore up crude buffers amid supply risks and a push towards 90 days of oil stocks.",
     "source": "LiveMint",
@@ -50,7 +60,7 @@
     "link": "https://www.livemint.com/industry/energy/centre-plans-strategic-petroleum-reserves-in-rajasthan-madhya-pradesh-11786543365633.html"
   },
   {
-    "id": "in-tpqb9",
+    "id": "in-dwnar",
     "title": "Centre allows renewable developers to cut tariffs after winning tenders",
     "summary": "The renewable energy ministry's clarification could help unlock 40 GW of unsigned renewable power contracts without reopening bids.",
     "source": "LiveMint",
@@ -60,7 +70,17 @@
     "link": "https://www.livemint.com/industry/centre-allows-renewable-developers-to-cut-tariffs-after-winning-tenders-11786534178212.html"
   },
   {
-    "id": "us-3eib0",
+    "id": "us-alm00",
+    "title": "What Natural Gas Ascendancy Says About the US - EnergyNow.com",
+    "summary": "What Natural Gas Ascendancy Says About the US  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-08-15T14:29:21.000Z",
+    "region": "US",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPem9qSjVRa2hiZno3ZU5jcTVtMFFkeDNIV1NaWlpoQkdhYnA2LVE2NHZsZkl1VW1EYXVkNGVmQ2xqZGZxSHZBSDNYQVlhbEJ3c3hNUWlGNE1FakFNWERzb2p5dXNLY0MxNmRuUlBEWmFiOUY5eWI3TTlpQlh5cGVYWWJrWQ?oc=5"
+  },
+  {
+    "id": "us-20w6p",
     "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
     "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
     "source": "Google News US",
@@ -70,7 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
   },
   {
-    "id": "us-yoanx",
+    "id": "us-4v9v7",
     "title": "COMMENTARY: Data Centers Aren’t the Real US Power Problem. Outdated Policy is – Douglas J. Arent - EnergyNow.com",
     "summary": "COMMENTARY: Data Centers Aren’t the Real US Power Problem. Outdated Policy is – Douglas J. Arent  EnergyNow.com",
     "source": "Google News US",
@@ -80,17 +100,7 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGxWMk5VcGY4Yl90czdTWjk5bFUyaGIzQ2NleFZhQ1BVVDRIa1FFd2JQRzNjXzdnbGlWMEVXS1hHRlVZRG5pb0ZQb1ZkNVJLRnlxTWRJWFZjWG1wUmFFOEpiR1hsZFlGa0lIQWZ0NEdfa3FVWGJDLXlIaWNzU21Rc0xnS2p3bHFaTHhFNlBuMkRucWE3bDZTcjIwLXVJV2RCc0JFYTFiZkUzV3E2ZEExbGI5a3BpbG8wVkZNc0xB?oc=5"
   },
   {
-    "id": "us-m29x9",
-    "title": "What Natural Gas Ascendancy Says About the US - EnergyNow.com",
-    "summary": "What Natural Gas Ascendancy Says About the US  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-08-15T13:11:00.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPem9qSjVRa2hiZno3ZU5jcTVtMFFkeDNIV1NaWlpoQkdhYnA2LVE2NHZsZkl1VW1EYXVkNGVmQ2xqZGZxSHZBSDNYQVlhbEJ3c3hNUWlGNE1FakFNWERzb2p5dXNLY0MxNmRuUlBEWmFiOUY5eWI3TTlpQlh5cGVYWWJrWQ?oc=5"
-  },
-  {
-    "id": "gl-4kodh",
+    "id": "gl-3bxxw",
     "title": "Polyester Powder Topcoat Market 2035: Grid Modernization and Renewable Energy Demand Drive Super-Durable Coating Adoption - News and Statistics - IndexBox",
     "summary": "Polyester Powder Topcoat Market 2035: Grid Modernization and Renewable Energy Demand Drive Super-Durable Coating Adoption - News and Statistics  IndexBox",
     "source": "Google News Global",
@@ -100,7 +110,7 @@
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUEZITWc2azNYU0p2TDFkZjVVUHBIMVVTR0RVbEluc2tPdXNpVXhFdzN2LXBCamxlTW8zeVM4dUFDZFpBcTYwbEdGb1R5eWY0RG5MV1hLX1JuMnE3Wkxjb3ZINjJWMHhxNGgwcEZ0REZpamg0Q3pTVzhUc0lWYXZUR2JsYWVZY1ZhQ0RVMHlKaFZxVUE0OE1aN3UwNjZwRUVfcVFHQW1QcElfQ1FqMjlpRU0zQzNNaTJ2eFF1aWlQUWZoTmZnd1NVQkxaT2o2NUk3LUhPRXFialZOanZ3MzNBM2hCSUF2U0tN?oc=5"
   },
   {
-    "id": "gl-rygxm",
+    "id": "gl-hj1l7",
     "title": "Which Is the Better Energy ETF: State Street's Fossil Fuel XOP or iShares' Clean Energy ICLN? - The Motley Fool",
     "summary": "Which Is the Better Energy ETF: State Street's Fossil Fuel XOP or iShares' Clean Energy ICLN?  The Motley Fool",
     "source": "Google News Global",
@@ -110,7 +120,7 @@
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd29EWjdUQmZuUVEyUWhtVHoxMUloaXRJX0htLXd0Zk5CTG9IQkREbGpoMFIteHBhUWdTc3VDa2JBQXpBQTJNS2gwX1lZaTZzS0VwaDE0SFg3S1BhOVluNWNMRVFNY2tvdWlJQkJwdWNmTFNudUE3alVDOHRuMDVpRVpsVG5GWVpfYl9mdW1xYUtVY2ZfOEVwQVQtRXFNQnNDcmR2amRWbmpFNTduNVFhME1BbHRRcl9UZF9CX3hHckZwaTc0QTA0MnJwdWI0OXF0ZllN?oc=5"
   },
   {
-    "id": "gl-ndmtg",
+    "id": "gl-ljdc5",
     "title": "How the World’s Largest Electric Company Fell Quiet on Renewable Energy - Inside Climate News",
     "summary": "How the World’s Largest Electric Company Fell Quiet on Renewable Energy  Inside Climate News",
     "source": "Google News Global",
