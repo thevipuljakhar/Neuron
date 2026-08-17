@@ -2,7 +2,7 @@
   "india": [
     {
       "name": "Coal",
-      "value": 57.9,
+      "value": 58.1,
       "color": "#7f1d1d"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "name": "Wind",
-      "value": 10.2,
+      "value": 9.9,
       "color": "#22c55e"
     },
     {
       "name": "Hydro",
-      "value": 9.4,
+      "value": 9.5,
       "color": "#3b82f6"
     },
     {
@@ -49,12 +49,12 @@
     },
     {
       "name": "Wind",
-      "value": 10.6,
+      "value": 10.8,
       "color": "#22c55e"
     },
     {
       "name": "Solar",
-      "value": 6.8,
+      "value": 6.6,
       "color": "#eab308"
     },
     {
