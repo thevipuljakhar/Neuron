@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-6fjuy",
+    "id": "in-jmubx",
     "title": "‘RAMpocalypse’ is hurting Chinese OEMs in India as Samsung, Apple grow smartphone market share",
     "summary": "Price-sensitive buyers are struggling with higher smartphone prices amid a market shift driven by chip shortages, leading to declines for major Chinese brands.",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/rampocalypse-is-hurting-chinese-oems-in-india-as-samsung-apple-grow-smartphone-market-share-11787209856737.html"
   },
   {
-    "id": "in-d58uf",
+    "id": "in-mg1pm",
     "title": "Mint Explainer | Why India's  ₹18,100 crore advanced chemistry battery-making incentive plan is delayed by two years",
     "summary": "The PLI ACC scheme is among 14 such programmes started by the Union government to build indigenous manufacturing capacity in key sectors. It has a  ₹18,100 crore outlay to be disbursed as incentives.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/energy/pli-acc-scheme-india-rs-18100-crore-battery-manufacturing-11787113851436.html"
   },
   {
-    "id": "in-bq022",
+    "id": "in-qwzt5",
     "title": "RBI's early closure of FCNR deposit window sends banks, NRI investors scrambling",
     "summary": "Market participants suggested that even a caveat from the central bank that the scheme could be reviewed depending on the pace of inflows would have helped banks and customers plan better.",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/banking/rbi-early-closure-fcnr-deposit-window-banks-nri-investors-policy-predictability-markets-surprise-rbi-governor-liquidity-11787033284517.html"
   },
   {
-    "id": "in-qvwgq",
+    "id": "in-1f4a5",
     "title": "Govt to announce high-powered panel on banking reforms for Viksit Bharat",
     "summary": "Finance minister Nirmala Sitharaman says PSB Confluence deliberations will provide substantive inputs to the proposed panel as banks prepare for the next phase of growth.",
     "source": "LiveMint",
@@ -40,7 +40,27 @@
     "link": "https://www.livemint.com/industry/banking/government-banking-reforms-panel-viksit-bharat-psb-confluence-2026-11786971699560.html"
   },
   {
-    "id": "us-txqn4",
+    "id": "us-gap25",
+    "title": "US power grid at risk of 18-month blackout; 1 city now in dark for more than a week - Syracuse.com",
+    "summary": "US power grid at risk of 18-month blackout; 1 city now in dark for more than a week  Syracuse.com",
+    "source": "Google News US",
+    "timestamp": "2026-08-21T10:05:00.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSi1NajNScDlyaWVUS2RDejFTaUNYMHotNkRqX2F2SUR0enFtQVZqdm15a2dodmRrQUxTQnk1SnRoS1gzQjZBSTg0LURHVFJlcFVPQ3BILTBZdGNnYUlXc1NxSkp0WTFkdWZBZklkaU1CQjJ4aWszTWh6YVZYV3N5TngyeGxkSEVVeWVUaVVCeXZlUDI2cWxBczI1dTFHRW1rMjFXMDNjNWV4OXNzNmVTZlI5ZVhjWW41WkktX1VDNm0ydVNVLU1N0gHbAUFVX3lxTE9JOWpNSVZBOHZqTFdLRFNWMEtaVmtDbENXOFBReDl1Z2hGcnpGM2FkLWktd2JPNjZSYlY2TmxYR3FKU1dpWGN2cDZrVFBtTllPMG9nUE9VM0JSeXNpeks2cm82MHVoMmxyNUlTVGVLUlR5Mmxrd0RBd3hyOE42eVdqOGRIdm1UTVRLVlpvVjh1VWdCUkZxVlRHYWRaUmZLUkx1a01fRGdaUWdDUklWNVhBQ2RacEJNaWo4Yldqeml1aHktQzIxbkNKVFFHUHhWbEdMcElsMC15cktHcw?oc=5"
+  },
+  {
+    "id": "us-uzume",
+    "title": "COMMENTARY: Data Centers Aren’t the Real US Power Problem. Outdated Policy is – Douglas J. Arent - EnergyNow.com",
+    "summary": "COMMENTARY: Data Centers Aren’t the Real US Power Problem. Outdated Policy is – Douglas J. Arent  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-08-20T22:33:49.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGxWMk5VcGY4Yl90czdTWjk5bFUyaGIzQ2NleFZhQ1BVVDRIa1FFd2JQRzNjXzdnbGlWMEVXS1hHRlVZRG5pb0ZQb1ZkNVJLRnlxTWRJWFZjWG1wUmFFOEpiR1hsZFlGa0lIQWZ0NEdfa3FVWGJDLXlIaWNzU21Rc0xnS2p3bHFaTHhFNlBuMkRucWE3bDZTcjIwLXVJV2RCc0JFYTFiZkUzV3E2ZEExbGI5a3BpbG8wVkZNc0xB?oc=5"
+  },
+  {
+    "id": "us-wobex",
     "title": "NIMBY Pushback to Data Centers a Boon for Bloom Energy, CEO Says - EnergyNow.com",
     "summary": "NIMBY Pushback to Data Centers a Boon for Bloom Energy, CEO Says  EnergyNow.com",
     "source": "Google News US",
@@ -50,27 +70,7 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmVnMDE5RDcyTWRBSXRzTnpkcFRZRVdDSnlyWkRYZ0sxU19wM2otYk1iU1cyR0txb1pIWkZuR1NRS0VXdGJnaDFCRC1pLTNZM2RZVUljTVJHUkFJdlNZaFV3YmZoTXh6M1ZwYWhZZGhfN1dMc2FBdURoYS1oanFIWXJXMHVJbkNHbGFrQnpFeHctcl9PSXhmWERR?oc=5"
   },
   {
-    "id": "us-sfksj",
-    "title": "'Stretched to the limit': Heat wave prompts US electrical grid emergency - ABC News - Breaking News, Latest News and Videos",
-    "summary": "'Stretched to the limit': Heat wave prompts US electrical grid emergency  ABC News - Breaking News, Latest News and Videos",
-    "source": "Google News US",
-    "timestamp": "2026-08-20T18:24:21.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWR6SWxnZk5VYWhkc0t2X0RmV1VIS3RPS1ZuTHN5c0tGcmoxcXBJR2t1N0tDS0dhQUNzcFZ3c1NmVVdqN0hFUmdHdGZmMGNlSFFMVG44WnBLbjl4RXlEbDlORGZQQ3Q0TjNkbVF2V3dSOGRHZ09XQ2dRWWNDMWpDd081Q0g2cUZjMFIzV0xTZF93bGhUN19zSFJB0gGfAUFVX3lxTE81RGtaZ1dyZ2t6U1dKc1NKZzg5dm5qNTI1S1h5cmNzNkpCaWVYbGFuZlRWNzM5UmZCSDhaSEhmZlc2Z1luRU4wd3NaRkNJNC1qalpuYXJrWlVCR2tYY3F5WUgxUHZBYjhWc1VvV3hWNjc3QXNfaHdPcVFBVnM4d05vUTJiNUV2SW1xRlA5SWoyRHJPQVltOUdnTlVodWVJYw?oc=5"
-  },
-  {
-    "id": "us-etk1m",
-    "title": "Cuba grid collapse: The situation is growing more dire, experts say - ABC News - Breaking News, Latest News and Videos",
-    "summary": "Cuba grid collapse: The situation is growing more dire, experts say  ABC News - Breaking News, Latest News and Videos",
-    "source": "Google News US",
-    "timestamp": "2026-08-20T17:50:21.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2VmVHJ5QWVWN0x5NUVuYTBVUEl0c0lFSDVUbjhJNFpCRjFWbFZINDlSMTA3LVl6b2d5MWpHRGhpSUZCamE4anhIb2Vsd0VBMVZRaWxEZHVnLUVjcjEzYjBsLUR1d1VseWVUM1dVQjQ1VmdvTl9wVGxwMTRDZS1SVXFfbTZEUVRvbHA5S1M3MTVLREplYmtHSDZ1MjBjRHRDUTB3WdIBqgFBVV95cUxNUV9UeXpFazByVnBWYWIxOHdpQzROMUdtSGV5eDV3alFESUozT2NoMG9xMkl4RFlXMnJDeXNIa0VDdFhkS3pSWmxXY2FSWUUzeDV3Mkl5WThISmdOSGpleGVySXBoTS1vN1ZuODFpYndHMkNfY1h0ZWZYbTBFVHllcGxXV0JMa0J2cTYzZVRvblNvNEpsNXNSS05sNHlGemhXTDlBQWFnS2JPdw?oc=5"
-  },
-  {
-    "id": "gl-b1nzp",
+    "id": "gl-7y5q6",
     "title": "Three Ways Renewable Energy is Critical for the Industries of Tomorrow - IRENA – International Renewable Energy Agency",
     "summary": "Three Ways Renewable Energy is Critical for the Industries of Tomorrow  IRENA – International Renewable Energy Agency",
     "source": "Google News Global",
@@ -80,17 +80,7 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTM4bnVGMGJ1UHJMV1ppdGdyX3B2LVZYUFF5WldpWndhWHlVdXg2dEFleXVzMnJoTExUcHRwNDJ0Q2s3RTVleEp6WjVCT3Jhc0FGNUVUS0I2WHhIZUxvUEt0ZVlBSGQxdm12UDlQbWtVMVlDc3RlMXlLOGFjQ3c1QlB1bnhhSjFyd2poazhxZlpLdkdOcUtqU1lvRndVRDVlZkE3bU9nS1JYRGo2YmFZbi10b3k4UTFySVpTOF93?oc=5"
   },
   {
-    "id": "gl-kto1x",
-    "title": "Biaxial Plastic Geogrids Market to Reach 190 Index by 2035 on Renewable Energy Ground Stabilisation Demand - IndexBox",
-    "summary": "Biaxial Plastic Geogrids Market to Reach 190 Index by 2035 on Renewable Energy Ground Stabilisation Demand  IndexBox",
-    "source": "Google News Global",
-    "timestamp": "2026-08-19T19:51:32.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0hvcHBSaks3RVBGYl9vcHYzOUoxaDhLOTN5OUltbU1DcWJWb1pWX19fOHl3S2tFSGJxYTNHcmpjQUsyT3QzNHdSR2twS0dVbDZLd18xc3JYeWdORkM1M3lYcnEwYjVnemhfVG44Ykp5S09TZDF5SXF1aXJJRURaZ3JrekRtYkNXMW1ZSGh0SVVOVXJ3enQxYnJxZFQxRXRKRmFsbllUaHJMQUdONkYyeVBDQllFTnNEQUxOVXFfRUg4ZldHSWpzTENhZXgwOVFpZHc?oc=5"
-  },
-  {
-    "id": "gl-1xkxl",
+    "id": "gl-jl6o8",
     "title": "Africa renewable energy paradox: Rich in resources, poor in power - Business Daily",
     "summary": "Africa renewable energy paradox: Rich in resources, poor in power  Business Daily",
     "source": "Google News Global",
@@ -98,5 +88,15 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0tiWk9wc0ZYbmJpWkh3RmR0N0pHLUN4WnQ4NUk5bVJCV2R4Smw5UWRIZC1MUW5sV1dRempSeFpVX2xhUUIzYzI1bEJPVmE1a0EyTTVLLWp6enN6bkdYQWlKcXlVRW5rY3BETmtVQ0ZSVExOOFpwNXlVeUxRZ3NpSVZtZlRKdVE0Rk9zOEhFUFJWQWNuNTkwUW1GQlZlQmVlcVM3N2ZmZFNScnhiSjI1N2NSd2lOSHRSYzdYTmJsc3dtMmFMT1QtNS1R?oc=5"
+  },
+  {
+    "id": "gl-lj6il",
+    "title": "Global Renewable Energy Finance Roundup: $1.8 Billion Secured - mvapulse.com",
+    "summary": "Global Renewable Energy Finance Roundup: $1.8 Billion Secured  mvapulse.com",
+    "source": "Google News Global",
+    "timestamp": "2026-08-19T07:31:57.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0ptZ3AyNHBQNDNzd1VvNS0tTFY4akE1SEZVMXpLQnBNZVJ1cXlIYndfOVkyNE43WHhfX2dHbGVReUlJeDZqN194ZG42SGt2clhMYWhvaXFSVWwzWUUyZTJMdGg5UHBYNjJpTWFfNFQ4aUR3M3lvUWQ0NE40UTNsVGNhYy1KdjlWTkNWSzFn?oc=5"
   }
 ]
