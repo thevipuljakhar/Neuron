@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-winba",
+    "id": "in-2t0n8",
     "title": "India’s data-centre allure: costs at least a third lower",
     "summary": "Lower power, construction and colocation costs are giving India an edge over rival markets, but land, grid and water constraints could complicate the next phase of expansion.",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/india-data-centre-cost-advantage-hyperscalers-11788406871908.html"
   },
   {
-    "id": "in-cc3b8",
+    "id": "in-ihpiy",
     "title": "Delhi govt to give free 3kW solar panels to households by March 2027: Eligibility, subsidy",
     "summary": "Delhi government's revised Solar Policy offers free 3kW rooftop solar systems to 2.3 lakh households consuming up to 400 units monthly by March 2027, with  ₹78,000 capital subsidy, no upfront cost, fi...",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/energy/delhi-govt-to-give-free-3kw-solar-panels-to-households-by-march-2027-eligibility-subsidy-11788344267068.html"
   },
   {
-    "id": "in-bdtkf",
+    "id": "in-92l9y",
     "title": "Centre may offer interest subvention for e-bus, e-truck charging infrastructure",
     "summary": "The heavy industries ministry is weighing interest subvention for charging infrastructure alongside its proposed  ₹9,852 crore financing scheme for electric commercial vehicles, as high upfront costs...",
     "source": "LiveMint",
@@ -30,27 +30,7 @@
     "link": "https://www.livemint.com/industry/pm-e-drive-scheme-charging-infrastructure-electric-truck-electric-bus-11788084114382.html"
   },
   {
-    "id": "us-cty1z",
-    "title": "Power outage warning issued as heat wave stresses US electric grids - The Independent",
-    "summary": "Power outage warning issued as heat wave stresses US electric grids  The Independent",
-    "source": "Google News US",
-    "timestamp": "2026-09-02T15:40:00.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmhPWUNHYmlVVC00d29JZkZYVklZankwQkdyZkItS3BxeHA5WEplc1NLV0gtbjA2Y2hTdU9vNEU4a01rY1FieDlxSTdwVE9tNTBlMkpYSnBxWWtlTkZwNGV4QjV2RzNZYlFRSllubHNJQndtR3lSVUJjTm9LUk5pUGMzSENibUpFek8yeS1FeHhjOTNuUW1uclBwSFp2Y1JlWmxoX2FKUV8?oc=5"
-  },
-  {
-    "id": "us-btcym",
-    "title": "Bleach and salt water boost power in grid batteries, moving from side reaction to center stage - Tech Xplore",
-    "summary": "Bleach and salt water boost power in grid batteries, moving from side reaction to center stage  Tech Xplore",
-    "source": "Google News US",
-    "timestamp": "2026-09-02T14:00:05.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tMnZPbkhBMTl6WGxVS0dvdkFLRFFSX05PX0ZyemZpaWRSeF9XbW9uVzdjNFBncXBXNUpfVEs2T1I4MFFIRjh4eW1MZHR1OWlEa0xWSlQ0cG9wVE9DX0YtVUsxek50bkIzeWlLcXBISklfM015Y1RwdkVCZWU?oc=5"
-  },
-  {
-    "id": "us-yo9o7",
+    "id": "us-dq7zc",
     "title": "Blackout risk rises as heatwave stresses largest US electric grids - The Guardian",
     "summary": "Blackout risk rises as heatwave stresses largest US electric grids  The Guardian",
     "source": "Google News US",
@@ -60,33 +40,23 @@
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iNS1tbl9ZVDU1UHdQVGxYVFEtVkpqcmFLUG9rMVlEeVo1ek1LNDRRTjdKZnlJTktfMzR0NWJmRS1LNS1lcnFWa19WeXlkMkhmOXJSMkUzSjJab1ZJcWxhU1N2MjY0aHFoaUE1YlFpTF81bVF3dDA4c2pmTVNEbTA?oc=5"
   },
   {
-    "id": "gl-1zo45",
-    "title": "Africa’s $200bn Energy Gap Beckons Global Investors, says Adegbite Falade, IPPG Chairman - Majorwaves Energy Report",
-    "summary": "Africa’s $200bn Energy Gap Beckons Global Investors, says Adegbite Falade, IPPG Chairman  Majorwaves Energy Report",
-    "source": "Google News Global",
-    "timestamp": "2026-09-02T16:28:49.000Z",
-    "region": "Globe",
+    "id": "us-v6jqb",
+    "title": "National security expert warns of power grid vulnerability due to strain from data centers - NBC4 Washington",
+    "summary": "National security expert warns of power grid vulnerability due to strain from data centers  NBC4 Washington",
+    "source": "Google News US",
+    "timestamp": "2026-09-01T23:41:41.000Z",
+    "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek9uZkpqX1hZeDN0d3VUaGsyZ1Y4N1ZITmMyYlRxa0YtWGp3TVRjeHNrem4xcWhRcWJWellzRnpFTllZa1dxLW1qa0hyTXJkUHlxc3kwRjlJbUpiSHNUMHJjR2wtcHF4VWs4Q212TXM0TzJ6MVBrQ3hnTVdydGowSGhvME9Nby1EX19XbHNCT0NLSDJ4Q0lmRjdNMjVBSFE3bGRZc1JVTGREM3o2TS1RS0o4XzNFOXUtLWpmTkR1eHEwdw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGZBTUdIc2k2cGZ2enBvUHQxRlM2OUxRWnpGNzZ3VUNGcGZ2cnlPb0VOaUptV3FGTXBqMTVjOW91eWRpanJSeEJpODd4cElWQ3AwaVF4dmFuaVVQWHpzTWNJZWRjLWZiblRUa1NENHN2VDBQVWtydHZrb09wVjFEbmdnUmZPRzlaNFR2Qlp5Tm1mSDYxX3BFWnE3YlE2U3h0MDU0aWM3anNnb19TYVRsRGJiYzdBbFI4VkdqbzB5TktoUm9aS254V0t2YkdPV3FqN294OW1SaVN6SUxObGdoUUVURDhsMkxMcXAyVkFYQdIB9wFBVV95cUxOVFlCUHFySFRFT1FMMVRqeDVXNWNEUE4tbmVKanpSQ1lJTWlrUWVQSDBpY1BqbkNKS0l6UGZtU3V5VWFkYVZoZVFrWWNOa1ZHeC05Y0Nrak9nbXBQdUl4WlM4MTNMb3BwYnpVZm1leGJRR0xIYU5FZXRqOVE0dGtDRUJGdFVJVnRxQWNqS1RTNzREUTJJeWtNX0hNOWZhcVpwVGx6QzYzRGJQdFFxRE85UC1YUTFOR2d0NU9KQzVVZVhIX3h2RDVHbHpaaktON0JsTGlFUWJVbWdmMVY4R1ZfelVBUHdNWWZxREFoLUtRWUZ5REFGdl9r?oc=5"
   },
   {
-    "id": "gl-5jk7d",
-    "title": "Clean electricity supplied 40% of new energy demand in 2025. Faster deployment and sectoral breakthroughs can cut emissions permanently, says annual Energy Transition Monitor - macaubusiness.com",
-    "summary": "Clean electricity supplied 40% of new energy demand in 2025. Faster deployment and sectoral breakthroughs can cut emissions permanently, says annual Energy Transition Monitor  macaubusiness.com",
-    "source": "Google News Global",
-    "timestamp": "2026-09-02T12:50:39.000Z",
-    "region": "Globe",
+    "id": "us-j1t57",
+    "title": "US Regulator Makes ‘Interventionist’ Pivot to Speed Data Centers - EnergyNow.com",
+    "summary": "US Regulator Makes ‘Interventionist’ Pivot to Speed Data Centers  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-09-01T22:23:54.000Z",
+    "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNbzl6ck5DVkpMTU1oaGlodTRvMDBpZU9aMVBGOFktdmxKYzBsWVFEZldReEF4OFNHOENyOGRHVUVLcnhPRVBNLTJCemhNX2xTbzBaTGtvYzZjNEh4UE5VYlBJd3V1T0ZUM3Z0ZFBJYk02ZHdKTUZqNHJmUElkNHE2WEF1QlpJYUpKbHJTc0k5dmJaOVQ2V211ZVFRZDB3TDRiWmdfbTBKektFcVJIdHpNLWptOXY1OWdvUFJ3SXZ2Y05RSnJxMXRVVkJtSlY1RE9scHAzcmU4NFJFTXJGYVlfUDhOSW50bThrZVpmdVpianRVRUNpaF96UjU2QjdnckVETFIwT0c4VFFvd2ZWUEM3UFMyLWJJUjFnQkdSSUNUS0kyQTBnSnJzTw?oc=5"
-  },
-  {
-    "id": "gl-fqauu",
-    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
-    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline  EIN News",
-    "source": "Google News Global",
-    "timestamp": "2026-08-31T10:48:00.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVzlDUWhEYkIycm5OVGdmMjNXd005Q2xNQVZJQTZHUEtxUDFRTlBLTkl1ekkwXzRoT1RtWHZha2pTcGN1ck9XVnZKOGpvM2ZEMWxvUGNwYjhFYXVnZjNieDdnTGhsZDh6TDlqR09xUTl6Q2FjZGxKNi02bW5GTGhQSGI4VmZ0Y3dsSms1Ul9Fa2F6d1dxSFpDVU9vNDU1OUpqTi1zTm1VS2VGYjlSN290bldDN3MwVEpQZlduQ2JKT1pyTVBpSl82RFg2NXlLcms5R0JTMnlPNW52aFZOaTdDdjRLSXB5dmQyTDZZ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnd3WmlXcVpnQ1UtYklyTGl4V3pZMVV4cjRXLW5VcnhWcjFTZDBfb1FDZl9qYUp6U19JV0lSb0Nac0YyYXNmUFVMaXNPUlU2ZmFUSjJsLVBYWjRLTS1PaW9XZ3h4Yng3YTM4ZW5kd0xKcnM1ZWdmbzItVzhHcWRiVUNpT2NncTZ3TWFqWTRzZ2hLSFkxcGJrag?oc=5"
   }
 ]
