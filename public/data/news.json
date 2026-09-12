@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-1394u",
+    "id": "in-0rsih",
     "title": "India’s green hydrogen hubs could spread beyond the coast, says report",
     "summary": "WRI India has identified inland sites in Jharkhand, Rajasthan and Punjab where clean power, water, pipelines and industrial demand could support production.",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/energy/indias-green-hydrogen-hubs-could-spread-beyond-the-coast-says-report-11789132676748.html"
   },
   {
-    "id": "in-b59p0",
+    "id": "in-pm4oy",
     "title": "India’s data centre surge is powering a massive boom in sales of generator sets",
     "summary": "With data centres operating continuously, generator sets have become imperative to keep their IT infrastructure, cooling systems and lighting running in the event of an outage.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/energy/india-data-centres-power-backup-gensets-electricity-supply-cummins-india-kirloskar-oil-engines-sterling-green-power-11789098449257.html"
   },
   {
-    "id": "in-ovil7",
+    "id": "in-5pp4s",
     "title": "NPCI launches tap-to-pay, unified UPI services window",
     "summary": "The ‘Tap &amp; Pay’ feature allows users to make UPI payments at point-of-sale terminals by unlocking their phones and tapping them on compatible devices, without opening a UPI app.",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/banking/npci-launches-tap-to-pay-unified-upi-services-window-11789052824922.html"
   },
   {
-    "id": "in-w5mwy",
+    "id": "in-l46a6",
     "title": "RBI deputy governor Rohit Jain flags three concerns as technology reshapes finance",
     "summary": "The deputy governor warned that speed, concentration and opacity could amplify familiar financial risks and make disruptions spread faster through the system.",
     "source": "LiveMint",
@@ -40,7 +40,17 @@
     "link": "https://www.livemint.com/industry/banking/rbis-rohit-jain-flags-three-key-concerns-on-confluence-of-tech-and-finance-11788954573419.html"
   },
   {
-    "id": "us-a6qsa",
+    "id": "us-og6z7",
+    "title": "Cuba Plunges into Darkness as Electric Grid Collapses - EnergyNow.com",
+    "summary": "Cuba Plunges into Darkness as Electric Grid Collapses  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-09-11T21:53:54.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEQxRUhFOC1kOGVNRDU2VEFRcU02VTNFYlJoblF3TW0ya01SRF9kbXNWbWh0T0Zqbnh4NVhJZElZZ3Jic3NoR0QzLV8zb0c2UWQyeHlhbTkyUHh6MTNFQnRieUFld29mc2FmMHRpUVBKYW9CaHRMbUJmR0twVXZnOEtUNHJjcjl6TnRyag?oc=5"
+  },
+  {
+    "id": "us-2okc7",
     "title": "Canada’s Pembina Advances Gas-Fired Data Center Project - EnergyNow.com",
     "summary": "Canada’s Pembina Advances Gas-Fired Data Center Project  EnergyNow.com",
     "source": "Google News US",
@@ -50,7 +60,7 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOWhUODk4R0FKYWFkRGlrQTN0STlUdTFFUlRrQjJwcEtMOUNCNGRDXzhjaHkwdm1SYWp2Zk4wVnVxSG1CbUhYczFSUkVQN2E0Nkl2cm04QVBxMUdsN185RFpqbnN2NTFSbGNSYkNabjdhZFdzWWFJZXdBX1ZKcjhkeWtoQU4ydlduQjItZExR?oc=5"
   },
   {
-    "id": "us-3cd5f",
+    "id": "us-q0899",
     "title": "Trump Summons Amazon, Google, Meta to Sign Power-Cost Pledge - EnergyNow.com",
     "summary": "Trump Summons Amazon, Google, Meta to Sign Power-Cost Pledge  EnergyNow.com",
     "source": "Google News US",
@@ -60,17 +70,17 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTVsbHNyZm0wenJCUVY0UC0xamh1NlRSZ2VTalA0VDctWW11TkkxVnczeXQ1bTVvNk5pbFdRUk9HQ0VpVURoRk1BQlRWTlhhdkpjMDN1Y0lxUmxvZEVMWFRxOWV5UDRjUnlnTmpMcjB6UVJZb2VkMjNlLTFTbEwwc0ZLN05kSWVLdkpuMTR5OWtWN28?oc=5"
   },
   {
-    "id": "us-1e724",
-    "title": "Cuba Plunges into Darkness as Electric Grid Collapses - EnergyNow.com",
-    "summary": "Cuba Plunges into Darkness as Electric Grid Collapses  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-09-11T15:22:29.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEQxRUhFOC1kOGVNRDU2VEFRcU02VTNFYlJoblF3TW0ya01SRF9kbXNWbWh0T0Zqbnh4NVhJZElZZ3Jic3NoR0QzLV8zb0c2UWQyeHlhbTkyUHh6MTNFQnRieUFld29mc2FmMHRpUVBKYW9CaHRMbUJmR0twVXZnOEtUNHJjcjl6TnRyag?oc=5"
+    "id": "gl-xji94",
+    "title": "India becomes World’s third-largest renewable energy capacity holder: Pralhad Joshi - DD News",
+    "summary": "India becomes World’s third-largest renewable energy capacity holder: Pralhad Joshi  DD News",
+    "source": "Google News Global",
+    "timestamp": "2026-09-11T18:41:05.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVy1JYWJIalpkSV8tUlBSUHN6Z0JSQWpQTm85YXRhaDVTcUQ2TWJYYmc3VkJqQkN0ODZ6amMtRnoyTnh4RW1JVDZTV055WnhRRm4zd0EyVzNXMXRPREtsbDB0aW9PbHZNM3dmZXQ2WHVCTVpDTDMtZ0hQb1pPYlRvUVdETnJuUHhFZWZmbUtqTGd0a2Z3eWNoUEI0cHhBV2dySHdGZ2xzc08tU00?oc=5"
   },
   {
-    "id": "gl-xbpc5",
+    "id": "gl-zk8pj",
     "title": "Uniaxial Geogrids Market Forecast to 2035: Renewable Energy Demand to Drive Growth - News and Statistics - IndexBox",
     "summary": "Uniaxial Geogrids Market Forecast to 2035: Renewable Energy Demand to Drive Growth - News and Statistics  IndexBox",
     "source": "Google News Global",
@@ -80,7 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSjBwb21GRmZ0T2xZcXlhdUhHYm94dzhrWEtiWWdHbkNMX1ZFSV9xQVl0dXJFY0h2MnRVTEplT295XzFreUc3cG9VSmsyYklXQkNqdnhRRm9NOWt0MjVodzZhUGF0MEtKdTRITXp2VEkzNDdtU3BuOEFXaDNHLTduSTdpWjZkLXlyWHdtRVJ0QzRGSUFUWFNqcXJhNUYzcDlvWDE5SGxSdWQtMGlWZ0dFWmF2SnVzN2VBVm9FYWpGTmEtMU0?oc=5"
   },
   {
-    "id": "gl-j74b6",
+    "id": "gl-kbmep",
     "title": "Renewable Energy & Battery Stocks to Buy Amid Global Warming Woes - The Globe and Mail",
     "summary": "Renewable Energy & Battery Stocks to Buy Amid Global Warming Woes  The Globe and Mail",
     "source": "Google News Global",
@@ -88,15 +98,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZi1yZ180VjZwYy1rTkNHajU3aVJxQ0dxQ01yeDVSOHhQMXRBOWdQT1QzY1Q5QjQwSThhcUFQNlVyeWxRRTBINDF0SFZrMU1Edkl2S29OQ3BfR3hBZ3FOdy03ZjhtNzlsQ1F6cDZ4Sk9oZExRbE15LVFEQndRT2hTRS12dEdSZi01bXY2N3E3R0MyeTJqelRHQ3k4dDdjZmVvdG5EV3pwcXdiNlZLajZkanRjMmJjT2FBMk9yaXpGNVpienF3bV9Pd2haOUZWWnBYbnI5OXB3eVctbnhLSUVR?oc=5"
-  },
-  {
-    "id": "gl-oc8ar",
-    "title": "Biodegradable Ester Transformer Fluid Market To 2035: Renewable Energy and Retrofilling to Drive Growth - News and Statistics - IndexBox",
-    "summary": "Biodegradable Ester Transformer Fluid Market To 2035: Renewable Energy and Retrofilling to Drive Growth - News and Statistics  IndexBox",
-    "source": "Google News Global",
-    "timestamp": "2026-09-11T13:11:18.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVXlrVWwtbVBsMURyOTRYU1V2WUVVdWFES0xGbVV5UnVudEFaQ3ZCZ2p1dGxpUVA3YUlGOS1NLXYxMDZPMUlrVXJDQ20xTUJ4TmxnQVB0VFdPejl1MngwdThxUWdHUkNXUGV1R1kwNFVxNGRiUVlaV1ZBeWdZR19vWmpseFhQYzJYQzlyNk5zN0lMZ2ctQUJlTUJhcmpVOUdHNVFlLWk0VWVjS3J2U3gyWXFnRzdRT29GMDQ5QmlfYl8zLVozdzZrSW1vWVpySWQ5Vk5ZczhhMG1mdzhodHVDcVlJd1c1aWFJOVJXbQ?oc=5"
   }
 ]
