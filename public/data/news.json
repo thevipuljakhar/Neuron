@@ -1,6 +1,26 @@
 [
   {
-    "id": "in-vxm1s",
+    "id": "in-qpbz1",
+    "title": "India, Opec discuss oil market stability, seek closer energy ties",
+    "summary": "The meeting between Opec and India comes amid heightened uncertainty in the global energy market, with the war in West Asia adding to oil supply concerns.",
+    "source": "LiveMint",
+    "timestamp": "2026-09-22T14:32:00.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/energy/india-opec-discuss-oil-market-stability-and-energy-security-11790084268850.html"
+  },
+  {
+    "id": "in-7gwk5",
+    "title": "Finance ministry asks home ministry to secure critical banking infra ahead of three-day strike",
+    "summary": "The department of financial services has requested police protection for key banking hubs to prevent disruptions as unions press for a five-day work week.",
+    "source": "LiveMint",
+    "timestamp": "2026-09-22T10:07:56.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/banking/bank-strike-september-28-30-finance-ministry-security-advisory-11790062746870.html"
+  },
+  {
+    "id": "in-k5vi1",
     "title": "Govt urges bank staff to call off 28-30 September strike, flags five-day disruption",
     "summary": "The proposed strike, which follows a one-day nationwide strike on 11 September, would coincide with the half-yearly closing of banks on 30 September, disrupting customer and government transactions.",
     "source": "LiveMint",
@@ -10,7 +30,7 @@
     "link": "https://www.livemint.com/industry/banking/bank-strike-28-30-september-staff-disruption-finance-ministry-psbs-rrbs-11790001066433.html"
   },
   {
-    "id": "in-lz1ua",
+    "id": "in-o2kfp",
     "title": "From star power to relatable authority, reality TV broadens its host pool",
     "summary": "Reality TV is moving away from conventional hosts to personalities like cricketers and entrepreneurs. This shift aims to attract underserved audiences and generate authentic engagement, while emphasiz...",
     "source": "LiveMint",
@@ -20,7 +40,7 @@
     "link": "https://www.livemint.com/industry/media/indian-reality-tv-shows-unconventional-hosts-rohit-sharma-ganguly-11789893551151.html"
   },
   {
-    "id": "in-4ly81",
+    "id": "in-ks04x",
     "title": "PwC sets the template, rivals weigh their next move in India's advisory race",
     "summary": "PwC India's JV with PwC US Advisory has rivals reassessing ties with their own offshore units. Driven by AI's disruption of traditional consulting and fiercer competition for US-based GCC clients, the...",
     "source": "LiveMint",
@@ -30,7 +50,7 @@
     "link": "https://www.livemint.com/industry/human-resource/pwc-india-us-joint-venture-consulting-firms-in-india-ey-deloitte-kpmg-11789638586589.html"
   },
   {
-    "id": "in-npghq",
+    "id": "in-n7ntf",
     "title": "From $1 billion to $25 billion: India’s hand, power tools sector eyes global push",
     "summary": "India's hand and power tools exports could exceed $25 billion by 2035, fueled by rising manufacturing and technology adoption. The Tools &amp; Equipment Expo 2026 showcased over 300 exhibitors and hig...",
     "source": "LiveMint",
@@ -40,7 +60,7 @@
     "link": "https://www.livemint.com/industry/infrastructure/from-1-billion-to-25-billion-india-s-hand-power-tools-sector-eyes-global-push-11789839803553.html"
   },
   {
-    "id": "in-17hiv",
+    "id": "in-uov3l",
     "title": "Centre plans  ₹51,000 crore push to shift agricultural power use to solar",
     "summary": "The proposed expansion of PM-KUSUM would shift subsidies to project commissioning and add a bigger push for feeder-level solarisation and battery storage.",
     "source": "LiveMint",
@@ -50,73 +70,63 @@
     "link": "https://www.livemint.com/industry/agriculture/pm-kusum-extension-cabinet-proposal-51000-crore-feeder-level-solarization-bess-11789646403199.html"
   },
   {
-    "id": "in-qd3ex",
-    "title": "Indian refiners plan to keep buying Russian oil despite risk of US tariffs",
-    "summary": "Refiners are paying a premium of around $1 a barrel for Russian oil, while Brent crude prices of around $103 per barrel are also raising concerns over import costs.",
-    "source": "LiveMint",
-    "timestamp": "2026-09-18T15:43:29.000Z",
-    "region": "India",
+    "id": "us-khhaz",
+    "title": "What Natural Gas Ascendancy Says About the US - Energy News, Top Headlines, Commentaries, Features & Events - energynow.com",
+    "summary": "What Natural Gas Ascendancy Says About the US - Energy News, Top Headlines, Commentaries, Features & Events  energynow.com",
+    "source": "Google News US",
+    "timestamp": "2026-09-22T12:30:57.000Z",
+    "region": "US",
     "category": "Fossil",
-    "link": "https://www.livemint.com/industry/energy/indian-refiners-to-keep-buying-russian-oil-despite-us-tariff-risks-11789736744121.html"
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPem9qSjVRa2hiZno3ZU5jcTVtMFFkeDNIV1NaWlpoQkdhYnA2LVE2NHZsZkl1VW1EYXVkNGVmQ2xqZGZxSHZBSDNYQVlhbEJ3c3hNUWlGNE1FakFNWERzb2p5dXNLY0MxNmRuUlBEWmFiOUY5eWI3TTlpQlh5cGVYWWJrWQ?oc=5"
   },
   {
-    "id": "us-ui2e2",
-    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
-    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
+    "id": "us-j6u66",
+    "title": "Carney’s Next Power Play is Trying to Double Electricity Output - energynow.com",
+    "summary": "Carney’s Next Power Play is Trying to Double Electricity Output  energynow.com",
     "source": "Google News US",
-    "timestamp": "2026-09-22T02:40:04.000Z",
+    "timestamp": "2026-09-22T12:14:45.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGU0TXRnaUNMeGtWRkNHS3FreFlRd2NqYW9ycDFBVnNKRm0yZGtob0gyZEF1M0ZIUWlaU1ZkS0xCdUVvUGhkNHQzU21zVW5KaVdBVmVIY2ZMQWlkRTdQNjkxUUV1VFZRU1pjMUtyZ19iM1RJV0g5cWlrTkhMNFFTc2o2Tnl5dWFXSFNqYlhjcW83U3VCUlRMbg?oc=5"
+  },
+  {
+    "id": "us-4ru4o",
+    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - energynow.com",
+    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  energynow.com",
+    "source": "Google News US",
+    "timestamp": "2026-09-22T11:04:04.000Z",
     "region": "US",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
   },
   {
-    "id": "us-llzzg",
-    "title": "Cuba Plunges into Darkness as Electric Grid Collapses - EnergyNow.com",
-    "summary": "Cuba Plunges into Darkness as Electric Grid Collapses  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-09-22T02:30:28.000Z",
-    "region": "US",
+    "id": "gl-5qmzn",
+    "title": "World must double annual clean energy growth to hit 2030 tripling goal, new report warns - EnviroNews Nigeria",
+    "summary": "World must double annual clean energy growth to hit 2030 tripling goal, new report warns  EnviroNews Nigeria",
+    "source": "Google News Global",
+    "timestamp": "2026-09-22T14:53:35.000Z",
+    "region": "Globe",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEQxRUhFOC1kOGVNRDU2VEFRcU02VTNFYlJoblF3TW0ya01SRF9kbXNWbWh0T0Zqbnh4NVhJZElZZ3Jic3NoR0QzLV8zb0c2UWQyeHlhbTkyUHh6MTNFQnRieUFld29mc2FmMHRpUVBKYW9CaHRMbUJmR0twVXZnOEtUNHJjcjl6TnRyag?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0dOcFYycURnMmN2UG9FT1JldW9BbmRQd1Q1VVRqN094SEJrU1VUdEt3a0tpOHY4d2ROSDBPcktEbzR1VUt4RzZPMlk3Rnk4MHF6LTNVNEZOY05xaS1GU0xmT01HRFJBSEJXT2tRZ0xOOGhBeEdIYnpSc3lVSC01QmRqUDBlNXJDNnpSS01HZk14ZFZjRmx4X0pWMDRkYUFGNFF5Q1lGb2dRZ2NWdVJQQ2x4THVpaDhzM0k5amJRMA?oc=5"
   },
   {
-    "id": "us-qttip",
-    "title": "AI Power Boom Revives Natural Gas as Infrastructure Bet - EnergyNow.com",
-    "summary": "AI Power Boom Revives Natural Gas as Infrastructure Bet  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-09-22T00:00:52.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0tSMm96OW5sMFBibjFHdFdKWTlJRzQtdE5seGFtNmFhaWUtNS1Tc1J2ZHVZVU5NZC1KbGsydk81WEVMUDQyejZwdjVtTEpjdWhQcENqZURlcTFYT09mZjdiMUo0aWJJQmdFRi1nM3JkR2t6VFRIX25OWVVCR210Qjd0YWNER19fNDlERUVEcw?oc=5"
-  },
-  {
-    "id": "gl-s3s7b",
-    "title": "Global Green Energy Transition 2026: Key Trends Driving Renewable Energy and Sustainable Growth: Expert View By Spherical Insights - Spherical Insights",
-    "summary": "Global Green Energy Transition 2026: Key Trends Driving Renewable Energy and Sustainable Growth: Expert View By Spherical Insights  Spherical Insights",
+    "id": "gl-k8hk1",
+    "title": "CRRC Showcases Wind Power Portfolio at WindEnergy Hamburg, Secures Key Certifications and Expands Global Partnerships - PR Newswire",
+    "summary": "CRRC Showcases Wind Power Portfolio at WindEnergy Hamburg, Secures Key Certifications and Expands Global Partnerships  PR Newswire",
     "source": "Google News Global",
-    "timestamp": "2026-09-22T07:41:29.000Z",
+    "timestamp": "2026-09-22T13:37:00.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0c1enhVX0taS2taT0Z1OC1pNE5sTEUxNUhfY2taVko5NWY5YWFJRDhLRXBRalhYS29ZVlJUdVVhdkRUMHhxSVRXR0hnemlBU1BYMTdleUtJZTN0NWZGalNVRUp4aTgxdmVIbHNxdThWXzdmcFp0NTZhdnJfSEluMXY4UzdHaTFWR3dPRGNRZFZWZDVhcmE2S29rOW95U3oyMmlOZmIyYUJJOVpmRHFkeWRrdklQaUtLYWJ1b3RSN1paVUNoZmM0MjlCTzdSM3c?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUzdDWHpQZmVjeFVxUzM5aFkwRnVINmtkNlRYRkozSTNYUXdMRVFPcFVIRTFLazFEdjNIM1RyWjZjVTJfbFlVUmpzdmdZOElJS3RxSlUxSUhrVEgtbEgyMGFtdnJBQVlZSmNxQV9nWUtobm5EVTRLcFdKSGZ2NXRhUkpOTmpKVzFXd1dGU1Q4MUR5dElXbmJRMUxFd1lQWGs5NFhFeEluLUdyWUxVYnl0RjI0eUNZOWZrN2pROW8tS01PVEZTSE5Hd3JyRFBid1hfcXhPcjFFWVNfYnB2NXFFWWw3N0h6NEpKZFBSclFWRTFFeGlmc3hDVVdKVkNiU1Z5RGc?oc=5"
   },
   {
-    "id": "gl-fj17z",
-    "title": "SECI Marks 15 Years of Advancing India’s Renewable Energy - SolarQuarter",
-    "summary": "SECI Marks 15 Years of Advancing India’s Renewable Energy  SolarQuarter",
+    "id": "gl-6sb2l",
+    "title": "Global wind power capacity to rise by more than 180 GW this year - Anadolu Ajansı",
+    "summary": "Global wind power capacity to rise by more than 180 GW this year  Anadolu Ajansı",
     "source": "Google News Global",
-    "timestamp": "2026-09-22T07:32:40.000Z",
+    "timestamp": "2026-09-22T11:58:50.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVRkSHVFSlBwbEg1S3lHbklsY0djUldhMm9OWG5vMERuclJzdl80UERaVExETDF1aTg1aGtjOWhCNDFRcXQ4QXhQWjYxTTNCUnhsRjdBZ1I5dF9vZ3ozOTdzNzUtbnJkMFMwOW5sOENLTHhxRDZFVElFbldDdkVObXZUZ2FwVzUwcGIyV0w4MmJmaVRrTXl3NjR6Qldod25va0ozM1hPSmpwUEYzd3U1eENtZGRNXzNPeWNjRDdIZUg?oc=5"
-  },
-  {
-    "id": "gl-mr9z9",
-    "title": "Sterling and Wilson Renewable Energy shares rally 8% after securing Rs 985 crore domestic and global order - The Economic Times",
-    "summary": "Sterling and Wilson Renewable Energy shares rally 8% after securing Rs 985 crore domestic and global order  The Economic Times",
-    "source": "Google News Global",
-    "timestamp": "2026-09-22T04:52:04.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQSVpaSV90T01NWGlUMmlXLWlUZW12enRrWHI1SVdBS29VTjNld0FibjhLWG1oWVVTaU0ycElSMlUxTjhqcFBERU9qUjR3dDVwTTRjY2lBU0h4b25acWs4UTJQYTZ1ekdDMTZ5eXFabEpFNV9IblBuQV91VldVRHRqVFh5S3JaTlhROW9PdmRZR2t6c3B1S2lnZE5rdlQ5elhtRzhDeDFfT2IwVHFqWlZvV0NXNzlXSWctbHZkdGJ6VzN6bTZwaWtrUzJsbVdxZW5aWXJoSjVZN2FBcFRPbTR0UjVTektWZFFLUmRjYnl0R1huYmlmRDhfb09QRy1VeGZvZ0M2VmxvU0l4dlV10gGSAkFVX3lxTE9ySHBrSHNieXRfMURTV0FHcXhwV0drdHBkUHhqZldYSnlrc1Rmb0lHd2VmSDZRNGpKOEVveGpQN2ZwVzUzQ29GWTZxQUZiMW5NbWNwa05McHBxOGdzSWZFNHFtZlNJa3JGOS1LSlNjYndTX1dkRE14UlZDZXhDcFJrTmlET3o0VVR4djduc0tjX2tla1VKMVNqUk4zTkZxWVZmbmZZZ1JORVJWTHJGb0Ixam9MQ2V0TG81OFBTdVVVTk5LMS1ZUDRlOVNucU5fQVMzUmRMcmk3YVZKTWNMTjBKcW9JQ2xaTXN6VTN2bjBhWTdXR2R2c2xmTU5CaUd6bFhxZmRINDVMTXRCd0Y4MkVhOEE?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGE0NGQtZ0JOZ0FiR21VTHNqQ2V1b3NDeUQxWXlSaC03MTgzYjNEOW1FdVJhcXR2ZjNLVDBNcFd3bGpULWZWM0R4SUhhRUd1bEl2MktOYVFkYTJsQnRsX1ZUdjgxcC13VkJzN19BSS1CVHNqRVJhdDg1OXA0dEhSLUo1RVl4czBxb1BQVi16OFllTWxsZDMyMzlwOElIWlVtWXI4S3ZfYnFlbmhOaUEySFRR?oc=5"
   }
 ]
