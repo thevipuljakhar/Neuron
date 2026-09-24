@@ -1,6 +1,26 @@
 [
   {
-    "id": "in-c3o05",
+    "id": "in-grihs",
+    "title": "FSSAI moves to stop dairy analogues from being sold as paneer",
+    "summary": "This comes against the backdrop of concerns regarding the rising use of ‘paneer analogue’— a cheaper substitute mainly made from palm oil, milk powder, starch, and emulsifiers, instead of fresh milk.",
+    "source": "LiveMint",
+    "timestamp": "2026-09-24T16:08:08.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/fssai-food-regulator-moves-to-stop-analogue-paneer-milk-products-11790262243171.html"
+  },
+  {
+    "id": "in-hpr00",
+    "title": "Jio-BP, Nayara impose diesel purchase limits at select pumps as crude prices surge",
+    "summary": "Jio-BP and Nayara Energy have capped diesel sales at select outlets as crude crosses $117/barrel, squeezing OMC margins by  ₹9/litre. PSU retailers (IOC, BPCL, HPCL) — 90% of stations — continue to se...",
+    "source": "LiveMint",
+    "timestamp": "2026-09-24T11:47:04.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/energy/jiobp-nayara-impose-diesel-purchase-limits-at-select-pumps-as-crude-prices-surge-11790245233024.html"
+  },
+  {
+    "id": "in-jjlqs",
     "title": "Saudi Aramco plans reorganisation to create gas division, sources say",
     "summary": "The move is in line with an existing strategy at Gulf state oil companies of offering outside investors pieces of their businesses while retaining operational control and largely avoiding opening up t...",
     "source": "LiveMint",
@@ -10,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/saudi-aramco-plans-reorganisation-to-create-gas-division-sources-say-11790096449164.html"
   },
   {
-    "id": "in-jf8ll",
+    "id": "in-zh5e1",
     "title": "India, Opec discuss oil market stability, seek closer energy ties",
     "summary": "The meeting between Opec and India comes amid heightened uncertainty in the global energy market, with the war in West Asia adding to oil supply concerns.",
     "source": "LiveMint",
@@ -20,7 +40,7 @@
     "link": "https://www.livemint.com/industry/energy/india-opec-discuss-oil-market-stability-and-energy-security-11790084268850.html"
   },
   {
-    "id": "in-i965h",
+    "id": "in-d28jl",
     "title": "Finance ministry asks home ministry to secure critical banking infra ahead of three-day strike",
     "summary": "The department of financial services has requested police protection for key banking hubs to prevent disruptions as unions press for a five-day work week.",
     "source": "LiveMint",
@@ -30,47 +50,57 @@
     "link": "https://www.livemint.com/industry/banking/bank-strike-september-28-30-finance-ministry-security-advisory-11790062746870.html"
   },
   {
-    "id": "in-0xe47",
-    "title": "Govt urges bank staff to call off 28-30 September strike, flags five-day disruption",
-    "summary": "The proposed strike, which follows a one-day nationwide strike on 11 September, would coincide with the half-yearly closing of banks on 30 September, disrupting customer and government transactions.",
-    "source": "LiveMint",
-    "timestamp": "2026-09-21T15:26:45.000Z",
-    "region": "India",
-    "category": "Grid",
-    "link": "https://www.livemint.com/industry/banking/bank-strike-28-30-september-staff-disruption-finance-ministry-psbs-rrbs-11790001066433.html"
-  },
-  {
-    "id": "us-9rkkn",
-    "title": "New York State’s Electricity Reserves are Shrinking, Grid Operator Says - EnergyNow.com",
-    "summary": "New York State’s Electricity Reserves are Shrinking, Grid Operator Says  EnergyNow.com",
+    "id": "us-a399k",
+    "title": "Energy Department will spend nearly $2 billion to squeeze more electricity from the nation's aging power grid - PBS",
+    "summary": "Energy Department will spend nearly $2 billion to squeeze more electricity from the nation's aging power grid  PBS",
     "source": "Google News US",
-    "timestamp": "2026-09-23T20:39:27.000Z",
+    "timestamp": "2026-09-24T15:56:47.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnd2Mzlud1pXbndtOVNUNU5PQjR2NVpfeHRrNTJWQlhXbmhITWQ2Z0t2WmcwaDVrU296Z0RMa3dEYlh5amlJSE4tTl9ndW5FUHA4YWJOU2pMc2FtLWhROENCWUV0R1JmbTZnSDhWNG9HaG5rbHdjVUVsNmcyb1VtaG9TaWJycElScmVrY0FoTGp2OEFiNTZIakFMWDlKUExRbHc?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1lHTk5jYk9QTkRmeVNMdFExS3l1YWdsUXRPcFZybFp6WjVWSDlERFJVX2Y0RTdBUjJCdldjbWZBVDBEYUZSdXBzS21UeUF3MFN6dnl0SG1VbVlUTVlTQkFBaUJrNEljTXBuUFFJYnk3WGVET0dmNUtSTlR3M1RRdEJvamNuNW9rdGh0WVFSRk44M3VrR0I1MFdfZmYxTFVXV1ZwUV96U3hkelRuNzBwYU1Ebm44azV1alVURkNoR2RvV2lmZE9aQnVVYXd5Tm5nSUlZ?oc=5"
   },
   {
-    "id": "us-y3lks",
-    "title": "What Natural Gas Ascendancy Says About the US - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-    "summary": "What Natural Gas Ascendancy Says About the US - Energy News, Top Headlines, Commentaries, Features & Events  EnergyNow.com",
+    "id": "us-79f9d",
+    "title": "PPL Electric Utilities selected for U.S. Department of Energy grant for Montour Grid Resilience and Advanced Reconductoring Project - PR Newswire",
+    "summary": "PPL Electric Utilities selected for U.S. Department of Energy grant for Montour Grid Resilience and Advanced Reconductoring Project  PR Newswire",
     "source": "Google News US",
-    "timestamp": "2026-09-23T20:33:20.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPem9qSjVRa2hiZno3ZU5jcTVtMFFkeDNIV1NaWlpoQkdhYnA2LVE2NHZsZkl1VW1EYXVkNGVmQ2xqZGZxSHZBSDNYQVlhbEJ3c3hNUWlGNE1FakFNWERzb2p5dXNLY0MxNmRuUlBEWmFiOUY5eWI3TTlpQlh5cGVYWWJrWQ?oc=5"
-  },
-  {
-    "id": "us-fihoq",
-    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
-    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-09-23T20:33:18.000Z",
+    "timestamp": "2026-09-24T15:47:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZmJaQVVDZXhadm9EMUVWS1NabjlkSzlReEs2UDhjLVNhR2x3T19qSTNxZEVnQmc1YU05YU03aDRmSEZYMnFUUlg3WURITnBRQWVXWlVZNTZraTRYcUwyazAyelI5THdrUlo5ZmJmWHF3OHM3VWtIZFNRdmhUOHNnMjRsYUxTNnBDS1UxYjJlZG55S01tWkZCSDJacmRwV2k1YUU2UU53UFN3czFwa2Utd3A3QzY0NDh2Q25fTFhqWklDdlVFenNDRmNTeU11Sll2V1dhbzl1UmQ1U09hMC1tMk5FVU1jV1NyQVMxbVc4U21UU3JmWDgyME9TZ2wxcmNZTUk0VFR2ZnlHZndCbmVXWl9Zaw?oc=5"
   },
   {
-    "id": "gl-gqe20",
+    "id": "us-ussne",
+    "title": "Trump admin will spend $2 billion to boost power grid amid electricity bill and data center fury - The Independent",
+    "summary": "Trump admin will spend $2 billion to boost power grid amid electricity bill and data center fury  The Independent",
+    "source": "Google News US",
+    "timestamp": "2026-09-24T14:55:00.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2VkWUZ4Nmw4UHUwMHVQcWFrWFR5WDJUN0NQWmYxQ21iV1UtV2FVdmdiUEVZbEkycV9rRFZMWm1RcElweVl0LUhDYkljTEU4YzhTc0FFcFJfNHlSaHZBeFk3d0xHLVpkbkw1Sl9hRkthMnh6RGhYTU9RM2hJb29iWXhNdzhQbFRIZU9IRnBiWG51Q01LUG56bmlwQ3hnSFlRTWtWdkJBc1NZY1lBck1mZUljVlEwb3hlelhJ?oc=5"
+  },
+  {
+    "id": "gl-1m2i5",
+    "title": "India poised to produce green hydrogen derivatives at competitive prices, says MNRE Mission Director - The News Mill",
+    "summary": "India poised to produce green hydrogen derivatives at competitive prices, says MNRE Mission Director  The News Mill",
+    "source": "Google News Global",
+    "timestamp": "2026-09-24T13:02:33.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTRaSlVrcEFKR3RsWTdvalpzaGd3cWE4T194LXZ3UFNaVXJrdWVHMDZqYmFxaldMeXl6S05SclY2VDhTVjh4eDU5QjJkQlZ0N25NbHBaa0d0NU9QQzBNVy1XMEZqcExocmU4RzY2a1pDcWppeEp6MTNzQTR2U0hBZWZVNXI2ekFpYmotTlFiMm5HY0hrRzBsX2pQTTlzY2ZhZGYxQk1HWmdhU1IxbEdtTDl6V0gyYWpBeGo4blFiT2pFWjVYUEtXTUhuVDI?oc=5"
+  },
+  {
+    "id": "gl-z37r6",
+    "title": "CRRC Completes Production of 110-Meter Recyclable Wind Turbine Blade, Achieving Over 95% Recovery of Key Materials - PA Media",
+    "summary": "CRRC Completes Production of 110-Meter Recyclable Wind Turbine Blade, Achieving Over 95% Recovery of Key Materials  PA Media",
+    "source": "Google News Global",
+    "timestamp": "2026-09-24T09:01:19.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeDk4b1NjdkJMM0tueWtuN2lONjBhckZvUkt1bVRSQ3NVdklueEV1T2xJcFZsM2lGUDR5R3h0dWtROXViSkc5VmhuM1Q0WVNwS1lPMkxsSWdzdjBEOE5nWGVTZ2VGLTFSeG5ucVpsbmYxREUyTFB5NU5XUl9nbWw2amdobWp5OHNFWWFOcDdUcHN3N09FaEtGM0FvMmxCYVhPOFZVMU55RTVRQy1hbWpPSlZwVzY4MzVSM2Q3MVpLV2FFMDlQak9pNFVKWXBPZUxvdjlfRG85TnU3LVNRckpiN0tMNEJuUXBmWW9ER0kxVENLRDZxU25v?oc=5"
+  },
+  {
+    "id": "gl-vkade",
     "title": "UN Secretary-General launches Global Grids Accelerator to power growth and clean energy in Africa and South-East Asia - African Development Bank Group",
     "summary": "UN Secretary-General launches Global Grids Accelerator to power growth and clean energy in Africa and South-East Asia  African Development Bank Group",
     "source": "Google News Global",
@@ -78,25 +108,5 @@
     "region": "Globe",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVHpKQ1J0bGotVkpqSGRfc2J3X3I0cXNZOTVpM283eGhRMDQzZ3NIN3pMX0NZenF3ZUxXWkVncmpSMm9FdFZGZDEwUEctX0tuMk1vb1pmbW1pam5LMlhlaGxJUXJpcU5CWnYtZmtBcXYzV1NMRUNienpudUVNQTBENWt0empTbTB5c2VIZmJUYUpDMWMzSTRYd29nSlhoYmJTVXJSNzJiYjlIcmt3al83NVNrS0JwMUVQSEN2cUFOZGo0aS1GM1RUYmpodE9SSkRPSWZPV3MxS3c4SExTTGtNRlB4cjJkYmZRNVI4NGUxRXJNN2JBc2JJTFBidDZiQVNzcXc?oc=5"
-  },
-  {
-    "id": "gl-snltp",
-    "title": "Better Energy Sector ETF: Vanguard's VDE Focused on Oil and Gas vs. the iShares ICLN Targeting Clean Energy - The Motley Fool",
-    "summary": "Better Energy Sector ETF: Vanguard's VDE Focused on Oil and Gas vs. the iShares ICLN Targeting Clean Energy  The Motley Fool",
-    "source": "Google News Global",
-    "timestamp": "2026-09-23T20:22:00.000Z",
-    "region": "Globe",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdjJMZGVKYXFhY3J2S19oLVc1elplLVdNbThWUzMxZlBkek9ieGxUR1BLaTAtYjhMeGNnYldxMmh0dXhwaDh5Ql90Q0ZOd1NISllCZncyendlM3BOT0FrWDk5Ukg0bFNrcnQ0c09FWHhnUGkySzdVSFpxTVNkX2lDdnZvenlGV21VRHZnQVhrRmZub3pzMTY5M3ZNMWtLRGthOGxUNWd0em9wMEhFYnBwZjh0Y05VQ3hRR0RYenZfLXBKclZDRmRuV3dKUEE3OGFPNFRfbjV1ZXJkZF9WbGRra1dPSTdOajA?oc=5"
-  },
-  {
-    "id": "gl-njzym",
-    "title": "Brookfield Renewable Partners' 4.51% yield is appealing—yet the real test is whether its growing clean energy portfolio can keep income investors confident for years to come. - kalkine.ca",
-    "summary": "Brookfield Renewable Partners' 4.51% yield is appealing—yet the real test is whether its growing clean energy portfolio can keep income investors confident for years to come.  kalkine.ca",
-    "source": "Google News Global",
-    "timestamp": "2026-09-23T18:59:00.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNQnE2azNXdHZCN0p4QVNNOW5ueHphdGladkk5b1lVaGJnQmdfYW5vN01GSEhYWDM0blZXdnRTMXh3bVEteEpTU1ZNV01Uak4tc1JMNG1lc2FJQk9uQ0tWWUd6dnpxT3I2U2g4eFMwVHhyUGZ1YWsyNjIwRktYV3EyQ0hINEhDelZUcU1pMDAzSGFrenhNc05YeVBMMThYM2tLRnVvQlAzaTRXanhDdkFfWFNfM1BaUkhlV3V3ZjNlZEtwVUM2VXltcnFBb0FTdFVJemtvaENkWXI0UFRhQUJZRVVsV21HMFRkSGtvaVpBdW1MT282OTNtOWpxaFlIRy1WN1hQXzNBZjdZZmRQZFlBOE8zY2ZiVEpvajhmUDBsTUxlMWZlYVdhYWZLYTBRZTQ?oc=5"
   }
 ]
