@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-spa0f",
+    "id": "in-tpk3p",
+    "title": "India plans LNG storage boost, a pipeline tariff surcharge to support",
+    "summary": "The plan to build the critical storage capacity will require an investment of  ₹15,000 crore, adding to the country’s existing capacity of 12 days across more than 20 tanks",
+    "source": "LiveMint",
+    "timestamp": "2026-09-25T00:10:19.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/energy/india-lng-reserves-imports-storage-capacity-11790249742053.html"
+  },
+  {
+    "id": "in-l0mmh",
     "title": "FSSAI moves to stop dairy analogues from being sold as paneer",
     "summary": "This comes against the backdrop of concerns regarding the rising use of ‘paneer analogue’— a cheaper substitute mainly made from palm oil, milk powder, starch, and emulsifiers, instead of fresh milk.",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/fssai-food-regulator-moves-to-stop-analogue-paneer-milk-products-11790262243171.html"
   },
   {
-    "id": "in-e6swx",
+    "id": "in-pzech",
     "title": "Jio-BP, Nayara impose diesel purchase limits at select pumps as crude prices surge",
     "summary": "Jio-BP and Nayara Energy have capped diesel sales at select outlets as crude crosses $117/barrel, squeezing OMC margins by  ₹9/litre. PSU retailers (IOC, BPCL, HPCL) — 90% of stations — continue to se...",
     "source": "LiveMint",
@@ -20,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/jiobp-nayara-impose-diesel-purchase-limits-at-select-pumps-as-crude-prices-surge-11790245233024.html"
   },
   {
-    "id": "in-115mu",
+    "id": "in-q8iqj",
     "title": "Saudi Aramco plans reorganisation to create gas division, sources say",
     "summary": "The move is in line with an existing strategy at Gulf state oil companies of offering outside investors pieces of their businesses while retaining operational control and largely avoiding opening up t...",
     "source": "LiveMint",
@@ -30,7 +40,7 @@
     "link": "https://www.livemint.com/industry/energy/saudi-aramco-plans-reorganisation-to-create-gas-division-sources-say-11790096449164.html"
   },
   {
-    "id": "in-bc4e7",
+    "id": "in-g5o1x",
     "title": "India, Opec discuss oil market stability, seek closer energy ties",
     "summary": "The meeting between Opec and India comes amid heightened uncertainty in the global energy market, with the war in West Asia adding to oil supply concerns.",
     "source": "LiveMint",
@@ -40,7 +50,7 @@
     "link": "https://www.livemint.com/industry/energy/india-opec-discuss-oil-market-stability-and-energy-security-11790084268850.html"
   },
   {
-    "id": "in-jywzt",
+    "id": "in-w1rrc",
     "title": "Finance ministry asks home ministry to secure critical banking infra ahead of three-day strike",
     "summary": "The department of financial services has requested police protection for key banking hubs to prevent disruptions as unions press for a five-day work week.",
     "source": "LiveMint",
@@ -50,37 +60,47 @@
     "link": "https://www.livemint.com/industry/banking/bank-strike-september-28-30-finance-ministry-security-advisory-11790062746870.html"
   },
   {
-    "id": "us-9n1q1",
-    "title": "U.S. Dept. of Energy awards Indiana $175 million for power grid upgrades - Fox 59",
-    "summary": "U.S. Dept. of Energy awards Indiana $175 million for power grid upgrades  Fox 59",
+    "id": "us-dlfmt",
+    "title": "US DOE announces USD 5.25 bn funding for 31 power grid projects across 26 states - ANI News",
+    "summary": "US DOE announces USD 5.25 bn funding for 31 power grid projects across 26 states  ANI News",
     "source": "Google News US",
-    "timestamp": "2026-09-24T22:39:01.000Z",
+    "timestamp": "2026-09-25T02:52:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFdQa2s2ajh1OW02M3k3Yi1COWZHLS1EbWxZd016MXFYZWV5bko5VEV1aTRKc1NyS3RuUlE4VHNQTGlpRktOMklFd2l3WEJ1S0xRSWtFM0QyaHdGRVgtODV1akNmcDcyV0NsZEw2d0lVSVRoUF9RN0hrQmY4VFhpcDFuNFdyek5uSVBwcmVoTlNGbG9LVFRlZUFpWnc4WjFwSm5oR00tZ9IBrAFBVV95cUxPOUFJeEVDSmo5ZG83WW4xd0hLc2RBcjU2ZGw1Nms0dmxaRDN2RGdEUmpFYkExcFU2OWdVa2I3SGJuT1N1MGcwY08zNlZJZVhwZ1h4RHpGQ3BkY1pqWDljd1dhUTJMWEpreGw2WUhvSG0yelduM05uRUxvcXh6LVlIbEVFeUFqTVRQVm9DbTdCdFBla1Y2MUVqRHQxbGs0WHZYRTVJYVdwVEZFZURF?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUlTTzlybVY3bkI1ckNiWmpxRTZZTm5rVFlMZ19DM0tRdkFEQUdkQTRORlhfc1BzTmwwLTVVNXJ5QXVJZ0lhc3NRUXlOR0xkSlFIR3hTcDNnWnZJb2NHcTlYTEJRa1ZvNmR0VXVkMGt3a1YxSElKMXFNV3FZYXlGZTJaZklSVTI1ZFc1clludlJYWi1XdUNnaVV2QnRCUTFPRmRPRWFsQ3M2aEJkZFNseUh1VGd4bm1rQUZGV3hFaDlaQ2JVOGY5a0pB?oc=5"
   },
   {
-    "id": "us-4dbvc",
-    "title": "US Energy Department Earmarks $1.9 Billion for Grid Projects in 26 States - EnergyNow.com",
-    "summary": "US Energy Department Earmarks $1.9 Billion for Grid Projects in 26 States  EnergyNow.com",
+    "id": "us-qm05v",
+    "title": "U.S. Dept. of Energy awards Indiana $175 million for power grid upgrades - WANE 15",
+    "summary": "U.S. Dept. of Energy awards Indiana $175 million for power grid upgrades  WANE 15",
     "source": "Google News US",
-    "timestamp": "2026-09-24T22:26:42.000Z",
+    "timestamp": "2026-09-25T01:24:43.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc25OR0dQVVZJYXlEOE5KSFJGWWtpcDhyM1ptVWI4eVU3TEN6cHMyUldHYjFXQXhyWFlGeFplWFNfUUtKTV9JeHlvZ1NjaTFMVHFSclR3WGE4Y0M1d0lxdnQ2RkZ0VHRQQ2Y5ZFJBLVZzb1Y1YWxpaXAzRDgzZXZvWV9ONXl6Tm56bUxONDJaSzFPQzJ1RXNDZ3V1Z015M012R2dVMkpR?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHRiZ2gxcW5nV0hJbTVQcmtqbEhQeXdldjNjdnpCRUYtX2JHTmJRcnRjSTB6Y1hNWjlMOUoxTVdIeGhPa3Z1bUVFRDRzeGpDOUFNWkFEN3lVSW5EX1Zkbk5ZWmtKWHp0M0xxTG1UZGh3cVQ2ZUtOM29EUVZKQXVRN1FzSDh5Z0RVLU93ZnpONWFZV3dDRGtoMngxWjU4MXZUN2hJSGR30gGrAUFVX3lxTE5aZ2FJbXJzS2FGcmdwSGk3QnR3N1hER1c4Y0VKblQ0SzB1NDQxT3k3b1ZBMXFxWS11VHRNbjhkMWxVNTR4cnFJdDg3MlNfNTdfZi1GeGdMZ2ZuUFJOTmgwd1pXWTBZbktrRTZMV25OZmlKenk1UklFdGJqWjFwRWZwbnBkUl8wOVhYLW5MV3VsS0ZRaVRXZ0dLVE4xZXJhekRxYTgyMlVucnQzNA?oc=5"
   },
   {
-    "id": "us-i1j0i",
-    "title": "US investing nearly $2B in power grid as electricity demand surges - LiveNOW from FOX",
-    "summary": "US investing nearly $2B in power grid as electricity demand surges  LiveNOW from FOX",
+    "id": "us-glmtg",
+    "title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid - AP News",
+    "summary": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid  AP News",
     "source": "Google News US",
-    "timestamp": "2026-09-24T21:13:20.000Z",
+    "timestamp": "2026-09-25T00:49:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ybkdWcDFxUkVPWDdEXzZUTFhEbWc5WDdHMXo3ZjltcnVVMmFEVEo3OGVnZWJiZzFJdzJqWFhqSFFCTzkyRE1SZ0wxdTQ4MVZ6aEF4Z2tCanh6cGtVRVR5cERSZ1JycktUQXlSVzVQSWpOV3hLb01RWVhjY0RZSFU?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYnpMREtYc0hMdHJBLTY2Z1d1R2pkakxJNDltVGdLOEJYajd5SDhjdmI5RG5FNEpBaHNvQlduUXM4MlBCQ3A0dWFsTjNaNDhBMG5Ibk04cmM3MlE4eU1MWDRhSGtNdHBOVy1sb0JQU01GeVRac1NaVW9nSU9IaHFNbXdzRVRJd3pyRXdsVWxHRU9sbnNwZkxLNFB1OG5kU2FLMzB0NQ?oc=5"
   },
   {
-    "id": "gl-vez2d",
+    "id": "gl-eiehu",
+    "title": "Biaxial Polymeric Geogrids Market Forecast to 2035: Renewable Energy Infrastructure to Drive Growth at 6.2% CAGR - IndexBox",
+    "summary": "Biaxial Polymeric Geogrids Market Forecast to 2035: Renewable Energy Infrastructure to Drive Growth at 6.2% CAGR  IndexBox",
+    "source": "Google News Global",
+    "timestamp": "2026-09-25T00:16:03.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMHBYV2V2RjF5VDFUV1QzenZIWDY1a2NTVnRDTDZoS0ZoRGl6Nng2c21oTjNaSGhVYThmRENzbXlnNzIyYmJLMjdBWmt4akdFM0kyaEp2RTcxWndRQjByRU92TXYyaFVibjNvSDBjeXI0UnlYb0JZVUR2UmVHYnMycXFQeVVua0V3blFvcnhYdjloM2JvR0NKbkFHbG9ldUlfUlhvbUxJUDYyNVZjTmMtM0s2d29KanNqc1VUSGNjX0pYSmpwU1V6cTlDSTRwREpQTnNrek1FUQ?oc=5"
+  },
+  {
+    "id": "gl-2se0h",
     "title": "India poised to produce green hydrogen derivatives at competitive prices, says MNRE Mission Director - The News Mill",
     "summary": "India poised to produce green hydrogen derivatives at competitive prices, says MNRE Mission Director  The News Mill",
     "source": "Google News Global",
@@ -90,7 +110,7 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTRaSlVrcEFKR3RsWTdvalpzaGd3cWE4T194LXZ3UFNaVXJrdWVHMDZqYmFxaldMeXl6S05SclY2VDhTVjh4eDU5QjJkQlZ0N25NbHBaa0d0NU9QQzBNVy1XMEZqcExocmU4RzY2a1pDcWppeEp6MTNzQTR2U0hBZWZVNXI2ekFpYmotTlFiMm5HY0hrRzBsX2pQTTlzY2ZhZGYxQk1HWmdhU1IxbEdtTDl6V0gyYWpBeGo4blFiT2pFWjVYUEtXTUhuVDI?oc=5"
   },
   {
-    "id": "gl-ur46h",
+    "id": "gl-al0x8",
     "title": "CRRC Completes Production of 110-Meter Recyclable Wind Turbine Blade, Achieving Over 95% Recovery of Key Materials - PA Media",
     "summary": "CRRC Completes Production of 110-Meter Recyclable Wind Turbine Blade, Achieving Over 95% Recovery of Key Materials  PA Media",
     "source": "Google News Global",
@@ -98,15 +118,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeDk4b1NjdkJMM0tueWtuN2lONjBhckZvUkt1bVRSQ3NVdklueEV1T2xJcFZsM2lGUDR5R3h0dWtROXViSkc5VmhuM1Q0WVNwS1lPMkxsSWdzdjBEOE5nWGVTZ2VGLTFSeG5ucVpsbmYxREUyTFB5NU5XUl9nbWw2amdobWp5OHNFWWFOcDdUcHN3N09FaEtGM0FvMmxCYVhPOFZVMU55RTVRQy1hbWpPSlZwVzY4MzVSM2Q3MVpLV2FFMDlQak9pNFVKWXBPZUxvdjlfRG85TnU3LVNRckpiN0tMNEJuUXBmWW9ER0kxVENLRDZxU25v?oc=5"
-  },
-  {
-    "id": "gl-crsn2",
-    "title": "UN Secretary-General launches Global Grids Accelerator to power growth and clean energy in Africa and South-East Asia - African Development Bank Group",
-    "summary": "UN Secretary-General launches Global Grids Accelerator to power growth and clean energy in Africa and South-East Asia  African Development Bank Group",
-    "source": "Google News Global",
-    "timestamp": "2026-09-24T07:50:09.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVHpKQ1J0bGotVkpqSGRfc2J3X3I0cXNZOTVpM283eGhRMDQzZ3NIN3pMX0NZenF3ZUxXWkVncmpSMm9FdFZGZDEwUEctX0tuMk1vb1pmbW1pam5LMlhlaGxJUXJpcU5CWnYtZmtBcXYzV1NMRUNienpudUVNQTBENWt0empTbTB5c2VIZmJUYUpDMWMzSTRYd29nSlhoYmJTVXJSNzJiYjlIcmt3al83NVNrS0JwMUVQSEN2cUFOZGo0aS1GM1RUYmpodE9SSkRPSWZPV3MxS3c4SExTTGtNRlB4cjJkYmZRNVI4NGUxRXJNN2JBc2JJTFBidDZiQVNzcXc?oc=5"
   }
 ]
