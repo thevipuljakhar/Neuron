@@ -1,6 +1,26 @@
 [
   {
-    "id": "in-ckda5",
+    "id": "in-ys2v4",
+    "title": "India, Singapore explore 3,000-km power transmission corridor via Southeast Asia",
+    "summary": "The proposed 2,000 MW interconnection could link Imphal with Singapore through Myanmar, Thailand and Malaysia, boosting cross-border electricity trade and regional energy security.",
+    "source": "LiveMint",
+    "timestamp": "2026-10-08T15:26:55.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/india-singapore-explore-3-000-km-power-transmission-corridor-via-southeast-asia-11791467180829.html"
+  },
+  {
+    "id": "in-3t3qr",
+    "title": "Boost to green fuels investments as Deendayal Port hosts 200 executives from energy, maritime firms at Kandla Forum 2026",
+    "summary": "The forum was held under the theme 'Anchoring Maritime Decarbonisation' and saw participation from representatives of 62 Hydrogen Council member companies.",
+    "source": "LiveMint",
+    "timestamp": "2026-10-08T15:20:13.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/boost-to-green-fuels-investments-as-deendayal-port-hosts-200-executives-from-energy-maritime-firms-at-kandla-forum-2026-11791471530000.html"
+  },
+  {
+    "id": "in-htw1z",
     "title": "India's battery energy storage push hits a viability wall",
     "summary": "Data from the India Energy Storage Alliance (IESA), an industry body of battery makers, shows a total of 24 gigawatt hour BESS projects were cancelled or re-tendered during 2018-2026, highlighting the...",
     "source": "LiveMint",
@@ -10,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html"
   },
   {
-    "id": "in-bgqtr",
+    "id": "in-m6qap",
     "title": "Ericsson to export India-made antennas to Europe: How the country's 5G success is powering the leap to 6G",
     "summary": "The company also sees India's rapid 5G rollout as giving the country a competitive advantage as the telecom industry prepares to move towards 6G.",
     "source": "LiveMint",
@@ -20,7 +40,7 @@
     "link": "https://www.livemint.com/industry/telecom/ericsson-to-export-india-made-antennas-to-europe-how-the-countrys-5g-success-is-powering-the-leap-to-6g-11791374444345.html"
   },
   {
-    "id": "in-7dq79",
+    "id": "in-87uwf",
     "title": "Hindustan Unilever detergent price hike: Surf Excel Easy Wash, Rin and Wheel prices revised; check new rates here",
     "summary": "Hindustan Unilever has raised detergent prices in October, affecting brands like Wheel, Rin, and Surf Excel. This year, Surf Excel products saw multiple price hikes due to rising input costs, includin...",
     "source": "LiveMint",
@@ -30,7 +50,7 @@
     "link": "https://www.livemint.com/industry/retail/hindustan-unilever-detergent-price-hike-surf-excel-easy-wash-rin-and-wheel-prices-revised-check-new-rates-here-11791373708047.html"
   },
   {
-    "id": "in-pxyor",
+    "id": "in-qa122",
     "title": "Jet fuel shock: Govt explores price stabilisation fund relief for airlines as ATF prices climb",
     "summary": "India is contemplating reviving jet fuel price stabilisation fund amid rising prices, influenced by geopolitical turmoil. Discussions are ongoing with airlines and oil-marketing companies, as ATF cons...",
     "source": "LiveMint",
@@ -40,7 +60,7 @@
     "link": "https://www.livemint.com/industry/energy/jet-fuel-shock-govt-explores-price-stabilisation-fund-relief-for-airlines-as-atf-prices-climb-11791372277654.html"
   },
   {
-    "id": "in-uiahv",
+    "id": "in-hjmno",
     "title": "Govt pauses Adani plan to move Mumbai international flights, gives airlines more time",
     "summary": "Following airline resistance over peak-season disruptions, the operator must now build a mutually agreed flight relocation framework for Navi Mumbai.",
     "source": "LiveMint",
@@ -50,7 +70,7 @@
     "link": "https://www.livemint.com/industry/govt-pauses-adani-plan-to-move-mumbai-international-flights-gives-airlines-more-time-11791294877943.html"
   },
   {
-    "id": "in-f06rt",
+    "id": "in-sghpc",
     "title": "Monster, PepsiCo and Campa gets interim relief over ‘energy drink’ label, but cannot make more",
     "summary": "Monster Energy, PepsiCo and Reliance Consumer Products have won interim relief from the Delhi High Court against FSSAI's move to stop beverage makers from using the term ‘energy drink’ on certain caff...",
     "source": "LiveMint",
@@ -60,7 +80,7 @@
     "link": "https://www.livemint.com/industry/retail/monster-pepsico-campa-get-delhi-hc-relief-against-fssai-energy-drink-label-ban-11791286344573.html"
   },
   {
-    "id": "in-1pa94",
+    "id": "in-0014s",
     "title": "Centre revisits ATF price stabilisation fund amid rising costs",
     "summary": "The government is in talks with airlines and oil marketing companies on streamlining the ATF price stabilisation mechanism, says civil aviation minister K. Ram Mohan Naidu.",
     "source": "LiveMint",
@@ -70,37 +90,37 @@
     "link": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html"
   },
   {
-    "id": "us-i39bc",
-    "title": "Stressed US Grid Forcing Data Centers to Get More Flexible - EnergyNow.com",
-    "summary": "Stressed US Grid Forcing Data Centers to Get More Flexible  EnergyNow.com",
+    "id": "us-hyj1x",
+    "title": "Data Center Gas Plants to Boost US Power Emissions by 20% - EnergyNow.com",
+    "summary": "Data Center Gas Plants to Boost US Power Emissions by 20%  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-10-08T10:00:19.000Z",
+    "timestamp": "2026-10-08T17:32:47.000Z",
     "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlhYa3dma1ZGMWgzVzFvaG5EX0pxcXlISERNZThFTk82SHc3Sm15SzJwTmp2dktqejZIaGlYMjl1cWhMbWh1SG54bGRlZ29LcDR3MGUwdkZhLVNNOE1ZU2xyNm5GblZJYnBMeE9jeW1QU1Z2NTMtdktOOVpKTFhiQ1pZTlF3YVRpempOUDBTUnNkVXM?oc=5"
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlZvSjJVZkFiS2NiUDFPX1kycjRvb29pNjRnWVVYelBQUFBYc1dnNjg3Q3VtcXlIMEdyVTl6c1ZUZDdRRWFjOXlTZkVYajVDNzlEMkJvV0ZfXy1iOUlkOFZDZlJRM29WOUIxZmt0b2VyNDc0bHBaZk11WVBURlF3VEtjY3podFMtZGpfUHB6T0Y?oc=5"
   },
   {
-    "id": "us-oihb3",
-    "title": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War - EnergyNow",
-    "summary": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War  EnergyNow",
+    "id": "us-xci0x",
+    "title": "Explainer: Data Centers’ ‘Flexible’ Power Usage Could Save the Grid Billions. Can They Scale? - EnergyNow.com",
+    "summary": "Explainer: Data Centers’ ‘Flexible’ Power Usage Could Save the Grid Billions. Can They Scale?  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-10-08T09:32:57.000Z",
+    "timestamp": "2026-10-08T17:28:49.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjNuNUdVb1BYMEYydmludWlfdURzckNpdXlDZHBnazY5b0ZjYkRVZHowZVFEa3pFY2kwMVM3MU52SEdnSnRFZFN1eGRmbXBQc1pIRGF1YlNLOFFiMXhFR0RNTTNUQTZKVVU2d1pDZ2VQTW9iTDRDQVRRelRjZGU5VHUzQVBwX3JaRS00SXpFMXBEM3k1blQ3WW1MNjk1V2NvdzZwY1dmOTdCWmxqMWFMTXhKUF81a1M2NVcwbEw4OVphZw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEJ0Uy1SSFd0S0F1MkhJMHpVV2xrbmczT0FmdG1wN3VPbGFxamd4dlI3WXNiZjBBVk0xeWVzTkJnZE5PQVl1SDBhUnltZTJpTUVSQVdydWFiNzk4a1lma0JfaGJ3aGJCUmhfS0Q3YkwyUUprUnZJUmRRWXFweXAxNEV2NzVNWXBHYUN0TGRIQWFRdURaOFVLRlBHT2k5U2hTRVhST0sxQWZoLTItVzU5YndXcFVsczNCelE?oc=5"
   },
   {
-    "id": "us-94puv",
-    "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects - EnergyNow.com",
-    "summary": "Biggest US Grid Operator to Begin Processing New Power Plant Projects  EnergyNow.com",
+    "id": "us-8wha8",
+    "title": "Cuba Plunges into Darkness as Electric Grid Collapses - EnergyNow.com",
+    "summary": "Cuba Plunges into Darkness as Electric Grid Collapses  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-10-07T22:33:09.000Z",
+    "timestamp": "2026-10-08T17:09:19.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEQxRUhFOC1kOGVNRDU2VEFRcU02VTNFYlJoblF3TW0ya01SRF9kbXNWbWh0T0Zqbnh4NVhJZElZZ3Jic3NoR0QzLV8zb0c2UWQyeHlhbTkyUHh6MTNFQnRieUFld29mc2FmMHRpUVBKYW9CaHRMbUJmR0twVXZnOEtUNHJjcjl6TnRyag?oc=5"
   },
   {
-    "id": "gl-4b2ll",
+    "id": "gl-dcuhe",
     "title": "India's Wind Energy Sector Set for Major Growth By 2031 - SolarQuarter",
     "summary": "India's Wind Energy Sector Set for Major Growth By 2031  SolarQuarter",
     "source": "Google News Global",
@@ -110,7 +130,17 @@
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZG5IUlkxZEFqOWRMS1E4a21lanFZUVQ1MUF6dTRCV2FxZWM4aDFfbjR5clFFcHo2aGI4Y1daX0U3bHpZeU5wRkpVTGpMSGFVLV9DWUJwRzhHTUtFbUlPWVg4Ykh5Wk9QMm5KWnVzbl9SaF9zdUFScUZPRXZDV0lrOW4ycUx0cXFkT0dTR24yVVk0RGNXeHMtd0htR0pyX251bUZpaFBvdmoxVXNaRlRsMHdQYTZ0cUNIcmlLNlJCSFJVc1Rpa0FjQVNNS2ZGbFlYOUxVV19HcVVTUFVIZVlUcQ?oc=5"
   },
   {
-    "id": "gl-st740",
+    "id": "gl-a08hm",
+    "title": "Transforming a fossil fuel firm into a clean energy leader - The World Economic Forum",
+    "summary": "Transforming a fossil fuel firm into a clean energy leader  The World Economic Forum",
+    "source": "Google News Global",
+    "timestamp": "2026-10-07T12:55:25.000Z",
+    "region": "Globe",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmczcUI3NWhNMENzcG9XMFhqbHV5UVI1WDhJbDJJeUlEeTFrVzVkSjY4SXBNWjB3Qm1yMHdESkhGZHB4MnhJRGpnaS1XUmZwcXcwLXBiZUtncFFBZjIzaV80d3FUZXVValBDMzJUamVjR2VrOE5KTlJBcjBOY1ZNRnAySG43dVUzZnV1U1hKQ3pIbGwzR0xJc0NJdnYyRlk5cFAxNEM0TUZkdw?oc=5"
+  },
+  {
+    "id": "gl-e4wvd",
     "title": "DNV finds energy security is dividing nations and tech - Enlit World",
     "summary": "DNV finds energy security is dividing nations and tech  Enlit World",
     "source": "Google News Global",
@@ -118,15 +148,5 @@
     "region": "Globe",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0dQTU43V0dhUnhZM01ZZTY2TG4zWlR6MDAyOWtkeS1PYVlSUHRzYy1aZ3lUakIzOXNXSlFxVGtZajNLWUJQTWI3Ymh2ZTZhWURTTGNLNHFXS2xxRlk2R2VDWHZmbm52TWl2UW83Ui00RlhCT3h1aFRfY1RSSGt3YU5ZdE85aEVRdjZsdnBicw?oc=5"
-  },
-  {
-    "id": "gl-gm3vk",
-    "title": "SGA Surpasses 107 GW Renewable Capacity with Innovative Solutions - SolarQuarter",
-    "summary": "SGA Surpasses 107 GW Renewable Capacity with Innovative Solutions  SolarQuarter",
-    "source": "Google News Global",
-    "timestamp": "2026-10-07T11:00:48.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdUhibldRWFRWWmRqbmJYMFVJZTUya0dIOUN4RXR3Y1VES3REamZSdWdudUFocFJjM21lOUcteTFhLW9IdEhLQ0I1bTBUZEJ1d3VfMm91U3hsQi1meDc5LWFXblJ4OEJUVVZFY1RXNzRxS09Vd2VycUlUMDB4NjFiMUhwVTU1SUpoM1VHZHZxTGhMbUI1d2NRRFN4NndJWVBMU21hWjA5bVFGVGFjSnV1dHdnWjREeWphNWdPc09uSjgxZzI4OERBQ2xxd2N5bDg5dWljemJiTEkxcWRFZno3MFcxTXR4SzloRXBR?oc=5"
   }
 ]
