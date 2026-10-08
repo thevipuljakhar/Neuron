@@ -12,7 +12,7 @@
     },
     {
       "name": "Wind",
-      "value": 10,
+      "value": 9.9,
       "color": "#22c55e"
     },
     {
@@ -34,27 +34,27 @@
   "us": [
     {
       "name": "Gas",
-      "value": 42.1,
+      "value": 42.6,
       "color": "#ea580c"
     },
     {
       "name": "Nuclear",
-      "value": 18.5,
+      "value": 18.7,
       "color": "#a855f7"
     },
     {
       "name": "Coal",
-      "value": 16.1,
+      "value": 16.3,
       "color": "#7f1d1d"
     },
     {
       "name": "Wind",
-      "value": 10.6,
+      "value": 9.9,
       "color": "#22c55e"
     },
     {
       "name": "Solar",
-      "value": 6.9,
+      "value": 6.6,
       "color": "#eab308"
     },
     {

@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-b6t11",
+    "id": "in-d41q6",
     "title": "Ericsson to export India-made antennas to Europe: How the country's 5G success is powering the leap to 6G",
     "summary": "The company also sees India's rapid 5G rollout as giving the country a competitive advantage as the telecom industry prepares to move towards 6G.",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/telecom/ericsson-to-export-india-made-antennas-to-europe-how-the-countrys-5g-success-is-powering-the-leap-to-6g-11791374444345.html"
   },
   {
-    "id": "in-4cy40",
+    "id": "in-trgfc",
     "title": "Hindustan Unilever detergent price hike: Surf Excel Easy Wash, Rin and Wheel prices revised; check new rates here",
     "summary": "Hindustan Unilever has raised detergent prices in October, affecting brands like Wheel, Rin, and Surf Excel. This year, Surf Excel products saw multiple price hikes due to rising input costs, includin...",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/retail/hindustan-unilever-detergent-price-hike-surf-excel-easy-wash-rin-and-wheel-prices-revised-check-new-rates-here-11791373708047.html"
   },
   {
-    "id": "in-b7viz",
+    "id": "in-srt9b",
     "title": "Jet fuel shock: Govt explores price stabilisation fund relief for airlines as ATF prices climb",
     "summary": "India is contemplating reviving jet fuel price stabilisation fund amid rising prices, influenced by geopolitical turmoil. Discussions are ongoing with airlines and oil-marketing companies, as ATF cons...",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/jet-fuel-shock-govt-explores-price-stabilisation-fund-relief-for-airlines-as-atf-prices-climb-11791372277654.html"
   },
   {
-    "id": "in-f11sb",
+    "id": "in-8718o",
     "title": "Govt pauses Adani plan to move Mumbai international flights, gives airlines more time",
     "summary": "Following airline resistance over peak-season disruptions, the operator must now build a mutually agreed flight relocation framework for Navi Mumbai.",
     "source": "LiveMint",
@@ -40,7 +40,7 @@
     "link": "https://www.livemint.com/industry/govt-pauses-adani-plan-to-move-mumbai-international-flights-gives-airlines-more-time-11791294877943.html"
   },
   {
-    "id": "in-atvbd",
+    "id": "in-7g79s",
     "title": "Monster, PepsiCo and Campa gets interim relief over ‘energy drink’ label, but cannot make more",
     "summary": "Monster Energy, PepsiCo and Reliance Consumer Products have won interim relief from the Delhi High Court against FSSAI's move to stop beverage makers from using the term ‘energy drink’ on certain caff...",
     "source": "LiveMint",
@@ -50,7 +50,7 @@
     "link": "https://www.livemint.com/industry/retail/monster-pepsico-campa-get-delhi-hc-relief-against-fssai-energy-drink-label-ban-11791286344573.html"
   },
   {
-    "id": "in-r6e7q",
+    "id": "in-25m51",
     "title": "Centre revisits ATF price stabilisation fund amid rising costs",
     "summary": "The government is in talks with airlines and oil marketing companies on streamlining the ATF price stabilisation mechanism, says civil aviation minister K. Ram Mohan Naidu.",
     "source": "LiveMint",
@@ -60,7 +60,27 @@
     "link": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html"
   },
   {
-    "id": "us-23r48",
+    "id": "us-riisj",
+    "title": "US Grid’s $1 Trillion Problem Could Equal a $1 Billion Payout for Power CEOs - EnergyNow.com",
+    "summary": "US Grid’s $1 Trillion Problem Could Equal a $1 Billion Payout for Power CEOs  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-10-07T17:04:30.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWFYRC1zQUR3TWNZREZGazVtOWpIYmtBc0NrVUNTNjJEU3VQUEt4MWRHWjhkTGhleTY2WnJmNGczWEFLdmRwZXNpSlZRX19tSEtDa2tGcTV2bE9vX1NxVmtJUnk3YzF0NmtlSjcxblVfYjFMbGx2dmdybzhjWGhQRm5tNm1RckVJT1VnLWpBVF91dF85TlMxbkpHMnc1Nm5zNkI4em1mZw?oc=5"
+  },
+  {
+    "id": "us-f2kcy",
+    "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects - EnergyNow.com",
+    "summary": "Biggest US Grid Operator to Begin Processing New Power Plant Projects  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-10-07T17:03:59.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5"
+  },
+  {
+    "id": "us-rew5c",
     "title": "Stressed US Grid Forcing Data Centers to Get More Flexible - EnergyNow.com",
     "summary": "Stressed US Grid Forcing Data Centers to Get More Flexible  EnergyNow.com",
     "source": "Google News US",
@@ -70,27 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlhYa3dma1ZGMWgzVzFvaG5EX0pxcXlISERNZThFTk82SHc3Sm15SzJwTmp2dktqejZIaGlYMjl1cWhMbWh1SG54bGRlZ29LcDR3MGUwdkZhLVNNOE1ZU2xyNm5GblZJYnBMeE9jeW1QU1Z2NTMtdktOOVpKTFhiQ1pZTlF3YVRpempOUDBTUnNkVXM?oc=5"
   },
   {
-    "id": "us-dkbly",
-    "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects - EnergyNow.com",
-    "summary": "Biggest US Grid Operator to Begin Processing New Power Plant Projects  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-10-06T22:22:57.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5"
-  },
-  {
-    "id": "us-so1n4",
-    "title": "Data Center Gas Plants to Boost US Power Emissions by 20% - EnergyNow.com",
-    "summary": "Data Center Gas Plants to Boost US Power Emissions by 20%  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-10-06T20:14:36.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlZvSjJVZkFiS2NiUDFPX1kycjRvb29pNjRnWVVYelBQUFBYc1dnNjg3Q3VtcXlIMEdyVTl6c1ZUZDdRRWFjOXlTZkVYajVDNzlEMkJvV0ZfXy1iOUlkOFZDZlJRM29WOUIxZmt0b2VyNDc0bHBaZk11WVBURlF3VEtjY3podFMtZGpfUHB6T0Y?oc=5"
-  },
-  {
-    "id": "gl-jl41b",
+    "id": "gl-c0q86",
     "title": "SGA Surpasses 107 GW Renewable Capacity with Innovative Solutions - SolarQuarter",
     "summary": "SGA Surpasses 107 GW Renewable Capacity with Innovative Solutions  SolarQuarter",
     "source": "Google News Global",
@@ -100,7 +100,7 @@
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdUhibldRWFRWWmRqbmJYMFVJZTUya0dIOUN4RXR3Y1VES3REamZSdWdudUFocFJjM21lOUcteTFhLW9IdEhLQ0I1bTBUZEJ1d3VfMm91U3hsQi1meDc5LWFXblJ4OEJUVVZFY1RXNzRxS09Vd2VycUlUMDB4NjFiMUhwVTU1SUpoM1VHZHZxTGhMbUI1d2NRRFN4NndJWVBMU21hWjA5bVFGVGFjSnV1dHdnWjREeWphNWdPc09uSjgxZzI4OERBQ2xxd2N5bDg5dWljemJiTEkxcWRFZno3MFcxTXR4SzloRXBR?oc=5"
   },
   {
-    "id": "gl-xnz90",
+    "id": "gl-p5cxr",
     "title": "Green Power Transformer Market Forecast to 2035: Growth Driven by Renewable Integration - News and Statistics - IndexBox",
     "summary": "Green Power Transformer Market Forecast to 2035: Growth Driven by Renewable Integration - News and Statistics  IndexBox",
     "source": "Google News Global",
@@ -110,7 +110,7 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2JKSmFzbTBFU3pjYjhMVEpuajBBN2VjbldyXzlnZHk2YlpRdng0U1VBRkxkN0RvbXNnMTl0UnlHVi1oc05JRzBZa1lsSEl1NW4tQ2JxZXJTZGdpSXFLd2wxWXZSM05BNjNUWW1iWi1oMUQ0c2lRdzctdHdvY0ZpalhVeTA1NjNTZGtUNGdVQlNfWUN4TmUzdlVtNS1BRVJiTUVKTGJmYnRjSWEyRWZXNXY2Mno2MW1sY2ZzZg?oc=5"
   },
   {
-    "id": "gl-goj6e",
+    "id": "gl-bayz2",
     "title": "THENSA launches Global South–North Renewable Energy Living Labs Network - ednews.africa",
     "summary": "THENSA launches Global South–North Renewable Energy Living Labs Network  ednews.africa",
     "source": "Google News Global",
