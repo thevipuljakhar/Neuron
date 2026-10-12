@@ -1,6 +1,26 @@
 [
   {
-    "id": "in-xr1v1",
+    "id": "in-b17hv",
+    "title": "How is the escalating war between Houthis and Saudi Arabia impacting oil market and India?",
+    "summary": "Fresh Houthi attacks on Saudi Arabia have heightened concerns about oil supply disruptions and pushed crude prices higher. For import-dependent India, sustained price increases could widen the import...",
+    "source": "LiveMint",
+    "timestamp": "2026-10-12T05:31:42.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/houthi-attacks-saudi-arabia-oil-prices-india-impact-11791772969047.html"
+  },
+  {
+    "id": "in-xuoyx",
+    "title": "Steelmakers turn power sellers as India’s electricity demand sees unusual spike",
+    "summary": "Rising coal and pellet costs have squeezed margins at small steel mills, while spot electricity prices have surged. Some producers in Chhattisgarh are cutting steel output to sell power instead.",
+    "source": "LiveMint",
+    "timestamp": "2026-10-12T03:59:37.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/india-steel-makers-sell-power-coal-prices-11791738186173.html"
+  },
+  {
+    "id": "in-vfqod",
     "title": "India may mandate locally made inverters, domestic battery components under next rooftop solar scheme",
     "summary": "The scheme currently provides subsidies of up to 40% to households installing rooftop solar panels and aims to provide up to 300 units of free electricity a month to 10 million households.",
     "source": "LiveMint",
@@ -10,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/india-may-mandate-locally-made-inverters-domestic-battery-components-under-next-rooftop-solar-scheme-11791714035256.html"
   },
   {
-    "id": "in-xopjj",
+    "id": "in-405p5",
     "title": "NTPC in talks with South Africa’s Eskom for a green energy pact",
     "summary": "Talks are underway on the modalities of a possible partnership, including a joint venture, between the two companies.",
     "source": "LiveMint",
@@ -20,7 +40,7 @@
     "link": "https://www.livemint.com/industry/energy/ntpc-eskom-renewable-energy-joint-venture-in-south-africa-11791543333845.html"
   },
   {
-    "id": "in-ripni",
+    "id": "in-sydc9",
     "title": "Gurugram residents oppose DLF’s plan to install 24 high-capacity DG sets near their housing society: Here's why",
     "summary": "Gurugram residents have approached the NGT over DLF’s proposed installation of 24 high-capacity diesel generators and cooling towers near their homes and a metro station. The tribunal is scheduled to...",
     "source": "LiveMint",
@@ -30,7 +50,7 @@
     "link": "https://www.livemint.com/industry/real-estate/gurugram-residents-oppose-dlf-s-plan-to-install-24-high-capacity-dg-sets-near-their-housing-society-heres-why-11791651382946.html"
   },
   {
-    "id": "in-nsxzq",
+    "id": "in-8qitc",
     "title": "Finance ministry flags slow bank loan processing, low private lender participation in  ₹75,000 crore rooftop solar scheme",
     "summary": "The government wants to accelerate financing for the scheme to make households less dependent on conventional sources of electricity.",
     "source": "LiveMint",
@@ -40,7 +60,7 @@
     "link": "https://www.livemint.com/industry/energy/finance-ministry-banks-loan-processing-rooftop-solar-11791516026104.html"
   },
   {
-    "id": "in-q0wbg",
+    "id": "in-wcof2",
     "title": "India plans Exim Bank credit lines to rescue solar exports after US tariff blow",
     "summary": "New Delhi will offer credit lines to African and Latin American nations to help domestic manufacturers find new buyers as steep US tariffs stall exports and trigger a factory capacity glut, new and re...",
     "source": "LiveMint",
@@ -50,7 +70,7 @@
     "link": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html"
   },
   {
-    "id": "in-9selz",
+    "id": "in-ob7yf",
     "title": "India, Singapore explore 3,000-km power transmission corridor via Southeast Asia",
     "summary": "The proposed 2,000 MW interconnection could link Imphal with Singapore through Myanmar, Thailand and Malaysia, boosting cross-border electricity trade and regional energy security.",
     "source": "LiveMint",
@@ -60,7 +80,7 @@
     "link": "https://www.livemint.com/industry/india-singapore-explore-3-000-km-power-transmission-corridor-via-southeast-asia-11791467180829.html"
   },
   {
-    "id": "in-thtmq",
+    "id": "in-i2cj6",
     "title": "Boost to green fuels investments as Deendayal Port hosts 200 executives from energy, maritime firms at Kandla Forum 2026",
     "summary": "The forum was held under the theme 'Anchoring Maritime Decarbonisation' and saw participation from representatives of 62 Hydrogen Council member companies.",
     "source": "LiveMint",
@@ -70,7 +90,17 @@
     "link": "https://www.livemint.com/industry/boost-to-green-fuels-investments-as-deendayal-port-hosts-200-executives-from-energy-maritime-firms-at-kandla-forum-2026-11791471530000.html"
   },
   {
-    "id": "us-adbva",
+    "id": "us-jhvuv",
+    "title": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War - EnergyNow.com",
+    "summary": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-10-11T22:33:32.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVZDSVhKNnF6eUdkZE5oRWtPR0VlR3NnS1VNbUwyOTVEb2ktU0tYZGl3dDlld3dHMWlrZnRIdTc1RV85R3E3NVdmT29BM1hzNFZNT3dIQkFfd3lERm9ZeHM5YUtPUE1jaGM3ZWp0N0lRMGcxbjYyMmFaRURMRG10RnVhRHA5a05HX2QyUGM3T2lwR2lWQlVxTmFxN1Fxd3BySGdIaTdwODNzaVFUbjJCMEpZSzBfbXpMazRFQnhXTWhGZWlJd3c?oc=5"
+  },
+  {
+    "id": "us-8xm4x",
     "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects - EnergyNow.com",
     "summary": "Biggest US Grid Operator to Begin Processing New Power Plant Projects  EnergyNow.com",
     "source": "Google News US",
@@ -80,7 +110,7 @@
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5"
   },
   {
-    "id": "us-eqi3e",
+    "id": "us-6njhm",
     "title": "Cuba grid collapse: The situation is growing more dire, experts say - ABC News - Breaking News, Latest News and Videos",
     "summary": "Cuba grid collapse: The situation is growing more dire, experts say  ABC News - Breaking News, Latest News and Videos",
     "source": "Google News US",
@@ -90,17 +120,17 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2VmVHJ5QWVWN0x5NUVuYTBVUEl0c0lFSDVUbjhJNFpCRjFWbFZINDlSMTA3LVl6b2d5MWpHRGhpSUZCamE4anhIb2Vsd0VBMVZRaWxEZHVnLUVjcjEzYjBsLUR1d1VseWVUM1dVQjQ1VmdvTl9wVGxwMTRDZS1SVXFfbTZEUVRvbHA5S1M3MTVLREplYmtHSDZ1MjBjRHRDUTB3WdIBqgFBVV95cUxNUV9UeXpFazByVnBWYWIxOHdpQzROMUdtSGV5eDV3alFESUozT2NoMG9xMkl4RFlXMnJDeXNIa0VDdFhkS3pSWmxXY2FSWUUzeDV3Mkl5WThISmdOSGpleGVySXBoTS1vN1ZuODFpYndHMkNfY1h0ZWZYbTBFVHllcGxXV0JMa0J2cTYzZVRvblNvNEpsNXNSS05sNHlGemhXTDlBQWFnS2JPdw?oc=5"
   },
   {
-    "id": "us-3q6tm",
-    "title": "US AI Boom Faces Electric Shock - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-    "summary": "US AI Boom Faces Electric Shock - Energy News, Top Headlines, Commentaries, Features & Events  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-10-11T00:08:13.000Z",
-    "region": "US",
+    "id": "gl-j6k8a",
+    "title": "AI, data centres could make Asean clean energy projects bankable as grid plans advance: experts - Eco-Business",
+    "summary": "AI, data centres could make Asean clean energy projects bankable as grid plans advance: experts  Eco-Business",
+    "source": "Google News Global",
+    "timestamp": "2026-10-12T05:49:28.000Z",
+    "region": "Globe",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxVVd1Tkx4NTNZQXNyM2tiM3Zic01xamx1U2wtLXBqSFVNUkVCSnBOQWZYUWZha0ZCSW1zYTFCMUFvTFJYaDREbmk0dE0tMlBidDdDWjZ4Z3hKWUdYc2lUYV9CZHliWWpETlQ4SzM0QQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGJSZVEzbFNwOXdrV2YtQy13WV9tUmxNaHlyc1kwZHA0TzFxYVlzc003MjZrM0MwYmJKSUQ3UVNCUHBEc1hnOEtlRTR6ZHFHMWpNVGVKZC1VeWNRNnJNU2cwUG1qVWpWMm5qX2VTc3V0Y25YRWxMcnhPMHlDSkdKcU5heDBQOGN3N0s0U3c0MmpuajVHZzg3aWdtUml0QnF1U3ZSN1RyQ1lpai1scU9zUHlIYUlaMGlBX3duX0lwdlBDYkprN1dn?oc=5"
   },
   {
-    "id": "gl-jlxbv",
+    "id": "gl-2lf2b",
     "title": "Iberdrola Cites Political Risk in Exit from South Korea's Wind Power Market - BigGo Finance",
     "summary": "Iberdrola Cites Political Risk in Exit from South Korea's Wind Power Market  BigGo Finance",
     "source": "Google News Global",
@@ -110,7 +140,7 @@
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Fd3JqRVFiWmtxRENWYjVzZnM4RjJGdTFPUnhPZWMtUmh3amt0Z1FhNFFaZmNTbnZrbUEyWE9TckkzaENFcXBYSU8xcE1rZ082Mlg3VGpraFB2Ylp2S1NFaGcyLWJrbV9pcVZNRjYxa1pDZjlxX3c?oc=5"
   },
   {
-    "id": "gl-pisjd",
+    "id": "gl-ctck0",
     "title": "Africa’s green energy opportunity: Building the foundation for the next era of growth - Business Insider Africa",
     "summary": "Africa’s green energy opportunity: Building the foundation for the next era of growth  Business Insider Africa",
     "source": "Google News Global",
@@ -118,15 +148,5 @@
     "region": "Globe",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVmhZMkdmbVp3YktoVkhOdXBqZ0VOUExHdGxWVHdmVnU2SGpWX0lHSTJ2akx4RFMydkZnMlRWaGM1SUpKbUVkZHY3R0kxcVJTVl9fWWh6X1hMOFNuRWpmaVVvM2JBR181TTFoeU9BTWkxdE9HZ1ZEeTBTLWlyekxrOGR3Tmh6QTBkanR5ODlWR2dhWVVrb2NqRFRGOVg4ZmZjNEhDdGl3UXY4YURkYkdpMDdjcFo1Y052bkxsTEdpRl81cjJKbWFsRnhURGN5RXRGMDFXN0VxVQ?oc=5"
-  },
-  {
-    "id": "gl-6hpmk",
-    "title": "Smartgrid Analytics Exceeds 107 GW in Global Renewables - Construction World India",
-    "summary": "Smartgrid Analytics Exceeds 107 GW in Global Renewables  Construction World India",
-    "source": "Google News Global",
-    "timestamp": "2026-10-09T07:21:46.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ0ZOU1FxX1hKMzFrMWltQlY5ZU5wSTN4bF9KZ3REQnFVQVdrVDVicnBpRXBoa21WVmhDTWRGVXJZYUZqR0ZZVDFuTGxlaEdZQXFKWDljeTh1RWYyek5tdGNoNW1fYUNTTHpGXzdEY1Z5NU9zLWtrdHBtMW5vUUsxajJlTXpfMHJkMUVRQXZNalVJcGs4bmhvR0QwVmhHU2xTQ2xlTkU0aUlPYzhDaGo2cGhDS2w1Q1BvTHh6U0pocmRmTjZjZWFIakc0dDNNLWlyTGNGZl9hczVpTjA?oc=5"
   }
 ]
