@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-oobem",
+    "id": "in-ddx5a",
     "title": "Mint Explainer| How chipflation is playing spoilsport for consumers",
     "summary": "AI demand, tight supplies of memory chips, and capacity shifts toward high-bandwidth memory are pushing up costs for smartphones, laptops and servers, leading to a chipflation. How long will it last?",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/chipflation-memory-chip-price-hike-ai-demand-11792044167959.html"
   },
   {
-    "id": "in-48f80",
+    "id": "in-77p0w",
     "title": "Large businesses must help MSMEs upgrade, build competitiveness, says MSME secretary Khera",
     "summary": "MEME ministry secretary Bharat Khera has called for greater technology transfer, vendor development and supply chain integration as smaller firms face global disruptions and rising costs.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/india-msmes-technology-upgrade-supply-chain-exports-11791879100094.html"
   },
   {
-    "id": "in-86qty",
+    "id": "in-2za2p",
     "title": "Mint Explainer | Does India have a chance to escape the tariffs on Russian oil?",
     "summary": "In the past, India has cut back oil purchases from sanctioned nations. This time, the situation is different. The global oil supply is tight due to the Russia-Ukraine and West Asian crisis.",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/mint-explainer-does-india-have-a-chance-to-escape-the-tariffs-on-russian-oil-11791880211304.html"
   },
   {
-    "id": "in-qbi94",
+    "id": "in-hv6ct",
     "title": "Indian auto firms set up China bases as raw material costs and trade barriers mount",
     "summary": "Companies like Ather Energy, Ceat, and Lumax Auto Technologies are establishing local offices, hiring Chinese executives, and setting up offshore units to optimize procurement costs, secure rare-earth...",
     "source": "LiveMint",
@@ -40,37 +40,47 @@
     "link": "https://www.livemint.com/industry/china-sourcing-auto-industry-auto-components-ather-energy-ceat-lumax-auto-technologies-chinese-suppliers-11791819367890.html"
   },
   {
-    "id": "us-ghzq1",
-    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
-    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-10-15T13:14:31.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
-  },
-  {
-    "id": "us-0m7j0",
-    "title": "New York State’s Electricity Reserves are Shrinking, Grid Operator Says - EnergyNow.com",
-    "summary": "New York State’s Electricity Reserves are Shrinking, Grid Operator Says  EnergyNow.com",
-    "source": "Google News US",
-    "timestamp": "2026-10-15T13:14:24.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnd2Mzlud1pXbndtOVNUNU5PQjR2NVpfeHRrNTJWQlhXbmhITWQ2Z0t2WmcwaDVrU296Z0RMa3dEYlh5amlJSE4tTl9ndW5FUHA4YWJOU2pMc2FtLWhROENCWUV0R1JmbTZnSDhWNG9HaG5rbHdjVUVsNmcyb1VtaG9TaWJycElScmVrY0FoTGp2OEFiNTZIakFMWDlKUExRbHc?oc=5"
-  },
-  {
-    "id": "us-1euv2",
+    "id": "us-4l48h",
     "title": "Cuba Plunges into Darkness as Electric Grid Collapses - EnergyNow.com",
     "summary": "Cuba Plunges into Darkness as Electric Grid Collapses  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-10-15T02:50:53.000Z",
+    "timestamp": "2026-10-15T16:07:30.000Z",
     "region": "US",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEQxRUhFOC1kOGVNRDU2VEFRcU02VTNFYlJoblF3TW0ya01SRF9kbXNWbWh0T0Zqbnh4NVhJZElZZ3Jic3NoR0QzLV8zb0c2UWQyeHlhbTkyUHh6MTNFQnRieUFld29mc2FmMHRpUVBKYW9CaHRMbUJmR0twVXZnOEtUNHJjcjl6TnRyag?oc=5"
   },
   {
-    "id": "gl-jlnvh",
+    "id": "us-grnbz",
+    "title": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War - EnergyNow.com",
+    "summary": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-10-15T15:47:52.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVZDSVhKNnF6eUdkZE5oRWtPR0VlR3NnS1VNbUwyOTVEb2ktU0tYZGl3dDlld3dHMWlrZnRIdTc1RV85R3E3NVdmT29BM1hzNFZNT3dIQkFfd3lERm9ZeHM5YUtPUE1jaGM3ZWp0N0lRMGcxbjYyMmFaRURMRG10RnVhRHA5a05HX2QyUGM3T2lwR2lWQlVxTmFxN1Fxd3BySGdIaTdwODNzaVFUbjJCMEpZSzBfbXpMazRFQnhXTWhGZWlJd3c?oc=5"
+  },
+  {
+    "id": "us-0gfgw",
+    "title": "Energy Secretary Chris Wright declares power grid emergency across 13 Mid-Atlantic states amid record October heat - Yahoo Finance",
+    "summary": "Energy Secretary Chris Wright declares power grid emergency across 13 Mid-Atlantic states amid record October heat  Yahoo Finance",
+    "source": "Google News US",
+    "timestamp": "2026-10-15T14:50:00.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFV5eVg4SXJNZ19ZZ1J1VFk1NTg4QVRUT1ZwVXdRQkR4NUxvMEZ3ZEo3SGhZMmRFYjZoTlE5aF95OHFPY1gtbkFyNncwbFJSbzN5VnllNFVqV0g1UWxrcUNMWjJuQXUxeVFCaW9EUWlOeHFSaU1WRGozakZlNHJzWWhrREM1MW0tZ2t1S3YwMzE2QXR2bUNzYWdXUQ?oc=5"
+  },
+  {
+    "id": "gl-otlf7",
+    "title": "Alternative Energy Instruments Market Forecast to 2035: Growth Driven by Global Renewable Capacity Additions - IndexBox",
+    "summary": "Alternative Energy Instruments Market Forecast to 2035: Growth Driven by Global Renewable Capacity Additions  IndexBox",
+    "source": "Google News Global",
+    "timestamp": "2026-10-15T21:11:04.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZzl4MFR0N2dWa1Y0c1pEcjE4UzFrRjM2ZlFGaGVNbDRLWnZheHNmYWpFMUkzR2ROdm13WlRpYmxtTTNVRkVoOVhXUTNOREpjOTExcEJjcG4yUjRnRV9pbHdlaEpkRmxsbFA3SUl4MUxWWTA2OC1lVk9tajJObVJrMVA4OWt1enRYaEFHRnNNX1ktWll6YUY3VFpqMXgwQjA3eWN4RURJT2IyYkhTYV9zTU5fWFRXZEwzZEljdXEwWi0wWW1ucWw2QWxhN2N2bEc0b1Bz?oc=5"
+  },
+  {
+    "id": "gl-c2cnr",
     "title": "Kenya to host global energy conference targeting Green Investment and Industrial Growth - Bizna Kenya",
     "summary": "Kenya to host global energy conference targeting Green Investment and Industrial Growth  Bizna Kenya",
     "source": "Google News Global",
@@ -80,7 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGlTNl9VOVZOYzNuTHNDZUtIRVBJM2J6T0dzRUZ5RFNqdkxqWjFkMWloUC1Od0VLQkh3dmNTT19xenR6Yndnck1qS0JpWUZPakh0c0Z4ZWtwdWRyb244VG94QWQtR0xtR2RPYkMzR0JWbWFub3BoS09nMnpZaWp4bzFhVmhKLTVhU252cTVHMnBjcElDZjBIUUVael9QbnFjUzloYWUwNXRMMEd0NWNjRA?oc=5"
   },
   {
-    "id": "gl-sb6cu",
+    "id": "gl-hixxz",
     "title": "Ottawa and Nova Scotia announce $100 million for offshore wind research - haligonia.ca",
     "summary": "Ottawa and Nova Scotia announce $100 million for offshore wind research  haligonia.ca",
     "source": "Google News Global",
@@ -88,15 +98,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWEzMnJBYzBjQUFNRHVaMUpqTkRTblZUYktTV09OaF9DWElSZHRZVHkzMXZJUTdVMnU3dmNwcVRkVElmMkpLaWlIY3BnWjc3eDNFaThXcXg5TWVhSlRjWnRMZkhhVUVCQ2hEQklzbjBaeWFmM1dPVmo3Ukp5cHlBRkt6el9rTFF5OGc?oc=5"
-  },
-  {
-    "id": "gl-cn8q0",
-    "title": "Brookfield Renewable Partners offers an attractive 4.51% yield, but can its clean energy expansion sustain investor confidence and deliver long-term growth? - kalkine.ca",
-    "summary": "Brookfield Renewable Partners offers an attractive 4.51% yield, but can its clean energy expansion sustain investor confidence and deliver long-term growth?  kalkine.ca",
-    "source": "Google News Global",
-    "timestamp": "2026-10-15T09:31:00.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWTBCYTE3MFhvV0hCS01INDFFc2VmSW82RndvbElTaldjanlLaDBMaF9OcGUwX2VfeEhOd0xIM3l2UmRwcU5PUFdNa2NWb09sRU45ZzZnOFNqZm9oSEJSendQQjlLUzVPMURnc0s2V0oweFVwanZnWjg0UmpHYkh4OTk5eXEycDFxSzNlakVlMEthLTJEcjZaUzIxUC1wbFc0aDFZYW1fN1pCeWRCeDJPa3hVemJkTFhZVEZmVldOdVo5R2RDMmI3LXZUcjZRNS1SQlBNazhiazgwN09oOW93cjF1eHl1WXd6bWloNUFJNFFRN2xPeW5HdElGSDl6TEM5YXBNT0NfLU1sMDlJXzYzQlpxYWY?oc=5"
   }
 ]
