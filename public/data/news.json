@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-yi3pw",
+    "id": "in-45ldm",
+    "title": "Mint Explainer| How chipflation is playing spoilsport for consumers",
+    "summary": "AI demand, tight supplies of memory chips, and capacity shifts toward high-bandwidth memory are pushing up costs for smartphones, laptops and servers, leading to a chipflation. How long will it last?",
+    "source": "LiveMint",
+    "timestamp": "2026-10-15T07:31:05.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/chipflation-memory-chip-price-hike-ai-demand-11792044167959.html"
+  },
+  {
+    "id": "in-sdjsn",
     "title": "Large businesses must help MSMEs upgrade, build competitiveness, says MSME secretary Khera",
     "summary": "MEME ministry secretary Bharat Khera has called for greater technology transfer, vendor development and supply chain integration as smaller firms face global disruptions and rising costs.",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/india-msmes-technology-upgrade-supply-chain-exports-11791879100094.html"
   },
   {
-    "id": "in-03u82",
+    "id": "in-mwnt4",
     "title": "Mint Explainer | Does India have a chance to escape the tariffs on Russian oil?",
     "summary": "In the past, India has cut back oil purchases from sanctioned nations. This time, the situation is different. The global oil supply is tight due to the Russia-Ukraine and West Asian crisis.",
     "source": "LiveMint",
@@ -20,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/mint-explainer-does-india-have-a-chance-to-escape-the-tariffs-on-russian-oil-11791880211304.html"
   },
   {
-    "id": "in-zidju",
+    "id": "in-1q8yv",
     "title": "Indian auto firms set up China bases as raw material costs and trade barriers mount",
     "summary": "Companies like Ather Energy, Ceat, and Lumax Auto Technologies are establishing local offices, hiring Chinese executives, and setting up offshore units to optimize procurement costs, secure rare-earth...",
     "source": "LiveMint",
@@ -30,7 +40,27 @@
     "link": "https://www.livemint.com/industry/china-sourcing-auto-industry-auto-components-ather-energy-ceat-lumax-auto-technologies-chinese-suppliers-11791819367890.html"
   },
   {
-    "id": "us-mfgxj",
+    "id": "us-os5ul",
+    "title": "Cuba Plunges into Darkness as Electric Grid Collapses - EnergyNow.com",
+    "summary": "Cuba Plunges into Darkness as Electric Grid Collapses  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-10-15T02:50:53.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEQxRUhFOC1kOGVNRDU2VEFRcU02VTNFYlJoblF3TW0ya01SRF9kbXNWbWh0T0Zqbnh4NVhJZElZZ3Jic3NoR0QzLV8zb0c2UWQyeHlhbTkyUHh6MTNFQnRieUFld29mc2FmMHRpUVBKYW9CaHRMbUJmR0twVXZnOEtUNHJjcjl6TnRyag?oc=5"
+  },
+  {
+    "id": "us-due1j",
+    "title": "Taihan Wins U.S. Power Grid Supply Contract - Businesskorea",
+    "summary": "Taihan Wins U.S. Power Grid Supply Contract  Businesskorea",
+    "source": "Google News US",
+    "timestamp": "2026-10-15T01:01:49.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aRHAzRko5em1Sc1JqWXVHWHlxLTZwOWl2Y2F3SkdmVFNPeDNYekJicl9jZjNiN0p5UFdDdTBwaVd0NG9FT0d3VVFHY2VjZGtXMjJKMGMyTVZBM1JXcDhZUGw2b3VsMkpTbVNVNmMzSDFvZlRR?oc=5"
+  },
+  {
+    "id": "us-8s7qz",
     "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
     "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
     "source": "Google News US",
@@ -40,27 +70,17 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
   },
   {
-    "id": "us-og5gz",
-    "title": "Why CenterPoint Energy Stock Is In Focus As U.S. Power Prices Spike - Simply Wall Street",
-    "summary": "Why CenterPoint Energy Stock Is In Focus As U.S. Power Prices Spike  Simply Wall Street",
-    "source": "Google News US",
-    "timestamp": "2026-10-14T19:33:26.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSTdtYjZlZTBCSmQxME5ZcnA1NlhBQ0hNU3F3Zzd3enNKUk4zNjgwbDlrYnIyM1dLQkVPS2NBbVR4bHBtak14aFV3QTk4Y3FQS1BOQ3h1RXZvTG05cHFYQkRaS0pxY0k0Zmt0RmlUaXRCZWZZZWlfZzc1V0dLYzVZbG5NMXBlTHJvcmM0b3pCbnY2bjVpSjNGYmtRQjZhSGNNalFSSWl4RWRqOEloRU5zLVVTNVBua2tLVzlGUjhzaEg2OWFoRm5UYmhmeldLMVHSAdQBQVVfeXFMT1NKbl9jQU5Md0ZBbEM0aUQ0S2ZHdkZkYkV6U3VrYUpScmU0aWhxWWdWT0R6WGZNRHRlZVNKb0E1TkU3ZWU2SjlQNnJVQktQY3VUVmVXZ3JVV0FxeVBoUE41YmxjTmNSNTlIbzcwemIxZDJhRkZYZGxtV1lwVExnNmRLdm5pcFFNcHkxM2UzUHVMa2tZMlk2M2NFc2liUGxqZFBFWlo1Z2VpeXlvdXpkSnlEQUgyZkRwNE9URE1fNlRHQzZlOV83LTR2RWNrdmdJdGFGemw?oc=5"
+    "id": "gl-ay7u3",
+    "title": "India's Clean Energy Revolution: A Rapid Path to Sustainability - SolarQuarter",
+    "summary": "India's Clean Energy Revolution: A Rapid Path to Sustainability  SolarQuarter",
+    "source": "Google News Global",
+    "timestamp": "2026-10-15T07:56:48.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTlpZDBzX3B4dUsyRUV6RE5JeW5DazdpUFcwNkNRT1BDcVRSUmFzbm5tMk4zcDhDNG54Z3IweGdRcEM5bEhwcjRtb19DVC1laDZMT3F1Qkdpcml1c1A1Snp5SUVqaTdGY1k5NDlCdFFlSDZ2SHNkVFhVYWJvVjJ5c3RPT1pyLTRDbUpUMU8yMXZERldLT01kbTdzQm1iOHpxWFZzV3ZGY2t3bW15R2JvY0pWdnQwem45Vkw1U3RUVnJXRzJ0anNkMU14ZFhNYXo3QkhyblRMN20?oc=5"
   },
   {
-    "id": "us-l6ef7",
-    "title": "Feds issue emergency order to prevent power blackouts in mid-Atlantic - USA Today",
-    "summary": "Feds issue emergency order to prevent power blackouts in mid-Atlantic  USA Today",
-    "source": "Google News US",
-    "timestamp": "2026-10-14T18:31:00.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXQyWkNacU9RaWdUTmd5c09xX2kxclpwUXlaNC1aRHFyMFU3NS14NVJxWENhMmYzbXFtQVU4Z1ZqV09rQ2JCaWJFUWhHbVhDS0JQbUdySnF3UzFkc19rTlFDbmZjcGJhS3VxMzlwVzNuV204V2diZmRoalpKa04tY2ZQWFRsTWFia0NRYnUwY252TXdlMUJmUFlvWGxKd2dpVjBaTVNGVkE?oc=5"
-  },
-  {
-    "id": "gl-vts8y",
+    "id": "gl-g0aav",
     "title": "Better Clean Energy ETF: VanEck's Nuclear-Focused NLR vs. the iShares ICLN Targeting Renewables - The Globe and Mail",
     "summary": "Better Clean Energy ETF: VanEck's Nuclear-Focused NLR vs. the iShares ICLN Targeting Renewables  The Globe and Mail",
     "source": "Google News Global",
@@ -70,7 +90,7 @@
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOb2VtMHFWRnZ4VlVITF9ENUxTLV9Fdl9kamh1S0FXWEJBUkk0cXlQU3BqNWJHb2VwVXl3WHFQYUYxLWRnUFhqUXhYTlFvSlVLY0V2YXpFd0puY3puRlJRQ3c5SF9ZcGJkd0xDXzNOeWdqOGYzOVZMb1FyVlFTQkw1T0RHU3hBN3N1Y1daM3liRjhQX2libVZxa3dYTlNEY3RfM0FMU0dnUWhLNnhaQkhqMUZyOXFnWU5EbmkycDJHT0FyRXFtSHVIMURUVlFIRjNZTHJCVkU3OXZRajlyTkx3eVJqdnFVSFIxTjZUWVF0ZGwwMGQzTTRPZ0M5NzMwMzVYOGc?oc=5"
   },
   {
-    "id": "gl-b8wul",
+    "id": "gl-tl3zb",
     "title": "China’s Solar Boom Faces Reality Check as Major Manufacturers Cut 40,000 Jobs - New Fortune Times",
     "summary": "China’s Solar Boom Faces Reality Check as Major Manufacturers Cut 40,000 Jobs  New Fortune Times",
     "source": "Google News Global",
@@ -78,15 +98,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREtSY2FnYjlWaWxHdWdJOWx4aG9vXzFlekhxZmxlTEo0RjB2cENNZ3RtSjNSSU1FUk0tQWFYUjdxeVVHWDJaXzZjeGhGOG96ZHJGby1wYkVuQ1QwTXQ3clJxMnhHSVI2UXNrX3lyNWFyaHMzelFHS1dKZmJkbV9NdFNHdG9pVTFUSUdzZUtuRE4xbHFEaXNHTVM4Z0NtektsZGdFdnFEWTQxMWow?oc=5"
-  },
-  {
-    "id": "gl-raoyo",
-    "title": "Yude Solar And Sedayusolar Form Joint Venture To Expand Renewable Energy Projects In Indonesia - SolarQuarter",
-    "summary": "Yude Solar And Sedayusolar Form Joint Venture To Expand Renewable Energy Projects In Indonesia  SolarQuarter",
-    "source": "Google News Global",
-    "timestamp": "2026-10-14T12:57:17.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVFPTy1kdUt3anFNeTZFdFRhU2c1YmFhY0tKSFN1aVdrRWFHVWpEcVMtSnVMMUszay0xcjIzTDgydjZMV2F3TG1OWmhkdzdvM3ExSGZqdzMybkdOdG9TV1lCRm84UkJRRWhUdHVpT0RlQ2dacmljRnQxM0VBVUtOcFZmdHNodUN6Y241Rl84RlU2OHVHOWdKZHBiTXV0eUpBRVFVcVc2UUVZZUZtVi1JWHotZmJVaFJ0TjQ0akVrUjRKWDZ6VGoyemZWTQ?oc=5"
   }
 ]
