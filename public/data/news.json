@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-8z61k",
+    "id": "in-m466v",
     "title": "Mint Explainer| How chipflation is playing spoilsport for consumers",
     "summary": "AI demand, tight supplies of memory chips, and capacity shifts toward high-bandwidth memory are pushing up costs for smartphones, laptops and servers, leading to a chipflation. How long will it last?",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/chipflation-memory-chip-price-hike-ai-demand-11792044167959.html"
   },
   {
-    "id": "in-22wzb",
+    "id": "in-8xq05",
     "title": "Large businesses must help MSMEs upgrade, build competitiveness, says MSME secretary Khera",
     "summary": "MEME ministry secretary Bharat Khera has called for greater technology transfer, vendor development and supply chain integration as smaller firms face global disruptions and rising costs.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/india-msmes-technology-upgrade-supply-chain-exports-11791879100094.html"
   },
   {
-    "id": "in-bv0s9",
+    "id": "in-fnlbk",
     "title": "Mint Explainer | Does India have a chance to escape the tariffs on Russian oil?",
     "summary": "In the past, India has cut back oil purchases from sanctioned nations. This time, the situation is different. The global oil supply is tight due to the Russia-Ukraine and West Asian crisis.",
     "source": "LiveMint",
@@ -30,37 +30,47 @@
     "link": "https://www.livemint.com/industry/energy/mint-explainer-does-india-have-a-chance-to-escape-the-tariffs-on-russian-oil-11791880211304.html"
   },
   {
-    "id": "us-g4lis",
-    "title": "U.S. embargo, sanctions on Cuba impacting power supplies, access to medicine - CBS News",
-    "summary": "U.S. embargo, sanctions on Cuba impacting power supplies, access to medicine  CBS News",
+    "id": "us-sa41p",
+    "title": "Cuba Plunges into Darkness as Electric Grid Collapses - EnergyNow.com",
+    "summary": "Cuba Plunges into Darkness as Electric Grid Collapses  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-10-16T21:27:04.000Z",
+    "timestamp": "2026-10-16T22:57:29.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9taHhZdkUxTjBJSFhvd1ZtcENOUlVoVzI0STVhZzdMaDdBWW5IeFhxQUVHMFd5dlRBVVdfY1lBSG1Na3M3TW81YkhGSXlZRnNaSEFsVTNUbk1fcGd6TE9WU1hoMDg4NVJJbnBtLXNESC14ZmdiNXUtRDNn?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEQxRUhFOC1kOGVNRDU2VEFRcU02VTNFYlJoblF3TW0ya01SRF9kbXNWbWh0T0Zqbnh4NVhJZElZZ3Jic3NoR0QzLV8zb0c2UWQyeHlhbTkyUHh6MTNFQnRieUFld29mc2FmMHRpUVBKYW9CaHRMbUJmR0twVXZnOEtUNHJjcjl6TnRyag?oc=5"
   },
   {
-    "id": "us-rqvnt",
-    "title": "U.S. energy secretary announces $50M for Virginia power grid upgrades - WSET",
-    "summary": "U.S. energy secretary announces $50M for Virginia power grid upgrades  WSET",
+    "id": "us-vuwm9",
+    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
+    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-10-16T21:26:36.000Z",
+    "timestamp": "2026-10-16T17:06:26.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzRXVDlpTGVMTDcxX3VvZU01Sll0dDIzbWg1aHZBclNYRmNPTU9pdEk4X3lzLWgtbmR1NFEyWWtaV09LVWJNUnNLOGpCdkxlWGNCVUhab0c0VXJ0NUp5ZjFocnBsS0p1ZW9PY0hEM0xVSW5CUERNSGJha0JMQjJwb2U3c2dzYkZlS3pnQlY4UGNOYmZVbTdoZnJlQ1FsNHBHck1GRktNdHBTY28?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
   },
   {
-    "id": "us-dic49",
-    "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - WRAL",
-    "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers  WRAL",
+    "id": "us-18tan",
+    "title": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War - EnergyNow.com",
+    "summary": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-10-16T19:04:45.000Z",
+    "timestamp": "2026-10-16T07:35:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVZSdER3S2V5S1VpcE9sdmVfbS1RaVNfTm5RWHRkMGE3Nm5pNmhGemV5QTNaMk1vQmhNdFV4Wmtibko2TmdGY292S3Z1aVFndXNJZ2QxYkVYS1o5NlVSRXM0WC1ORUlPZ2ZQVlJVYnNONVRLeUZhbnpuMmk4MzJoQ2llVTFzUjdVTEY4bUZxZ01oN0VtS0JCd196Y3ZyS0ZjSjNuSGxNOFdGUklBRVFuU3RiSjg4bjh1bVJqUVN6VUpyNnF2MFd0dG40ZFpiaXpScGc?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVZDSVhKNnF6eUdkZE5oRWtPR0VlR3NnS1VNbUwyOTVEb2ktU0tYZGl3dDlld3dHMWlrZnRIdTc1RV85R3E3NVdmT29BM1hzNFZNT3dIQkFfd3lERm9ZeHM5YUtPUE1jaGM3ZWp0N0lRMGcxbjYyMmFaRURMRG10RnVhRHA5a05HX2QyUGM3T2lwR2lWQlVxTmFxN1Fxd3BySGdIaTdwODNzaVFUbjJCMEpZSzBfbXpMazRFQnhXTWhGZWlJd3c?oc=5"
   },
   {
-    "id": "gl-it9pw",
+    "id": "gl-136z8",
+    "title": "Energy storage driving global green transition - China Daily",
+    "summary": "Energy storage driving global green transition  China Daily",
+    "source": "Google News Global",
+    "timestamp": "2026-10-16T23:08:32.000Z",
+    "region": "Globe",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mR2pBQmVFMFZhUFd2dy1IUllxMU5KQnliaURoUU5IWGxqczhUS29TT2xlYlpUdlFKUkxIRWpORGdYeElWT2pma1d3WnJqc2l0b3cwTUtKRUxKVFRtc2JUdVNxTUpya3hEXzlLenlCTVVoV1h3ZFo3ZjNtR1pRUQ?oc=5"
+  },
+  {
+    "id": "gl-sr2pq",
     "title": "China’s Growing Dominance of Renewable Energy Industry Hard to Resist Despite Security Risks - The Japan News",
     "summary": "China’s Growing Dominance of Renewable Energy Industry Hard to Resist Despite Security Risks  The Japan News",
     "source": "Google News Global",
@@ -70,7 +80,7 @@
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqUmJieEE5N1ZBY3RYQjVoaUR6a0dpZFYtajVHNThrRzY4MXE1ZjluV2NYZXZrbUtQUHlDbXhyMmxYekZfNE93STNFdTJSak80TEdiekV0RE4wWVVPYjRoQUtONzV3Y2tqcWNyVS0tUE5FZ29iOHc?oc=5"
   },
   {
-    "id": "gl-qrt6z",
+    "id": "gl-7zrwz",
     "title": "Wind power drives China's global green energy edge - China Daily",
     "summary": "Wind power drives China's global green energy edge  China Daily",
     "source": "Google News Global",
@@ -78,15 +88,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UOG5hTG9reklUeURscjI3dkkwMXJpRXFFQXpGaTNwMU1Ga1NGMVgtcUkzWlFsQ0c3aVZ3Mml0Z29NdjM0U2lkNkVCTG9yTms0YV81djlBcElXRXVvT1ZyQ0dfbUZycFB4enI0LVZDYWtBTjd6by14bXczVmNDZw?oc=5"
-  },
-  {
-    "id": "gl-0qi1x",
-    "title": "Renewable energy growth outpaces grids: IRENA - Asian Power",
-    "summary": "Renewable energy growth outpaces grids: IRENA  Asian Power",
-    "source": "Google News Global",
-    "timestamp": "2026-10-15T21:00:00.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjBLMjFiT1JoR2hQLWxtczJ4WGdBTE1jWFFocTJsNmJlLWR5TXZYUV9MX0YzVHZhQ1ZteXFJU3dMa2E1YWxiMklSY3E1RVUtZnJRS0lZOC1SMW80UXpUNUxmeHdPTF9yMjBuTlBlTXdMTWIyZ0FlLXYzWmo5TTJxSnJIeGZkMUZ1alVyYkduMXVkV1J5UVE?oc=5"
   }
 ]
