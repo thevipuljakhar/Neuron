@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-gdhv3",
+    "id": "in-j1scu",
     "title": "Yellow Revolution 2.0: Inside India’s  ₹11,000-crore bet on domestic palm oil",
     "summary": "India spends billions importing edible oil, but a silent shift is underway. Backed by guaranteed prices, corporate mills, and an  ₹11,040-crore mission, farmers are betting on oil palm. Can this 20-ye...",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/agriculture/india-edible-oil-import-palm-mission-11793006958351.html"
   },
   {
-    "id": "in-els4o",
+    "id": "in-nlble",
     "title": "Mint Explainer | How new land compensation rules could speed up India’s clean energy transition",
     "summary": "The revised guidelines set out land valuation methods and compensation rates for transmission lines and towers, seeking to ease right-of-way disputes that threaten renewable energy expansion.",
     "source": "LiveMint",
@@ -20,47 +20,57 @@
     "link": "https://www.livemint.com/industry/energy/mint-explainer-how-new-land-compensation-rules-could-speed-up-india-s-clean-energy-transition-11792913800449.html"
   },
   {
-    "id": "in-j1mkx",
-    "title": "Goa cuts ATF VAT to 7% from 15% effective October 24: Will flight fares drop? All you need to know",
-    "summary": "Aviation turbine fuel is one of the largest cost items for carriers. When a state lowers the tax on ATF, the tax component of fuel purchased at its airports falls.",
-    "source": "LiveMint",
-    "timestamp": "2026-10-23T14:54:37.000Z",
-    "region": "India",
-    "category": "Grid",
-    "link": "https://www.livemint.com/industry/goa-cuts-atf-vat-to-7-from-15-effective-october-24-will-flight-fares-drop-all-you-need-to-know-11792764980554.html"
-  },
-  {
-    "id": "us-nvhkr",
-    "title": "Bloom Energy Stock and Other Big Winners From AI’s Monstrous Energy Consumption - Barron's",
-    "summary": "Bloom Energy Stock and Other Big Winners From AI’s Monstrous Energy Consumption  Barron's",
+    "id": "us-lr8yu",
+    "title": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile food and water - Fortune",
+    "summary": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile food and water  Fortune",
     "source": "Google News US",
-    "timestamp": "2026-10-26T18:00:00.000Z",
+    "timestamp": "2026-10-26T21:51:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEpaV0Q3cEtlcTYtRWd1WHBNcEtWb2xZTDBJejhNMV96ckNnTVlCSkdaRDJvUE00dEZlUXNSU0JaY3RJeHZOQUNRcWhRUGZFNHZKSFNKVXhYcUU0ODJZQndkalkzdlFrLXdva3dUbldUaWR5cE5xTmRmaklpQlR0Ul9fTQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXJuX0NKeklxRkMzdjV2MUQ5MHVpWGJubmZ0MVhwZmlWTjJyTkNYbnBnQXRaS0poX3djd2I1dl9NeWZEcDlNV2FOMHhuX2tiNkFhNU8tRmhneWFIQjdmZkxSRTVVZnZYYjB5RDMwY3ZlWWVDSWlOTlpjWE1jUW14ZWtNVWJKSmJTX2RxYUhPa1RzeFI0NjJEMy1B?oc=5"
   },
   {
-    "id": "us-fkdk7",
-    "title": "NYSEG targets 800 miles of New York line upgrades as demand and aging equipment test the grid - Yahoo",
-    "summary": "NYSEG targets 800 miles of New York line upgrades as demand and aging equipment test the grid  Yahoo",
+    "id": "us-wm26i",
+    "title": "Anthropic is burning gas to feed the AI boom - The Verge",
+    "summary": "Anthropic is burning gas to feed the AI boom  The Verge",
     "source": "Google News US",
-    "timestamp": "2026-10-26T16:57:00.000Z",
+    "timestamp": "2026-10-26T21:45:31.000Z",
+    "region": "US",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHJjRElTTVd1TFppMk1PZnBuZjdYaFNuLVZUU0ZDTUdlYmszVkM2RUNQNmk4elRxclp2VDE3RE9XSVY4YjVrUGlGZDRzUFg2THg5R1Q3cnNkMF9WTXBJTVRvU01pUlVOZlU4QUVNZE1MN3lpNHFOMWYxVl9nQURNU0RaT2lBLW5hYnc3NENDX2R2V0xEMjBEQlFpYzZJVzg0Qi1tSmNhR3J1YzhO?oc=5"
+  },
+  {
+    "id": "us-ziflw",
+    "title": "US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says - EnergyNow.com",
+    "summary": "US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-10-26T20:22:57.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbDVlNjV0XzcydEw2Q2EzY000YndGUDJKN2RFUXd6REpGN1BKaEl5S0U3M29Sbl93angtTHpFTGgxeWJCN2lUUzJhd1VtbkptT2FTcjNfY0JXMGwxNGYxOWh5LVl5LWoxb3d0eHB2a0JtMXRiUDcxR1Z1SmtuVnNTT1d0TkdEeWd2Umc?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0pBVGJZd1dEX2JoSEFuWUJwc25XMUdsZGItZ2tvQnNXT3FoaHM1bERlUHdmUHMtcHZCekktMGs4N0RKYkxoSFFBRUhWcksyYS02UGU0a3J6dDExV0ZtM3NYMmNDcXRTdldWcjE4bGRvQkxURVctMm1sbjE1QzNZTVhrRzk4ZlFiV0hvbHdQeS1LaTl4b2hlVW15MnQwU2lVVm1hbGNuMWVQT1BxN1E?oc=5"
   },
   {
-    "id": "us-8wb7z",
-    "title": "AI scaling race accelerates investments in microgrid technology - Reuters",
-    "summary": "AI scaling race accelerates investments in microgrid technology  Reuters",
-    "source": "Google News US",
-    "timestamp": "2026-10-26T15:29:15.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDQyblpKbHQxQ25YR2J4UDBvMFBPV1pkNlJoRV9BR0hDSHh2WEtMNWhDQnBpakNfLWtNNUVnZkE0UXlCa0p5VmhKdndKQ09ub3ZDOFdiSmF1RW5STUpUeWxQdGE1VmlVZUhKUlc4NTJpSUdNd0UzMk8zZ0xLM1lPRC1jNkZweVphQjgyVGtrTC1UYWRrWTdwcWNCWkc4Q3Jycnh2SHpMUm9mOGlaZC1oX0xkTnFUZEhidlBr?oc=5"
+    "id": "gl-1cmhk",
+    "title": "Renewable Energy Machine Harvests Underwater Tides - CleanTechnica",
+    "summary": "Renewable Energy Machine Harvests Underwater Tides  CleanTechnica",
+    "source": "Google News Global",
+    "timestamp": "2026-10-26T20:03:37.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkwwUDdHNDA5c1IxVm0tT3BzZXJUNnVWcVNrQzY3SERXYXJZX3o0c3hkVWZ0eXJkLWhWMG5ETEk1ZURKRl9nRWh2UU5qUnZlZUhDMjFieGNPTzNLb2JGTXprYnRmUHhONTdiNmdnUjEtN1J0M0JVSHJlUmR5Tnk1RlNpa3NWMFg2N1NKanpB?oc=5"
   },
   {
-    "id": "gl-qq3vg",
+    "id": "gl-0hmzv",
+    "title": "Renewable Energy Powered Water Desalination Systems Market: - openPR.com",
+    "summary": "Renewable Energy Powered Water Desalination Systems Market:  openPR.com",
+    "source": "Google News Global",
+    "timestamp": "2026-10-26T16:03:51.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXBqVFN3eE5HdjFmVWhiVHpfUWN3eml5RDhnNHljYjNxM21RM0sxT2FKUTJDX1RLeWQwZ3k3aW10RlEzZUtSVzNfZzhFbnNTVTVaNGxVR0pfWVJJSlFxQ1I1bHJCTEl5Tkowd05GZjNmUGZKVmxmeUZnLWc1cENPQkhLYnR0NFRGRmRNaHZBTlBkMmxUYjAtSFhB?oc=5"
+  },
+  {
+    "id": "gl-pdvux",
     "title": "Suzlon at Asia Clean Energy Summit 2026 | Good Energies for Good - Suzlon",
     "summary": "Suzlon at Asia Clean Energy Summit 2026 | Good Energies for Good  Suzlon",
     "source": "Google News Global",
@@ -68,25 +78,5 @@
     "region": "Globe",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKS0pKbXVOZ0dBVWVQN3BpM1dpLUlVakhMeURXRzRqbzM1aGYwSUNpTXM1MDlveENnSlljX1Z6djRENkZyY2V6VmVHaEFiRUc5?oc=5"
-  },
-  {
-    "id": "gl-04tjt",
-    "title": "Zacks Industry Outlook Highlights GE Vernova, Constellation Energy and Montauk Renewables - TradingView",
-    "summary": "Zacks Industry Outlook Highlights GE Vernova, Constellation Energy and Montauk Renewables  TradingView",
-    "source": "Google News Global",
-    "timestamp": "2026-10-26T12:17:00.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdVJUN0NkSVBOZTVVNzl1UFVEWFFZb0pOdUdhM1lzVUF2M2lpM1ljNUlrYUs5bWF3Yl9PQzlCVHhFSkNoZDV5UGVsdnV3M0l0TW1pMlpGa2V4MzZpRWdqTXVNVUo3V0JiR1Jram1lT3NkaGxLbTNJd1k4NGpoanRLU0xnczZtdXZIcG1PMjNpMExxSEZlbVZkT0tmUS1yalpTb2ZEYjJSdkNpWnJ5d01WUWlZTmp1Vm1aakU4RXNuTnFGeWVHQjNjTTV2aC00WGI3bmJ1ZnQtYXFWbjVp?oc=5"
-  },
-  {
-    "id": "gl-czc17",
-    "title": "Amorepacific receives Presidential Commendation for contributions to renewable energy industry development - 파이낸셜뉴스",
-    "summary": "Amorepacific receives Presidential Commendation for contributions to renewable energy industry development  파이낸셜뉴스",
-    "source": "Google News Global",
-    "timestamp": "2026-10-26T04:43:57.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92OHZSdWI3dXBvdjl0RWdybjdsYWQxSGtucnFBajBRUzBOZEpYY1J4WTB0SmhIMlhnSXRfTVBIUlc2dE4teHFRVVc0MzNyV0V3X2xnRVI2TXc?oc=5"
   }
 ]
