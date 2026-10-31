@@ -1,27 +1,27 @@
 {
   "india": {
-    "demand": 240,
+    "demand": 232.1,
     "capacity": 435.5,
-    "frequency": 49.97,
-    "deficit": 0.2,
+    "frequency": 49.96,
+    "deficit": 0.1,
     "status": "Normal",
     "renewablesInstant": 77.1,
-    "updateTime": "2026-10-31T03:45:00.176Z"
+    "updateTime": "2026-10-31T10:08:08.081Z"
   },
   "us": {
-    "demand": 701.4,
+    "demand": 705.8,
     "capacity": 1250.2,
-    "reserveMargin": 16.5,
+    "reserveMargin": 17.9,
     "status": "Normal",
-    "renewablesInstant": 175.7,
-    "updateTime": "2026-10-31T03:45:00.176Z"
+    "renewablesInstant": 175.4,
+    "updateTime": "2026-10-31T10:08:08.081Z"
   },
   "global": {
-    "euGasStorage": 74.3,
+    "euGasStorage": 74.2,
     "globalDemandGrowth": 2.8,
-    "lngFleetActive": 636,
+    "lngFleetActive": 641,
     "coalPhaseoutRate": -1.2,
     "status": "Normal",
-    "updateTime": "2026-10-31T03:45:00.176Z"
+    "updateTime": "2026-10-31T10:08:08.081Z"
   }
 }
