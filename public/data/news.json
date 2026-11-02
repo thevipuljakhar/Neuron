@@ -1,6 +1,26 @@
 [
   {
-    "id": "in-ooiq5",
+    "id": "in-qbb98",
+    "title": "Investments in renewable energy helped India avert energy crisis amid West Asia war, says PM Modi",
+    "summary": "India has already met its Paris Agreement target of sourcing 50% of installed power capacity from non-fossil fuels, five years ahead of schedule. Modi said the country aims to add another 500 GW over...",
+    "source": "LiveMint",
+    "timestamp": "2026-11-02T17:22:20.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/energy/investments-in-re-helped-india-avert-energy-crisis-amid-war-in-west-asia-says-pm-modi-11793629204499.html"
+  },
+  {
+    "id": "in-o7hfk",
+    "title": "Gadkari pushes alternative fuels to cut India's  ₹22 trillion fuel import bill",
+    "summary": "The government is promoting indigenous, cost-effective and less-polluting energy sources, including ethanol, compressed biogas, hydrogen and biofuels, to reduce import dependence.",
+    "source": "LiveMint",
+    "timestamp": "2026-11-02T17:05:30.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/energy/india-eyes-alternative-fuels-to-cut-22-trillion-fossil-fuel-import-bill-gadkari-11793631334430.html"
+  },
+  {
+    "id": "in-je5ju",
     "title": "The price of Gulf war is flashing on cement bags",
     "summary": "Prices of coal and petcoke, both key to cement making, have stayed high as the war in West Asia drags on. Manufacturers like UltraTech, Ambuja Cements and Dalmia Bharat are left with no option to pass...",
     "source": "LiveMint",
@@ -10,7 +30,7 @@
     "link": "https://www.livemint.com/industry/cement-price-hike-india-fuel-costs-gulf-war-11793588752361.html"
   },
   {
-    "id": "in-0s6sq",
+    "id": "in-02tzr",
     "title": "Why Indian cinema can’t match Hollywood’s 100-day advance booking model",
     "summary": "Censor delays, unconfirmed runtimes, and last-minute date shifts keep Indian cinema tied to short booking windows. Experts suggest a phased premium strategy could help event films bridge the gap.",
     "source": "LiveMint",
@@ -20,7 +40,7 @@
     "link": "https://www.livemint.com/industry/media/avengers-doomsday-advance-booking-india-movie-ticket-sales-11793341676062.html"
   },
   {
-    "id": "in-1uwnb",
+    "id": "in-j3ic5",
     "title": "India's renewable energy push, data centre growth: Why Power Grid wants cable and wire makers to ramp up production",
     "summary": "The expansion of renewable energy capacity, rapid urbanisation and rising electricity consumption from data centres are expected to create significant investment opportunities across the power transmi...",
     "source": "LiveMint",
@@ -30,73 +50,63 @@
     "link": "https://www.livemint.com/industry/indias-renewable-energy-push-data-centre-growth-why-power-grid-wants-cable-and-wire-makers-to-ramp-up-production-11793366715763.html"
   },
   {
-    "id": "in-ujboo",
-    "title": "SC appoints former judge to mediate $2.81 billion Reliance-Centre KG-D6 gas dispute",
-    "summary": "The decision came after both sides informed the bench led by Chief Justice of India Surya Kant that there had been no progress in settlement efforts.",
-    "source": "LiveMint",
-    "timestamp": "2026-10-30T09:29:35.000Z",
-    "region": "India",
-    "category": "Fossil",
-    "link": "https://www.livemint.com/industry/energy/sc-former-judge-mediate-2-81-billion-dispute-reliance-centre-kg-d6-gas-dispute-11793344908638.html"
-  },
-  {
-    "id": "us-9a1t9",
-    "title": "Why Is The US Power Grid Facing A Major Test From El Niño - tippinsights",
-    "summary": "Why Is The US Power Grid Facing A Major Test From El Niño  tippinsights",
+    "id": "us-mpn6e",
+    "title": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War - EnergyNow",
+    "summary": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War  EnergyNow",
     "source": "Google News US",
-    "timestamp": "2026-11-02T10:31:42.000Z",
+    "timestamp": "2026-11-02T18:08:25.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWVrZDV6bkpWa041SWVJRVppOGRES1hldnJQOEV5RnZmWTR2YkhlWDZjN0JqY01tRW9YaXFUVjVmYXdoSVVUc0dIUHlLcDlWQzBMa2J2MkV5cG1aY3ZETnpYUXlJa2hwODdtMVVBTXRweDMyb21yQ09iemF5Q3BaaWR0eGQ5VjdtZDVN?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjNuNUdVb1BYMEYydmludWlfdURzckNpdXlDZHBnazY5b0ZjYkRVZHowZVFEa3pFY2kwMVM3MU52SEdnSnRFZFN1eGRmbXBQc1pIRGF1YlNLOFFiMXhFR0RNTTNUQTZKVVU2d1pDZ2VQTW9iTDRDQVRRelRjZGU5VHUzQVBwX3JaRS00SXpFMXBEM3k1blQ3WW1MNjk1V2NvdzZwY1dmOTdCWmxqMWFMTXhKUF81a1M2NVcwbEw4OVphZw?oc=5"
   },
   {
-    "id": "us-yvf8h",
-    "title": "America's changing power grid faces a powerful El Niño - Axios",
-    "summary": "America's changing power grid faces a powerful El Niño  Axios",
+    "id": "us-lxm76",
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas - The Verge",
+    "summary": "OpenAI pitches data center power plants as a way to protect nearby areas  The Verge",
     "source": "Google News US",
-    "timestamp": "2026-11-02T10:18:59.000Z",
+    "timestamp": "2026-11-02T18:01:30.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15NEUtb015eTZONzZjRDJYT0oySlRDX00zZThxYldwdzVrTVhnRl91N0RkdTl0c0oxVGJJSEFIQjJGLS1fRW5ydllicjBNOHJFcUczb1BZSFctazRfY2d3NDUzQV9hOVVlWEwtLTdHQzdPRWxW?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FjalhTU2FDeHp2Qld0UU5XcUZUX3FsS2RqemF0SGlheFdHLUNPWUdNWTVwZkpGUV9RNFhVWVJsb0tlYXNqd2dvbUwwU2VsVEItUi1GeUJvS1pwQUVCVGtOREdNT2RSWjhZem52QUNsQ3FDS3BheXJYTkhuczlURXRZclBaOHcwOEpyODFPdGVKeU02bjdNRWExSEQ1ajFRZG5lag?oc=5"
   },
   {
-    "id": "us-rg4fl",
-    "title": "Geothermal energy looks to ride the AI wave - Politico",
-    "summary": "Geothermal energy looks to ride the AI wave  Politico",
+    "id": "us-1t30m",
+    "title": "The tech industry is investing in mega gas plants to power their data centers - The Washington Post",
+    "summary": "The tech industry is investing in mega gas plants to power their data centers  The Washington Post",
     "source": "Google News US",
-    "timestamp": "2026-11-02T10:00:00.000Z",
+    "timestamp": "2026-11-02T18:00:00.000Z",
     "region": "US",
     "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTk5aMVdYZTBWYXdPbG1YdGJFc1FQRjNoTnRjYWh1NjhrdUZ3Mjd0aEtsS2pFejh4MTZoRDNGTW5KODhOS0xUTXR0dUhqOVppUmJ5dExvVTFfZUxzRUhwN1Q2M1lGS2c5VUxlVm5XR2NLaUhSSHdBT21QR1QwSXJiZXRwWnY?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGtwdTdHSFItR1U5SmZJck9sOTIyVzlPRTBMbG5YaTBTdnF1bVJnUmdLcUZtelJyclVmaHhnbUNvQkRuUjJud0Z3bGVjYTZuTHFHNGJLZEM0UHFqaVdrQ0xBZFduMFB3VU9BeTNwS0FBamxaMHFtTW9jSXNTRDRqdDU3eUQtem1pdTVhajlXZVhzNEpmbDFrSFFJVFRKY0RPLWJEUDBjNXAwTGJMSGVyYmw0UXE?oc=5"
   },
   {
-    "id": "gl-bl31o",
-    "title": "From Complex Models to Real-World Impact: COMSOL Webinar to Spotlight Renewable Energy Simulation - SolarQuarter",
-    "summary": "From Complex Models to Real-World Impact: COMSOL Webinar to Spotlight Renewable Energy Simulation  SolarQuarter",
+    "id": "gl-r2a9p",
+    "title": "Alerian MLP ETF vs. iShares Global Clean Energy ETF: Alerian MLP ETF vs. iShares Global Clean Energy ETF: Oil Prices Are Rising, but Which Energy ETF Offers More Upside? - The Motley Fool",
+    "summary": "Alerian MLP ETF vs. iShares Global Clean Energy ETF: Alerian MLP ETF vs. iShares Global Clean Energy ETF: Oil Prices Are Rising, but Which Energy ETF Offers More Upside?  The Motley Fool",
     "source": "Google News Global",
-    "timestamp": "2026-11-02T10:47:46.000Z",
+    "timestamp": "2026-11-02T20:00:00.000Z",
+    "region": "Globe",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVGlma1R1b3VHcnJ3QmV1YjkxNHZ6ZEZ2RGdsUHBXVHpNcjlTZnNNa3NvcUM1bi02QjNkLU5sQ1liSTd2RHRHWDhzOGNKUjlKeHVLTjJQYUVuRzA0dWhkNUc0UnFGRDVZeWJYMko2b3RoY0JkWFVHS1A4YnVMY1Z0YUg3azJxa3VaVTBSbjVzOWZDMldCMTlkVWlobmI0bWhneWpMa29sd3lsd1o5LTR6dXRUVFNQbndwRXBpR05odUVsNmE2TG4tb1prS0lON09kVGVVUThEX0c4RFF2c0JEQThBYUhGYWlUNWhpejdRQ2VOX2pQYzU4eDZiZTJsMmtYRjZURUNsV3UwSV9BQ3ZKNjZTZU1PY2U2YmRhTHo3WGxnelRuZndfSVQxTDctQUFmcnpLSQ?oc=5"
+  },
+  {
+    "id": "gl-vw1zx",
+    "title": "Why Does Australia’s Renewable Energy Sector Remain Attractive Amid Global Tariff Concerns? - kalkine.ca",
+    "summary": "Why Does Australia’s Renewable Energy Sector Remain Attractive Amid Global Tariff Concerns?  kalkine.ca",
+    "source": "Google News Global",
+    "timestamp": "2026-11-02T18:09:04.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeUF0d3JqcUVIS2syM2dfS2VCTUM2UUhPNnN5bEZSUW5YVE56MFFGUW1LcGpobDE5QXYxd0NTNnFIeHRMckotQ3BRNFFwZ2pYUkRwc25HdUpMZU11WGNpdlpPcEQzaFFSc19vTzR2VkhLd1RlODI4cTUtZUMwcEF5eFpqaERWcE9TeG5rMmQ0QVVzc1dUMGkxcWRPU09wNUhZQ29BTGotMmc3ODBwWExLSk1ZZU1YUUNzWUFTRzlSSDNyVzZCM0hCM3FqSF9WZw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2RHVThHVEJmS3dfajQxN20weDdtdVRSNHhWTzlDazZtUUlqNXVaSFdYNHFidnVHcGdXdXhGR19mN01jeXdYcVV5ckVtN1N6SHJxQVlNS2haRFlEZTRpaTZzM2lCMVNjdGZEOUxvbUZXdkNEM29VZjlKWVJNdG5lN3AxVFUwbC04Q0pwTUh5bVprOWJOaVk1cTNnQXdqalBFT3NQcmluUzdKeEpETWFKVXU1YjJCQzg?oc=5"
   },
   {
-    "id": "gl-duuxh",
-    "title": "Solex Energy Targets US Market for Global Expansion with Module and Cell Projects - Chemical Industry Digest",
-    "summary": "Solex Energy Targets US Market for Global Expansion with Module and Cell Projects  Chemical Industry Digest",
+    "id": "gl-r4jbs",
+    "title": "Renewable energy sector attracted over Rs 6 lakh crore investment in two years: Union Minister Pralhad Joshi - https://www.indiagazette.com/",
+    "summary": "Renewable energy sector attracted over Rs 6 lakh crore investment in two years: Union Minister Pralhad Joshi  https://www.indiagazette.com/",
     "source": "Google News Global",
-    "timestamp": "2026-11-02T06:59:51.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmFVRm5xcFJLYXFDTVRLanJZUEtzdDduUHkxb1hGWlQzOXk3ZVBjcHU3aGowYlI4V3NMSTNRQVhkd1JISEh3Sy1LY0thbVowU3JQMFlFQmlOR2xZcUVXa1diMU1BNjNiX2ZsVDM0YWxFRHhKS3R6eGc3Um9jYmNMQVV1U2N0TGxpU2RwMjM1NkVnZ3QyT3ItZmNpcnE5WC1xUlZ6T0hzcEVnd3M?oc=5"
-  },
-  {
-    "id": "gl-jvpjk",
-    "title": "PM Modi to Inaugurate Bharat Renewable Energy Summit and Expo 2026 on November 2 - Asia Pacific - Energetica India Magazine",
-    "summary": "PM Modi to Inaugurate Bharat Renewable Energy Summit and Expo 2026 on November 2 - Asia Pacific  Energetica India Magazine",
-    "source": "Google News Global",
-    "timestamp": "2026-11-02T04:20:43.000Z",
+    "timestamp": "2026-11-02T15:59:00.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1BzSjZ4anlNOXhrRmdYSGNzN0ZubkVqTXVXZTFSRnRtZUFKclgzcDZzMXdvNGF3MlUxR3BIdTVMNGJpdWJpaHM2WmtHcGFGSkxFbERKTldDVGRRWEpYRDVmeTJTU0ZCaWU3NzdLbTdjVy1LUmoxd0NKU0N4b0k0dks2M3lES2NJWXd3TjFSWWJZb2k2VGE1enRYQzdRWVg2REF4OE1VdDhiQU9CN2ZKZUFhNjkxUnNrNWc?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQzEyelhwaW1FSUJLQmp0WkRSaDNHSzNVR09McXVlRFdLZ1haVlE0b3RLMkloN3J3N1NTRG5LWkEzZHhJdExaazd1VnotaVVMVlY1Mmw5Z1pvcjN0YUVXTjhlSjZFd1BEa29OVThHazFENmxWbGpYd2RGdER0Z19QeWdPMG81Tlpob092R3pPbmpsQUF0OEFURTJESzNyamFCTWNOeXRhOEtqcnJQUjR1MjNkYXB5Z0NvaDlCMFcxNkEwVnNwNGdLX0VjNHF2aWhpZlZsay03TUl3VlFxajNJbm9UbDRqUQ?oc=5"
   }
 ]
