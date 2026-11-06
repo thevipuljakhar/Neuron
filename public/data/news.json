@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-4hyzk",
+    "id": "in-18ffj",
     "title": "Tests underway for 15% isobutanol blend in diesel: Gadkari",
     "summary": "The move is part of the government's push to promote biofuels, reduce dependence on imported crude oil and check vehicular emissions.",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/tests-underway-for-15-isobutanol-blend-in-diesel-gadkari-11793804383549.html"
   },
   {
-    "id": "in-lubow",
+    "id": "in-cc2kp",
     "title": "GCCs power office Reit leasing as IT demand cools",
     "summary": "The increased leasing by GCCs comes at a time when demand from IT services firms, once the largest office occupiers, has shrunk.",
     "source": "LiveMint",
@@ -20,83 +20,63 @@
     "link": "https://www.livemint.com/industry/gccs-power-office-reit-leasing-as-it-demand-cools-11793707463733.html"
   },
   {
-    "id": "in-cln7v",
-    "title": "Ramayana set to lead biggest Diwali box office on record",
-    "summary": "Star power across markets, record pre-Diwali advance bookings, and IMAX sell-outs are driving expectations for a festive revival after years of underperforming holiday weekends.",
-    "source": "LiveMint",
-    "timestamp": "2026-11-04T05:53:22.000Z",
-    "region": "India",
-    "category": "Grid",
-    "link": "https://www.livemint.com/industry/media/ramayana-diwali-release-box-office-records-indian-cinema-11793709639000.html"
-  },
-  {
-    "id": "in-aje02",
-    "title": "Oil slips after early surge as US-Iran tensions persist, Brent falls 3%",
-    "summary": "The volatility poses a concern for India as it imports about 90% of its overall crude oil requirements. The import bill in the last fiscal year stood at around $123 billion.",
-    "source": "LiveMint",
-    "timestamp": "2026-11-03T16:46:07.000Z",
-    "region": "India",
-    "category": "Fossil",
-    "link": "https://www.livemint.com/industry/energy/crude-oil-prices-us-iran-war-qeshm-island-brent-11793717882725.html"
-  },
-  {
-    "id": "us-mqzeg",
-    "title": "U.S. Department of Energy announces $5B loan to boost nuclear power, including in Clinton - WEEK | 25 News Now",
-    "summary": "U.S. Department of Energy announces $5B loan to boost nuclear power, including in Clinton  WEEK | 25 News Now",
+    "id": "us-9c5mh",
+    "title": "Data centers don’t need special treatment to get power faster - Utility Dive",
+    "summary": "Data centers don’t need special treatment to get power faster  Utility Dive",
     "source": "Google News US",
-    "timestamp": "2026-11-06T04:25:00.000Z",
+    "timestamp": "2026-11-06T15:31:42.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2pDSUtVMXJkTllwRHJXa2IxTXRjVm5IdlVCM2NHMGtUeThvQmVTTFdhVmhSQVc2RFFNUlAyVk1VVjBuS3ZTR2NhV0ZzNTVZVk4xWFlmZjVjeVhtaTVUM3gzU19EVXNtQzFlYUhSdG8wSUlhQ1pkN194SXNlTjM5Mi1XYzlRTjVWMmttMjh1bUZSQUxnSHZWeFVSUnVMZVlOV2FqVXBlUkdKUGxjcEowaHRjSXHSAcgBQVVfeXFMTjdXZlV5UEY4UUd6b2JVVjdVdU9ya19hVGFCdk1CTEFVRThhUnQ2clRzQ29MT3pyYTQwZ0JfczNlMTcwYng2aUdwdDQ5YUhTcVBmYWRIWW4wVmV3WEp6Mk9WRnhzMmZvUnFRTWxqYWJ5VjdXU1pHRU5fRFJWcW1OSXNYVUJhYllhcThxOUFoMnFVZTNTR1BsY2pvRGtoaXJoaDVoenZIWDB3dlhfblRZSm5KSGwzc2dFZWNQS3BNdk9Uc1liYjZKdUc?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFg5YUdCRUx3czBuRl9WbE9CM2toSTJKS3dac0NRd3ljOVUyd3c3czJ3dTRKcW5KZktTN3R0SWl5YnM0S2N3Tk0xZ2Vwcm9Kd2dSamoxM0JabzRwak9YOHZGOXpuNUtNVDROQ0xac2gzQ18zUXRpZlpsR3lJQlc0ZE1YdTdvdXJxcExFZjd1MjBoWmNtMmlj?oc=5"
   },
   {
-    "id": "us-n9tus",
-    "title": "Data centers will start running on 800 VDC power as early as 2027 - Latitude Media",
-    "summary": "Data centers will start running on 800 VDC power as early as 2027  Latitude Media",
+    "id": "us-h8cb0",
+    "title": "The Midterms Could Unleash a New Era of Clean Energy in These States - Rolling Stone",
+    "summary": "The Midterms Could Unleash a New Era of Clean Energy in These States  Rolling Stone",
     "source": "Google News US",
-    "timestamp": "2026-11-05T20:40:42.000Z",
+    "timestamp": "2026-11-06T15:00:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjY4dkJ3TU8yeG1CSGw1dmd1d0EzNEJRMUxOR1Utb3p2bkhpZTRWOXNEWEZ3cHJEUDFJc3NMUDhFVjZJUkxQLXFfYkhHNlRLeEJIc2tubUI1OV9vLTNHeGltZ2FuSU5CSDJjc0NweVRTaXdKNlQ1cDVRS3Mtb0tBSU5GQXdfQWpxYjUwX1hXN3BYNmJNeFR4dEY3ei1kVDFIdENz?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0FKd2w4aDBhcVJjQjc3Ull1dU5YdU9RdlY2LVk1RVAxSWlSRUZldnRxanlfMDJaV3ozdms0OTk5d05BSEwySEJGY29INXhuQjFNYmNHZW8xbGVobFlsa0RLRmEzeG9saFh4OWMyQU1sMmt2bm9IMW9OcGd5WDQ1X29XU3VrdDcxaVUzdVVnLUxIX2FQcDdlZ19wSW9zNUZWNVVKYU5FYkoyeXJRbklBbHdWcXpVSXIzU1JIaks2bUIyUWlM?oc=5"
   },
   {
-    "id": "us-ee18e",
-    "title": "Brattle, Pew Report Finds Distributed Energy Resources Could Avoid $614 Billion in U.S. Power System Costs Through 2050 - TD World",
-    "summary": "Brattle, Pew Report Finds Distributed Energy Resources Could Avoid $614 Billion in U.S. Power System Costs Through 2050  TD World",
+    "id": "us-rizri",
+    "title": "US: Meta agrees to lock 250 MW clean power from Arkansas solar farm - Interesting Engineering",
+    "summary": "US: Meta agrees to lock 250 MW clean power from Arkansas solar farm  Interesting Engineering",
     "source": "Google News US",
-    "timestamp": "2026-11-05T20:01:04.000Z",
+    "timestamp": "2026-11-06T12:11:00.000Z",
     "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUmVYV2hMdzd6eFhsdXotTExfeHR3dmVmY3hYUlZpREItNFdOa3VUcFo1UGYway11ZFNpLXBJRk5FR254b0xIVDJ5OVpwREZnTHM3VGt4eUZMR0hKSU05ME1SWVBINzVydEw4TlEwdXJndUhpWlZlVThsUTdMNVgtQ2ZWTzR0bUhiRUFaeFdxRjNoSzJ5ZE9ySlRELUsxR1ZaVEdKT3NjZGsxY1NXdEFtV3hwSlVxY080WGlzUjgyX2RiaEJDLXhuWFUyQzVPV2c4aHF4RDZId0hfRkowZkFOU3hHOUlObWJqRlVZbkItMnM3Y2VEaEkySHFNUENtblliSFlSLXY1bEZTckI3amVn?oc=5"
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TdFJnM1BIOHEtbTBkWFVjMEZhdDBsMEJubnUwYVZ5T2RZdXVudkc3OHR0YzdTWFpKYkVnZzlpR2Yya2xrbWo5bDJESFJTbDUwVVpfZEJWNkJQR2ZjcGVrV1drTldWYkJfMDNsSFlMeURyaXVOb3c?oc=5"
   },
   {
-    "id": "gl-za305",
-    "title": "BRE Summit & Expo 2026 reinforces India's position as global renewable energy power: Pralhad Joshi - Investment Guru India",
-    "summary": "BRE Summit & Expo 2026 reinforces India's position as global renewable energy power: Pralhad Joshi  Investment Guru India",
+    "id": "gl-kw6pr",
+    "title": "IEA forecasts 4,800GW renewable energy expansion by 2031 as energy security concerns intensify - EnviroNews Nigeria",
+    "summary": "IEA forecasts 4,800GW renewable energy expansion by 2031 as energy security concerns intensify  EnviroNews Nigeria",
     "source": "Google News Global",
-    "timestamp": "2026-11-06T03:35:08.000Z",
+    "timestamp": "2026-11-06T14:59:39.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGp1NzE0NERuQlVWTzE4VWc0WU5LSUJUeTZlRU5YYjE1Y2dPQlptQm5MMUlLZUxLNDlEWVZWbXFneWpCVTJXQW5nUjVra250c0tteTRCRFhCTW5kMFNUNkZEOF9hb1NiSjFGdHVIRU53MTNEcldwWnRyU2ZmSmRNWFBHZ0Q0cVU1NjFBd3hlOEY3c2RFejVVWnJDdHY0NVQxVlBSVGlLd0hFeW1vS05WNk14YWloNGlaT2tfejZUeUZWVk1Ca0p2Ti1UZGdTTmlHaHUtaGkzMDhLOTJz?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSi1uUkFyMkU1a0pLbEF5UXR1T25QOEhGTkljLTBiU0ZvTVhjNFBaQU1lMHBQczU0dmo0NVNzM3dBMnczQjUtRUg2enp4MEw0dmRfamN3TUdwOVcwMWo2eGpMU25zUG5JU3VSbFJmeldndVdWX1daSURTYzhkNnZFZm5WSWRJb09pSk4yazNxVGhxMWZTczktdWxfcHJjTmZHX1FMbHZSRDgwM1czeFQzMFQ0ZExqTTByNC01Nm94aHkxc2RMdG00?oc=5"
   },
   {
-    "id": "gl-8is81",
-    "title": "Hydrogen industry at critical leapfrog stage - China Daily",
-    "summary": "Hydrogen industry at critical leapfrog stage  China Daily",
+    "id": "gl-0mm9s",
+    "title": "Energy Security Drives Faster Renewables Growth Worldwide, IEA Says - Forbes Middle East",
+    "summary": "Energy Security Drives Faster Renewables Growth Worldwide, IEA Says  Forbes Middle East",
     "source": "Google News Global",
-    "timestamp": "2026-11-06T01:48:39.000Z",
+    "timestamp": "2026-11-06T14:23:05.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JeU5MWVBfU0wtbVd1QlgwalptelBlS2FKNGgwYnI0WG1VLWJzQmFDaVVXeGhNd1NDakpvS1pmQ29BMEh4Wl82Z1kyd3RKb1lKaWFmTW1mYm1FVk5ZaDdWQ0lBQ2FXZHBTOVBtSEZfQ0sweXJjRW43aHhvZ3VJZw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmZBUUZCZDNOTWJIU29feGVnZ0Mwb0lzY3FqWmFONE5qTU1EYW5ORnRWQW9kNzRxdEd2M2VfOFJMalptUjlsam40QUFQQXh1VEg4clRJc24zOHVIS0xROEF5MGRoTk1DRjR5eHRaTFd2Yk5sZ3c2ajdaay16VXJjM0cwVEVrTGtDNlZCa0tBYXBQaDY3YTkzWDNtclNvTERISlBpM3BOam9rY0p0LWpxU1h0LXlTR3cxY3c?oc=5"
   },
   {
-    "id": "gl-s8buc",
-    "title": "Europe’s green energy transition: How China is turning renewable power into geopolitical influence - BLiTZ - Fears None But God",
-    "summary": "Europe’s green energy transition: How China is turning renewable power into geopolitical influence  BLiTZ - Fears None But God",
+    "id": "gl-i955q",
+    "title": "'New chapter': Energy security concerns to drive 4,800GW increase in renewables capacity by 2035 - BusinessGreen",
+    "summary": "'New chapter': Energy security concerns to drive 4,800GW increase in renewables capacity by 2035  BusinessGreen",
     "source": "Google News Global",
-    "timestamp": "2026-11-05T19:35:04.000Z",
+    "timestamp": "2026-11-06T14:01:52.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQUZUTjNoc0ZEM1NaMU1jbmhvaWd1ZVJYOW5fLU94UTVOSUJ0ZDBNVlgzcHdUSDFYb2R5ZEdMczVxWXJLaWZNb3FCcDNfUzl4VVJXeVI1Q0dmbUhUbXFBQ2NmQjZmZmdDNE5jUXYzMHRkMi1sTEVRVGlBbE12aGJDT1lySS1FaFZaa2JQNHRCaGhVcl8tcHhHNlowMzVmTGtESmFreno3ZWRjQUVJTW1WT1lpNmE2ZkNkQURKc3V4MXpFYWY2cXJISzJIVng?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjFjajFNaERBZERydDZHcUZRNDRzcklucUVZU0M1WEpDNUNJMWlqbEVfNDh5UkZ3Z19JQmNCSTJWZy1HeG1PN2c1d1lxM0lrb3BkWFhaa1ZqVG53emNxX2RPalUwamlSelMtZ3U1d0pwZEM5N05KRzYyUVFucmlBaUVGUWJRWm1yZE1QOVNHVmdJaDFER0NnR2ZlVmhNc2RWOEFmdi1fREtOeS10c0RIQWk5UzcwUWdZeWVOc1FR?oc=5"
   }
 ]
