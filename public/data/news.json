@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-ds9rh",
+    "id": "in-07pty",
     "title": "India moves to set standards for hydrogen-powered trucks",
     "summary": "Decarbonising freight transport is important because diesel trucks account for around 5% of India's vehicle fleet but contribute 34% of the transport sector's carbon emissions",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/manufacturing/india-moves-to-set-standards-for-hydrogen-powered-trucks-11793960908339.html"
   },
   {
-    "id": "in-8dfk1",
+    "id": "in-l2wy3",
     "title": "Tests underway for 15% isobutanol blend in diesel: Gadkari",
     "summary": "The move is part of the government's push to promote biofuels, reduce dependence on imported crude oil and check vehicular emissions.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/tests-underway-for-15-isobutanol-blend-in-diesel-gadkari-11793804383549.html"
   },
   {
-    "id": "in-abbar",
+    "id": "in-27a0e",
     "title": "GCCs power office Reit leasing as IT demand cools",
     "summary": "The increased leasing by GCCs comes at a time when demand from IT services firms, once the largest office occupiers, has shrunk.",
     "source": "LiveMint",
@@ -30,7 +30,17 @@
     "link": "https://www.livemint.com/industry/gccs-power-office-reit-leasing-as-it-demand-cools-11793707463733.html"
   },
   {
-    "id": "us-t3dqj",
+    "id": "us-j4vcc",
+    "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects - EnergyNow.com",
+    "summary": "Biggest US Grid Operator to Begin Processing New Power Plant Projects  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-11-06T22:07:58.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5"
+  },
+  {
+    "id": "us-gxu7f",
     "title": "Distributed energy could save the U.S. power grid $614B - Factor This",
     "summary": "Distributed energy could save the U.S. power grid $614B  Factor This",
     "source": "Google News US",
@@ -40,17 +50,7 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0ZfREtZVS1ZTmFzRHE1WEp1OVYtZDhDYTRyTHR1dXE1SFpuYUg4eGlpMlItRDk4c056WHJZbWVpYk5YaDBUN3ZSd3phdE5GU2M3SXJrVjdoeVF2T1pvLW5pdFQ1SFhXZ0M3amNhQkp5OHdsTHA0TFliNXZmaHZIMDJsNVBqYmtjMjJmbW95UmVOdHZOWHhXTzdGb0lOcHdxVGZPYUtUQ3dQdw?oc=5"
   },
   {
-    "id": "us-3ajip",
-    "title": "Brattle, Pew Report Finds Distributed Energy Resources Could Avoid $614 Billion in U.S. Power System Costs Through 2050 - TD World",
-    "summary": "Brattle, Pew Report Finds Distributed Energy Resources Could Avoid $614 Billion in U.S. Power System Costs Through 2050  TD World",
-    "source": "Google News US",
-    "timestamp": "2026-11-05T20:01:04.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUmVYV2hMdzd6eFhsdXotTExfeHR3dmVmY3hYUlZpREItNFdOa3VUcFo1UGYway11ZFNpLXBJRk5FR254b0xIVDJ5OVpwREZnTHM3VGt4eUZMR0hKSU05ME1SWVBINzVydEw4TlEwdXJndUhpWlZlVThsUTdMNVgtQ2ZWTzR0bUhiRUFaeFdxRjNoSzJ5ZE9ySlRELUsxR1ZaVEdKT3NjZGsxY1NXdEFtV3hwSlVxY080WGlzUjgyX2RiaEJDLXhuWFUyQzVPV2c4aHF4RDZId0hfRkowZkFOU3hHOUlObWJqRlVZbkItMnM3Y2VEaEkySHFNUENtblliSFlSLXY1bEZTckI3amVn?oc=5"
-  },
-  {
-    "id": "us-e73t6",
+    "id": "us-g3ynu",
     "title": "New Brattle, Pew Report Finds Distributed Energy Resources Could Avoid Over $600 Billion in US Power System Costs Through 2050 - PR Newswire",
     "summary": "New Brattle, Pew Report Finds Distributed Energy Resources Could Avoid Over $600 Billion in US Power System Costs Through 2050  PR Newswire",
     "source": "Google News US",
@@ -60,33 +60,33 @@
     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORFhoa21TWldka2Q1M1BUdng0ZkNpc1dqWjFuMXZneTNOejJjRGJvcS10elEyQ1Q1eUhXbmNzaFRNS2toRFdOeGVWRnNDOVMwVFFEN1lZSm5LcEtHbkluU2JuS0N5TGhjSWpFdExpbDJtRVVseHRxaG96aFdmYy1QamJRWVVORVZ3Z3oxUmpoSUNBZTJkcWxLdjJHdFBqTXdDNEJ0LUNVVE15VjRyaXVxRnZGQXFKMFJnZ29Kc2plMTdwSVR4NWlpTV9YX1ZjSkpBbXg3aUMtQVoxbFEwTmczZmJObE5tRTVKYkhvMDZWX0xBY2doZlJPQU9ObHVhcE5sQWtVNF9OLUtqRnp1?oc=5"
   },
   {
-    "id": "gl-2fu76",
-    "title": "Renewables set for record growth as energy security drives deployment across emerging markets, says IEA - Green Building Africa",
-    "summary": "Renewables set for record growth as energy security drives deployment across emerging markets, says IEA  Green Building Africa",
+    "id": "gl-7p8hb",
+    "title": "Slocable Showcases Its Latest Solar Solutions at RE+ 2026 in Las Vegas - The Daily Tribune News",
+    "summary": "Slocable Showcases Its Latest Solar Solutions at RE+ 2026 in Las Vegas  The Daily Tribune News",
     "source": "Google News Global",
-    "timestamp": "2026-11-07T03:30:08.000Z",
+    "timestamp": "2026-11-07T14:00:02.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWXg1V2lMNGN5bWtpS2JaaS1RSzNIczhZS0FqcGcxWTZBT1hGODZyT0JxLUhnekdsSmY3enNaNTRReFBTb21Wd0d0ZDRjRFpIS0JweDh4eGs4M194TldBLWR1a3pTLUJ6bWF0SUh6TzNaWkp6Yi1fZk5ZUUZKcjJQNXRtMFphN1NmZG9FYW1vUHZYSkd5X3lBcnpOUjhGY09MNnFWd3lzTmI4V0NhTGhnekNsalRPcGtTekN3ZXdTV25EY3BScTQ5M0RhX0o3aC03eEdKZVQwbWM?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUjR3UnB6Ym9ndy1PbTZ5OTh6ZGhXREo4Um1FQ1FvcHEyRFJhN0ppTm96MHhjQktxOXd4aWYzTlNDNlFGaTlUbUNEWjBCUm9SVXhPUlFZV2Q1ZlRRTTY2eFJMQ25NcEtjUzQxbG5NU0VQU0lIZnRxMnBIZmpzU2dnejZPNVBEYnV6X0pSQjBRZGRfbkRad2VXZHNDWVFGOE84MnFPQmMxVDdSY21IenRlQmlwVGxBRS1ubEFManJuVUZkTl8wVXhMN2VxVEFzSURrUXdid1BkOTVZSnFpZlBkdXFMSkRjNGwzQ19MR29EZnZxVF9fZXlQcG1VeWowYTNHV2dKc0puNHYxVFps?oc=5"
   },
   {
-    "id": "gl-sq0tu",
-    "title": "Bharat Mandapam Stages a Global Clean Energy Showcase: Inside the BRE Summit & Expo 2026 - Pragativadi",
-    "summary": "Bharat Mandapam Stages a Global Clean Energy Showcase: Inside the BRE Summit & Expo 2026  Pragativadi",
+    "id": "gl-3im4h",
+    "title": "IEA Report: Global Renewable Capacity Growth Accelerates Amid Energy Security Concerns - Head Topics",
+    "summary": "IEA Report: Global Renewable Capacity Growth Accelerates Amid Energy Security Concerns  Head Topics",
     "source": "Google News Global",
-    "timestamp": "2026-11-06T18:35:13.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclNvVV9TZzJLMVJQYkNzQWF1UEZoc1hTczdmZTQta2RBTUJLaUJaNkp0QWRLYjhWOGhQODVkWHp2SGtGTDNSM29sR0g2Q1luLXFJbHZEUkh3RHl3MGRpYVZrVVNPSUV0VVplNHR4QVJFVkR1NXZId29DS1ZQQ0hwUFpLOU94djFWZkFYblc4WGVIWG9HZzFSMmd6MXI2WXc4dTduN25uUURSX3doOWM0?oc=5"
-  },
-  {
-    "id": "gl-yp5l9",
-    "title": "IEA forecasts 4,800GW renewable energy expansion by 2031 as energy security concerns intensify - EnviroNews Nigeria",
-    "summary": "IEA forecasts 4,800GW renewable energy expansion by 2031 as energy security concerns intensify  EnviroNews Nigeria",
-    "source": "Google News Global",
-    "timestamp": "2026-11-06T14:59:39.000Z",
+    "timestamp": "2026-11-07T10:56:00.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSi1uUkFyMkU1a0pLbEF5UXR1T25QOEhGTkljLTBiU0ZvTVhjNFBaQU1lMHBQczU0dmo0NVNzM3dBMnczQjUtRUg2enp4MEw0dmRfamN3TUdwOVcwMWo2eGpMU25zUG5JU3VSbFJmeldndVdWX1daSURTYzhkNnZFZm5WSWRJb09pSk4yazNxVGhxMWZTczktdWxfcHJjTmZHX1FMbHZSRDgwM1czeFQzMFQ0ZExqTTByNC01Nm94aHkxc2RMdG00?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHhjd3N4SHN2TGlaR1p3dE41cDhDZ1RWcFFfd2RrRk91dUl0eHZHdXRUeGhVLXhhcFJWamEwSy1MOTdtOWJidXRXNmxxNnU2LU5Wa0xFaWtZTG40NVBmYkp3dkFQQk16clFtUkd6SXJOb3hYNjJkMFU1V3VjMExldk5OajNHQ3ZVUXhOTUxrOHlJWERtcEJxcjY3QQ?oc=5"
+  },
+  {
+    "id": "gl-edo55",
+    "title": "Solar power: The new energy race in Asia. - Vietnam.vn",
+    "summary": "Solar power: The new energy race in Asia.  Vietnam.vn",
+    "source": "Google News Global",
+    "timestamp": "2026-11-07T10:14:34.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpc3B6Vm1selVIZDVPSWNGVEx4TEk3X3p1TjBuc1c5aWk2RFNndWtGZ3V2aEN3Ump5SkhMOXlIbDBmNkd4Z05vRlBlVVE1QXlWdmU5Zi0xSHFNY0FnbVZQeHd1QTNRYi1peE9ERk44dGxrN1hjem1pYWFoeTk?oc=5"
   }
 ]
