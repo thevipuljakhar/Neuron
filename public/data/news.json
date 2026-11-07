@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-57xmu",
+    "id": "in-ds9rh",
+    "title": "India moves to set standards for hydrogen-powered trucks",
+    "summary": "Decarbonising freight transport is important because diesel trucks account for around 5% of India's vehicle fleet but contribute 34% of the transport sector's carbon emissions",
+    "source": "LiveMint",
+    "timestamp": "2026-11-07T00:30:23.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/manufacturing/india-moves-to-set-standards-for-hydrogen-powered-trucks-11793960908339.html"
+  },
+  {
+    "id": "in-8dfk1",
     "title": "Tests underway for 15% isobutanol blend in diesel: Gadkari",
     "summary": "The move is part of the government's push to promote biofuels, reduce dependence on imported crude oil and check vehicular emissions.",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/tests-underway-for-15-isobutanol-blend-in-diesel-gadkari-11793804383549.html"
   },
   {
-    "id": "in-8x7wv",
+    "id": "in-abbar",
     "title": "GCCs power office Reit leasing as IT demand cools",
     "summary": "The increased leasing by GCCs comes at a time when demand from IT services firms, once the largest office occupiers, has shrunk.",
     "source": "LiveMint",
@@ -20,37 +30,47 @@
     "link": "https://www.livemint.com/industry/gccs-power-office-reit-leasing-as-it-demand-cools-11793707463733.html"
   },
   {
-    "id": "us-29txf",
-    "title": "Which US State Has The Best Power Grid Reliability? Hint: It's Not Texas - Yahoo",
-    "summary": "Which US State Has The Best Power Grid Reliability? Hint: It's Not Texas  Yahoo",
+    "id": "us-t3dqj",
+    "title": "Distributed energy could save the U.S. power grid $614B - Factor This",
+    "summary": "Distributed energy could save the U.S. power grid $614B  Factor This",
     "source": "Google News US",
-    "timestamp": "2026-11-06T19:45:00.000Z",
+    "timestamp": "2026-11-06T16:22:05.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFNBNHpIaDFXWEpyUFQ0SmY0blpJMXEwSzNwc2ZZc0ZxcnZqWjhYSjNTeXIyUVU5M1JyTFlEZE1RWWtVQTRGR0hnRUZOb0tnai1UQkM0TjRzOXQyNW94TkVBWmVKc2dkREdJdWo0X2owQ3BTeG1aSVFEbzZYdmg3V3F2eTA?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0ZfREtZVS1ZTmFzRHE1WEp1OVYtZDhDYTRyTHR1dXE1SFpuYUg4eGlpMlItRDk4c056WHJZbWVpYk5YaDBUN3ZSd3phdE5GU2M3SXJrVjdoeVF2T1pvLW5pdFQ1SFhXZ0M3amNhQkp5OHdsTHA0TFliNXZmaHZIMDJsNVBqYmtjMjJmbW95UmVOdHZOWHhXTzdGb0lOcHdxVGZPYUtUQ3dQdw?oc=5"
   },
   {
-    "id": "us-onrd0",
-    "title": "Which US State Has The Best Power Grid Reliability? Hint: It's Not Texas - SlashGear",
-    "summary": "Which US State Has The Best Power Grid Reliability? Hint: It's Not Texas  SlashGear",
+    "id": "us-3ajip",
+    "title": "Brattle, Pew Report Finds Distributed Energy Resources Could Avoid $614 Billion in U.S. Power System Costs Through 2050 - TD World",
+    "summary": "Brattle, Pew Report Finds Distributed Energy Resources Could Avoid $614 Billion in U.S. Power System Costs Through 2050  TD World",
     "source": "Google News US",
-    "timestamp": "2026-11-06T19:45:00.000Z",
+    "timestamp": "2026-11-05T20:01:04.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUlBb0hiMS1yamZCY2g5b0hWX2E2R2tfODd6OEVSRlBmWHdSTVA3Zm0zenZRU29maDBGTFlxVjZHSnpTcVBSSlBMT1llcUU4dXpQblJZd1owRUlzcWdqMTItU3pUTUFkTDk5UUV6ekRkR1ZIaDFUR3JiQ3h5R0VBTA?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUmVYV2hMdzd6eFhsdXotTExfeHR3dmVmY3hYUlZpREItNFdOa3VUcFo1UGYway11ZFNpLXBJRk5FR254b0xIVDJ5OVpwREZnTHM3VGt4eUZMR0hKSU05ME1SWVBINzVydEw4TlEwdXJndUhpWlZlVThsUTdMNVgtQ2ZWTzR0bUhiRUFaeFdxRjNoSzJ5ZE9ySlRELUsxR1ZaVEdKT3NjZGsxY1NXdEFtV3hwSlVxY080WGlzUjgyX2RiaEJDLXhuWFUyQzVPV2c4aHF4RDZId0hfRkowZkFOU3hHOUlObWJqRlVZbkItMnM3Y2VEaEkySHFNUENtblliSFlSLXY1bEZTckI3amVn?oc=5"
   },
   {
-    "id": "us-6crp0",
-    "title": "Lame-duck Congress might actually do something: speed up energy projects - The Verge",
-    "summary": "Lame-duck Congress might actually do something: speed up energy projects  The Verge",
+    "id": "us-e73t6",
+    "title": "New Brattle, Pew Report Finds Distributed Energy Resources Could Avoid Over $600 Billion in US Power System Costs Through 2050 - PR Newswire",
+    "summary": "New Brattle, Pew Report Finds Distributed Energy Resources Could Avoid Over $600 Billion in US Power System Costs Through 2050  PR Newswire",
     "source": "Google News US",
-    "timestamp": "2026-11-06T18:42:30.000Z",
+    "timestamp": "2026-11-05T14:00:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWQ0bHF6M0p1RXJMMzVLdzhnQlZxMV9GTGZibS1Cel92M2tNaDBjQkF6UEV5SzhxRUZ5SWMzLTNnRHNOYmNyUWJtMmM5QnBVZ1ZVNWpSZXBraTRPU2NiTzZNTVNRaFk0SmhVQmpVS3IwT042bVdiX25ZQ2xiakM0aXZkRzBCU2xXSEMzSXJ0eUZZMXEyS3Jkb0hSQllLVWs?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORFhoa21TWldka2Q1M1BUdng0ZkNpc1dqWjFuMXZneTNOejJjRGJvcS10elEyQ1Q1eUhXbmNzaFRNS2toRFdOeGVWRnNDOVMwVFFEN1lZSm5LcEtHbkluU2JuS0N5TGhjSWpFdExpbDJtRVVseHRxaG96aFdmYy1QamJRWVVORVZ3Z3oxUmpoSUNBZTJkcWxLdjJHdFBqTXdDNEJ0LUNVVE15VjRyaXVxRnZGQXFKMFJnZ29Kc2plMTdwSVR4NWlpTV9YX1ZjSkpBbXg3aUMtQVoxbFEwTmczZmJObE5tRTVKYkhvMDZWX0xBY2doZlJPQU9ObHVhcE5sQWtVNF9OLUtqRnp1?oc=5"
   },
   {
-    "id": "gl-elgla",
+    "id": "gl-2fu76",
+    "title": "Renewables set for record growth as energy security drives deployment across emerging markets, says IEA - Green Building Africa",
+    "summary": "Renewables set for record growth as energy security drives deployment across emerging markets, says IEA  Green Building Africa",
+    "source": "Google News Global",
+    "timestamp": "2026-11-07T03:30:08.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWXg1V2lMNGN5bWtpS2JaaS1RSzNIczhZS0FqcGcxWTZBT1hGODZyT0JxLUhnekdsSmY3enNaNTRReFBTb21Wd0d0ZDRjRFpIS0JweDh4eGs4M194TldBLWR1a3pTLUJ6bWF0SUh6TzNaWkp6Yi1fZk5ZUUZKcjJQNXRtMFphN1NmZG9FYW1vUHZYSkd5X3lBcnpOUjhGY09MNnFWd3lzTmI4V0NhTGhnekNsalRPcGtTekN3ZXdTV25EY3BScTQ5M0RhX0o3aC03eEdKZVQwbWM?oc=5"
+  },
+  {
+    "id": "gl-sq0tu",
     "title": "Bharat Mandapam Stages a Global Clean Energy Showcase: Inside the BRE Summit & Expo 2026 - Pragativadi",
     "summary": "Bharat Mandapam Stages a Global Clean Energy Showcase: Inside the BRE Summit & Expo 2026  Pragativadi",
     "source": "Google News Global",
@@ -60,7 +80,7 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclNvVV9TZzJLMVJQYkNzQWF1UEZoc1hTczdmZTQta2RBTUJLaUJaNkp0QWRLYjhWOGhQODVkWHp2SGtGTDNSM29sR0g2Q1luLXFJbHZEUkh3RHl3MGRpYVZrVVNPSUV0VVplNHR4QVJFVkR1NXZId29DS1ZQQ0hwUFpLOU94djFWZkFYblc4WGVIWG9HZzFSMmd6MXI2WXc4dTduN25uUURSX3doOWM0?oc=5"
   },
   {
-    "id": "gl-hdg3n",
+    "id": "gl-yp5l9",
     "title": "IEA forecasts 4,800GW renewable energy expansion by 2031 as energy security concerns intensify - EnviroNews Nigeria",
     "summary": "IEA forecasts 4,800GW renewable energy expansion by 2031 as energy security concerns intensify  EnviroNews Nigeria",
     "source": "Google News Global",
@@ -68,15 +88,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSi1uUkFyMkU1a0pLbEF5UXR1T25QOEhGTkljLTBiU0ZvTVhjNFBaQU1lMHBQczU0dmo0NVNzM3dBMnczQjUtRUg2enp4MEw0dmRfamN3TUdwOVcwMWo2eGpMU25zUG5JU3VSbFJmeldndVdWX1daSURTYzhkNnZFZm5WSWRJb09pSk4yazNxVGhxMWZTczktdWxfcHJjTmZHX1FMbHZSRDgwM1czeFQzMFQ0ZExqTTByNC01Nm94aHkxc2RMdG00?oc=5"
-  },
-  {
-    "id": "gl-dc3sn",
-    "title": "IEA: Emerging Economies Catching Up with Developed Nations in the Renewable Energy Race - صحيفة مال",
-    "summary": "IEA: Emerging Economies Catching Up with Developed Nations in the Renewable Energy Race  صحيفة مال",
-    "source": "Google News Global",
-    "timestamp": "2026-11-06T14:38:02.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VYS1yeEs4YkNBVExvSVRESGdGRDIwRjRrNWdweUp1eUU3c3l1ci05QWhCbUJFaUlrb1lMOHE2Y0ZtLXlrc2dSTkctbmxsbGh2OFV5aW5HWHgtYUVORmtSVHphbjV2ZkgyZU13?oc=5"
   }
 ]
