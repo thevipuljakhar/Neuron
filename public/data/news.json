@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-tatgi",
+    "id": "in-mdpaz",
     "title": "Oil prices, rural stress cloud outlook for consumer goods makers despite volume growth",
     "summary": "Rising input costs, led by a 34% increase in crude prices, forced Indian consumer goods companies to choose between protecting margins and sustaining sales.",
     "source": "LiveMint",
@@ -10,73 +10,63 @@
     "link": "https://www.livemint.com/industry/retail/oil-prices-rural-stress-cloud-outlook-for-consumer-goods-makers-despite-volume-growth-11794281021264.html"
   },
   {
-    "id": "in-xgtg3",
-    "title": "India moves to set standards for hydrogen-powered trucks",
-    "summary": "Decarbonising freight transport is important because diesel trucks account for around 5% of India's vehicle fleet but contribute 34% of the transport sector's carbon emissions",
-    "source": "LiveMint",
-    "timestamp": "2026-11-07T00:30:23.000Z",
-    "region": "India",
-    "category": "Renewable",
-    "link": "https://www.livemint.com/industry/manufacturing/india-moves-to-set-standards-for-hydrogen-powered-trucks-11793960908339.html"
-  },
-  {
-    "id": "us-lrvcx",
-    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
-    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
+    "id": "us-n686f",
+    "title": "Batteries are meeting surging US energy demand - Energy Global",
+    "summary": "Batteries are meeting surging US energy demand  Energy Global",
     "source": "Google News US",
-    "timestamp": "2026-11-10T22:56:02.000Z",
+    "timestamp": "2026-11-11T12:42:52.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVl9OM0MtNlRRTE03NEFtck1UX2dla2FYWmJIazc1bnBLNjRYOExUYm0wVEctMl9kX2Z6THpaY0hJLTcyMnFzZWdGbHp1NE0xSDF1UndJOGRVREwzZElZS0g0S00ycDRRWFRjZnVnVTJua21RNldselh3bjlTZUxrOXY4Y0cyWmk2Z0tiWVQyd1dtczctVW83ZUxkczkwb0cwZ1RiYg?oc=5"
   },
   {
-    "id": "us-kgu68",
-    "title": "Rising energy costs from AI data centers land hardest on lower income, rural households, study finds - CBS News",
-    "summary": "Rising energy costs from AI data centers land hardest on lower income, rural households, study finds  CBS News",
+    "id": "us-03uqn",
+    "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals - The Guardian",
+    "summary": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals  The Guardian",
     "source": "Google News US",
-    "timestamp": "2026-11-10T19:39:00.000Z",
+    "timestamp": "2026-11-11T12:05:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFpWWEtoQmNobk9HdUszekNjeXNhZWpubFVjdmh1VGZIRFdxdkJGNE5FdWdBUUVmdVZiN2liN2lweXFoSzFpWFpMNE9KUXUzQzhvd0Vpd2JuWGxJaHd4aWpOdWpLS2VkMGFaeDNBdmR5WW5hcjlUT19IUUg1aUh5TzlyWDFRQTBnUEpJWlhDdEgyeWw4bEQ4dVJPWnpwa2pCRmRJ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc1p5UFV5ZEdHV3ZmSWZlY1BoeVR4ZnkzV2tmZHlKWGl6c19tMV9RNXp3bV9sRXFQeGdIRF8xcGhJbjUzOGF5Tk53TDNxY2xmaGIweUtXc1MyYVhWRkViNlFtN194bUt1ODFKbDZaVzZwWVEtTFRScE1mS1VldHJGMnFKVlZMOVNLa3Q0LUJFaDFVb2lNYmhwQQ?oc=5"
   },
   {
-    "id": "us-hji16",
-    "title": "Outdated power grids a major hurdle in renewable energy transition - PBS",
-    "summary": "Outdated power grids a major hurdle in renewable energy transition  PBS",
+    "id": "us-ng4ii",
+    "title": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems - Bloomberg.com",
+    "summary": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems  Bloomberg.com",
     "source": "Google News US",
-    "timestamp": "2026-11-09T18:31:27.000Z",
+    "timestamp": "2026-11-11T12:00:00.000Z",
     "region": "US",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU9HX0tNdk8wdTV1WVJlVVRuRzhKTmRJTTROSEMwVHZMNkRuVU1qRURmQnBRVGNnclpucldReGRub0RsZ0pubm5FalJNaVIwWVc3dXFmWHN1YlFBY0hobjZIamhxalg3R0UzSFhxSjVOT2ZCcUw5VXhsOWNuMWJGUm5WaTlWTGU0YlN2RWxqRDlVZGdTemxvd0dTeE9LMnlIS09vY1NR0gGrAUFVX3lxTE5yMnlSNTJXeE1ud2RvR2hSbnlJdWJCNFFZYmQxY1FiRWo4YjNXVHMyTDM5eTA2ajN6ejR3LVR0QWZoRGg5RG1YcUZvMTdZY2ZIYzNndzdTeExxaGd2R0cwcFF1SGtVNWhZbDZ0cnc1WFZyTWRwVXpmc1ZzTkxGOTc2N2xRejlnZGxuVmJlZW9oX05JOUZ2aW5MTkdkbDlaUHhJYU5KV0NJZ05wMA?oc=5"
-  },
-  {
-    "id": "gl-d1iy0",
-    "title": "The Great Renewable Energy Shift: China Slows, India and Emerging Markets Step Up - Saur Energy",
-    "summary": "The Great Renewable Energy Shift: China Slows, India and Emerging Markets Step Up  Saur Energy",
-    "source": "Google News Global",
-    "timestamp": "2026-11-11T03:30:12.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMS1rSm1qdjVsLXJUUEhuUGZ5a0lzbEFVNEJEVDh6SVN6Y3BYc2dDb0h4Yl9pazBwaURDTEg3LWhtcHF2eVNOclJ3MHljVF9QMzEzbzdqdC0tN0NqX05waERmU1pwNWs4b19uUXBqdnY0b1dWUUZJems2cUZlYmxCb1F6eVYwNWphUVhkX2lUdVZGWF9GcnNqREhGR0swR3NPMmZqb0xyeDRhLWpiQ2VuYnIzclBJdndTWFJOdXoxWU1hamJtbC1KOC1IYzJVdw?oc=5"
-  },
-  {
-    "id": "gl-hgic4",
-    "title": "COP31 Pushes Global ‘Age of Electricity’ with Ambitious 2035 Electrification Target - Africa Science News",
-    "summary": "COP31 Pushes Global ‘Age of Electricity’ with Ambitious 2035 Electrification Target  Africa Science News",
-    "source": "Google News Global",
-    "timestamp": "2026-11-10T18:16:30.000Z",
-    "region": "Globe",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWd0TVZQWnEtdjQ3RVh2bWVxUm1kNUUzLVNKeDVEYWhOZjB2TktHeFdlSkRsdGZibUp4eHFFb0pnYkhaeFpEV2VUQUhNUmpOajZvbFJtLUZ5UElHLThNMW81MFlhaTJFNHE2OUpYVkNCNk1rb3NkWFhvblhhdEdONDF3VjRIZnYwWjUwb3lRbnhtN0JobEszM1J5TVZHN0RxZm0tWHRJbk00SmZVZXRPajU0eGh1X1FBZXpOdEExbw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTi1jTW9ONFh1WHpySjhrUkE3dXM0dVJNT0NCQTJKVGk0WG5sV3VUenZmSTFZSmx0UEVudF9sRHgwakg2OWRPaUdvWXVfaXRLSTVBN1dKaFVmdjNFSHhTVTdBeHFuNjZNcE44eHZyRzZnU0k2OGtjTU14M3pzUGpwb09EQVpObWZ4RW1nWjQyTlMzYzRiaFgyTjlaZ1N4YlpXMHRiTEEydHRvU1JyMkFIQVJLTHE?oc=5"
   },
   {
-    "id": "gl-82197",
-    "title": "Come, Invest In Karnataka: State Invites Investors And Global Industry Leaders To Explore Clean Energy Opportunities - Outlook Business",
-    "summary": "Come, Invest In Karnataka: State Invites Investors And Global Industry Leaders To Explore Clean Energy Opportunities  Outlook Business",
+    "id": "gl-2qwy1",
+    "title": "India's renewable energy expansion averts $100 bn in fuel imports, savings seen at $240 bn by 2030 - The Economic Times",
+    "summary": "India's renewable energy expansion averts $100 bn in fuel imports, savings seen at $240 bn by 2030  The Economic Times",
     "source": "Google News Global",
-    "timestamp": "2026-11-10T13:55:31.000Z",
+    "timestamp": "2026-11-11T13:46:25.000Z",
     "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU20xX29BN3lNY2ZLNURGNTVmeUpFclg1THZkZ3ZkODg1TFktWlR5WFRDSTNLQWF1aENYZWxsZ1FiWmJ3RXFodDlmOW1tWTNKOFZKZ0hKd0VUSEdweGMtWGJxMHA3OHE0MDFVak41X0p4eGExU3hLbGNlT2Jmb0lHakl3Y2FnU0tiYnJFcWlNbUhQYXQtemd2VW94WU1NdDBCUlZXN1h4VEkyMU9fTVhyRTFVOUtVNnlpcHFsbkZMZVo5NG5IMFNzS3hTalItSUJuRDVGZWpSeUNuNy04a2xmUUZsSnNPZ0dtenkzRzNKUVJLWDFISmc40gGEAkFVX3lxTE5LOTNxbzB0ZU5ER05BOHp2Sm8zVGstM3IyeGM5ZUd1OTk4cWI3ekxZQXNSMjV5RDYxV2VZWWRXeE96dDY4dWlzZXM3RkNtUXpORmc3VE1JSUJCeTQtV2tfSHg5cEg5dWxyUndxTGdwcC1uOXd2dWFadFBuWjFYSkF4T2ZVMnZETmtzSFRwR04xTTh3TTNOUmFYOUh1SGtnVlAtRXhNN2x2REpWaXY2NGNaY1hMVnBUV1Jla1Fjc2xCVS05NXA0VWxjLXpmdnNTeUlRR21LajVBUTR6aGZiUTgtb0ZxNS13Yl9Gak41UGNXZ2NsdEowbkgyZ3Job2ExUDgydDlF?oc=5"
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZVdpSFBpUXEyaGNsV1AxMTFqamV1YTVtYURmRFlvTE42WnBuMERENlRMR3FFX0QzTUZNVnJpcHRlY3FCYTQ0MmlWV0czN0ZSRW5kcjZwRmtHNS1XSHdIWmljWnAteVhlS1l1ellhb091SU1MaXdyMmJJTjl1M1pULUJkRGVXbUUxQ2laNzFhWEVONlZyRHBETHBmTmRiQllBWEticVh3a0Z6MnhvOXdYNlRjRmhWSmpLSkxVUTFGMjFoUWtGZEZVb3JGUjhrYU5YQmtraGR5UVVuQXg0WW9XcXBRRWVoSHVvY3VFNGpKcFU1UTFpcV9mSWN6ZWbSAYICQVVfeXFMUF81ZlYxRGZCbFA5bXpaMnJzYVN4NnJmUlZTOTZIRWZELWVCNFh2NlAtcWFudXE3dDVNMXdHVTd1MjFyV003US1JSjE1MUUzSklJa0c3Tk4xX3BMd2VsVW5vaUpDOG1udGRJTUx3ZG1MeTR0U0xLUDdOaFFhUnlPQ1hyOThNbTlBWjVhLXhZY0VUcC0wdnowU2hhYWJlWGp0QVdkaVYxUXQ1M21Wa0RCWGExUVp3S1JsOWoxYm1jQXJIRXRnUl94Vk5TYnpOUU9EOXU1QWhBNkQ5VnBiOGhNLVM2dlkzUEhGMmZ1UWloM0hseWFCWC1TNk9yTU1KLWVNUXJB?oc=5"
+  },
+  {
+    "id": "gl-8xrmg",
+    "title": "Octopus Energy Launches $600 Million Asia Fund, Begins With 450 MW Solar And 350 MWh Storage Investment In Philippines - SolarQuarter",
+    "summary": "Octopus Energy Launches $600 Million Asia Fund, Begins With 450 MW Solar And 350 MWh Storage Investment In Philippines  SolarQuarter",
+    "source": "Google News Global",
+    "timestamp": "2026-11-11T11:20:21.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWEs0anRXQmRfQ0hNM3FSZ2xQU1ZMc21uTFVGbTRJc3VqdFI4ZXplVE1fLVFhNzRFT3lTeE1GS1ltcG5NQnlqU0h2dWl0emRmOE5wekE5MUpFSGVuUExSbk1EQzJLenRhWVN6VnBicGJQTmIyTEdZR1FuNGJwZnpFSnF3WmY2bUJXdlU0bXJpdktqVmR1YW9fZlVZMW1qYnAwMmtOMkhiVGJJMUp3cjBDT1dCaHBLSW5VcWlTTC1Nc28tWllhSWJOR01KYVJzVzh4Wkk1Vm9Xa0lCTkxnb19kM0VNNmE5MWpy?oc=5"
+  },
+  {
+    "id": "gl-q9u9f",
+    "title": "Bondada Engineering Establishes UAE Subsidiary To Expand Global Renewable Energy And Infrastructure Operations - SolarQuarter",
+    "summary": "Bondada Engineering Establishes UAE Subsidiary To Expand Global Renewable Energy And Infrastructure Operations  SolarQuarter",
+    "source": "Google News Global",
+    "timestamp": "2026-11-11T06:06:52.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGdCX3ZiWWFYcG9MNTIwVl9lYzBtejd1TnNNQU1heWpUR0dIdkF1RUZiQXZaWWRwMXVJZlQwemhfYllNVTVvd21mT2JSeDJjaGh1aERoLUFpOWcza2NjSks4X1JITVU2cXZnS0RXZmc1ZzUyd1pzdjZoZjY4N2ZBVVJzUWVub1FYa3JqOHRZcFhRNTFuV3ZIVHBMMG9udHVpZm1qRlFaa0FSUVlVN0xUR3IzeU5xOEFRQkdTemZWU2g1OXd3cC1mNFJZS1NzSlM0Qnk1V0Q3QmFJMzlBTFFyVw?oc=5"
   }
 ]
