@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-2q0py",
+    "id": "in-tatgi",
+    "title": "Oil prices, rural stress cloud outlook for consumer goods makers despite volume growth",
+    "summary": "Rising input costs, led by a 34% increase in crude prices, forced Indian consumer goods companies to choose between protecting margins and sustaining sales.",
+    "source": "LiveMint",
+    "timestamp": "2026-11-11T00:30:38.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/retail/oil-prices-rural-stress-cloud-outlook-for-consumer-goods-makers-despite-volume-growth-11794281021264.html"
+  },
+  {
+    "id": "in-xgtg3",
     "title": "India moves to set standards for hydrogen-powered trucks",
     "summary": "Decarbonising freight transport is important because diesel trucks account for around 5% of India's vehicle fleet but contribute 34% of the transport sector's carbon emissions",
     "source": "LiveMint",
@@ -10,37 +20,47 @@
     "link": "https://www.livemint.com/industry/manufacturing/india-moves-to-set-standards-for-hydrogen-powered-trucks-11793960908339.html"
   },
   {
-    "id": "us-4l5nf",
+    "id": "us-lrvcx",
+    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
+    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-11-10T22:56:02.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
+  },
+  {
+    "id": "us-kgu68",
     "title": "Rising energy costs from AI data centers land hardest on lower income, rural households, study finds - CBS News",
     "summary": "Rising energy costs from AI data centers land hardest on lower income, rural households, study finds  CBS News",
     "source": "Google News US",
-    "timestamp": "2026-11-10T21:04:30.000Z",
+    "timestamp": "2026-11-10T19:39:00.000Z",
     "region": "US",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFpWWEtoQmNobk9HdUszekNjeXNhZWpubFVjdmh1VGZIRFdxdkJGNE5FdWdBUUVmdVZiN2liN2lweXFoSzFpWFpMNE9KUXUzQzhvd0Vpd2JuWGxJaHd4aWpOdWpLS2VkMGFaeDNBdmR5WW5hcjlUT19IUUg1aUh5TzlyWDFRQTBnUEpJWlhDdEgyeWw4bEQ4dVJPWnpwa2pCRmRJ?oc=5"
   },
   {
-    "id": "us-rvln7",
-    "title": "Report: Expanding DERs Could Avoid $600B+ in US Grid Costs, Cut Household Bills through 2050 - EnergyTech",
-    "summary": "Report: Expanding DERs Could Avoid $600B+ in US Grid Costs, Cut Household Bills through 2050  EnergyTech",
+    "id": "us-hji16",
+    "title": "Outdated power grids a major hurdle in renewable energy transition - PBS",
+    "summary": "Outdated power grids a major hurdle in renewable energy transition  PBS",
     "source": "Google News US",
-    "timestamp": "2026-11-09T18:27:34.000Z",
+    "timestamp": "2026-11-09T18:31:27.000Z",
     "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZkZpOE9BM25jalJiVWpFbUpxb3FCc3JFUzc1WTRJT05lUEt4SW1GUVVuaVEwNUd5MUZMdUhSQ2hQMW5kQm9UUXpxWUdpMkJPcFo2Xzc1MXhyaHQzRC1nZzllS1E0aE0wRWE5bzBwWUM3aktobmVQb2xLQlNBRTRBbjVPN0JJb3huRTctUk5Gdk9WNmUyV0gwRks4QzFuUWt4a2hXWjlGOGptTkM5S24zM19NYlo0N3VyZ2JjZkQxUEFGTEEzaFR1Q2tKc1JFejVUZ0xrNnZvbkdLb1NmRGNhZnVR?oc=5"
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU9HX0tNdk8wdTV1WVJlVVRuRzhKTmRJTTROSEMwVHZMNkRuVU1qRURmQnBRVGNnclpucldReGRub0RsZ0pubm5FalJNaVIwWVc3dXFmWHN1YlFBY0hobjZIamhxalg3R0UzSFhxSjVOT2ZCcUw5VXhsOWNuMWJGUm5WaTlWTGU0YlN2RWxqRDlVZGdTemxvd0dTeE9LMnlIS09vY1NR0gGrAUFVX3lxTE5yMnlSNTJXeE1ud2RvR2hSbnlJdWJCNFFZYmQxY1FiRWo4YjNXVHMyTDM5eTA2ajN6ejR3LVR0QWZoRGg5RG1YcUZvMTdZY2ZIYzNndzdTeExxaGd2R0cwcFF1SGtVNWhZbDZ0cnc1WFZyTWRwVXpmc1ZzTkxGOTc2N2xRejlnZGxuVmJlZW9oX05JOUZ2aW5MTkdkbDlaUHhJYU5KV0NJZ05wMA?oc=5"
   },
   {
-    "id": "us-dea9i",
-    "title": "'Stretched to the limit': Heat wave prompts US electrical grid emergency - ABC News - Breaking News, Latest News and Videos",
-    "summary": "'Stretched to the limit': Heat wave prompts US electrical grid emergency  ABC News - Breaking News, Latest News and Videos",
-    "source": "Google News US",
-    "timestamp": "2026-11-09T16:20:24.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWR6SWxnZk5VYWhkc0t2X0RmV1VIS3RPS1ZuTHN5c0tGcmoxcXBJR2t1N0tDS0dhQUNzcFZ3c1NmVVdqN0hFUmdHdGZmMGNlSFFMVG44WnBLbjl4RXlEbDlORGZQQ3Q0TjNkbVF2V3dSOGRHZ09XQ2dRWWNDMWpDd081Q0g2cUZjMFIzV0xTZF93bGhUN19zSFJB0gGfAUFVX3lxTE81RGtaZ1dyZ2t6U1dKc1NKZzg5dm5qNTI1S1h5cmNzNkpCaWVYbGFuZlRWNzM5UmZCSDhaSEhmZlc2Z1luRU4wd3NaRkNJNC1qalpuYXJrWlVCR2tYY3F5WUgxUHZBYjhWc1VvV3hWNjc3QXNfaHdPcVFBVnM4d05vUTJiNUV2SW1xRlA5SWoyRHJPQVltOUdnTlVodWVJYw?oc=5"
+    "id": "gl-d1iy0",
+    "title": "The Great Renewable Energy Shift: China Slows, India and Emerging Markets Step Up - Saur Energy",
+    "summary": "The Great Renewable Energy Shift: China Slows, India and Emerging Markets Step Up  Saur Energy",
+    "source": "Google News Global",
+    "timestamp": "2026-11-11T03:30:12.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMS1rSm1qdjVsLXJUUEhuUGZ5a0lzbEFVNEJEVDh6SVN6Y3BYc2dDb0h4Yl9pazBwaURDTEg3LWhtcHF2eVNOclJ3MHljVF9QMzEzbzdqdC0tN0NqX05waERmU1pwNWs4b19uUXBqdnY0b1dWUUZJems2cUZlYmxCb1F6eVYwNWphUVhkX2lUdVZGWF9GcnNqREhGR0swR3NPMmZqb0xyeDRhLWpiQ2VuYnIzclBJdndTWFJOdXoxWU1hamJtbC1KOC1IYzJVdw?oc=5"
   },
   {
-    "id": "gl-r3r9p",
+    "id": "gl-hgic4",
     "title": "COP31 Pushes Global ‘Age of Electricity’ with Ambitious 2035 Electrification Target - Africa Science News",
     "summary": "COP31 Pushes Global ‘Age of Electricity’ with Ambitious 2035 Electrification Target  Africa Science News",
     "source": "Google News Global",
@@ -50,23 +70,13 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWd0TVZQWnEtdjQ3RVh2bWVxUm1kNUUzLVNKeDVEYWhOZjB2TktHeFdlSkRsdGZibUp4eHFFb0pnYkhaeFpEV2VUQUhNUmpOajZvbFJtLUZ5UElHLThNMW81MFlhaTJFNHE2OUpYVkNCNk1rb3NkWFhvblhhdEdONDF3VjRIZnYwWjUwb3lRbnhtN0JobEszM1J5TVZHN0RxZm0tWHRJbk00SmZVZXRPajU0eGh1X1FBZXpOdEExbw?oc=5"
   },
   {
-    "id": "gl-28444",
-    "title": "China's clean energy transition gains momentum as officials, experts at COP31 climate conference highlight global impact - Anadolu Ajansı",
-    "summary": "China's clean energy transition gains momentum as officials, experts at COP31 climate conference highlight global impact  Anadolu Ajansı",
+    "id": "gl-82197",
+    "title": "Come, Invest In Karnataka: State Invites Investors And Global Industry Leaders To Explore Clean Energy Opportunities - Outlook Business",
+    "summary": "Come, Invest In Karnataka: State Invites Investors And Global Industry Leaders To Explore Clean Energy Opportunities  Outlook Business",
     "source": "Google News Global",
-    "timestamp": "2026-11-10T12:59:16.000Z",
+    "timestamp": "2026-11-10T13:55:31.000Z",
     "region": "Globe",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeTRYaEhoeExJN0tITndKQ1V3RnFLdlZ4R2NlbUcxblBVTW1YckFRYTM1djEyZWpKblFwQjhOYk95Qmw4bVljQ1Q5YVdpaG1OSVp3YVFHNklHRDZqUzhENUI4V3NWbEtEdm1WMmZYNmNOd0VFbnVyTXN6dlJ6eUNlNlBwMFFUeDZjVkNsUmdlbTctRW1BNUl3bExyUkFXWE1Zb3JGTUU5T0l0c3JEd2dEVDFIYm1nek1PTUY1dEpHTkE4Ry00SEtiRFI2M3VEWEltS3lLV3JDS0R1YXdObzVISHlHNjZBbjNiTHNUSllWcWE?oc=5"
-  },
-  {
-    "id": "gl-nju07",
-    "title": "China's solar technology plan signals new phase in global renewable energy industry-INP - Independent News Pakistan",
-    "summary": "China's solar technology plan signals new phase in global renewable energy industry-INP  Independent News Pakistan",
-    "source": "Google News Global",
-    "timestamp": "2026-11-10T11:49:37.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYWFhdzlfSk00MnVrUGRMSi1SRjlNcVVUeUtFWDRUc25FanBoVzdkWXNOMVhPTXp1VUJoaFFzdldjWFBUaVk0dmVSOTBKWnR0T2daZWFhSzJDSHZVOFNKV2ZBWUdfLVBKdVZkN0gwdjE2Y0F1cW5XemcySUpiUnZsTFh0VUdiQkxqbnIwMzRKU09BVEtEWjkxNjN3VlY4T1RqTmpxb24zVFJxUzQ5RVE0dkZxQlhhMGFQTUhfbk5JQVRqeEVuY2NfZE9RdldFQQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU20xX29BN3lNY2ZLNURGNTVmeUpFclg1THZkZ3ZkODg1TFktWlR5WFRDSTNLQWF1aENYZWxsZ1FiWmJ3RXFodDlmOW1tWTNKOFZKZ0hKd0VUSEdweGMtWGJxMHA3OHE0MDFVak41X0p4eGExU3hLbGNlT2Jmb0lHakl3Y2FnU0tiYnJFcWlNbUhQYXQtemd2VW94WU1NdDBCUlZXN1h4VEkyMU9fTVhyRTFVOUtVNnlpcHFsbkZMZVo5NG5IMFNzS3hTalItSUJuRDVGZWpSeUNuNy04a2xmUUZsSnNPZ0dtenkzRzNKUVJLWDFISmc40gGEAkFVX3lxTE5LOTNxbzB0ZU5ER05BOHp2Sm8zVGstM3IyeGM5ZUd1OTk4cWI3ekxZQXNSMjV5RDYxV2VZWWRXeE96dDY4dWlzZXM3RkNtUXpORmc3VE1JSUJCeTQtV2tfSHg5cEg5dWxyUndxTGdwcC1uOXd2dWFadFBuWjFYSkF4T2ZVMnZETmtzSFRwR04xTTh3TTNOUmFYOUh1SGtnVlAtRXhNN2x2REpWaXY2NGNaY1hMVnBUV1Jla1Fjc2xCVS05NXA0VWxjLXpmdnNTeUlRR21LajVBUTR6aGZiUTgtb0ZxNS13Yl9Gak41UGNXZ2NsdEowbkgyZ3Job2ExUDgydDlF?oc=5"
   }
 ]
