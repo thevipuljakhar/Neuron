@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-8ac19",
+    "id": "in-062op",
+    "title": "How India’s lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals",
+    "summary": "India has banned lithium-ion battery black mass exports to retain critical minerals such as lithium, cobalt and nickel for domestic recycling. The move aims to strengthen local processing capacity, re...",
+    "source": "LiveMint",
+    "timestamp": "2026-11-12T18:25:35.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/how-india-s-lithium-ion-battery-black-mass-export-ban-aims-to-reduce-dependence-on-china-for-critical-minerals-11794503013290.html"
+  },
+  {
+    "id": "in-f5eia",
     "title": "Power shortages push discoms to costly bilateral deals",
     "summary": "Amid severe power shortages and record-high electricity demand in India, discoms are increasingly turning to short-term bilateral power trading rather than relying solely on power exchanges.",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/energy/india-power-shortage-discoms-bilateral-power-prices-11794453947159.html"
   },
   {
-    "id": "in-ipf2y",
+    "id": "in-sv88e",
     "title": "Oil prices, rural stress cloud outlook for consumer goods makers despite volume growth",
     "summary": "Rising input costs, led by a 34% increase in crude prices, forced Indian consumer goods companies to choose between protecting margins and sustaining sales.",
     "source": "LiveMint",
@@ -20,47 +30,47 @@
     "link": "https://www.livemint.com/industry/retail/oil-prices-rural-stress-cloud-outlook-for-consumer-goods-makers-despite-volume-growth-11794281021264.html"
   },
   {
-    "id": "us-3ukkj",
-    "title": "Power prices in largest US grid rise the most in recent months, Hitachi Energy data shows - marketscreener.com",
-    "summary": "Power prices in largest US grid rise the most in recent months, Hitachi Energy data shows  marketscreener.com",
+    "id": "us-1chme",
+    "title": "Watchdog Rebukes Largest US Grid Over Data Center Power Costs - Bloomberg.com",
+    "summary": "Watchdog Rebukes Largest US Grid Over Data Center Power Costs  Bloomberg.com",
     "source": "Google News US",
-    "timestamp": "2026-11-12T12:01:41.000Z",
+    "timestamp": "2026-11-12T23:55:49.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU214Q1o3bDVwbHFYRkRlT3V5MFpjbXlMMnZWeWV2c1pxZDZKU01lZHBDNUhVaHFKT0ZQVlVXYnpxWDMtd2JMZmcxZ0lGQkxUYXlsZ1RpVXJTZDE4Z2pZd3BBT19QT0ZvWVpjY2tVeGxBQXJudC1vX2lkNkZ3MzQtTk9TcGtWbVlpWUVVTFY0R0NkYWVpU3Q0Z1JHOF85dFdaTS1SbVo1RnEzR2pRWFIyc2ZNZFhCRTlmVy1VZjdzTGVFYjRHcGpQNUw2bEhJdExoSzNZalctTDc?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMTFDTjR5RW1IQ0VrdXY4YkdWRkotUEN6R0dLU21CbzI5QUliUmNCTE1wbU05czlOTEpGd2VyaUZjRW51MjJZWVViVXgzaGFlVVQ3azZoX2Z2NGFDelZsM011YklqNzNOZHhVb1FjS01hZ3pDUmhhSUNES3BRUTAxcjE2Tk5oTDRKM0hqSVB5T0pZYk5WZWxqam00dzZsNWFXbHlEZ25ZSlB4dWoxYWUyOGRMYTF3NlFIR2hmLVNXNmVwRjZiNVN1cXJNa29tMmdQ?oc=5"
   },
   {
-    "id": "us-2oee9",
-    "title": "3 US AI Infrastructure Stocks Backing The Data Center Power Buildout - Simply Wall St",
-    "summary": "3 US AI Infrastructure Stocks Backing The Data Center Power Buildout  Simply Wall St",
+    "id": "us-oib5q",
+    "title": "SpaceX Plans $24 Billion Gas Power Plant, Data Center Project in Texas - EnergyNow.com",
+    "summary": "SpaceX Plans $24 Billion Gas Power Plant, Data Center Project in Texas  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-11-12T03:33:38.000Z",
+    "timestamp": "2026-11-12T22:50:05.000Z",
+    "region": "US",
+    "category": "Fossil",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1pFWDRhWTAxOEwtZjVzbWFMaE4ta2hTWktOWlRLTTJNMko5UEVFalFjenZNc3lRZ0RqM2xMaFhOU0RoeFFFeHFITVhGcXZJNGpkNjcwS0FRamVNUUt1Z1RLek9IZ291T3oyTkRZM1JyVUg0Tm5uTGNOVnVQYjk5YW1QbFo1cnFSZ3h3MXBoQk1iX1VNVlVSd3l6UzN3NkxO?oc=5"
+  },
+  {
+    "id": "us-8ejx3",
+    "title": "Electricity grid watchdog warns of higher prices after delayed PJM market reforms - Yahoo",
+    "summary": "Electricity grid watchdog warns of higher prices after delayed PJM market reforms  Yahoo",
+    "source": "Google News US",
+    "timestamp": "2026-11-12T22:24:03.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQazduME9QNWpmblI5cW4yMXlPLW0tSEs1QnBjVWt0SHdCQW5UQl9sYzRBNDdMZEtGdnU2VGRsci1NdFp3UVNtdTNlYnpmNERfNnk5dzJIVVk0UkFCZ3AyR056V1ZFVWNQS0JmMHdHQThJSEhXZXNpb2pWVFhXVnZRTEstZ0NCUmVNRmMzbmR4ZFNNWUFUZXBaeGt6dXVydGNRME1vVXJYQU0yOFZsbmQ4cjVsUUNiU28yS3BBNGNTcE1HbC1iYU1MRUhBeXhmRnp4WlMw0gHYAUFVX3lxTE52Yk1FamF6djBqWkxPZW82NUdMLXJfS2VESDhKT25HemFIbUhxNDhQSG9QQVB6U3ltSGhJS1Ayem1vVDhyOE1nMERlQnBfY2hFNVpfV3hBbHhuZXpUcFNraGhrRjFsdl9QLXlrbEVPakUyWEJqd1ZTMWg3al9yekFvSXdwY1JiX1VHRGVXN3lZLXhyZE93QVVDTDdDZnF5S2piWkNSLTg2SmxrQXQ4STRUckhmZk4tZTBNSjRrMWY1U0NMOV9jdGliT1FjRkRRcVVOR00xcEhFeg?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3VXTGlVZExaZnpzd2t4d2o4Mi1QV0xiWHptRnFmX3o2WU5HLWNvWDZheHMtNllIOWpreWZRdGM0X0gxM3dpaEVyeWxKRkZ0cGIzTVo0R2pTRjNZRVVzN2NNZnNTM01jMVJXRjhDVHB3Rlo3N2xwcjYwcEJpbDZIQnRDTmx5aEkxT25VMUZFNGpyaHlmaFRv?oc=5"
   },
   {
-    "id": "us-lfqcp",
-    "title": "A Texas grid operator wants the power to make data centers cut usage before grid emergencies - Quartz",
-    "summary": "A Texas grid operator wants the power to make data centers cut usage before grid emergencies  Quartz",
-    "source": "Google News US",
-    "timestamp": "2026-11-12T02:55:40.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yUV95NjZoZTZWZjljX29TNF9tZ1BfNnFSNnQ3aVAta2YwN2tDelhReGQ4QTJ5cFYxVUZMNHRSTlNCVFpWRHJGOGZOTjM1OWJQdkJ6OXctV3BmaDljNFBIbFRoVXgyZFNUVkdOU1hzbjBUYndSczJra3RR?oc=5"
-  },
-  {
-    "id": "gl-gkt34",
-    "title": "Renewable Energy in India Saves $100 Billion in Imports - Urban Acres",
-    "summary": "Renewable Energy in India Saves $100 Billion in Imports  Urban Acres",
+    "id": "gl-4s43q",
+    "title": "Energy security needs action on electrification — International Renewable Energy Agency - The Edge Malaysia",
+    "summary": "Energy security needs action on electrification — International Renewable Energy Agency  The Edge Malaysia",
     "source": "Google News Global",
-    "timestamp": "2026-11-12T09:47:53.000Z",
+    "timestamp": "2026-11-12T19:08:38.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHVRR1A0RVRiMmRDTjZReDhOdmdvWDBDZmlBdC1QcF9Wb1dpVGlSaWlJV1E2VFJoNWp2Vy03c21CbjRWdWI1UGYyZTFfR182akNVRlh1dGVzRzZFSHpvMjJvYVE0VWEta250MTlzS3FFcUlFQTFENFAxX0FabDVneUY0U0pQckU?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53YjQtV3IxOEpxTzNfVGNXWG1mcnFhOWtMSUR1X3dWcE5kOV9pUGJoaDA2eGNXMFJhcGg2YzI3bkdDRjlLNjFBYlBUaDRFY2dU?oc=5"
   },
   {
-    "id": "gl-vb1gf",
+    "id": "gl-wlhp7",
     "title": "Moneycontrol Pro Panorama | Will India’s renewable energy boom create global champions? - Moneycontrol.com",
     "summary": "Moneycontrol Pro Panorama | Will India’s renewable energy boom create global champions?  Moneycontrol.com",
     "source": "Google News Global",
@@ -70,7 +80,7 @@
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT1BMdlo0QlRlM3JyWGtWOW82ZUJSMkptb01rd0pWVzFxOXpXcUFHUW9iSWhLeWF3ZUVOSHp6SGlkc0lFRzJ1ZmlLMGRnNXJXSVgtS1l0NTNSNUtmdHdJVHE2VjZqckoydFdHX0M3U0pVbWRIM3JPejJwRVRrdTBRRGlDUndWRWk5MnJhN01zcGRmand4QnFlOWlWZFJmcmU1QnAxWUhWX0VUVkRSYzVyZnNTSTg5QzEwZnZuWkszZ0R0MFN0SV85enZzZVdncWI5LTdaRUwzbmpXQTVHMEhRbkhjRdIB6AFBVV95cUxOUjI1U3VTYVR6c1dCNHRuSExhMDl4enBJYVRZMjhRUUhYVi1XUDdjdDJZd0FXUVVNTC1ZR3NWdlFfNTQ1Q1NkUmZfRUh1bldnWWFqUGRZVlh0SGFWMC11RnhodlBOV2c5ZkR6ZVNmOHpVUVJYbWpOVjVrZHVJSkxiTmRjRDlaa3RKbUljUDViQU5Xc0xHSEU2RGpZY1p2TS11UUdCZkxGWmxGSkx2YVk0OWd5Z2hCVzAwVFY4T3Rrb2ZCeFBZcEMwZTAwUkhBTnNmcGotWUVyekVYSEdaNS1XXzdlbjUwX1BR?oc=5"
   },
   {
-    "id": "gl-r9c6t",
+    "id": "gl-s4lgd",
     "title": "India saved $100 billion on fossil fuel imports in last 15 years with green energy push: IEA - Business Today",
     "summary": "India saved $100 billion on fossil fuel imports in last 15 years with green energy push: IEA  Business Today",
     "source": "Google News Global",
