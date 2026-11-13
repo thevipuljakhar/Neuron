@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-1a90g",
+    "id": "in-lmdeb",
+    "title": "Why are SpiceJet flights being cancelled across India? Financial crisis, airport dues and crew shortages explained",
+    "summary": "Airport authorities have restricted the financially distressed airline's operations over its inability to pay mandatory charges for using airport facilities and services, according to a report",
+    "source": "LiveMint",
+    "timestamp": "2026-11-13T18:42:28.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/infrastructure/why-are-spicejet-flights-being-cancelled-across-india-financial-crisis-airport-dues-and-crew-shortages-explained-11794584173566.html"
+  },
+  {
+    "id": "in-4428x",
     "title": "How India’s lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals",
     "summary": "India has banned lithium-ion battery black mass exports to retain critical minerals such as lithium, cobalt and nickel for domestic recycling. The move aims to strengthen local processing capacity, re...",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/how-india-s-lithium-ion-battery-black-mass-export-ban-aims-to-reduce-dependence-on-china-for-critical-minerals-11794503013290.html"
   },
   {
-    "id": "in-fvqxj",
+    "id": "in-ac8ya",
     "title": "Power shortages push discoms to costly bilateral deals",
     "summary": "Amid severe power shortages and record-high electricity demand in India, discoms are increasingly turning to short-term bilateral power trading rather than relying solely on power exchanges.",
     "source": "LiveMint",
@@ -20,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/india-power-shortage-discoms-bilateral-power-prices-11794453947159.html"
   },
   {
-    "id": "in-8jr2i",
+    "id": "in-2bj6k",
     "title": "Oil prices, rural stress cloud outlook for consumer goods makers despite volume growth",
     "summary": "Rising input costs, led by a 34% increase in crude prices, forced Indian consumer goods companies to choose between protecting margins and sustaining sales.",
     "source": "LiveMint",
@@ -30,63 +40,63 @@
     "link": "https://www.livemint.com/industry/retail/oil-prices-rural-stress-cloud-outlook-for-consumer-goods-makers-despite-volume-growth-11794281021264.html"
   },
   {
-    "id": "us-hudph",
-    "title": "Why Won’t Congress Unlock Cheaper Electricity? - Bloomberg.com",
-    "summary": "Why Won’t Congress Unlock Cheaper Electricity?  Bloomberg.com",
+    "id": "us-8ah8c",
+    "title": "Texas Has A Power Grid Unlike Any Other State, And AI Is Exposing Its Biggest Weakness - Yahoo",
+    "summary": "Texas Has A Power Grid Unlike Any Other State, And AI Is Exposing Its Biggest Weakness  Yahoo",
     "source": "Google News US",
-    "timestamp": "2026-11-13T11:30:03.000Z",
+    "timestamp": "2026-11-13T15:47:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb09saWhTZ3lybTlLX3lTR1RQY2M5UGsxb00tUC12eEdtcUlaV2dtTS0xdzV6MVVnUGh2SlY2alBuN2dBb1BBa3BuR1NRMUJ3cThuVlA3WUxpZGdhb2pyOVNiOXVjYnRvT0g1VnlGdlpSc0prNEJ6WDdlQ2FZbjc5Z05WQ1A0MC1pUXZ1emh2QlhkV28wZmZxd0NYOFdJZWpH?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTJLV2F4dFdsbk9Na2xqUDZPak8wdmdfREZTUFZ2OW9TZ2R1Vng0QTNyY3NIeWR6bzUyQW1LLTl5UXZ0a0FsR1FFTFctWUZXaFVSd1JhQlhIN3R4LXJramRtSkVHcGZzZGhPdWtROTY2Z196MmJRZXdHOXVXR241Z1hPdC1QNWxEQzFJ?oc=5"
   },
   {
-    "id": "us-xermz",
-    "title": "What Happens If All the Lights Go Out? This Is the Plan for a Black Sky Event - Energy News Beat",
-    "summary": "What Happens If All the Lights Go Out? This Is the Plan for a Black Sky Event  Energy News Beat",
+    "id": "us-mcync",
+    "title": "New Research Shows DERs Could Avoid More Than Half a Trillion Dollars in U.S. Energy Costs - PR Newswire",
+    "summary": "New Research Shows DERs Could Avoid More Than Half a Trillion Dollars in U.S. Energy Costs  PR Newswire",
     "source": "Google News US",
-    "timestamp": "2026-11-13T06:44:22.000Z",
+    "timestamp": "2026-11-13T15:01:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWnVKYjBoeEM2bVJ3eGpfMDY2WThKclRpbFI1YlVENlJzRjUtaFpndUFLZ05qcXNpRmtkT3R5N3k5Y3dLNmJldmFZZTRDRmVsUmlEeDM2MHRBOXVlc2V6VHJJZXoyYkNrRjFKN1JfSkE2cHFzcUR0aHN4MFRoWmtpLW5sdndmeG9YeF83T3RvQ0RFZWhkRkRGbmVHb2RDb2pOdEhsZzZGZDZpd1k4Z0h3RHlfRFVCZDdOZjJ2QUpzUUJGVk0?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0tQbFlkb002R2luNEVjU2dFclVydEpjcXNDbEQ2NVc3aXlZbUVtNGhoMGNYbi1GSVpkUVdHR1lHMEhlOGVVczM4NXZHWlZwdDllY0thWDZ5VUU3ZFVjVUI1SWlzRG1WWXNnNXBfbnFVM1Q0ZnBjV0xwekVIRjUtQVI5T3Rjc0QwWFJlN0x5N1JnWnAtWGZETUJZMzl0bXlVZ191bkJTbDlMTXRINHdmZ0JfdnZ5ckREenRpMFktdW1OV2NjUURMNHhxdXN4aGVmUTlOUzd5STkyUzJj?oc=5"
   },
   {
-    "id": "us-xj24u",
-    "title": "Why Isn’t the U.S. Building the Power Lines It Needs? | Newswise - Newswise",
-    "summary": "Why Isn’t the U.S. Building the Power Lines It Needs? | Newswise  Newswise",
+    "id": "us-lw9sc",
+    "title": "Climate Advisers director: The U.S. needs a clean energy standard for AI data centers - Fortune",
+    "summary": "Climate Advisers director: The U.S. needs a clean energy standard for AI data centers  Fortune",
     "source": "Google News US",
-    "timestamp": "2026-11-12T22:50:00.000Z",
+    "timestamp": "2026-11-13T15:00:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDE2bHVuX1p1TjcyUGtwMXA3VmR3VDh1eVBGWlpnek9nM3JHVlVwWGJ1YjF2U3NxZFdaYkpJd0ZvRFNXdnBFbkNfQzQ5YmtOVERWaEdBeUI2THA3YkZST3QwN09zODVfMUVSSG1jbVpKeVV3SFZwSjh2WGRoOGIxc055ZlIyZWt5M01STjh30gGOAUFVX3lxTE9MMTZsdW5fWnVONzJQa3AxcDdWZHdUOHV5UEZaWmd6T2czckdWVXBYYnViMXZTc3FkV1piSkl3Rm9EU1d2cEVuQ19DNDlia05URFZoR0F5QjZMcDdiRlJPdDA3T3M4NV8xRVJIbWNtWkp5VXdIVnBKOHZYZGg4YjFzTnlmUjJla3kzTVJOOHc?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWlVtMWEtRVc5aHlYYlBld3QxU0Itd255RGJOaWhLbktNRVNaWGs2SlJjSE82OGU0dTlLZkdpTXJpSEVJRnNIUlZSUVlwR0hwc2szaHQ1dTZOSFI3TUNmS2xHRnFEeGoyOTF4MFc4Yk5ITEszdUJOWjlXRTY1bl9fa1ZmLWl1THh4RUtqMDgxbWFqanRGNmRpLUFpdWY4MlBFOUhXN2RnNW1pTFZUdkFWZw?oc=5"
   },
   {
-    "id": "gl-h7njp",
-    "title": "India’s rapid renewables growth is strengthening its role in global energy markets - IEA Report - The Times of India",
-    "summary": "India’s rapid renewables growth is strengthening its role in global energy markets - IEA Report  The Times of India",
+    "id": "gl-emp3t",
+    "title": "Electrification crucial to global energy transition - The Manila Times",
+    "summary": "Electrification crucial to global energy transition  The Manila Times",
     "source": "Google News Global",
-    "timestamp": "2026-11-13T10:43:00.000Z",
+    "timestamp": "2026-11-13T16:01:00.000Z",
+    "region": "Globe",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS09OeWhHS3hRWHVUUkxLRV92YVp0MHBvbzI1YzA4YURmQm9TOWVXWnZpeDg5VVlWUDRGQjRMdHNhWnFraF8zQkFmNDZfOXNLS08yVzdtUFhXajU4UDJkQks5WC1pdzZLT3BSWjI3YkFSUFRtT1hEcE5pQkt0eWcyMHZBeV9pMzk3ZVNqQ19FRWVHNTZmakRMM3JndEFrRDJfTFRQSmJkbDRmY3k4cUdKNG50NWV5ZFVQdUNlUDJxdmYzektu0gHKAUFVX3lxTFBVS1JOT3Vod0pYQXVxZVhDRjNMNTI1dlp4YjNLZ1pqdVZjakpYVFc4em1EX2ZwSG1vVVVIVGFPa2hjRUZkSFNuTzhRZFJnLWpmN1ZKQVdMeDdQRVBQV3NiSS1IZ1FQREpXSFNnQXpNcDlIZTJNS2hKZDZOUkRXYThtYWZGMFUxNXp1MXh2S3RZbWQ2dzV5N2pIVHdrMXVsWG4xc0F3cHFheTA0TGc4ekdjUTlWZHJxLWhjZ3JUNGc2VDh4Nnhna1lsdUE?oc=5"
+  },
+  {
+    "id": "gl-kj519",
+    "title": "Masdar, Citaglobal and TIZA Global Mark Start of Construction for Floating Solar Projects - www.renewableenergymagazine.com",
+    "summary": "Masdar, Citaglobal and TIZA Global Mark Start of Construction for Floating Solar Projects  www.renewableenergymagazine.com",
+    "source": "Google News Global",
+    "timestamp": "2026-11-13T16:00:45.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTXRjUF9fV1FNaTRtbEtMOTZveWFDT1hNNi13Y1Z6SFVyNC1NN2JGX0IyYXNxRXVMVjhfZEF4YUNfdmhpd1RGXzRseGxsUEZON3ZiY2dZNk5jZGxEc3FwOE1VazNWeXdaT0lnTFZMWUNEbmVsUTN0Skw4SFBxdm5LWl9fczdoVzNSU09vcTVrWGFWUUZ1VzNQR2Zoa1I4ZTRTSFAxeHk1LTFrUjBQaUFDd2pPWFJSVlZLVllCMjlGanEwaVZpT1A5Nkxna3VVNGdwNTZFSVJRM21IekhCdmZjSUl3dkYxdVB1OXUxajRPeVZ1SGZCeE5KM09OaGFyWFV2TDU1RXAwOWLSAY4CQVVfeXFMTjM3Z3lkZ0cwWk1fZFk0WnEtMTBwbGhQdjh2Z2tBdHZsODhSTk1MVmtoS1RHMlhDQlRFNlBtSG5Nc0R6RmlRWTRPU1hmSlhMeUZodU5UTGo4LVZNdXkyNExGVEVlWGg3QUVpbUhKYTFlbzdDS2ZxcjcxNy1TUHRRNFVTWXNHVVJFUDR6Q1FjVWlTY2tueFV1YldKUXoyMjViSXEyeGd4dEpobmoxSVI1YVZEcmlGaWh5SkE1UVdwZV9lRkxLc0lEUkZpaUJJRHUxdnJVb2pqX1R1TVJnV09qNjAxMC11NVlOUlFEWmhnUlpDM3dxaE03ZTJqMGhhRzVHUG5scmJENENnQ0dxZkFR?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHhvODBkRkx3ZXZmWmRUeW85eEN4a05qZGx3TzZYdUI3cWpJMm9maHc3cjdNalpLOXAyQWFWaWxobW8zQXFhN1gtMHNFN0xkeHFHcnpFa0QtNGF3bmVrSkZRUUVNV3B3UHdjWDdkWU9xMlFKaGNESm5SUVVsekpvMVpLZE5WUzdFTThCejJuMzVReW4yS2FZMFdIOURMTFNiTVJiRw?oc=5"
   },
   {
-    "id": "gl-38qkg",
-    "title": "COP31 in Focus: How POWERCHINA Projects Bring Clean Power to Grids and Communities Across the Globe - Press Release Hub",
-    "summary": "COP31 in Focus: How POWERCHINA Projects Bring Clean Power to Grids and Communities Across the Globe  Press Release Hub",
+    "id": "gl-qi3dw",
+    "title": "COP31: Global wind industry unites behind declaration to accelerate clean energy - Renewable Energy Magazine",
+    "summary": "COP31: Global wind industry unites behind declaration to accelerate clean energy  Renewable Energy Magazine",
     "source": "Google News Global",
-    "timestamp": "2026-11-13T08:11:22.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeEFwclBNN2g5VjhYWGs1M01CazBLRjVTRGFvelBMU3ltNUdOd1ZxcTdNT3pCT283MjVhR0lZZ3dWZDlyUm43My1EczN2VlV2OUp0REdwNmJzaDZUMWRjU0EtcjAtdTZDRVBFS2hWXzJ6S0std2JYUXhMbENtaE1Rak85bkRndVBSc3IzVkZBd2o5UnR5dzFVWDlQZHFxY2JmM1MzUEdHb0xLRW5mNzU0RWx6RHRjeGI5YUJOX25BRlVHWTJrRlhENFdrTGpESk85UHJPdVJ0VVNZZFNOYTZuTHllVGc?oc=5"
-  },
-  {
-    "id": "gl-e1z4u",
-    "title": "China’s wind power sector matures - chinadailyhk",
-    "summary": "China’s wind power sector matures  chinadailyhk",
-    "source": "Google News Global",
-    "timestamp": "2026-11-13T07:01:27.000Z",
+    "timestamp": "2026-11-13T15:55:16.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMZnJocUFwbHJzNkhlVkhDV0tRRlh2UFhQRVVTYmhuM1o2eVN1SDlZdzhJS01aRDVYWEYtanFqcWtFWmVkaUV3QmFCaVd1bGx2eHMxbll2N1Y?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDl2RXVSZXVpc3poNHVsa1djWXhEcDJxZDIyR3RGTHFMUkdjQUlsNl9abE5CRVdTZzkycHRyWW9PU3ROXzJWMnZ5enM0c3Q1d2ltcWNQUWdLV3BOZTJEbnEtQks0bHZIeUcyWnNnTUFrRnBIUWhGRlhnR0FZSkxhZS1BNkdWTkJtVlN5eDlpUmY0OEt0Yk1SWFA0ZUg4MUpCUzRzbnNXdUpQZw?oc=5"
   }
 ]
