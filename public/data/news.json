@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-nqrfv",
+    "id": "in-3b7xg",
     "title": "Why are SpiceJet flights being cancelled across India? Financial crisis, airport dues and crew shortages explained",
     "summary": "Airport authorities have restricted the financially distressed airline's operations over its inability to pay mandatory charges for using airport facilities and services, according to a report",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/infrastructure/why-are-spicejet-flights-being-cancelled-across-india-financial-crisis-airport-dues-and-crew-shortages-explained-11794584173566.html"
   },
   {
-    "id": "in-egq7x",
+    "id": "in-x6l61",
     "title": "How India’s lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals",
     "summary": "India has banned lithium-ion battery black mass exports to retain critical minerals such as lithium, cobalt and nickel for domestic recycling. The move aims to strengthen local processing capacity, re...",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/how-india-s-lithium-ion-battery-black-mass-export-ban-aims-to-reduce-dependence-on-china-for-critical-minerals-11794503013290.html"
   },
   {
-    "id": "in-nq9tl",
+    "id": "in-0r7a5",
     "title": "Power shortages push discoms to costly bilateral deals",
     "summary": "Amid severe power shortages and record-high electricity demand in India, discoms are increasingly turning to short-term bilateral power trading rather than relying solely on power exchanges.",
     "source": "LiveMint",
@@ -30,7 +30,7 @@
     "link": "https://www.livemint.com/industry/energy/india-power-shortage-discoms-bilateral-power-prices-11794453947159.html"
   },
   {
-    "id": "in-f7hk0",
+    "id": "in-0rbj4",
     "title": "Oil prices, rural stress cloud outlook for consumer goods makers despite volume growth",
     "summary": "Rising input costs, led by a 34% increase in crude prices, forced Indian consumer goods companies to choose between protecting margins and sustaining sales.",
     "source": "LiveMint",
@@ -40,17 +40,7 @@
     "link": "https://www.livemint.com/industry/retail/oil-prices-rural-stress-cloud-outlook-for-consumer-goods-makers-despite-volume-growth-11794281021264.html"
   },
   {
-    "id": "us-1sjkg",
-    "title": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas’ in Georgia - Inside Climate News",
-    "summary": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas’ in Georgia  Inside Climate News",
-    "source": "Google News US",
-    "timestamp": "2026-11-14T09:55:00.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkVQeFl4UFYzQWRyUi1QWUhCc2FaeHd4NkxQdzV0Q3psQ3hOUG04bk9UZW54Qnk1bUNIdlljVkxpMWdKeHVuemVBc1hmVmdCYXROWDJIdFA1TG9vLU9WeEpWTVd4WUtPSV9xb0ZzTGxaazRTdnhSclZHWFBJNi0xc3Vibw?oc=5"
-  },
-  {
-    "id": "us-pkg16",
+    "id": "us-ima43",
     "title": "FIXX Energy Celebrates 5 Million American-Made LFP Battery Cells - Batteries News",
     "summary": "FIXX Energy Celebrates 5 Million American-Made LFP Battery Cells  Batteries News",
     "source": "Google News US",
@@ -60,7 +50,17 @@
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnY4MlQzazQ0RUJHY2xEbDBlc3hzNzNFdmdQa3pHTndiTFVSdmpJZFBlVTRpcjlkdmN0cGh1YXFMTzlpM0FhblhPS3BKUVAtYjFFR2x4ZXVzUWtiYUxsWUZQWEdrNHNJMktrY25JN0FqUDEtQnF1elBiMVdfdmxqU2ljMjV3X3JRMExic1JWc0R6UVpzUEE?oc=5"
   },
   {
-    "id": "us-zqjjf",
+    "id": "us-rwz0l",
+    "title": "Hydro-Québec may suspend power deliveries to U.S. as it faces pressure on water reservoirs - The Globe and Mail",
+    "summary": "Hydro-Québec may suspend power deliveries to U.S. as it faces pressure on water reservoirs  The Globe and Mail",
+    "source": "Google News US",
+    "timestamp": "2026-11-14T01:33:08.000Z",
+    "region": "US",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkYyeFRzUkRBWjhhTFJPeXdpZHpzejhpaEw4aDRaTGVlU0hPVDB6Z0tGRFBGNUxGb1BKTllURktQUmRpY3RocjRfeF9jc2JYUGNyaVMzTWlKTkk0M3R1RGRybjhRUUk0dFR6bHM0ajBvVmhkdkQ3OHhSblVIcndrSkl5REZ3ZENORFlIQU02OVpTcjA3U3FzbFp1OXh3UkF1MElicWtxTEdmSk0?oc=5"
+  },
+  {
+    "id": "us-fplbo",
     "title": "What is Volt Typhoon? The China-linked hackers found inside US power and water utilities - Nacionale",
     "summary": "What is Volt Typhoon? The China-linked hackers found inside US power and water utilities  Nacionale",
     "source": "Google News US",
@@ -70,7 +70,17 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTZ6dkZhOUNyTklTZEMxOXVzY1RuLUhiZ3E4bzJadDVwZ21Sc2xzWFd4V2lmbTMyajA5VGtjTTl6blh2UXk5TEIzTURubGs2d180S3JSR1gwN1hyQS1rVy1TR3pHVjJyMkZiYU9lVkhhTERoNkhTVXRVbkZjUFI1emtWcDdmUENLRUxscXBVenZQdHR3SkNSWVZiQ3N4SVV1Z1RTTFVvanBWaDNPckg2ZXZnNlQ0R2tkTk4w?oc=5"
   },
   {
-    "id": "gl-i0lth",
+    "id": "gl-rpn9n",
+    "title": "India’s renewable energy sector attracts $5.3 billion in July-September - BusinessLine",
+    "summary": "India’s renewable energy sector attracts $5.3 billion in July-September  BusinessLine",
+    "source": "Google News Global",
+    "timestamp": "2026-11-14T12:53:15.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVFlRjNpSW83M1RqUjNDWUx6Nm1IZm5aOTZqeVlaOFNvX08xdE10S1lzQTg5QUdDcjhtbDE0U2RVMUlzZ1hQUjBVYlc0cTNDYW1scFdnZnBUZC14ckxWTGhydjdDWGJBQkp0NHptRVI3VVlTVDAwZGtaU2wzQWh0bENUeXlOSWFfMzNlT2JLd3kxZDJ0T2NvX1hjUk90X1Q2VnJOZjUyT0hmY1JyazVkVjhEZXBjb0VOczZudjF3NF9sUkR0ekRtckFn0gHQAUFVX3lxTE8xQXA4UDdyOWZPaHdrVW5xVFl4U0F2RzlKbDJudGVmMDdWQ1BublpyTWhtZVNJS1ktV2NFeEFZNXNjLXByS1dIdUVudDVuY3NtbldITTJ4cGRaRWJFd2tMN045alpHdUxhcm12SEZBSlYxVVpRUGlKY1RBTDI5UHZOc1IyemJVNmdhM29Zc2dpTElzZlFhQzVud0lsOUw5SGFfWXdsWEdKQ3pON013RnAxeDMwTHduLW5ULW41MDJxNmVneWhZWXJwZGVsNnNrTjQ?oc=5"
+  },
+  {
+    "id": "gl-7ehh9",
     "title": "Opinion | China should share its renewable energy expertise - South China Morning Post",
     "summary": "Opinion | China should share its renewable energy expertise  South China Morning Post",
     "source": "Google News Global",
@@ -80,23 +90,13 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYjdrdk9iOVRXU3BWVGhxYzUtWVRoWkFVSm8tbXBwUjl2Sl9nRzlMNjFqU0FzSndBOHY1Vk5uZ2dBUkVwaTNRbndVTzdEc3NSNm9ULURoczRWVDJBZzJZWmZrWTVrQmp4c0tPWUE2NVVnazRBdHEwQUNBSFBBaDNCV0phbGtxcjZmWEpoZmZIWjBKbmQ4Z2hvX1FPVktTM1VsMzJUSy14RlMtVnZS?oc=5"
   },
   {
-    "id": "gl-d8k81",
-    "title": "Masdar, Citaglobal and TIZA Global Mark Start of Construction for Floating Solar Projects - https://megaproject.com/",
-    "summary": "Masdar, Citaglobal and TIZA Global Mark Start of Construction for Floating Solar Projects  https://megaproject.com/",
+    "id": "gl-9a1rf",
+    "title": "Electrification crucial to global energy transition - The Manila Times",
+    "summary": "Electrification crucial to global energy transition  The Manila Times",
     "source": "Google News Global",
-    "timestamp": "2026-11-13T22:22:36.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmxhZmxNQ0RidHdhQl9ZUFZKLW1Ob0NaaGo5c2JwbHllTlVMbW4tcU11UkJEcThjVnU5MlhDQmtXODhhNGg5eTk5OWRIVmlsYW90azBYY1lJdU83LS1pcTc1TkZUUEtMb2dkQzY4SkJnRmJtdnZWSnFNcW9nLWNCSXJGOGFzMXR3dWV3Uzh4WE9JOE5vaDlYVjN6b2Zna0NjRzRNazE0TGZ0QVFxbm1vLVMzbWVNYTB2NFhfSkJvOTVFem9mS2NN?oc=5"
-  },
-  {
-    "id": "gl-jv4pg",
-    "title": "COP31 in Focus: How POWERCHINA Projects Bring Clean Power to Grids and Communities Across the Globe - ACROFAN USA",
-    "summary": "COP31 in Focus: How POWERCHINA Projects Bring Clean Power to Grids and Communities Across the Globe  ACROFAN USA",
-    "source": "Google News Global",
-    "timestamp": "2026-11-13T20:10:38.000Z",
+    "timestamp": "2026-11-13T16:01:00.000Z",
     "region": "Globe",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jVHdvUnppYUhyR1ZhcWZMWHpjellTTHFfdDRGRGl5NW54d3JfNlI0VmFtbTAtRTkyeW4tREx0TnYtaEVmVGJwWG9sV2FwTjl1Ykh5dHRjNDBCT1Y1?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS09OeWhHS3hRWHVUUkxLRV92YVp0MHBvbzI1YzA4YURmQm9TOWVXWnZpeDg5VVlWUDRGQjRMdHNhWnFraF8zQkFmNDZfOXNLS08yVzdtUFhXajU4UDJkQks5WC1pdzZLT3BSWjI3YkFSUFRtT1hEcE5pQkt0eWcyMHZBeV9pMzk3ZVNqQ19FRWVHNTZmakRMM3JndEFrRDJfTFRQSmJkbDRmY3k4cUdKNG50NWV5ZFVQdUNlUDJxdmYzektu0gHKAUFVX3lxTFBVS1JOT3Vod0pYQXVxZVhDRjNMNTI1dlp4YjNLZ1pqdVZjakpYVFc4em1EX2ZwSG1vVVVIVGFPa2hjRUZkSFNuTzhRZFJnLWpmN1ZKQVdMeDdQRVBQV3NiSS1IZ1FQREpXSFNnQXpNcDlIZTJNS2hKZDZOUkRXYThtYWZGMFUxNXp1MXh2S3RZbWQ2dzV5N2pIVHdrMXVsWG4xc0F3cHFheTA0TGc4ekdjUTlWZHJxLWhjZ3JUNGc2VDh4Nnhna1lsdUE?oc=5"
   }
 ]
