@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-gdd0v",
+    "id": "in-e8uda",
     "title": "Why are SpiceJet flights being cancelled across India? Financial crisis, airport dues and crew shortages explained",
     "summary": "Airport authorities have restricted the financially distressed airline's operations over its inability to pay mandatory charges for using airport facilities and services, according to a report",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/infrastructure/why-are-spicejet-flights-being-cancelled-across-india-financial-crisis-airport-dues-and-crew-shortages-explained-11794584173566.html"
   },
   {
-    "id": "in-a5428",
+    "id": "in-x5ue3",
     "title": "How India’s lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals",
     "summary": "India has banned lithium-ion battery black mass exports to retain critical minerals such as lithium, cobalt and nickel for domestic recycling. The move aims to strengthen local processing capacity, re...",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/how-india-s-lithium-ion-battery-black-mass-export-ban-aims-to-reduce-dependence-on-china-for-critical-minerals-11794503013290.html"
   },
   {
-    "id": "in-y6l2j",
+    "id": "in-uhtbr",
     "title": "Power shortages push discoms to costly bilateral deals",
     "summary": "Amid severe power shortages and record-high electricity demand in India, discoms are increasingly turning to short-term bilateral power trading rather than relying solely on power exchanges.",
     "source": "LiveMint",
@@ -30,47 +30,57 @@
     "link": "https://www.livemint.com/industry/energy/india-power-shortage-discoms-bilateral-power-prices-11794453947159.html"
   },
   {
-    "id": "in-lfh9x",
-    "title": "Oil prices, rural stress cloud outlook for consumer goods makers despite volume growth",
-    "summary": "Rising input costs, led by a 34% increase in crude prices, forced Indian consumer goods companies to choose between protecting margins and sustaining sales.",
-    "source": "LiveMint",
-    "timestamp": "2026-11-11T00:30:38.000Z",
-    "region": "India",
+    "id": "us-yex1j",
+    "title": "How a Chinese Energy Company Is Outpacing the U.S. on AI Power Technology - The Information",
+    "summary": "How a Chinese Energy Company Is Outpacing the U.S. on AI Power Technology  The Information",
+    "source": "Google News US",
+    "timestamp": "2026-11-15T16:30:00.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTlsNk9obzRYRlc2RGU5M2NfU0QycHljVTYySnd4eHJTUzRwa3N2Y2QzQmNWVm5RYnNlei1ybVJIZ3FTMG9RbV9PNkw0RERIcDRQSVMzNFYwX2ppWHVfdlg1WGc2amI4V3BLTVBvcktUeGtQREo1UVNqVjl5NUlVeDdvSHU4REtvSFZoVjVwclprVHppcVdzeDhXcVZfb0pRTWx4SGx5eERFZjhRM3lweWVYV0piX3JZ?oc=5"
+  },
+  {
+    "id": "us-semfk",
+    "title": "Zelenskyy warns Starshield restrictions threaten Ukraine’s energy defenses ahead of winter - ABC News - Breaking News, Latest News and Videos",
+    "summary": "Zelenskyy warns Starshield restrictions threaten Ukraine’s energy defenses ahead of winter  ABC News - Breaking News, Latest News and Videos",
+    "source": "Google News US",
+    "timestamp": "2026-11-15T16:21:11.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNl9uZkpmUmtwR3EyeVhnMXFJV0RGbmFwUzdMclRZU0VPdXZja3JhQlJWZXduSHYwdWltMXRpMlJsY1RlTDh6eTB0Y3VWZXc1Nm9kc2lFRU1iVmIwQUtUQ05ueWpXV2txV1VaV2laekduSldYcm1mQlN0aFVlZ0lMd2JOWmJ4S0VjTFlXcEFxaF92WG1sVlFZZklvQU53Ui1yUG5XM05zMEFfLXRma1EyNXFybk5Ka0RWeDdWQnk2bG1lWmZiNkHSAcsBQVVfeXFMTTQweTZDWmNUTHpkU2pBNU52aU1ObTZIbmRVTEdBQURLQ0h4MmdUUDFrbWtnUm5TZzY3cTEyVTJSeXRBamJlSENRQnhRY3o2T1VCY1Q5UFR6S2gyWVNVNFI0Qko0ZDNPcWhDV21LX2tvQkVoVUM3M25VZmZKZWJxbDNOSEZPeDBuSWZETnBRcXRwZXROclFjdXZ4Mm91RG9EZmRLc2VsWUkxNWdWdm01T2lkdnJZVGFxTm16U182QXAzbTR0UEtoQThuQkk?oc=5"
+  },
+  {
+    "id": "us-y631d",
+    "title": "Study finds US households could save $122 a year by 2050 with wider use of local solar and batteries - The Cool Down",
+    "summary": "Study finds US households could save $122 a year by 2050 with wider use of local solar and batteries  The Cool Down",
+    "source": "Google News US",
+    "timestamp": "2026-11-15T15:59:00.000Z",
+    "region": "US",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWGNCaHEzb1I2dnVCNmtDSHY0ZHNqSl9FMC1HZjVfY1FYUk93UWY1OHEtc2xLN0tRNnp2M0ZNbWNDTEhqalVVNk5Hcm00VjEwRWxBdFNGME4xSE5ReDZ5bnNRR1VOenY1UTJzSDBsZFpNXzdHVTBmbFJPSEdjeWlnOGZHbVQ4a3VBbWZNbnpMOA?oc=5"
+  },
+  {
+    "id": "gl-i50q0",
+    "title": "Global pledge targets twelvefold increase in geothermal energy - Oman Observer",
+    "summary": "Global pledge targets twelvefold increase in geothermal energy  Oman Observer",
+    "source": "Google News Global",
+    "timestamp": "2026-11-14T15:32:28.000Z",
+    "region": "Globe",
     "category": "Fossil",
-    "link": "https://www.livemint.com/industry/retail/oil-prices-rural-stress-cloud-outlook-for-consumer-goods-makers-despite-volume-growth-11794281021264.html"
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmFJTThrcE5GdnpLWjYtVVJuclpMS2lncFpKQkhtNmpDTGNybVRHdS1DRVdFamRkOENaZS1TYnRQSG9UeEphZlVzamhaUjJnZVV4cW1ZM3pSZExEdEVmcnNNa1NMam1jaEpaTV84TllzNUhYUnh1RDBGam5xbU1jT2hWOEhaSVVDemZRWnROMGpiZlpkN25qYTZ6VnZMLTM0XzMxUV8tSHYwQU1RZHo1SDNjNXFSZDhaTjV4aHlDWTjSAVpBVV95cUxPV05wTUtUREcteFgyNXAxMWwxTzFRN2NyYlR0WEZHSllUY05MR3hJbHdITDFUcjB3M0JVbEY4N044X2w4WW5GWERrTWF5NUN3OEgxcXY5cUxtelE?oc=5"
   },
   {
-    "id": "us-f21vj",
-    "title": "Where The 2026 Election Could Really Change U.S. Energy Policy - Forbes",
-    "summary": "Where The 2026 Election Could Really Change U.S. Energy Policy  Forbes",
-    "source": "Google News US",
-    "timestamp": "2026-11-15T14:53:13.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ20tWlp1M1Z2THdiVW5SWDJ2Vnl0Y3k2SHBHRVd6U3BzeDBEbzVHREtuaTdnaHZOQ1RzSmx4TDdEQmw1T0xFa2xsZ1BqRUoxRExsU1l4Ui14QUpBUXMtVTU1Ri1IM2Q1QTREZ2UxSTNPckE3TlNZdjFKeWxKdVJHbW52MUh5MGFaYUhLVC03emtGTEFJclBmOF93cGJKandwSjM1ekdnZjNzSVR3NVE?oc=5"
+    "id": "gl-al142",
+    "title": "Overcurrent Protection Market To 2035: Renewable Energy and Grid Upgrades Fuel Growth - News and Statistics - IndexBox",
+    "summary": "Overcurrent Protection Market To 2035: Renewable Energy and Grid Upgrades Fuel Growth - News and Statistics  IndexBox",
+    "source": "Google News Global",
+    "timestamp": "2026-11-14T13:26:04.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS040X3ZLMmpQVUlJbWpiT2JPTUxzNm5iVjhVMllSLXVvSEU3U1pmVXZZMUo3alVrcWJEUTFlSzc1VzZCakhYc1VzV19tMWlrV2l1bmhIeWs4QnlpU1NCOUtveUFUenVYTERUZXo3YW5PX2dOcTNZQ1hBeHIzb01NS3d1RHVaUGVURy1GcWFOc21BbUJYeVNkUmtnVlg1c2ltS2JOWmUtaDEtSjhpbnFDdFByemM2LXRlYWJ0aFdjS3FfN0tsbUhGYTRmMWVVYXhNUUE4c3c5YVR0b0FW?oc=5"
   },
   {
-    "id": "us-bnkdy",
-    "title": "A microgrid lets a base run on its own power; the Pentagon's 90-day goal leans on them - Nacionale",
-    "summary": "A microgrid lets a base run on its own power; the Pentagon's 90-day goal leans on them  Nacionale",
-    "source": "Google News US",
-    "timestamp": "2026-11-15T10:43:04.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUQ5cWlJc1FHTk9Fbk1EUWp3Tm1PUGJsWlhTLUp0NEZZRGVsd1ZIZjNqUE1fZEtxRmRzS1pTUUxGdEhpMEhJaDRaWlFGRV9qaGY1N3k1R0c0SHY2b2c4a3pwaEJVTExqYzVsZnpHWE9zMEk3cEVtYWQwVzB3RXZ0ZjI2UWRyNFhMZmpDckx0bGFKbWZMTGRFcC16eUhzYVFJdzVNbU5CeXFpMEd4WDN3QXRn?oc=5"
-  },
-  {
-    "id": "us-8qj6p",
-    "title": "What Investors Got Wrong About Liberty Energy Before The Drop - Simply Wall St",
-    "summary": "What Investors Got Wrong About Liberty Energy Before The Drop  Simply Wall St",
-    "source": "Google News US",
-    "timestamp": "2026-11-15T06:22:13.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVZ4WkN0LVl3d1pZcVVfVEFwRm9pVTBaaTF5UzcxYmNlOG1xWTctQUlyT00xaFA1YlRtbVJsekgzTk1NNUpNZkpGWXE1RmMtZWloeE1Hd2NBbUFPWW4yeGt6Zml5eUdTNkltMzZsUTdKcFRoVHZOLTNlY1JOUVB4amw3QmVaMDU3dENOQ2VfWnRZM2ZZM3YtbUd4YkJsbGNJOVZXR2pKcjB6TFZJbUpIS1BHQmVTSUNCak5zUDJ4aEtjU0NlNlFJbtIBzgFBVV95cUxOZy1vQ3hJM3lxbjdDUDF4Z3ljcHE3OEVhSk1uNG9PUGpyMThTbF9sRWo4dXNBb29Oak1BMVcxUk1wSXgwTk15cnEtNGRaSDhPWU5XT25PNVRudlNOR3Q4SjVfb3JXOGFDLU5LQ2xha1dveDFYRUU1aml1UFB6V1lHMkxjbDFqRW1sc19pei1UNHVnOVRLcXk4MGVOMjlhcS1OMlZtU1FQRVR0QVVZRnV1VEFPX1Zhd0FwSU92d3lCdUE3bERoYkd4MHpfVm1Mdw?oc=5"
-  },
-  {
-    "id": "gl-cmo7r",
+    "id": "gl-6xign",
     "title": "Opinion | China should share its renewable energy expertise - South China Morning Post",
     "summary": "Opinion | China should share its renewable energy expertise  South China Morning Post",
     "source": "Google News Global",
@@ -78,25 +88,5 @@
     "region": "Globe",
     "category": "Renewable",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYjdrdk9iOVRXU3BWVGhxYzUtWVRoWkFVSm8tbXBwUjl2Sl9nRzlMNjFqU0FzSndBOHY1Vk5uZ2dBUkVwaTNRbndVTzdEc3NSNm9ULURoczRWVDJBZzJZWmZrWTVrQmp4c0tPWUE2NVVnazRBdHEwQUNBSFBBaDNCV0phbGtxcjZmWEpoZmZIWjBKbmQ4Z2hvX1FPVktTM1VsMzJUSy14RlMtVnZS?oc=5"
-  },
-  {
-    "id": "gl-qrjrr",
-    "title": "Electrification crucial to global energy transition - The Manila Times",
-    "summary": "Electrification crucial to global energy transition  The Manila Times",
-    "source": "Google News Global",
-    "timestamp": "2026-11-13T16:01:00.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS09OeWhHS3hRWHVUUkxLRV92YVp0MHBvbzI1YzA4YURmQm9TOWVXWnZpeDg5VVlWUDRGQjRMdHNhWnFraF8zQkFmNDZfOXNLS08yVzdtUFhXajU4UDJkQks5WC1pdzZLT3BSWjI3YkFSUFRtT1hEcE5pQkt0eWcyMHZBeV9pMzk3ZVNqQ19FRWVHNTZmakRMM3JndEFrRDJfTFRQSmJkbDRmY3k4cUdKNG50NWV5ZFVQdUNlUDJxdmYzektu0gHKAUFVX3lxTFBVS1JOT3Vod0pYQXVxZVhDRjNMNTI1dlp4YjNLZ1pqdVZjakpYVFc4em1EX2ZwSG1vVVVIVGFPa2hjRUZkSFNuTzhRZFJnLWpmN1ZKQVdMeDdQRVBQV3NiSS1IZ1FQREpXSFNnQXpNcDlIZTJNS2hKZDZOUkRXYThtYWZGMFUxNXp1MXh2S3RZbWQ2dzV5N2pIVHdrMXVsWG4xc0F3cHFheTA0TGc4ekdjUTlWZHJxLWhjZ3JUNGc2VDh4Nnhna1lsdUE?oc=5"
-  },
-  {
-    "id": "gl-3b539",
-    "title": "AI and Clean Energy Stocks: The Diversification Trap - Securities.io",
-    "summary": "AI and Clean Energy Stocks: The Diversification Trap  Securities.io",
-    "source": "Google News Global",
-    "timestamp": "2026-11-13T15:55:47.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZzlUSnVOSk5saDM5WjRxRlhxdzg4NC1CaW0tUkNER3VTOVdRVzlLc0VvLU1hLTJPOHFGTmZhMUN5a3FfYU9jeTNvZzEwMHJQbkJfLWU5S2FSS2RKbHhYbmNydndjeEUzcE5mYldMTG1mc1VPTWREOEdXQ2w0ZGRSeUduVk8?oc=5"
   }
 ]
