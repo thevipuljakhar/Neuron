@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-0opgf",
+    "id": "in-bvrxk",
+    "title": "Airlines seek legal clarity on costs, liability, supply gaps in draft green fuel policy",
+    "summary": "With SAF costing up to three times conventional jet fuel, experts say the proposed mandate could sharply raise fuel bills, while unclear penalty rules and supply shortages leave carriers uncertain abo...",
+    "source": "LiveMint",
+    "timestamp": "2026-11-17T00:30:26.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/airlines-fuel-tankering-airports-aviation-green-fuel-refuelling-new-technologies-11794818706144.html"
+  },
+  {
+    "id": "in-61ard",
     "title": "Why are SpiceJet flights being cancelled across India? Financial crisis, airport dues and crew shortages explained",
     "summary": "Airport authorities have restricted the financially distressed airline's operations over its inability to pay mandatory charges for using airport facilities and services, according to a report",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/infrastructure/why-are-spicejet-flights-being-cancelled-across-india-financial-crisis-airport-dues-and-crew-shortages-explained-11794584173566.html"
   },
   {
-    "id": "in-pdpvc",
+    "id": "in-2zero",
     "title": "How India’s lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals",
     "summary": "India has banned lithium-ion battery black mass exports to retain critical minerals such as lithium, cobalt and nickel for domestic recycling. The move aims to strengthen local processing capacity, re...",
     "source": "LiveMint",
@@ -20,7 +30,7 @@
     "link": "https://www.livemint.com/industry/how-india-s-lithium-ion-battery-black-mass-export-ban-aims-to-reduce-dependence-on-china-for-critical-minerals-11794503013290.html"
   },
   {
-    "id": "in-zxr0z",
+    "id": "in-tj2lw",
     "title": "Power shortages push discoms to costly bilateral deals",
     "summary": "Amid severe power shortages and record-high electricity demand in India, discoms are increasingly turning to short-term bilateral power trading rather than relying solely on power exchanges.",
     "source": "LiveMint",
@@ -30,37 +40,7 @@
     "link": "https://www.livemint.com/industry/energy/india-power-shortage-discoms-bilateral-power-prices-11794453947159.html"
   },
   {
-    "id": "us-b8if1",
-    "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B - Utility Dive",
-    "summary": "NRG to sell 4.9 GW of gas plants to LS Power for $4B  Utility Dive",
-    "source": "Google News US",
-    "timestamp": "2026-11-16T17:29:20.000Z",
-    "region": "US",
-    "category": "Fossil",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2dXNTX3ozTm5DbFlSalNJM0dWMkR5MXpnRUpaTHl3V2UzNXpjejUxUDBvLU9FM19BLVJaTmZlWHNoZTdjYWk4OVlxN3BfWXNtZ2Y2X2NhZnQydzlVNkZRblk2TXlxRjZuRm94dldEczQxX1ltVC1hbWVwWExtMTg?oc=5"
-  },
-  {
-    "id": "us-tj4q6",
-    "title": "Permitting Bill Would Charge Data Centers Billions for Power - The New York Times",
-    "summary": "Permitting Bill Would Charge Data Centers Billions for Power  The New York Times\nJust 400 US Data Centers Use More Electricity Than Michigan  WIRED\nScientists Finally Know Much Energy US Data Centers...",
-    "source": "Google News US",
-    "timestamp": "2026-11-16T17:00:35.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUtuUVhUVjkxenZMWnZNQWx1OG9CbF8yT1VyZ1ZFOFJvTGpYSHZvaEVyWmJDWEV3bUNfMkpxOVV2OTczS011UEtkLWFjNDdqODFITVc4T1VFV0wzZy1rNTNkWGhGblVkaW5TcVEtdEkxWDJ6MUE2Y1pCVlRKS2hiNFZpVFhWQXItWFpWVU5QeXh4TFV5dFBLbWl3?oc=5"
-  },
-  {
-    "id": "us-hww1q",
-    "title": "Japanese Utility Takes Stake in Virginia BESS Project Serving PJM - POWER Magazine",
-    "summary": "Japanese Utility Takes Stake in Virginia BESS Project Serving PJM  POWER Magazine",
-    "source": "Google News US",
-    "timestamp": "2026-11-16T16:51:45.000Z",
-    "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXEtSXhtT1dkWmt4eTFqbFczUDlpSHkwRmxtejRDLTZBOWNRTkh3WUJ4Sllvcms0QVZscEpiVnlIOHBGejg0Q2NkelJGTGhOdlpYTThUSE9Ib1pMT1lZUzlkem03ZjBxZ0tjN1k5R3RiRUxNOGhfQ1EzWFVUNlRPazdWUkk2TGF3bXJUYVdqUnFSWFNYN0E?oc=5"
-  },
-  {
-    "id": "gl-013ph",
+    "id": "gl-wowd6",
     "title": "Enlight Renewable Energy and Shemen Yielding Real Estate Sign Agreement to Advance Development of a Data Center With Planned Power Capacity of Up to 150 MW in Israel - The Manila Times",
     "summary": "Enlight Renewable Energy and Shemen Yielding Real Estate Sign Agreement to Advance Development of a Data Center With Planned Power Capacity of Up to 150 MW in Israel  The Manila Times",
     "source": "Google News Global",
@@ -70,7 +50,7 @@
     "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPei0wWG80dnE0QWxoMFN3aVR5QjVLTjBuYzd0MU1CMkVYNUlMa28ySVBHcVZJeXhSZ2F1WFktSzljYTNtWkJrYmpsSzVIV19pRDkzQ2tSd0ZYSWt1SDlYeTNjRFF0T2NRdjl1OFQ4ODhSZElxeXJlSFc5SGVtU0o5cWpGWkRxczgzdlEtb2tyd3VVQ2hkdzdXZ1FWY2Z6eVNDbzdKR2VQLXRiMFUxZEoyTDd0cGpOMFJSQWI1cW1rYzhTNUpPeWNGVC1oMkpub0o0WXduTTZsdEVnczJMRkR5N2ZKVWxZSGJ1X0kxM1ZtcVRkYno4a3AxM1JoVF9nNEVOeEQ1SXBsRkxPcVN0Mng1Q3RoMlgyajRFQmhjRHBiZ0V3QmR1SUs3NGFfMjJYcmJNMGRPTnVfSFJsOFpkVmVnVG5PVVB2ajJRTERLRTRCSXFZM2pNXy10NFFOWdIB4AJBVV95cUxPYjZ0ZnB2LS13d1MxWnV5WEJfRm15c2F5blc4bnpXMG1ZY2l6NmxHenpaTHVkT2dGWmZPbE5uSUR1bUJONGhNMVFMVFY4azJKV3d4cjYtMEVTV1NMc0xNa1RoWEpOQmJERnNkZGk4VHE1a3ZfdHdjLVlGdTh2ODNlWnNIUkpWN0NPd0ROUkpSNEI2MkpWbGFnTzlHZjBFVE53eEhCd3pDNlJuT3pMamU2bk9tbGtOd0hxbVA0aUFiY1BrVV81VldqYzRnanZxWHlkWW84ZVBVenY4dW1BMno2MDhtcjI3WWNwWS1vSnZRV3lFRjJzUFV4c044V2R1blAtWkhuVlJGMUJGcTJKVjVRbEliMXNoOHA2cldnWkJ4aWJKLTAxY1phOC1XNkh2X3NKQ3M4WmV4a0VuX2h3dTZFakhvLXF0OXU5VENDZWg2YkxtMEE3OGVmSTkxcDd0Tm1J?oc=5"
   },
   {
-    "id": "gl-9rt5m",
+    "id": "gl-aszwp",
     "title": "R2R Green Energy Strengthens Its Position as a Flexible Solar Panel Manufacturer - EIN News",
     "summary": "R2R Green Energy Strengthens Its Position as a Flexible Solar Panel Manufacturer  EIN News",
     "source": "Google News Global",
@@ -80,7 +60,7 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLVRMbEE1dGdtVUViWTZ2bVdWcVR6RVpvVzFvNFFvVEdncnQ3SmR0N3lsY2tlM2Q5SUdzSHVkNmNzd0oyZ1JRZVZNSGZncGRhaWVpbU5zb1IzOEpMc0ZkNThmaDJXVlhTMlAxU09EaHNwXzJWbkFJS093X3l4MjRjMnQwZHdLMUhYQi15bzdwblIwNjNhdUUyNjNXRVFxLW9WMnp2amNRSkNhVU9sQktYR0lFcktRTzBMM3IzZERYcw?oc=5"
   },
   {
-    "id": "gl-p44ym",
+    "id": "gl-32ms5",
     "title": "India’s renewable energy sector attracts $5.3 billion in July-September - BusinessLine",
     "summary": "India’s renewable energy sector attracts $5.3 billion in July-September  BusinessLine",
     "source": "Google News Global",
