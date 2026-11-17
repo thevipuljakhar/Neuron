@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-fiaey",
+    "id": "in-b228e",
     "title": "Airlines seek legal clarity on costs, liability, supply gaps in draft green fuel policy",
     "summary": "With SAF costing up to three times conventional jet fuel, experts say the proposed mandate could sharply raise fuel bills, while unclear penalty rules and supply shortages leave carriers uncertain abo...",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/airlines-fuel-tankering-airports-aviation-green-fuel-refuelling-new-technologies-11794818706144.html"
   },
   {
-    "id": "in-06kco",
+    "id": "in-q1mbb",
     "title": "Why are SpiceJet flights being cancelled across India? Financial crisis, airport dues and crew shortages explained",
     "summary": "Airport authorities have restricted the financially distressed airline's operations over its inability to pay mandatory charges for using airport facilities and services, according to a report",
     "source": "LiveMint",
@@ -20,73 +20,63 @@
     "link": "https://www.livemint.com/industry/infrastructure/why-are-spicejet-flights-being-cancelled-across-india-financial-crisis-airport-dues-and-crew-shortages-explained-11794584173566.html"
   },
   {
-    "id": "in-15g0v",
-    "title": "How India’s lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals",
-    "summary": "India has banned lithium-ion battery black mass exports to retain critical minerals such as lithium, cobalt and nickel for domestic recycling. The move aims to strengthen local processing capacity, re...",
-    "source": "LiveMint",
-    "timestamp": "2026-11-12T18:25:35.000Z",
-    "region": "India",
-    "category": "Grid",
-    "link": "https://www.livemint.com/industry/how-india-s-lithium-ion-battery-black-mass-export-ban-aims-to-reduce-dependence-on-china-for-critical-minerals-11794503013290.html"
-  },
-  {
-    "id": "us-hjwbl",
-    "title": "As outages persist, Puerto Rico finds a way to help keep the lights on with 'virtual power plant' - Click2Houston",
-    "summary": "As outages persist, Puerto Rico finds a way to help keep the lights on with 'virtual power plant'  Click2Houston",
+    "id": "us-9nwh2",
+    "title": "Dems campaign promise to freeze energy costs faces glaring reality check - Fox News",
+    "summary": "Dems campaign promise to freeze energy costs faces glaring reality check  Fox News",
     "source": "Google News US",
-    "timestamp": "2026-11-17T11:15:49.000Z",
+    "timestamp": "2026-11-17T20:31:11.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSWJLVVlpblNodUt2eWJYZW9GYzgybGtaWFBfcDFmT0J0VlJ3SXphMkl2YzBLQmhCZjRNeG5DaTdLLWtBaERwTTU2MEVleXhGN282WlI3ZXVvLUJDNVA5WWZRU1l1Nmt5RWZZRzhaQnZDS0tYV2NJMzVDbzNiMDNsSERIN0luVW1QX1h0SmVRd1l1ZlZKZV9QY1Awc3YxQ0xJbmstOXlxWjlZTlN5LUtsT09TYlFtM3loTGNoOFE3Tm1Ia1M5ZlExRlFPSHRkazkybEczandRRUFDMEFGMkM5a3Y4emg?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajRsdzBGUW9jWDZpaTEtX2tDbkJYR1VHcnl1aFptMjhXSzZodU9iTVNfTFFMaG9OdlFURlR3dlZLQm16Qy11RG85R0ZBZzBUa2p0SlhQbU9NQmVBeWhjeDBGYkxxLVFsMXJST3IwVTlZRWFEcW5BeUxUeHdwTFkwbXBxeE9Cd0NjOVE1WFd6aG9MeHlKWlpQNmNFclZiMUg4eWNyLdIBqgFBVV95cUxORTQ5eG5tRTJ1bzBwYmNaRWlwTmpPS2d4VVYzVy1xWnFybEhMVm9fUkt3ZVZncnRhYzlZX2hUT0dTYTB3R183WmJOR0lUTVRtU0txS0M2VmZBdTZNZFk5UkxEQS16Qk9vajZPbTF4SmhubHE0NjNMTnZ4WVJDQ3gzWXFCdE90RXlwc2JRNjNfZDdYeFBWYUxHdGdVcmhFZEVKV1phWmd5T1lxdw?oc=5"
   },
   {
-    "id": "us-e9fi4",
-    "title": "As outages persist, Puerto Rico finds a way to help keep the lights on with 'virtual power plant' - ABC News - Breaking News, Latest News and Videos",
-    "summary": "As outages persist, Puerto Rico finds a way to help keep the lights on with 'virtual power plant'  ABC News - Breaking News, Latest News and Videos",
+    "id": "us-niggy",
+    "title": "Big US Grid Proposes Overhaul to Speed Data Center Hook Ups - Bloomberg.com",
+    "summary": "Big US Grid Proposes Overhaul to Speed Data Center Hook Ups  Bloomberg.com",
     "source": "Google News US",
-    "timestamp": "2026-11-17T07:05:34.000Z",
+    "timestamp": "2026-11-17T19:11:56.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHgxWTVpT05PaDBrRUtiR1N4b3NoVjA5VjZQajRiR01CLTQ2SmN1S3BoVHduSmRjWnR0YmdKNjhUYWhDUVdZMlUta3FfSXJKSU5yRmZHTjBYVEhzeHBZdzhXdDNRRnZrN3lrdzM3dnN4SllJZXJjcjZTaUU0OXM1Y3lHNnBzbWxJMGxUdTZDdHZsREU0MC1BelVydk9oMkNJOE41Q09n0gGrAUFVX3lxTE96eGxqeHc0S05vaDdFamdhM1kyVmsyWmUtYmxjRWhXZDlncjdXWElFVjhTYXhlM3FTR1ZENGk3bVZzN0Z5VExTeVVYaVVEc3FMUVcxMWxpMldWQlVFQzhyQWptY25SZGpzemw0aWxmWl9lYkF2aDNGMWpldGdRekRsbklfWEZTT1pIajhYcThhWjYtM3h4Q3hDY0FOckVPbXBsWktOX3dZcE9qcw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnN1YmNhUFRFdU5IUEdvNU1NT2xfSU9ISkoyOEQtSV9tMWJLeDJEZkROLUVURU9CNzFfcUdUXzl6alFVRnVKbG5ROWtSeW9zM0N3ZC1KNGNqaGcwWkhmVXdsWEd0SDRZdkFQcXE1eFFicGpIWDF3Y3pmZ28xMXh5djZpeF9iYUJFZTZqZnI1cHNfb2xuY0U3OUNjajhCTjFVcGktUG9OYWFzS3BWQXNKNGxtVQ?oc=5"
   },
   {
-    "id": "us-z1l2a",
-    "title": "U.S. Exceeds 200 GWh of Installed Energy Storage Capacity - POWER Magazine",
-    "summary": "U.S. Exceeds 200 GWh of Installed Energy Storage Capacity  POWER Magazine",
+    "id": "us-j5e50",
+    "title": "Can U.S. power grid be hacked? Could a cyber attack cause a blackout? - Delawareonline.com",
+    "summary": "Can U.S. power grid be hacked? Could a cyber attack cause a blackout?  Delawareonline.com",
     "source": "Google News US",
-    "timestamp": "2026-11-17T05:03:13.000Z",
+    "timestamp": "2026-11-17T18:27:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLWgwR3lvMFVFNFdEYl8wQXZpOHRYN3pWUkdCckg4dEtyQ3l0UXpfNlRhMHBoa1NxRUluQ18xRV8zN25KODNkekd2aFIwY0hYMnpNWlpRX1BVYS1hdGRmNnFieERCY084Y09udjJIYWlsaTFsQVZGYmVSaVRieXE1bTFZYkpBNGV4NlE?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNnhWbHlqWFpSVWkzX0QtWC05dHZPLWN0MzQ5MFp2dDVlMnVxam8wa3hWTHJGV2QwVnVuYUU4RVNiREZWUE1yN1RCYmdZX1doRGY1cDd0NjFra1daUmFmUEstZG9uT0xoVkRmMTIwYjV0NnNrSHd4enpObm5KRWZVQnNHdGhXMXR3N3E0NzZ1Z0RhMXNwSlZLZGQ3S2ItVEVnUk4yaHlDcF80YWhUUVBIT3Y3d2FGWkVjdS1aUmdPcDVKdnpzYURLZmhQLUFxS21PZC1DNEI1UjZSSi1CUEpFcjkwZllvQ2QtS0RoVV9JTVFUYUU?oc=5"
   },
   {
-    "id": "gl-cqo42",
-    "title": "Global Energy Storage Alliance launches at COP31, aims to address persistent energy transition challenges - Energy-Storage.News",
-    "summary": "Global Energy Storage Alliance launches at COP31, aims to address persistent energy transition challenges  Energy-Storage.News",
+    "id": "gl-weut3",
+    "title": "India’s solar growth: From 2.82 GW to 175 GW in a decade - DD India",
+    "summary": "India’s solar growth: From 2.82 GW to 175 GW in a decade  DD India",
     "source": "Google News Global",
-    "timestamp": "2026-11-17T10:05:41.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGJhR2swYV9CTkxUNFNYcDhNV1VGVGVwYUhoOTlDNVFtWmZCM0dQZUI5UUcxSC1lem43SndvVjdudDctWHI4bWQ2TDFmYlZ5a2xBQ1ZibmJRY1JFWXBxcjVQUzBheUJxS3F1N2NZVU9oT3VpbjFSNllINEpDRDBxbGtPMWlHdXp0cUhWR3R4ZVZrMVZJbWVMU21yeW0tRVl5dklIZlRtNkVmY3VfYV9kMEsxZzR0anlJSVlKTzNLazZJOUFTbzFVRTI0SE9pTlkxVXhB?oc=5"
-  },
-  {
-    "id": "gl-f6hjx",
-    "title": "Solar to expand Africa’s renewable energy boom - https://ippmedia.co.tz/",
-    "summary": "Solar to expand Africa’s renewable energy boom  https://ippmedia.co.tz/",
-    "source": "Google News Global",
-    "timestamp": "2026-11-17T09:39:55.000Z",
+    "timestamp": "2026-11-17T18:22:00.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWpfVkFpck11MjVDTEd1NENPNmVOZ0JGYW9VNnI1Vl9fQXc2bV93SGl2bkNLNDJoYTBmVWg0YjF5VFpPazkwY0lIbGxlNkZFVmNiQUg1aGplMkdYYUNDUUVFNkdfekl2OVpGLWFRNklGM0lOV2Q2U0g2dXJCd0JaWFpJWlVtN3d2QU8xc3QtdVZqM0NhQXF6empYUGhoTkVzdTl0NTlSVEVhZjBOb0s1ejdQdw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVVYNGk0azNqUVJmY0RrLUpFSHhuczE3OVhzdmRJN2JZZWM5WVlVV0dRSjVYTlJDY0Qya1R3ZERGT1BjR0pndzZmd1dsNU9SY2F2YnQ0ak53dmVRMTNNYTlZazc5LTZSaHdqYUlmbFJoano2NjFVNUVnMnNINDN6WDJsN3Ytak5qWVJxbHdB?oc=5"
   },
   {
-    "id": "gl-pyrnt",
-    "title": "Amazon plans $7 billion renewable energy investment in India by 2030 - The Economic Times",
-    "summary": "Amazon plans $7 billion renewable energy investment in India by 2030  The Economic Times",
+    "id": "gl-ytrhf",
+    "title": "Orsted wins Earthshot prize for 'dramatic transformation' into offshore wind giant - Recharge News",
+    "summary": "Orsted wins Earthshot prize for 'dramatic transformation' into offshore wind giant  Recharge News",
     "source": "Google News Global",
-    "timestamp": "2026-11-17T09:05:59.000Z",
+    "timestamp": "2026-11-17T17:39:52.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUkZ1Vy1Uc281cEloVjRVNUhMRmdVd3FRdjlrdm80dHA5UzRzbklrTlBWSUpxb3gwMkR2Z0FQNVUzaXlZVlNZY2ptNk54UWlhM0hoWmYyaXhpVUo0RGdfbnlZY2NQVWpTbEoyNDJzcXo4VzZmMnhvU3U5NDBGTWE4Q2xHZURyMjBLcVp5UER3cDdEZFdPN3pCbEtCZE9BRmVFRHNQa2V2YWNqNTd0MVpsTk9heG9GWmltVWpvN1p3UnhzUlhlSU1SclJqVlRGT1RPdmM0OUhqNjTSAd4BQVVfeXFMUG5TVHA3U1d1aF9jZnpYaFptUy01ejFQNkU2SGVJclpLOE83dDliSFpNLU1pbVM2ai01Nk91cHNkeHJBRW04dUlYOVc4RFVxaWJZWC1sQk9Lc3pmOWdhVjZiNkhRQzl1RGRrZEZUb1ktQXZBclBDTWFTZW1ZeFVmNDhRR09XR0dERWxCaGpzbFZQV0cwUjJzOGlkQ1JKam1takR0U1BWWk1xUkZFUjhzd3ZCSTJhYTJWM004V1ppdjREd0w2VmQwZEtheDdINDlOM0x6WWgwOXRSTUh6WEF3?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjVkOHZsckF3YnRFbk80WFQxWHhPejJEVktuUE85N19vSUZES193LVBZbnJEMFpIMDBtcUdkWXl6SFVlbXhhcXlETWpoaUhnV3NwTVZOQW50d0FXZXJHQ0xFVll2Q05GNzhDU0dwYktCYkFVX0JBajhrcWR0ZlZxN0hGRmgtNnBVX1p3bGtSVDV3Zzl6UUdvTmw2RTNkWW9oYk1qVWZxdlYxdjJkS0FZQXdyanhVSEJyRUxpNTcxRWFiamJqczQ3bUUtRHBPaTMy?oc=5"
+  },
+  {
+    "id": "gl-wwxgo",
+    "title": "Amazon Plans Additional $7 Billion Investment in India’s Renewable Energy Sector by 2030 - INDIA New England News",
+    "summary": "Amazon Plans Additional $7 Billion Investment in India’s Renewable Energy Sector by 2030  INDIA New England News",
+    "source": "Google News Global",
+    "timestamp": "2026-11-17T16:15:10.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTk4bFV1ekVMWEI1dWtMTUtDMnR6ZUREUG5Yd2lxZFFLQnp5VkVrdFprOTdlVVBiVmJpZnBtZ2NockVMY0tBZTBCY0F0RnpLZWRYdmNXSDNVTWtMbk9ybTBqTjdxbTFybEhZczd0WGNmZDNEQnQzdmt1VGY1Zkc3NVJ0WGtMUGJtS1VCQVFEY1NuUnJ6LTNPQ0p2Y25aYUc4RVJTU3l3VGFoMjdwSFppa25tX3lXZw?oc=5"
   }
 ]
