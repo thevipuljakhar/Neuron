@@ -1,6 +1,16 @@
 [
   {
-    "id": "in-5wix0",
+    "id": "in-e7jug",
+    "title": "Small films, bigger returns: Word-of-mouth continues to trump scale",
+    "summary": "As small-budget hits such as Hanuman Ansh deliver outsized returns, experts point to the power of audience connection and the importance of longer theatrical runs.",
+    "source": "LiveMint",
+    "timestamp": "2026-11-19T05:29:06.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/media/small-budget-films-deliver-higher-box-office-returns-than-big-budget-movies-11794989243633.html"
+  },
+  {
+    "id": "in-gngdb",
     "title": "Mint Explainer | Why the heavy industries ministry is sticking to bank guarantees for battery projects",
     "summary": "Despite approving insurance surety bonds for government procurement in 2022, the heavy industries ministry has rejected bidders' requests to use them in a fresh battery tender. Delays and execution fa...",
     "source": "LiveMint",
@@ -10,7 +20,7 @@
     "link": "https://www.livemint.com/industry/pli-acc-battery-scheme-insurance-surety-bonds-bank-guarantees-11794987653595.html"
   },
   {
-    "id": "in-qus6i",
+    "id": "in-4ni9o",
     "title": "Airlines seek legal clarity on costs, liability, supply gaps in draft green fuel policy",
     "summary": "With SAF costing up to three times conventional jet fuel, experts say the proposed mandate could sharply raise fuel bills, while unclear penalty rules and supply shortages leave carriers uncertain abo...",
     "source": "LiveMint",
@@ -20,63 +30,63 @@
     "link": "https://www.livemint.com/industry/airlines-fuel-tankering-airports-aviation-green-fuel-refuelling-new-technologies-11794818706144.html"
   },
   {
-    "id": "us-wgwk9",
-    "title": "New Data Centers Will Add Pressure to US Power Grid This Winter - Newsweek",
-    "summary": "New Data Centers Will Add Pressure to US Power Grid This Winter  Newsweek",
+    "id": "us-o87h4",
+    "title": "Data centre power buildouts are déjà vu for US storage integrators with off-grid roots - Energy-Storage.News",
+    "summary": "Data centre power buildouts are déjà vu for US storage integrators with off-grid roots  Energy-Storage.News",
     "source": "Google News US",
-    "timestamp": "2026-11-18T23:11:00.000Z",
+    "timestamp": "2026-11-19T12:04:30.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXNwSnl3bHRhcWMyRTRoX2VRMEdZMkpVNldKY0Z6WnpRc25zYzhOWW9wMUt5ei1MOHhPLWF6UDBzS2NuSVlhNXZQNVJPU3dDY05pUGFHUmpYTC1mbEVnTWlFTzE4NjQyN2I2TktrRGNNNUcwSXVrcGhCZ3daR3ljb3VCdnBTRmczc2Z0V1lB?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUlHZGQ3TDVWWFhveFVweFJvWGVaVXJ3cC1CU0ZScXhoMmhrNzF4YjNXZFhZY1M2ZEU2NWpSeGVmakJnM1ZfUm1hRWRveFJwZzAwOW1EQTdzZ0dHSXVLNkt4S0JsM05VNnYxSHJCTU02anY0Q0NXRnV5cVhhdGozS3BqalhTMWlJVFYtMGpZMEFOeG92SUNfSUFKRk5mOGJGWWR2bkZPWlVjRE9KQ0dBNXN0Nk9fdk1WWjBn?oc=5"
   },
   {
-    "id": "us-1gz2x",
-    "title": "New York to Face Electricity Shortage in 2033 as Demand Climbs - Bloomberg.com",
-    "summary": "New York to Face Electricity Shortage in 2033 as Demand Climbs  Bloomberg.com",
+    "id": "us-1cbm3",
+    "title": "Investigating claim Trump's Project 2025 implementation caused bank outages, will impact power grid - Snopes",
+    "summary": "Investigating claim Trump's Project 2025 implementation caused bank outages, will impact power grid  Snopes",
     "source": "Google News US",
-    "timestamp": "2026-11-18T21:51:39.000Z",
+    "timestamp": "2026-11-19T12:01:24.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnpxWDNGY2tlTFBadDg0czhfMTNpNGhhRzFrUjhIVkxYMEdmVExjWFZvMzZ2WDRTbVBKdklYRVZ4bkFRbm1hM19JcFJ4VFNlZ2htSGtCZnplTmlmMm9aRGF1eXRhZXZVQzJzZTJBRm5HUVI5MFhzNG9nbGluMzBkWTZselJkTENreWh5X0FSRUdxX2ZkVThMNE9RMXZPa1FXUVJGeG1GRDZicmNDM21LMEx2MA?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02QmR3c1ZSVWdBdW1xRlVjTGZDSkJoc2xtTzhpWUJmN2lnRm5BVHdVMzMwWjkwTl8wN0dWSXA2R0pZdEQ0SXdGY1pKbWxlMDBoTlMzaGNXT3VFaEJxRnU5bklYRmJKMTRuR0RTRnlmc3lqc3pUcW9fQw?oc=5"
   },
   {
-    "id": "us-a7st1",
-    "title": "Utah receives $11M from Department of Energy for grid infrastructure projects - KSL",
-    "summary": "Utah receives $11M from Department of Energy for grid infrastructure projects  KSL",
+    "id": "us-mhuv0",
+    "title": "Can US Data Centers Ditch the Grid and Supply Their Own Power? - Bloomberg.com",
+    "summary": "Can US Data Centers Ditch the Grid and Supply Their Own Power?  Bloomberg.com",
     "source": "Google News US",
-    "timestamp": "2026-11-18T20:09:20.000Z",
+    "timestamp": "2026-11-19T12:00:00.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG02Qk9PbHo4dzk4OU5VYjVuTDEzQlNMd2RfN05EU2F2dm5hdUl3V2dYMVgwMFVFTnVYcU5EUmU4QTlTa0ZLNWkxb0NxbDdLM1dFOHd1SDdwSEk4R1lsYW1tNVpoTFdLdmJsWk5iNHZ3aWZ6QUVrMHNyTlV1dW01NV9RYVVUUEdxMzB2cnJMRExQem5XNU1aNl9ITU5iVENwQU92U1oxWG40TWhCc3BuZVVicw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUlFUlRBZ0VwZjFSN2oyR2t6Ny1LcWlycjJjTW5oWWI0eVBuX3dBVDRpdHVndjBuZEJSMFpZSkhvSzczUWZhb2hZV0MtanNBS0w2a0stNHIwSGtrNTFNWGFRVW1kV3hUekFmanRVZWlxQXVlUDB4QnZSNGxvdXducURWS0MwVFJQQnZzNmlQVEJjaWd6LTNmX2xfZFVUU0s4Z3dHSVZPM1JhV004Y3V4RERSdllfaVBLYVVZM2YxMVQ3QQ?oc=5"
   },
   {
-    "id": "gl-5yxjz",
-    "title": "/C O R R E C T I O N - Canadian Solar Inc./ - StreetInsider",
-    "summary": "/C O R R E C T I O N - Canadian Solar Inc./  StreetInsider",
+    "id": "gl-1zzvc",
+    "title": "Ørsted wins The Earthshot Prize 2026 - Energy Global",
+    "summary": "Ørsted wins The Earthshot Prize 2026  Energy Global",
     "source": "Google News Global",
-    "timestamp": "2026-11-18T19:12:23.000Z",
+    "timestamp": "2026-11-19T12:12:21.000Z",
+    "region": "Globe",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHlIakVYX2kteThYWWdLTlpodUtSZjFJUlN5cnFWZVVVbWstdmMyQnc3VGdFdDUtcVhRZVI1SDFtMnJBYXM0NUQzSU5BQVc5VkdKRHl3eFIwdmp4eDQtTmZWVEF1MG9NMnJGZWdYeDZxWFlSM05Pb3lHeDlfRTctTUtyZmhRUQ?oc=5"
+  },
+  {
+    "id": "gl-ypv3o",
+    "title": "India’s non-fossil power generation share to cross 50% by 2035: IEA - ET EnergyWorld",
+    "summary": "India’s non-fossil power generation share to cross 50% by 2035: IEA  ET EnergyWorld",
+    "source": "Google News Global",
+    "timestamp": "2026-11-19T11:17:07.000Z",
+    "region": "Globe",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemwxOElYNHl6Nlp4ZG5jQldRbU5BQ3ZUS1JpTGpDdTk1dzh1NTVqN2VSVGhOLW1wNTFqVGRKVkpvQ1VFQUJlOXI2WU82bmlRZmRjNTlKeDgxeHJQelFpdzZmWHpVNGhIaVNvYTZDY3Boam1rYWNXVlhQYnJoWTA1M1QzUkRLeF9ySGx6Mm8xc2JRcmllMTNZNzRyTnUzUF9sMU1TVGZXWnk0VndVSEFYdjF6eWI2cEluTXlWUENLZF9EdHpXdjI3V9IBzgFBVV95cUxQSnhpMTFQUlFXbFFOOXV4Nnpvc2tkUW9lM3lXOGdZdTBmYjBtaWFyVGo0ajBVdDQ4XzdrU3A4UVU3Um1fclZSaURkcXVuZ2o3UGdpQklfRjdNUnJkT21PaGVkc1pmTnRTeW9CRWE3cjVTdmMtNVRJU0lIVm42VTJ5c3lTRHlNZU9FMU1DMTFsTDRPSldJZW1QS3U5SThBWXZPVXUtUzYyRms1ZE4tZjM0OWE3OHdQNjVGRGI2Z25DdFI4QUlvYUQ5dzA4R2JZQQ?oc=5"
+  },
+  {
+    "id": "gl-p2bes",
+    "title": "India's Solar Growth Enters a New Era as solar power sector expands ‘68 fold’ - Jharkhand State News",
+    "summary": "India's Solar Growth Enters a New Era as solar power sector expands ‘68 fold’  Jharkhand State News",
+    "source": "Google News Global",
+    "timestamp": "2026-11-19T09:56:33.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3VGNTgtZWotOENFaFFtSTcwTVAzTERkWktSVFhxX1dhdThXQklTTnBwZ3NpNFRZR2lILWJjdVhXaDl4VUxTc3hzcTVmY0JGdy1aSnlCSDhzUWJhZHJ4MzE5YXk1LTQzd0w5YW9RNElWR2lITnJ4b3ktR3ZGQmpwQ0t6TmlsM1FQS1Z3Ty1ST0RpazFiM1d1SXZUTWs?oc=5"
-  },
-  {
-    "id": "gl-jqv5z",
-    "title": "IUCN and RGI launch AGENT to accelerate renewable energy growth while protecting nature - International Union for Conservation of Nature",
-    "summary": "IUCN and RGI launch AGENT to accelerate renewable energy growth while protecting nature  International Union for Conservation of Nature",
-    "source": "Google News Global",
-    "timestamp": "2026-11-18T17:52:55.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmdCLWZCVW40ZkRac1B0eWZKRXVjem1EYklNeGk5VWJwTDVhUWJQSE9IRThGb1hEVFY0SDMxMlhEekZzSDhja2xrTW5DUUwyZ0ItMjV0ZzZTOFE0RXQ1LUNMMU9GdVlvb1MwLWJpYzFDY3drRGFETEtSXy1nSXotRzRCMlhZOWpHaTh5RDRyVW1QZjZ1MW90VXhOdms4REdQLWdkZFhpQnV5V0kyZExQSlBCQQ?oc=5"
-  },
-  {
-    "id": "gl-xgmdx",
-    "title": "Canadian PM says China leads globally in clean energy, sees vast cooperation potential - Global Times",
-    "summary": "Canadian PM says China leads globally in clean energy, sees vast cooperation potential  Global Times",
-    "source": "Google News Global",
-    "timestamp": "2026-11-18T15:29:00.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2MS10aDZidzRHVWJvMks5Yzc1RWRMUG1EVTVxUjUxaEFIVlVXakJPY21idkM0RG11aFB1WU9yWERQZWp0WDBuYlF4TWZTdDJCX1lVY3h0c3hybm1IYXB5TWNB?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdGhIazVtbVdTeVRnb25qeHNrZUJ3cFNZZWowUzViNHlZZnd6bE91cDlnSFF4M291bjhMRmV6TUJjWmFQOGxKb09jRDdIYzNudnU5LVdkOTB2VVJzWVBJRXpIUUNSS0Z2dW9FVERldDdsS1Bjck1IRXZYMXRwRk5BUGplVDZrYkZjREItZ1BsdzJWQS15UWYyUjRTTHIzVHMwX2FDWGhNZnRhY2tZMC1GOGRsN2kydXdhQWR6R1FaX2NvZUcyNkFhRHk3NA?oc=5"
   }
 ]
