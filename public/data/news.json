@@ -1,6 +1,6 @@
 [
   {
-    "id": "in-2tz7e",
+    "id": "in-z3uqo",
     "title": "Discoms must gear up for rising EV power demand, says PMO official Tarun Kapoor",
     "summary": "Discoms often prioritise industries because they are revenue drivers, but EVs will account for a growing share of power demand in the years ahead, said Tarun Kapoor, advisor to the Prime Minister in t...",
     "source": "LiveMint",
@@ -10,7 +10,7 @@
     "link": "https://www.livemint.com/industry/discoms-ev-power-demand-ev-charging-points-electric-vehicles-india-11795175428673.html"
   },
   {
-    "id": "in-6r2aw",
+    "id": "in-ls2r4",
     "title": "Small films, bigger returns: Word-of-mouth continues to trump scale",
     "summary": "As small-budget hits such as Hanuman Ansh deliver outsized returns, experts point to the power of audience connection and the importance of longer theatrical runs.",
     "source": "LiveMint",
@@ -20,7 +20,7 @@
     "link": "https://www.livemint.com/industry/media/small-budget-films-deliver-higher-box-office-returns-than-big-budget-movies-11794989243633.html"
   },
   {
-    "id": "in-ezmig",
+    "id": "in-w6fh7",
     "title": "Mint Explainer | Why the heavy industries ministry is sticking to bank guarantees for battery projects",
     "summary": "Despite approving insurance surety bonds for government procurement in 2022, the heavy industries ministry has rejected bidders' requests to use them in a fresh battery tender. Delays and execution fa...",
     "source": "LiveMint",
@@ -30,7 +30,37 @@
     "link": "https://www.livemint.com/industry/pli-acc-battery-scheme-insurance-surety-bonds-bank-guarantees-11794987653595.html"
   },
   {
-    "id": "gl-alzi4",
+    "id": "us-tbrgz",
+    "title": "Lawmakers warn Americans of vulnerable systems amid streak of outages: 'Something is going on' - Fox News",
+    "summary": "Lawmakers warn Americans of vulnerable systems amid streak of outages: 'Something is going on'  Fox News",
+    "source": "Google News US",
+    "timestamp": "2026-11-21T09:00:38.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjk0MF90d29wZktFLVJVQnM1RkplTU92UWk2ejRMMFQzYmhZVmFXUnc1OThNUkFjZUFzcmFnaHJCREVQVWNldjFFWHBVbkVPdFlLRllEeHlTMklhb2FaNXh4WWwwak5qWmVnRVhSa2FhVjFTd3R0T0JyX2pRMW1ZZ0ZqeHdLUk5ZbGFmTFRMNmpfck9TRU52c2hwSTRCTmZfYkM4ZVB3VHNIZ09wYnlib2hNQlludw?oc=5"
+  },
+  {
+    "id": "us-1dzi4",
+    "title": "New York State’s Electricity Reserves are Shrinking, Grid Operator Says - EnergyNow.com",
+    "summary": "New York State’s Electricity Reserves are Shrinking, Grid Operator Says  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-11-20T21:38:00.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnd2Mzlud1pXbndtOVNUNU5PQjR2NVpfeHRrNTJWQlhXbmhITWQ2Z0t2WmcwaDVrU296Z0RMa3dEYlh5amlJSE4tTl9ndW5FUHA4YWJOU2pMc2FtLWhROENCWUV0R1JmbTZnSDhWNG9HaG5rbHdjVUVsNmcyb1VtaG9TaWJycElScmVrY0FoTGp2OEFiNTZIakFMWDlKUExRbHc?oc=5"
+  },
+  {
+    "id": "us-4ls7o",
+    "title": "US Senate Passes Bipartisan Bill to Speed Energy, Infrastructure Projects - EnergyNow.com",
+    "summary": "US Senate Passes Bipartisan Bill to Speed Energy, Infrastructure Projects  EnergyNow.com",
+    "source": "Google News US",
+    "timestamp": "2026-11-20T15:30:17.000Z",
+    "region": "US",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV25DNjQyakJQblpoWmhVRjZwS204VFdXbmRoYkJNWmVEU3RmNUtoMjhPVWZ1d3FudWtNeEpuSUMzaXNicFVGNWRBWmsyQnQyaE5JdEJEbjVoV2ozMjQ1RWFodzJfMjlGUTc1a0Vpb05nb19zNVp3N2dYMHZPTHA0MklVVHZHVVJwWEx3dFAxNzVfVjBEZ0RIdkc5NW1CWmxwVGJQNE1n?oc=5"
+  },
+  {
+    "id": "gl-txl63",
     "title": "India's renewable energy capacity could surge 20% by 2030 with reforms and biofuel boost, says IEA report - ET EnergyWorld",
     "summary": "India's renewable energy capacity could surge 20% by 2030 with reforms and biofuel boost, says IEA report  ET EnergyWorld",
     "source": "Google News Global",
@@ -40,17 +70,17 @@
     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQamNMbWxrN3E3cE15eG5DWEFFQnlPZHJhUlRlcTdjMjk3NmtCU0FYRGY5dkpMQWtGUjFCZ0w3OTJuRTJ6NkxCMThuZ2E0UHlUSzh0OE5INUNmWVJvSXN2TDVxVW82NVdwRms4ZE5CM0RkcF9sSVdDQjVqRlc1aXhKNjc3MHJNUjBubDczcWJfZFc5U2tJNGFYdVp5SXduLWY0elZUNUhsX2FMZVE5SFhyTnJHMENoOVp0Y2UwbXgyU2FPNnBFT0xpNUdqajk2bGhDaUl6MnFvMnNvci10NzVDZjIzcmhBckVPM25nd0VWaFpmTTFQdTZPTGJWWW1Kb2cyU2Jpd05B0gGGAkFVX3lxTFBqY0xtbGs3cTdwTXl4bkNYQUVCeU9kcmFSVGVxN2MyOTc2a0JTQVhEZjl2SkxBa0ZSMUJnTDc5Mm5FMno2TEIxOG5nYTRQeVRLOHQ4Tkg1Q2ZZUm9Jc3ZMNXFVbzY1V3BGazhkTkIzRGRwX2xJV0NCNWpGVzVpeEo2Nzcwck1SMG5sNzNxYl9kVzlTa0k0YVh1WnlJd24tZjR6VlQ1SGxfYUxlUTlIWHJOckcwQ2g5WnRjZTBteDJTYU82cEVPTGk1R2pqOTZsaENpSXoycW8yc29yLXQ3NUNmMjNyaEFyRU8zbmd3RVZoWmZNMVB1Nk9MYlZZbUpvZzJTYml3TkE?oc=5"
   },
   {
-    "id": "gl-wnz3w",
-    "title": "Dubai's Renewable Energy Sector: How Clean Energy Investments Could Transform the UAE's Business Landscape - Business News This Week",
-    "summary": "Dubai's Renewable Energy Sector: How Clean Energy Investments Could Transform the UAE's Business Landscape  Business News This Week",
+    "id": "gl-ij09s",
+    "title": "COP31 unveils electrification package, mobilises billions in clean energy investment - EnviroNews Nigeria",
+    "summary": "COP31 unveils electrification package, mobilises billions in clean energy investment  EnviroNews Nigeria",
     "source": "Google News Global",
-    "timestamp": "2026-11-20T10:26:47.000Z",
+    "timestamp": "2026-11-19T14:07:10.000Z",
     "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGs2clIzeEMyX1BuZmxKNEE0dG9yRFBfcjlQbFdVUkhsRUNOdU5RajhPdzk3UU1JdzFvUHBCMHBBT3RFQmRNTHVDaWxnb2RRcEoySl9tem1nbjFEUWdJVGdqWEVMZGhnejNYYjFMUGFwcjFGT2Jja0dabnk2Z2N5bFNFT1RPZWgzYXNnRWpmem9sb2V6b0JzdmlaN01kVFVoSDZXZG15d2xJWXZSUkF4Y0tvWXE0Z0kyTFRXVm1XRjR6dDgyaVF3TkZLVHcwTlBrNVl2eWtyLTNtNlJBcVotNlN3?oc=5"
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUN6eC1GT01jM0VPRnRuMmJndEYtYmtKZWswdnhYUzQ3OXFCRW41TDVBQmdfRUlmRHlRX2k1eXVQN01xWVNtUzBXc285RWN4XzBOSlQ0ck1rNTlxazQxN3FUTzJyeDBnaUZOR1VLMk5QTm04eERvdDJ3REtJSlJMM0d4VjRnUnVIUm9fcVJxdF9jbnBMckY5UDVCc2RHWERiRVVmQjRBcUdLQkU3UncwRnAxMlZmRFRFMVE?oc=5"
   },
   {
-    "id": "gl-31hvf",
+    "id": "gl-8bdin",
     "title": "Amazon to invest $7 billion in India's renewable energy by 2030 - ЭкоПолитика",
     "summary": "Amazon to invest $7 billion in India's renewable energy by 2030  ЭкоПолитика",
     "source": "Google News Global",
