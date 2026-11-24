@@ -1,6 +1,36 @@
 [
   {
-    "id": "in-mum4t",
+    "id": "in-1nz5g",
+    "title": "Sreedharan says Kerala semi-high-speed rail project will require less funding than constructing new tracks",
+    "summary": "According to Sreedharan, the proposed Thiruvananthapuram-Kannur semi-high-speed rail corridor would be powered entirely by solar panels installed along both sides of the elevated viaduct",
+    "source": "LiveMint",
+    "timestamp": "2026-11-24T18:37:19.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/infrastructure/sreedharan-says-kerala-semi-high-speed-rail-project-will-require-less-funding-than-constructing-new-tracks-11795544053590.html"
+  },
+  {
+    "id": "in-b4smp",
+    "title": "India plans second gas exchange to deepen futures trading as energy security takes centre stage",
+    "summary": "The plan is to deepen trading of gas and other products on the exchanges, making it more accessible and helping in the discovery of better prices.",
+    "source": "LiveMint",
+    "timestamp": "2026-11-24T09:08:10.000Z",
+    "region": "India",
+    "category": "Fossil",
+    "link": "https://www.livemint.com/industry/energy/india-plans-new-gas-exchange-for-natural-gas-atf-and-naphtha-11795502555739.html"
+  },
+  {
+    "id": "in-8mmqr",
+    "title": "West Asia war brings luxury weddings home, giving Indian hotels greater pricing power",
+    "summary": "Palace hotels in Rajasthan are getting filled up, driving room tariffs up by as much as 50% and forcing families to rethink budgets.",
+    "source": "LiveMint",
+    "timestamp": "2026-11-24T05:19:07.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/west-asia-war-india-luxury-weddings-hotels-pricing-power-11795458681605.html"
+  },
+  {
+    "id": "in-tcu7x",
     "title": "Mint Explainer | Why is India staring at a hefty cooking oil bill?",
     "summary": "Rising global prices and weak domestic harvests have lifted India’s edible oil import bill to  ₹2 trillion and retail prices by up to 16%. What are the reasons behind the spike? What factors can cool...",
     "source": "LiveMint",
@@ -10,7 +40,7 @@
     "link": "https://www.livemint.com/industry/agriculture/mint-explainer-why-is-india-staring-at-a-hefty-cooking-oil-bill-11795418741498.html"
   },
   {
-    "id": "in-vpm8t",
+    "id": "in-31iv3",
     "title": "Mint Explainer | What Sakhalin-1 tax relief means for ONGC Videsh’s Russian investment",
     "summary": "ONGC Videsh may get tax relief for its investment in Russia’s Sakhalin-1 oil and gas project following a restructuring of ownership.",
     "source": "LiveMint",
@@ -20,7 +50,7 @@
     "link": "https://www.livemint.com/industry/energy/ongc-videsh-sakhalin-1-project-capital-gains-tax-exemption-11795407189444.html"
   },
   {
-    "id": "in-l5kuz",
+    "id": "in-sppzm",
     "title": "Centre plans setting up distributed energy resource management systems for discoms",
     "summary": "The government is funding up to  ₹2 crore each for 15 power distribution companies to build smart software systems that manage the surge in rooftop solar power. This move aims to prevent local electri...",
     "source": "LiveMint",
@@ -30,7 +60,7 @@
     "link": "https://www.livemint.com/industry/energy/centre-plans-setting-up-distributed-energy-resource-management-systems-for-discoms-11795336214365.html"
   },
   {
-    "id": "in-a7lad",
+    "id": "in-f3n8e",
     "title": "CII pitches sweeping reforms to prepare financial system for 2047",
     "summary": "Proposals include a permanent liquidity window for NBFCs, wider corporate bond access and changes to priority sector lending as the government reviews the sector.",
     "source": "LiveMint",
@@ -40,63 +70,63 @@
     "link": "https://www.livemint.com/industry/cii-pitches-sweeping-reforms-to-prepare-financial-system-for-2047-11795344950125.html"
   },
   {
-    "id": "us-prxwa",
-    "title": "Peco customers will see electric supply rate increase Dec. 1 because of surge on power grid by data centers - Inquirer.com",
-    "summary": "Peco customers will see electric supply rate increase Dec. 1 because of surge on power grid by data centers  Inquirer.com",
+    "id": "us-ov0a7",
+    "title": "Excess renewable energy could power new industrial processes - Tech Xplore",
+    "summary": "Excess renewable energy could power new industrial processes  Tech Xplore",
     "source": "Google News US",
-    "timestamp": "2026-11-23T21:22:25.000Z",
+    "timestamp": "2026-11-24T17:40:01.000Z",
     "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUJ4WFhFTmNNd2VnTTZkVW1SQmNuV05BbTBFSVFfU2hWbjNDSVZzakdKTFRpdHQzWE5qbzR4eXRsVlBUalI4d2stR29LNC13aEowa0NZZGFPOFRLSEJUZ0V1QVRxYmNJQlVYZUZjZ09GWVdNNGlsYUxVTHFfRXBISGJBZG1QZGZXcUc5bHNpSXNicFhmTlBXVEtQcFU0XzQ?oc=5"
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHgtOUR6SERJN0YxWHpwQS1zRzhDdXVRVEZ5TGFyWFkwZGI4WXUzUWtldU1ORk5GeFdhQWNTUjNVNUY1TXJoaWF0dnRseXl5ZERHcWRmaThHNExkR1NjUnN2elFBVldZbnhGb0hNQmV4VGVBRndiTUdpUFFZZlBVTEdpbFJidFRC?oc=5"
   },
   {
-    "id": "us-eyf22",
-    "title": "AI’s Power Crunch Is Reviving a Long-Stalled Energy Source - The Information",
-    "summary": "AI’s Power Crunch Is Reviving a Long-Stalled Energy Source  The Information",
+    "id": "us-45hu4",
+    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
+    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-11-23T20:09:00.000Z",
+    "timestamp": "2026-11-24T15:49:33.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1cxT19ocjM3cU93Z0hHbTBYd3NkVl96b1lrdlZlNVJuOHZIQ1FHdi02S3NBZFZucGE3bHV5S3RGMWpBcnF3T0NnYlhYanE0emVfTU1lbkVZSUl2MXo0YWhlMlBZaF9uN3EtS0wwVEpCUXFET2R1X0FSRTVSek1ydW42dG1mSjAxZW0xTGY3NEtlOFprY0Zv?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
   },
   {
-    "id": "us-f4zjv",
-    "title": "Iran Vows to Respond to US Strikes, Says US Energy Companies’ Facilities are ‘Exposed’ - EnergyNow.com",
-    "summary": "Iran Vows to Respond to US Strikes, Says US Energy Companies’ Facilities are ‘Exposed’  EnergyNow.com",
+    "id": "us-f8z1k",
+    "title": "US Grid’s $1 Trillion Problem Could Equal a $1 Billion Payout for Power CEOs - EnergyNow.com",
+    "summary": "US Grid’s $1 Trillion Problem Could Equal a $1 Billion Payout for Power CEOs  EnergyNow.com",
     "source": "Google News US",
-    "timestamp": "2026-11-23T15:17:28.000Z",
+    "timestamp": "2026-11-24T12:48:20.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcV9uQXRCTm5tOHBuaTJwNV9UMldBcXRTSWxzRHZzanNfSXRheldfYkdHYzRHZVFRbDNWOTRvNmhXLXV2cWVyaWZYZnhVTmtJN3llNEc4ZXlNaXdIMlY3UjQxc2NBUW9lZmlLajRUb3kyMmhjVEowMGlBU2J5TXBwZWF0WjRYeFNlMUhVTEdEYk1ObHB4QVo4SnZNNFlwMzRIWm0yQWtFamJjZFlpcEUxMjl2cw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWFYRC1zQUR3TWNZREZGazVtOWpIYmtBc0NrVUNTNjJEU3VQUEt4MWRHWjhkTGhleTY2WnJmNGczWEFLdmRwZXNpSlZRX19tSEtDa2tGcTV2bE9vX1NxVmtJUnk3YzF0NmtlSjcxblVfYjFMbGx2dmdybzhjWGhQRm5tNm1RckVJT1VnLWpBVF91dF85TlMxbkpHMnc1Nm5zNkI4em1mZw?oc=5"
   },
   {
-    "id": "gl-4msro",
-    "title": "COP31 leaders warn grids and storage can’t keep pace with renewable energy growth - Power Engineering Magazine",
-    "summary": "COP31 leaders warn grids and storage can’t keep pace with renewable energy growth  Power Engineering Magazine",
+    "id": "gl-8j5iz",
+    "title": "Envision Energy and IATA Launch Strategic Collaboration on eSAF - ACROFAN USA",
+    "summary": "Envision Energy and IATA Launch Strategic Collaboration on eSAF  ACROFAN USA",
     "source": "Google News Global",
-    "timestamp": "2026-11-23T19:11:15.000Z",
+    "timestamp": "2026-11-24T13:52:41.000Z",
+    "region": "Globe",
+    "category": "Grid",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTU40RnIwck4tS3h0OVpzSkZsenZLU2ZSd3VMLTh0YWlucFhlU3FNaUU3bUo4SUNZYlFJUXdOa3pVdThjNUNMTFFFODhBRXVhbUc4cUVmQ0VGZVdv?oc=5"
+  },
+  {
+    "id": "gl-0f8oz",
+    "title": "Energy Transition Today - Renewable Energy Market Grows Amidst Technological Advances - Yahoo Finance",
+    "summary": "Energy Transition Today - Renewable Energy Market Grows Amidst Technological Advances  Yahoo Finance",
+    "source": "Google News Global",
+    "timestamp": "2026-11-24T11:37:02.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2Zpak5LSUV6QzVYTjRwN2RSZUpMdGNsSHNvakxfd0hXbGlPc3pyemtFbjlLU2hWM0l0c3cyNTlybHp1bU91V2dGQ3Y5U1dRRzJNcmgtTVBqVFVUeFZTci15SnhMUjBMRktHc0p2WE9WeTRhQkljRzVNeXJMTThQazMxNy1yYjJyd3l4a3ZR?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbzFndkZYcXRRbU1ZZ3U4dS1TTGNtQUpic1ZRRzZRaGltRzR4VTNXYmhKaFBZWGM1dDhNY3hPcmYxT0NnQTFaR3hOR0ZheXRzanhkOVA1bzhubFRiM1lneUpSb3Yxd3k3a3ZBRWppUTQxc3M4MURXbzVjdVpEZ3N2bUdZYTlINDRiMk5CQ1ZhWjB4ZFMwNEpBWUYwcVBLdw?oc=5"
   },
   {
-    "id": "gl-wmii3",
-    "title": "Global Clean Energy Reports Q3 2026 Revenue Growth and Continued AI Commercial Momentum as Flamelit Marks Five Years of Applied AI Delivery - PR Newswire",
-    "summary": "Global Clean Energy Reports Q3 2026 Revenue Growth and Continued AI Commercial Momentum as Flamelit Marks Five Years of Applied AI Delivery  PR Newswire",
+    "id": "gl-axm2d",
+    "title": "Silicone Coatings Market To 2035: Construction and Renewable Energy Demand Drive Expansion - News and Statistics - IndexBox",
+    "summary": "Silicone Coatings Market To 2035: Construction and Renewable Energy Demand Drive Expansion - News and Statistics  IndexBox",
     "source": "Google News Global",
-    "timestamp": "2026-11-23T14:30:00.000Z",
-    "region": "Globe",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQS2JEeVhVRnZDUGF4anFjSDJHRFJSUTdRSERBWHBmSU0yRU9wNU0zZWxtbzRMeU9fejFobTctUUhzNERXRnY2VDg1bDNQYlFIVUkzU0dZdmVCeWx0WWZvZWxBb0xweEZxdGx6SjhSSnAyMmdGSldZVmRqcWZqM2RKUWlBVTNZMnlQNnZhS0NObmJuTVhpaDRtN1RPazl4Uk9zTkVGU2hNVFdFU1VWYmRVTW55a0c4Y2ppaXR5VkpNaUJRS2toWk9vNkc1SGdOeURQRURkQndnUlU5SHREeWlIZU10S1pzZXpodExyRi1EX0pxTmg3dFVPVjh6MmhIeFM2cXVvRm9pOElWbUNmV29jMWlmeUl1YW00X2h2LUFvelo?oc=5"
-  },
-  {
-    "id": "gl-89smw",
-    "title": "Stock Market, Week 47/26: RENIXX Loses 10.6 Percent and Falls Below 1,000 Points – Grenergy, Bloom Energy and Enphase Energy Plunge - Renewable Energy Industry",
-    "summary": "Stock Market, Week 47/26: RENIXX Loses 10.6 Percent and Falls Below 1,000 Points – Grenergy, Bloom Energy and Enphase Energy Plunge  Renewable Energy Industry",
-    "source": "Google News Global",
-    "timestamp": "2026-11-23T09:38:16.000Z",
+    "timestamp": "2026-11-23T23:36:04.000Z",
     "region": "Globe",
     "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUE9nUUFQczFOLURkQ3BKbkc5d0Q0QzNhMm9vcG0tajdZNzNTMWx4VEM0bG14WTlKajVZRjIyc2Q0Rjdaa1VnSVN0VlZMNmxFQUVWdjRacFMzWUlTOEhXUW5ZYWprSzZ0MEFhWG02eXZpMnp6NTBTY0F6S0ExR2lJVE9ScTJuVWdLQnNzNzJKSklXYWdOUUVKbldYTVhObzdCcjZsU2p5aG1TeFl6anNmYWZCU2lmdVMyQ3FmbURkY2tBOUtCdTVMbi1kUkhxck1tcHhZSW5MZ1BtZXREZDctSnhSZ0V5TEZQaHgwcGg4U3k4ZzVRZU1felllVUJBZk16UTl4NDdWZDIxeTZxSkdCaFpJQ2FjV1RqZEE?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1NFc1Y4M094MUdzZ0ZMRlgtaUEydG9pcWNUYXVqNmJ6aUJBNXJGczFQcDBUVHF5aGphWC10a2FaWUI0VEQxekR0Q3JkaEZjQmJPb2pKd0tWbUhVV2FFTkI2NjNaQ01LVkJoVE1KbnBheTR1eW8zbWsyVFROQXBhWDdjamdZM1pCWXNpeG84T2hGRGZFcnpiVDYyeGFRNWdvZWVzRnlUY2JkTE9pNlRnSEdzb29vZm9CMGQzZ1hDbnJJampITG5n?oc=5"
   }
 ]
