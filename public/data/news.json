@@ -1,6 +1,26 @@
 [
   {
-    "id": "in-qfwap",
+    "id": "in-8cnhb",
+    "title": "CEA allows phased repowering of old wind farms in 33% batches: Check how new rules ease upgrades for developers",
+    "summary": "The CEA reportedly introduced the procedure to provide developers with a practical route to upgrade older sites without requiring a simultaneous plant-wide switch",
+    "source": "LiveMint",
+    "timestamp": "2026-11-28T05:45:46.000Z",
+    "region": "India",
+    "category": "Renewable",
+    "link": "https://www.livemint.com/industry/infrastructure/cea-allows-phased-repowering-of-old-wind-farms-in-33-batches-check-how-new-rules-ease-upgrades-for-developers-11795843372985.html"
+  },
+  {
+    "id": "in-dhmy5",
+    "title": "Butter, ghee prices may surge as milk fat shortage squeezes supplies",
+    "summary": "The seasonal increase in production has been weaker than expected this year, leaving companies with less milk to replenish their inventories.",
+    "source": "LiveMint",
+    "timestamp": "2026-11-28T00:30:22.000Z",
+    "region": "India",
+    "category": "Grid",
+    "link": "https://www.livemint.com/industry/butter-ghee-prices-may-surge-as-milk-fat-shortage-squeezes-supplies-11795762281778.html"
+  },
+  {
+    "id": "in-7cb2e",
     "title": "Why India's power grid needs smarter systems as rooftop solar expands",
     "summary": "The rapid growth of distributed renewable energy is reshaping power supply, prompting the government to back pilot projects to help discoms manage grid stability and rising complexity.",
     "source": "LiveMint",
@@ -10,7 +30,7 @@
     "link": "https://www.livemint.com/industry/distributed-energy-resource-management-system-derms-india-rooftop-solar-11795672930613.html"
   },
   {
-    "id": "in-4ak86",
+    "id": "in-ugkht",
     "title": "Rooftop solar users face net metering charges; govt moots mandatory battery storage: What are the proposed changes?",
     "summary": "The Power Ministry has proposed changes to electricity tariffs, rooftop solar installation limits, connection timelines and consumer grievance redressal mechanisms.",
     "source": "LiveMint",
@@ -20,7 +40,7 @@
     "link": "https://www.livemint.com/industry/energy/rooftop-solar-consumers-face-net-metering-charges-govt-moots-mandatory-battery-storage-what-are-the-proposed-changes-11795619634178.html"
   },
   {
-    "id": "in-0p0oa",
+    "id": "in-xgieo",
     "title": "Vande Bharat safety lapse: Railways orders brake tests after 463-km run with poor braking power",
     "summary": "Indian Railways has instructed Loco Pilots to conduct brake-effectiveness tests at specified speeds before accelerating trains from originating stations. The advisory follows two incidents involving b...",
     "source": "LiveMint",
@@ -30,7 +50,7 @@
     "link": "https://www.livemint.com/industry/infrastructure/vande-bharat-safety-lapse-railways-orders-brake-tests-after-463-km-run-with-poor-braking-power-11795611237440.html"
   },
   {
-    "id": "in-t4udh",
+    "id": "in-6hmxx",
     "title": "Technocrat E Sreedharan pitches  ₹60,000-crore Kerala semi-high-speed rail corridor, proposes crowdfunding",
     "summary": "Sreedharan has argued that Kerala's proposed 472-km semi-high-speed rail corridor could cost less than constructing additional railway tracks along the existing route. Estimated at  ₹60k cr, the eleva...",
     "source": "LiveMint",
@@ -40,47 +60,37 @@
     "link": "https://www.livemint.com/industry/infrastructure/technocrat-e-sreedharan-pitches-60-000-crore-kerala-semi-high-speed-rail-corridor-proposes-crowdfunding-11795605717367.html"
   },
   {
-    "id": "in-iohf1",
-    "title": "Energy security concerns redraw India's renewable investment landscape",
-    "summary": "Venture capital investors are increasingly looking beyond infrastructure towards technologies that can make the expanding energy ecosystem more efficient.",
-    "source": "LiveMint",
-    "timestamp": "2026-11-25T05:51:54.000Z",
-    "region": "India",
-    "category": "Renewable",
-    "link": "https://www.livemint.com/industry/energy/energy-security-concerns-india-renewable-investment-landscape-11795576254093.html"
-  },
-  {
-    "id": "us-subrt",
+    "id": "us-e8cxp",
     "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms - BBC",
     "summary": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms  BBC",
     "source": "Google News US",
-    "timestamp": "2026-11-27T22:29:46.000Z",
+    "timestamp": "2026-11-28T01:55:33.000Z",
     "region": "US",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuV1NzUW1LVDRtNXhBd1h1VTVHMVRPdlR1bm4xM1VOZzh4Nk9zOU9wT2pEMjFxU3U0NHBPd0tKZ1BZdWNmelg2c1ZmUFFJRVF0cEVMT2NtTVVMS0U?oc=5"
   },
   {
-    "id": "us-q7h83",
-    "title": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast - The New York Times",
-    "summary": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast  The New York Times",
+    "id": "us-zcivw",
+    "title": "Wasted Wind and Solar Power Could Run Factories and Data Centers - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Wasted Wind and Solar Power Could Run Factories and Data Centers  Crude Oil Prices Today | OilPrice.com",
     "source": "Google News US",
-    "timestamp": "2026-11-27T21:42:02.000Z",
+    "timestamp": "2026-11-28T00:00:00.000Z",
     "region": "US",
-    "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS054SmdxUU9KNDBLelNDZHB4QWRZdzNYRnhtN3ljS1UtRlc5N3Vaa01QTklHOHF1cWlFd2kySFdRVU5LeEhudXQ1VFg2Zm5YV2ZvOEcyaGdvakpNVVp3a292c3ozd0ljTUExLXllUDN3Y1FUNTJ6eUZpYzl6ZzNrbUNLQjU5Z1U?oc=5"
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFMybVNSQzF3NFYtR2piMS1iMy1xSTNzR183OG4zMzVxVDdOYTc2Zkl0T2JQUTJ3bXhiaDVHXzRHMGdhbWZ6dDI5MG5SOVVzT0R5b2s1UXRPOXl2M3JEQ3p2alpsREVuV1U2bTkwcV9XM3hadGlpLXloWGJHajF0UTRFVUcyN0VtTHFRZWJLMld2bGRTZk43eGJmemxTVFowVVV6MFM2Z2tqN2xSSXhMNU44V0lmclgyaWc0OTBoM0dTYUVt0gHKAUFVX3lxTE5HcE5SSUZpeWpMVW9VUHg4S0tDUHgtOHBoZmI5Xy1WR0t5MXdZcmVHNDBFTWstYlZ3TUh5eUw5YUd4dnROMWdNZ0Jtc2pTa3BqSmcyWjJGcUQwQXFqWGxubUllX1JjWDlrc2M2bmF2RDFsRWxySlVzNkR3b0k0dGMzdnR3TkZ0dVBZMmFMTVhsanlrSndIZk92dnB5UlhucXdBYWthSVBxT3gxdXc0cHgyMm9DLUYxSTlXSEUwWEdYQ1JLaXE5NkhXdXc?oc=5"
   },
   {
-    "id": "us-0jeje",
-    "title": "Cuba’s National Electric Grid Collapses, Reason Unknown - EnergyNow.com",
-    "summary": "Cuba’s National Electric Grid Collapses, Reason Unknown  EnergyNow.com",
+    "id": "us-2s83u",
+    "title": "News Wrap: Crews work to restore power for thousands after Thanksgiving storm - PBS",
+    "summary": "News Wrap: Crews work to restore power for thousands after Thanksgiving storm  PBS",
     "source": "Google News US",
-    "timestamp": "2026-11-27T16:54:23.000Z",
+    "timestamp": "2026-11-27T23:55:12.000Z",
     "region": "US",
     "category": "Grid",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHM5Z0w3dFFfNEtpem9naS1GakppY2drNmxqQ2xWRDB3b1hmMHBDWUZZc2ZKY2ZJR2RKejd4YW9CMTYxMzFqX01ZcmNXZG9WMVVKaXFIVlY2WVpBWUpMQnZMOEJaM2xtRW9IMnEzelgwQmQ4djVuYTA1MmVZWVB0a01IeWhuNkJnMnR3TA?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnBfNktZWjVzamNjaUtVdV9VcGxHN290SzFDVzlZNVc3YXJ2dHVXSnZwLVdiVXVNalR3Z2NiTzlLTldnaGVWSVVTSzJ5LWZEQ2t2Q0VMYVdVbmg5QlVweFlvZEpNTzYxTFk3bFBreGw3WDRoV19XSXdPeEktNkJMdEg0LXVYaGY2Zm1Ka3FOUGNERURNc0JwbUkybWRqT3pOZXkwRm9BSDRWdlpwb0o4?oc=5"
   },
   {
-    "id": "gl-20kzk",
+    "id": "gl-a42a7",
     "title": "Plugging in: How electrification can help South-east Asia’s energy transition - The Straits Times",
     "summary": "Plugging in: How electrification can help South-east Asia’s energy transition  The Straits Times",
     "source": "Google News Global",
@@ -90,7 +100,17 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb09Bck1TQmZlUHZ3bUNUaTJCbHRVejE4VHBPZFl0S29qYkw1LXlOM1BMM0I0dng3RVdPWEJmWEJXR0gtTFB1WGEzZ2luM0dfczNKX2xVS3dabEJzYnRGdXlEVzNnZzg0MGJfbnJYWXFDTG9jOVY3c1dpMk1Ca1hSSFlJNnViUU9ud0hRNjVYNHB0WlY4VDVoMy1tbUMwVjRKaXFaUFNQY04ycHd4aXRUeVZWQVFzbEhOT0pueHM2dGRWQVNQ?oc=5"
   },
   {
-    "id": "gl-xfm5x",
+    "id": "gl-oq3re",
+    "title": "India becomes World’s third-largest renewable energy capacity holder: Pralhad Joshi - DD News",
+    "summary": "India becomes World’s third-largest renewable energy capacity holder: Pralhad Joshi  DD News",
+    "source": "Google News Global",
+    "timestamp": "2026-11-27T19:45:15.000Z",
+    "region": "Globe",
+    "category": "Renewable",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVy1JYWJIalpkSV8tUlBSUHN6Z0JSQWpQTm85YXRhaDVTcUQ2TWJYYmc3VkJqQkN0ODZ6amMtRnoyTnh4RW1JVDZTV055WnhRRm4zd0EyVzNXMXRPREtsbDB0aW9PbHZNM3dmZXQ2WHVCTVpDTDMtZ0hQb1pPYlRvUVdETnJuUHhFZWZmbUtqTGd0a2Z3eWNoUEI0cHhBV2dySHdGZ2xzc08tU00?oc=5"
+  },
+  {
+    "id": "gl-93gfi",
     "title": "Zelestra and Statkraft sign 700 MWh long-term battery tolling agreement in Italy - Energy Global",
     "summary": "Zelestra and Statkraft sign 700 MWh long-term battery tolling agreement in Italy  Energy Global",
     "source": "Google News Global",
@@ -98,15 +118,5 @@
     "region": "Globe",
     "category": "Grid",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ183VGFYUmdQOUJTUlRKemNxcjFfZF93Z1N5SUg1OUlYWFhJUDUwRzExc0Nvc01yUXVzWVJTSGV2dzBlVzBlcDFlYUQ2RXdlclZEYlBzVm1MdUZwRkllejlhVXVveWNyQ0xpbEVGekZiZ1ZBNVExUDF4Q2RfcUxkRS03N1hnVTJwQzk3b2Jiaktjalp5ZVhucFdZYlh0VG1Jb0VuYU1EdmdLR3J3LV81NzdxODI2aGhvWnY2QXRTYmVPZW1EZkkwQ3QzMlhWa28?oc=5"
-  },
-  {
-    "id": "gl-ksvca",
-    "title": "Four-Hour Battery Storage Beats Gas Turbines in Global Cost Comparison – Storage Market in Transition - Renewable Energy Industry",
-    "summary": "Four-Hour Battery Storage Beats Gas Turbines in Global Cost Comparison – Storage Market in Transition  Renewable Energy Industry",
-    "source": "Google News Global",
-    "timestamp": "2026-11-27T08:33:55.000Z",
-    "region": "Globe",
-    "category": "Renewable",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSzNFc2cxdFhDSWtyMWNrNmxxT3B2SUJrZ0ZHUzMxTWt3QmtzQWZ5VUxXTEE4Zng1eTZXQWRCbWFCeGdqTDBQOG44QU5tMGprLXZDTkFObFdvbUM0TmZsdEFKc3N6NHlCck85emZXdG9Qc1JEODRmN2xXSnNUTFhrQnQ2TkgtYng5Qm5KQlN6cDFvTFRTZkVTME5CNEdEdVBBdDNkbkgwZWVrMlY5MWRva1hJbkdiaFlVZ0V4dS1MNncyY1habFU5ZWRPX3hRTlhyUGxBbmc5OG1mMTdONXROX29PcXRDQk13ZTVOaVpCamZsWFN1cVZwLQ?oc=5"
   }
 ]
